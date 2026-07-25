@@ -1,20 +1,100 @@
 [
   {
-    "id": "mission-bowl",
-    "name": "Mission Bowl",
-    "website": "https://example.com/mission-bowl",
-    "nutrition_source": { "type": "published", "url": "fixture", "retrieved": "2024-01-01" },
+    "id": "chipotle",
+    "name": "Chipotle Mexican Grill",
+    "website": "https://www.chipotle.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
     "locations": [
-      { "address": "250 Valencia St, San Francisco, CA", "lat": 37.7684, "lng": -122.4223, "neighborhood": "Mission" }
+      {
+        "address": "121 4th St # 135, San Francisco, CA 94103-3003",
+        "lat": 37.784232,
+        "lng": -122.403689,
+        "neighborhood": null
+      },
+      {
+        "address": "211 Sutter St, San Francisco, CA 94104",
+        "lat": 37.78968,
+        "lng": -122.404021,
+        "neighborhood": null
+      },
+      {
+        "address": "2675 Geary Boulevard, San Francisco, CA 94118",
+        "lat": 37.78183,
+        "lng": -122.445633,
+        "neighborhood": null
+      },
+      {
+        "address": "525 Market Street, San Francisco, CA 94105",
+        "lat": 37.7904,
+        "lng": -122.399472,
+        "neighborhood": null
+      },
+      {
+        "address": "400 Howard St Ste 110, San Francisco, CA 94105-9876",
+        "lat": 37.788882,
+        "lng": -122.396157,
+        "neighborhood": null
+      },
+      {
+        "address": "50 California St, San Francisco, CA 94111",
+        "lat": 37.794388,
+        "lng": -122.397535,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave, San Francisco, CA 94132",
+        "lat": 37.727635,
+        "lng": -122.476593,
+        "neighborhood": null
+      },
+      {
+        "address": "1523 Sloat Blvd, San Francisco, CA 94132-1222",
+        "lat": 37.732506,
+        "lng": -122.489986,
+        "neighborhood": null
+      }
     ]
   },
   {
-    "id": "bay-greens",
-    "name": "Bay Greens",
-    "website": "https://example.com/bay-greens",
-    "nutrition_source": { "type": "vendor", "url": "fixture", "retrieved": "2024-01-01" },
+    "id": "sweetgreen",
+    "name": "sweetgreen",
+    "website": "https://www.sweetgreen.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://order.sweetgreen.com/graphql",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
     "locations": [
-      { "address": "301 3rd St, San Francisco, CA", "lat": 37.7836, "lng": -122.4011, "neighborhood": "SoMa" }
+      {
+        "address": "171 2nd St, San Francisco, CA 94105",
+        "lat": 37.787285,
+        "lng": -122.3985,
+        "neighborhood": "Soma"
+      },
+      {
+        "address": "1023 3rd Street, San Francisco, CA 94158",
+        "lat": 37.775462,
+        "lng": -122.389787,
+        "neighborhood": "Mission Rock"
+      },
+      {
+        "address": "150 Folsom Street, San Francisco, CA 94105",
+        "lat": 37.790009,
+        "lng": -122.391737,
+        "neighborhood": "Folsom + Main"
+      },
+      {
+        "address": "2040 Chestnut St., San Francisco, CA 94123",
+        "lat": 37.800897,
+        "lng": -122.437175,
+        "neighborhood": "Marina"
+      }
     ]
   }
 ]
