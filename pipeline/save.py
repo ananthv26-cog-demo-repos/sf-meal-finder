@@ -63,6 +63,9 @@ def save_restaurant(doc):
         rpath = REJECTED_DIR / f"{doc['id']}.json"
         rpath.write_text(json.dumps(rejected, indent=2, ensure_ascii=False) + "\n")
         print(f"{doc['id']}: quarantined {len(rejected)} row(s) -> {rpath}")
+    else:
+        rpath = REJECTED_DIR / f"{doc['id']}.json"
+        rpath.unlink(missing_ok=True)
 
     meals = sum(1 for i in accepted if i["category"] == "meal")
     print(
