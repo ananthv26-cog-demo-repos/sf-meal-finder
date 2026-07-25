@@ -1,0 +1,1587 @@
+{
+  "id": "the-halal-guys",
+  "name": "The Halal Guys",
+  "website": "https://thehalalguys.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://thehalalguys.com/nutritional-guide/",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "336 O'Farrell St, San Francisco, CA 94102",
+      "lat": 37.786231,
+      "lng": -122.410376,
+      "neighborhood": "Union Square"
+    }
+  ],
+  "items": [
+    {
+      "id": "platters-regular-beef-gyro-2",
+      "name": "Beef Gyro",
+      "description": "The source publishes two unlabeled rows for Beef Gyro; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 6 oz (170 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 620,
+      "protein_g": 22,
+      "carbs_g": 14,
+      "fat_g": 52,
+      "fiber_g": null,
+      "sodium_mg": 961
+    },
+    {
+      "id": "platters-regular-chicken-1",
+      "name": "Chicken",
+      "description": "The source publishes two unlabeled rows for Chicken; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 6 oz (170 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 272,
+      "protein_g": 50,
+      "carbs_g": 3,
+      "fat_g": 7,
+      "fiber_g": null,
+      "sodium_mg": 738
+    },
+    {
+      "id": "platters-regular-falafel-2",
+      "name": "Falafel",
+      "description": "The source publishes two unlabeled rows for Falafel; this is row 2, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 7 oz (185 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 673,
+      "protein_g": 20,
+      "carbs_g": 62,
+      "fat_g": 38,
+      "fiber_g": 21,
+      "sodium_mg": 1411
+    },
+    {
+      "id": "platters-regular-chicken-wings",
+      "name": "Chicken Wings",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 413,
+      "protein_g": 42,
+      "carbs_g": 8,
+      "fat_g": 23,
+      "fiber_g": null,
+      "sodium_mg": 454
+    },
+    {
+      "id": "platters-regular-bbq-chicken-1",
+      "name": "BBQ Chicken",
+      "description": "The source publishes two unlabeled rows for BBQ Chicken; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 229,
+      "protein_g": 38,
+      "carbs_g": 7,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 682
+    },
+    {
+      "id": "platters-regular-rice",
+      "name": "Rice",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 238,
+      "protein_g": 5,
+      "carbs_g": 50,
+      "fat_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 339
+    },
+    {
+      "id": "platters-regular-lettuce",
+      "name": "Lettuce",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 17,
+      "protein_g": 1,
+      "carbs_g": 4,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 18
+    },
+    {
+      "id": "platters-regular-tomatoes",
+      "name": "Tomatoes",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2 oz (57 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 9,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null
+    },
+    {
+      "id": "platters-regular-pita-1",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 1, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3 oz (28 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 65,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 165
+    },
+    {
+      "id": "platters-regular-pita-2",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 2, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3 oz (39 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 112,
+      "protein_g": 4,
+      "carbs_g": 21,
+      "fat_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 201
+    },
+    {
+      "id": "platters-small-beef-gyro-2",
+      "name": "Beef Gyro",
+      "description": "The source publishes two unlabeled rows for Beef Gyro; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 414,
+      "protein_g": 15,
+      "carbs_g": 9,
+      "fat_g": 35,
+      "fiber_g": null,
+      "sodium_mg": 640
+    },
+    {
+      "id": "platters-small-chicken-1",
+      "name": "Chicken",
+      "description": "The source publishes two unlabeled rows for Chicken; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 182,
+      "protein_g": 33,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": null,
+      "sodium_mg": 492
+    },
+    {
+      "id": "platters-small-falafel-2",
+      "name": "Falafel",
+      "description": "The source publishes two unlabeled rows for Falafel; this is row 2, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (113 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 412,
+      "protein_g": 12,
+      "carbs_g": 38,
+      "fat_g": 23,
+      "fiber_g": 13,
+      "sodium_mg": 864
+    },
+    {
+      "id": "platters-small-chicken-wings",
+      "name": "Chicken Wings",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 9 oz (252 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 733,
+      "protein_g": 75,
+      "carbs_g": 15,
+      "fat_g": 41,
+      "fiber_g": null,
+      "sodium_mg": 806
+    },
+    {
+      "id": "platters-small-bbq-chicken-1",
+      "name": "BBQ Chicken",
+      "description": "The source publishes two unlabeled rows for BBQ Chicken; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 229,
+      "protein_g": 38,
+      "carbs_g": 7,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 682
+    },
+    {
+      "id": "platters-small-rice",
+      "name": "Rice",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 190,
+      "protein_g": 4,
+      "carbs_g": 40,
+      "fat_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 271
+    },
+    {
+      "id": "platters-small-lettuce",
+      "name": "Lettuce",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3 oz (71 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 11
+    },
+    {
+      "id": "platters-small-tomatoes",
+      "name": "Tomatoes",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null
+    },
+    {
+      "id": "platters-small-pita-1",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 1, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 65,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 165
+    },
+    {
+      "id": "platters-small-pita-2",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 2, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3 oz (79 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 225,
+      "protein_g": 8,
+      "carbs_g": 42,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sodium_mg": 403
+    },
+    {
+      "id": "sandwiches-beef-gyro-2",
+      "name": "Beef Gyro",
+      "description": "The source publishes two unlabeled rows for Beef Gyro; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 414,
+      "protein_g": 15,
+      "carbs_g": 9,
+      "fat_g": 35,
+      "fiber_g": null,
+      "sodium_mg": 640
+    },
+    {
+      "id": "sandwiches-chicken-1",
+      "name": "Chicken",
+      "description": "The source publishes two unlabeled rows for Chicken; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 182,
+      "protein_g": 33,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": null,
+      "sodium_mg": 492
+    },
+    {
+      "id": "sandwiches-falafel-2",
+      "name": "Falafel",
+      "description": "The source publishes two unlabeled rows for Falafel; this is row 2, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 412,
+      "protein_g": 12,
+      "carbs_g": 38,
+      "fat_g": 23,
+      "fiber_g": 13,
+      "sodium_mg": 864
+    },
+    {
+      "id": "sandwiches-bbq-chicken-1",
+      "name": "BBQ Chicken",
+      "description": "The source publishes two unlabeled rows for BBQ Chicken; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 229,
+      "protein_g": 38,
+      "carbs_g": 7,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 682
+    },
+    {
+      "id": "sandwiches-lettuce",
+      "name": "Lettuce",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2 oz (57 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 8,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 9
+    },
+    {
+      "id": "sandwiches-tomatoes",
+      "name": "Tomatoes",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null
+    },
+    {
+      "id": "sandwiches-pita-1",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 1, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 65,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 165
+    },
+    {
+      "id": "sandwiches-pita-2",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 2, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3 oz (79 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 225,
+      "protein_g": 8,
+      "carbs_g": 42,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sodium_mg": 403
+    },
+    {
+      "id": "sides-rice",
+      "name": "Rice",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 6 oz (170 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 286,
+      "protein_g": 6,
+      "carbs_g": 60,
+      "fat_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 407
+    },
+    {
+      "id": "sides-chicken-wings-4",
+      "name": "Chicken wings (4)",
+      "description": "The published chicken-wings quantities scale non-linearly (4 to 330 kcal, 8 to 1320 kcal, 12 to 2970 kcal); values are kept as published.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 330,
+      "protein_g": 34,
+      "carbs_g": 7,
+      "fat_g": 19,
+      "fiber_g": 0,
+      "sodium_mg": 363
+    },
+    {
+      "id": "sides-chicken-wings-8",
+      "name": "Chicken wings (8)",
+      "description": "The published chicken-wings quantities scale non-linearly (4 to 330 kcal, 8 to 1320 kcal, 12 to 2970 kcal); values are kept as published.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 8 oz (227 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1320,
+      "protein_g": 136,
+      "carbs_g": 27,
+      "fat_g": 74,
+      "fiber_g": 0,
+      "sodium_mg": 1451
+    },
+    {
+      "id": "sides-chicken-wings-12",
+      "name": "Chicken wings (12)",
+      "description": "The published chicken-wings quantities scale non-linearly (4 to 330 kcal, 8 to 1320 kcal, 12 to 2970 kcal); values are kept as published.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 12 oz (340 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 2970,
+      "protein_g": 305,
+      "carbs_g": 60,
+      "fat_g": 167,
+      "fiber_g": 0,
+      "sodium_mg": 3265
+    },
+    {
+      "id": "sides-hummus",
+      "name": "Hummus",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 6 oz (170 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 377,
+      "protein_g": 12,
+      "carbs_g": 29,
+      "fat_g": 24,
+      "fiber_g": 13,
+      "sodium_mg": 756
+    },
+    {
+      "id": "sides-tahini",
+      "name": "Tahini",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 2 oz (57 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 185,
+      "protein_g": 6,
+      "carbs_g": 6,
+      "fat_g": 15,
+      "fiber_g": 6,
+      "sodium_mg": 92
+    },
+    {
+      "id": "sides-french-fries",
+      "name": "French Fries",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 10 oz (283 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 839,
+      "protein_g": 9,
+      "carbs_g": 121,
+      "fat_g": 35,
+      "fiber_g": 12,
+      "sodium_mg": 1170
+    },
+    {
+      "id": "sides-pita-1",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 1, which does not carry the site-logo marker.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 2.80 oz (79 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 181,
+      "protein_g": 6,
+      "carbs_g": 35,
+      "fat_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 462
+    },
+    {
+      "id": "sides-pita-2",
+      "name": "Pita",
+      "description": "The source publishes two unlabeled rows for Pita; this is row 2, which carries the site-logo marker.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 2.80 oz (79 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 225,
+      "protein_g": 8,
+      "carbs_g": 42,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sodium_mg": 403
+    },
+    {
+      "id": "toppings-green-peppers",
+      "name": "Green Peppers",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 0
+    },
+    {
+      "id": "toppings-onions",
+      "name": "Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 8,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 5
+    },
+    {
+      "id": "toppings-olives",
+      "name": "Olives",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 49,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 4,
+      "fiber_g": 2,
+      "sodium_mg": 547
+    },
+    {
+      "id": "toppings-jalapenos",
+      "name": "Jalapenos",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 247
+    },
+    {
+      "id": "sauce-tahini",
+      "name": "Tahini",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 1 oz (28 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 92,
+      "protein_g": 3,
+      "carbs_g": 3,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 46
+    },
+    {
+      "id": "sauce-white-sauce",
+      "name": "White Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 2 oz (57 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 11,
+      "fat_g": 28,
+      "fiber_g": 7,
+      "sodium_mg": 360
+    },
+    {
+      "id": "sauce-hot-sauce",
+      "name": "Hot Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 0.25 oz (7 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 7,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 89
+    },
+    {
+      "id": "sauce-bbq-sauce",
+      "name": "BBQ Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "serving_note": "per 0.20 oz (6 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 11,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 56
+    },
+    {
+      "id": "desserts-chocolate-baklava-cheesecake",
+      "name": "Chocolate Baklava Cheesecake",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 4.50 oz (128 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 2160,
+      "protein_g": 45,
+      "carbs_g": 171,
+      "fat_g": 153,
+      "fiber_g": 9,
+      "sodium_mg": 2025
+    },
+    {
+      "id": "desserts-baklava",
+      "name": "Baklava",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 3.20 oz (91 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 410,
+      "protein_g": 6,
+      "carbs_g": 56,
+      "fat_g": 18,
+      "fiber_g": 7,
+      "sodium_mg": 159
+    },
+    {
+      "id": "desserts-chocolate-chip-cookie-4oz",
+      "name": "Chocolate chip Cookie (4oz)",
+      "description": "The published value is implausibly large for the stated portion and appears to represent a whole cake or batch; it is kept as published.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 4.00 oz (113 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 2040,
+      "protein_g": 20,
+      "carbs_g": 288,
+      "fat_g": 96,
+      "fiber_g": 12,
+      "sodium_mg": 960
+    },
+    {
+      "id": "fountain-coca-cola",
+      "name": "Coca-Cola",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 67,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65
+    },
+    {
+      "id": "fountain-diet-coke",
+      "name": "Diet Coke",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85
+    },
+    {
+      "id": "fountain-coca-cola-zero-sugar",
+      "name": "Coca-Cola Zero Sugar",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65
+    },
+    {
+      "id": "fountain-fanta-orange",
+      "name": "Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 67,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65
+    },
+    {
+      "id": "fountain-fuze-sweet-tea",
+      "name": "Fuze Sweet Tea",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 37,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85
+    },
+    {
+      "id": "fountain-fuze-unsweet-tea",
+      "name": "Fuze Unsweet Tea",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85
+    },
+    {
+      "id": "fountain-fuze-raspberry-tea",
+      "name": "Fuze Raspberry Tea",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85
+    },
+    {
+      "id": "fountain-gold-peak-sweetened-black-tea",
+      "name": "Gold Peak Sweetened Black Tea",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 52,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80
+    },
+    {
+      "id": "fountain-hi-c-poppin-pink-lemonade",
+      "name": "Hi-C Poppin' Pink Lemonade",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 220,
+      "protein_g": 0,
+      "carbs_g": 61,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 160
+    },
+    {
+      "id": "fountain-mello-yello",
+      "name": "Mello Yello",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 73,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85
+    },
+    {
+      "id": "fountain-minute-maid-lemonade-pom-3-juice",
+      "name": "Minute Maid Lemonade POM (3% Juice)",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 67,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 115
+    },
+    {
+      "id": "fountain-minute-maid-light-lemonade",
+      "name": "Minute Maid Light Lemonade",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70
+    },
+    {
+      "id": "fountain-powerade-mountain-berry-blast",
+      "name": "POWERade Mountain Berry Blast",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 37,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 190
+    },
+    {
+      "id": "fountain-seagram-s-ginger-ale",
+      "name": "Seagram's Ginger Ale",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 220,
+      "protein_g": 0,
+      "carbs_g": 59,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 75
+    },
+    {
+      "id": "fountain-sprite",
+      "name": "Sprite",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 20 oz (567 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 230,
+      "protein_g": 0,
+      "carbs_g": 61,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 115
+    },
+    {
+      "id": "craft-beverage-berry-mint-refresher-1",
+      "name": "Berry Mint Refresher (16 oz)",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz (454 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 183,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 116
+    },
+    {
+      "id": "craft-beverage-mango-black-tea-1",
+      "name": "Mango Black Tea (16 oz)",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz (454 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 116,
+      "protein_g": 0,
+      "carbs_g": 30,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 17
+    },
+    {
+      "id": "craft-beverage-mango-citrus-refresher-1",
+      "name": "Mango Citrus Refresher (16 oz)",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz (454 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 149,
+      "protein_g": 0,
+      "carbs_g": 40,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 17
+    },
+    {
+      "id": "craft-beverage-passion-fruit-refresher-1",
+      "name": "Passion Fruit Refresher (16 oz)",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz (454 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 149,
+      "protein_g": 0,
+      "carbs_g": 40,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 8
+    },
+    {
+      "id": "craft-beverage-strawberry-citrus-1",
+      "name": "Strawberry Citrus (16 oz)",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz (454 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 166,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 91
+    },
+    {
+      "id": "craft-beverage-berry-mint-refresher-2",
+      "name": "Berry Mint Refresher (24 oz)",
+      "description": "The 24 oz row repeats the 16 oz published numbers; values are kept as published.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz (680 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 183,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 116
+    },
+    {
+      "id": "craft-beverage-mango-black-tea-2",
+      "name": "Mango Black Tea (24 oz)",
+      "description": "The 24 oz row repeats the 16 oz published numbers; values are kept as published.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz (680 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 116,
+      "protein_g": 0,
+      "carbs_g": 30,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 17
+    },
+    {
+      "id": "craft-beverage-mango-citrus-refresher-2",
+      "name": "Mango Citrus Refresher (24 oz)",
+      "description": "The 24 oz row repeats the 16 oz published numbers; values are kept as published.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz (680 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 149,
+      "protein_g": 0,
+      "carbs_g": 40,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 17
+    },
+    {
+      "id": "craft-beverage-passion-fruit-refresher-2",
+      "name": "Passion Fruit Refresher (24 oz)",
+      "description": "The 24 oz row repeats the 16 oz published numbers; values are kept as published.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz (680 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 149,
+      "protein_g": 0,
+      "carbs_g": 40,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 8
+    },
+    {
+      "id": "craft-beverage-strawberry-citrus-2",
+      "name": "Strawberry Citrus (24 oz)",
+      "description": "The 24 oz row repeats the 16 oz published numbers; values are kept as published.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz (680 g) cup",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 166,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 91
+    },
+    {
+      "id": "chicken-rice-regular-platter",
+      "name": "Chicken & Rice Regular Platter",
+      "description": "Derived recipe: Chicken (6 oz logo-marked row), Rice (5 oz row), Lettuce (4 oz row), Tomatoes (2 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per regular platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 948,
+      "protein_g": 60,
+      "carbs_g": 91,
+      "fat_g": 38,
+      "fiber_g": 9,
+      "sodium_mg": 1656
+    },
+    {
+      "id": "beef-gyro-rice-regular-platter",
+      "name": "Beef Gyro & Rice Regular Platter",
+      "description": "Derived recipe: Beef Gyro (6 oz logo-less row), Rice (5 oz row), Lettuce (4 oz row), Tomatoes (2 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per regular platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1296,
+      "protein_g": 32,
+      "carbs_g": 102,
+      "fat_g": 83,
+      "fiber_g": 9,
+      "sodium_mg": 1879
+    },
+    {
+      "id": "falafel-rice-regular-platter",
+      "name": "Falafel & Rice Regular Platter",
+      "description": "Derived recipe: Falafel (7 oz logo-marked row), Rice (5 oz row), Lettuce (4 oz row), Tomatoes (2 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per regular platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1349,
+      "protein_g": 30,
+      "carbs_g": 150,
+      "fat_g": 69,
+      "fiber_g": 30,
+      "sodium_mg": 2329
+    },
+    {
+      "id": "bbq-chicken-rice-regular-platter",
+      "name": "BBQ Chicken & Rice Regular Platter",
+      "description": "Derived recipe: BBQ Chicken (5 oz logo-marked row), Rice (5 oz row), Lettuce (4 oz row), Tomatoes (2 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per regular platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 905,
+      "protein_g": 48,
+      "carbs_g": 95,
+      "fat_g": 36,
+      "fiber_g": 9,
+      "sodium_mg": 1600
+    },
+    {
+      "id": "combo-rice-regular-platter",
+      "name": "Combo & Rice Regular Platter",
+      "description": "Derived recipe: half Chicken, half Beef Gyro, plus Chicken (6 oz logo-marked row), Beef Gyro (6 oz logo-less row), Rice (5 oz row), Lettuce (4 oz row), Tomatoes (2 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per regular platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1122.0,
+      "protein_g": 46.0,
+      "carbs_g": 96.5,
+      "fat_g": 60.5,
+      "fiber_g": 9.0,
+      "sodium_mg": 1767.5
+    },
+    {
+      "id": "chicken-rice-small-platter",
+      "name": "Chicken & Rice Small Platter",
+      "description": "Derived recipe: Chicken (4 oz logo-marked row), Rice (4 oz row), Lettuce (3 oz row), Tomatoes (1 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per small platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 912,
+      "protein_g": 45,
+      "carbs_g": 98,
+      "fat_g": 38,
+      "fiber_g": 10,
+      "sodium_mg": 1537
+    },
+    {
+      "id": "beef-gyro-rice-small-platter",
+      "name": "Beef Gyro & Rice Small Platter",
+      "description": "Derived recipe: Beef Gyro (4 oz logo-less row), Rice (4 oz row), Lettuce (3 oz row), Tomatoes (1 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per small platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1144,
+      "protein_g": 27,
+      "carbs_g": 105,
+      "fat_g": 68,
+      "fiber_g": 10,
+      "sodium_mg": 1685
+    },
+    {
+      "id": "falafel-rice-small-platter",
+      "name": "Falafel & Rice Small Platter",
+      "description": "Derived recipe: Falafel (5 oz logo-marked row), Rice (4 oz row), Lettuce (3 oz row), Tomatoes (1 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per small platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1142,
+      "protein_g": 24,
+      "carbs_g": 134,
+      "fat_g": 56,
+      "fiber_g": 23,
+      "sodium_mg": 1909
+    },
+    {
+      "id": "bbq-chicken-rice-small-platter",
+      "name": "BBQ Chicken & Rice Small Platter",
+      "description": "Derived recipe: BBQ Chicken (5 oz logo-marked row), Rice (4 oz row), Lettuce (3 oz row), Tomatoes (1 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per small platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 959,
+      "protein_g": 50,
+      "carbs_g": 103,
+      "fat_g": 38,
+      "fiber_g": 10,
+      "sodium_mg": 1727
+    },
+    {
+      "id": "combo-rice-small-platter",
+      "name": "Combo & Rice Small Platter",
+      "description": "Derived recipe: half Chicken, half Beef Gyro, plus Chicken (4 oz logo-marked row), Beef Gyro (4 oz logo-less row), Rice (4 oz row), Lettuce (3 oz row), Tomatoes (1 oz row), Pita (3 oz logo-marked row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per small platter as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1028.0,
+      "protein_g": 36.0,
+      "carbs_g": 101.5,
+      "fat_g": 53.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1611.0
+    },
+    {
+      "id": "chicken-sandwich",
+      "name": "Chicken Sandwich",
+      "description": "Derived recipe: Chicken (4 oz logo-marked row), Pita (3 oz logo-marked row), Lettuce (2 oz row), Tomatoes (1 oz row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per sandwich as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 720,
+      "protein_g": 41,
+      "carbs_g": 58,
+      "fat_g": 36,
+      "fiber_g": 9,
+      "sodium_mg": 1264
+    },
+    {
+      "id": "beef-gyro-sandwich",
+      "name": "Beef Gyro Sandwich",
+      "description": "Derived recipe: Beef Gyro (4 oz logo-less row), Pita (3 oz logo-marked row), Lettuce (2 oz row), Tomatoes (1 oz row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per sandwich as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 952,
+      "protein_g": 23,
+      "carbs_g": 65,
+      "fat_g": 66,
+      "fiber_g": 9,
+      "sodium_mg": 1412
+    },
+    {
+      "id": "falafel-sandwich",
+      "name": "Falafel Sandwich",
+      "description": "Derived recipe: Falafel (4 oz logo-marked row), Pita (3 oz logo-marked row), Lettuce (2 oz row), Tomatoes (1 oz row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per sandwich as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 950,
+      "protein_g": 20,
+      "carbs_g": 94,
+      "fat_g": 54,
+      "fiber_g": 22,
+      "sodium_mg": 1636
+    },
+    {
+      "id": "bbq-chicken-sandwich",
+      "name": "BBQ Chicken Sandwich",
+      "description": "Derived recipe: BBQ Chicken (5 oz logo-marked row), Pita (3 oz logo-marked row), Lettuce (2 oz row), Tomatoes (1 oz row), White Sauce (2 oz row). White sauce is included as served; hot sauce is excluded. Component variants were selected using the published macro check.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per sandwich as built from published portions",
+      "source": {
+        "type": "derived",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 767,
+      "protein_g": 46,
+      "carbs_g": 63,
+      "fat_g": 36,
+      "fiber_g": 9,
+      "sodium_mg": 1454
+    }
+  ]
+}

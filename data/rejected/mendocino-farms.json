@@ -1,0 +1,830 @@
+[
+  {
+    "item": {
+      "id": "spellbound-chardonnay-6",
+      "name": "SPELLBOUND Chardonnay 6",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per spellbound chardonnay 6 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/spellbound-chardonnay-6: macro check failed — stated 130 kcal vs computed 16 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spellbound-cabernet-6",
+      "name": "SPELLBOUND Cabernet 6",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per spellbound cabernet 6 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/spellbound-cabernet-6: macro check failed — stated 140 kcal vs computed 20 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "notes-pinot-noir-6",
+      "name": "NOTES Pinot Noir 6",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per notes pinot noir 6 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/notes-pinot-noir-6: macro check failed — stated 140 kcal vs computed 16 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "matchbook-rose-6",
+      "name": "MATCHBOOK Rose 6",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per matchbook rose 6 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/matchbook-rose-6: macro check failed — stated 130 kcal vs computed 8 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tinto-rey-rose-6",
+      "name": "TINTO REY Rose 6",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per tinto rey rose 6 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/tinto-rey-rose-6: macro check failed — stated 130 kcal vs computed 8 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tinto-rey-tempranillo-6",
+      "name": "TINTO REY Tempranillo 6",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per tinto rey tempranillo 6 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/tinto-rey-tempranillo-6: macro check failed — stated 150 kcal vs computed 20 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modern-times-ice-pilsner",
+      "name": "MODERN TIMES Ice Pilsner",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 1,
+      "carbs_g": 15,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per modern times ice pilsner (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/modern-times-ice-pilsner: macro check failed — stated 160 kcal vs computed 64 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "refuge-blood-orange-wit",
+      "name": "REFUGE Blood Orange Wit",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 1,
+      "carbs_g": 17,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per refuge blood orange wit (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/refuge-blood-orange-wit: macro check failed — stated 200 kcal vs computed 72 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "smog-city-ipa",
+      "name": "SMOG CITY IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per smog city ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/smog-city-ipa: macro check failed — stated 230 kcal vs computed 60 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "three-weavers-cloud-city-hazy-ipa",
+      "name": "THREE WEAVERS Cloud City Hazy IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per three weavers cloud city hazy ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/three-weavers-cloud-city-hazy-ipa: macro check failed — stated 210 kcal vs computed 56 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-port-shark-bite-red-ale",
+      "name": "PIZZA PORT Shark Bite Red Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per pizza port shark bite red ale (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/pizza-port-shark-bite-red-ale: macro check failed — stated 220 kcal vs computed 80 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "madewest-standard-blonde-ale",
+      "name": "MADEWEST Standard Blonde Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per madewest standard blonde ale (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/madewest-standard-blonde-ale: macro check failed — stated 210 kcal vs computed 80 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-port-chronic-ale-amber",
+      "name": "PIZZA PORT Chronic Ale Amber",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 1,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per pizza port chronic ale amber (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/pizza-port-chronic-ale-amber: macro check failed — stated 170 kcal vs computed 52 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mother-earth-boo-koo-ipa",
+      "name": "MOTHER EARTH Boo Koo IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per mother earth boo koo ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/mother-earth-boo-koo-ipa: macro check failed — stated 210 kcal vs computed 56 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "societe-the-pupil-ipa",
+      "name": "SOCIETE The Pupil IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 2,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per societe the pupil ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/societe-the-pupil-ipa: macro check failed — stated 240 kcal vs computed 64 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mikkeller-windy-hill-hazy-ipa",
+      "name": "MIKKELLER Windy Hill Hazy IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per mikkeller windy hill hazy ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/mikkeller-windy-hill-hazy-ipa: macro check failed — stated 220 kcal vs computed 60 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "trumer-pils-pilsner",
+      "name": "TRUMER Pils Pilsner",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 1,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per trumer pils pilsner (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/trumer-pils-pilsner: macro check failed — stated 180 kcal vs computed 60 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "21st-amendment-brew-free-or-die-blood-orange-ipa",
+      "name": "21ST AMENDMENT Brew Free! Or Die Blood Orange IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 2,
+      "carbs_g": 15,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 21st amendment brew free! or die blood orange ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/21st-amendment-brew-free-or-die-blood-orange-ipa: macro check failed — stated 240 kcal vs computed 68 (delta -172)"
+    ]
+  },
+  {
+    "item": {
+      "id": "firestone-mind-haze-hazy-ipa",
+      "name": "FIRESTONE Mind Haze Hazy IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 11,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per firestone mind haze hazy ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/firestone-mind-haze-hazy-ipa: macro check failed — stated 200 kcal vs computed 52 (delta -148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sierra-nevada-hazy-little-thing-hazy-ipa",
+      "name": "SIERRA NEVADA Hazy Little Thing Hazy IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 17,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per sierra nevada hazy little thing hazy ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/sierra-nevada-hazy-little-thing-hazy-ipa: macro check failed — stated 230 kcal vs computed 76 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "drakes-hefeweizen",
+      "name": "DRAKES Hefeweizen",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per drakes hefeweizen (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/drakes-hefeweizen: macro check failed — stated 160 kcal vs computed 56 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "seismic-megathrust-ipa",
+      "name": "SEISMIC Megathrust IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 2,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per seismic megathrust ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/seismic-megathrust-ipa: macro check failed — stated 240 kcal vs computed 64 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sudwerk-people-s-pilsner",
+      "name": "SUDWERK People's Pilsner",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 1,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per sudwerk people's pilsner (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/sudwerk-people-s-pilsner: macro check failed — stated 190 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "track-7-panic-ipa",
+      "name": "TRACK 7 Panic IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per track 7 panic ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/track-7-panic-ipa: macro check failed — stated 220 kcal vs computed 60 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spindletap-boomtown-blonde-ale",
+      "name": "SPINDLETAP Boomtown Blonde Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 2,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per spindletap boomtown blonde ale (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/spindletap-boomtown-blonde-ale: macro check failed — stated 190 kcal vs computed 72 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "st-arnold-fancy-lawnmower-german-style-kolsch",
+      "name": "ST ARNOLD Fancy Lawnmower German-Style Kolsch",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0.5,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per st arnold fancy lawnmower german-style kolsch (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/st-arnold-fancy-lawnmower-german-style-kolsch: macro check failed — stated 170 kcal vs computed 54 (delta -116)"
+    ]
+  },
+  {
+    "item": {
+      "id": "st-arnold-art-car-ipa",
+      "name": "ST ARNOLD Art Car IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per st arnold art car ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/st-arnold-art-car-ipa: macro check failed — stated 230 kcal vs computed 60 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lone-pint-brewery-yellow-rose-ipa",
+      "name": "LONE PINT BREWERY Yellow Rose IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 17,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per lone pint brewery yellow rose ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/lone-pint-brewery-yellow-rose-ipa: macro check failed — stated 230 kcal vs computed 76 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "karbach-brewing-love-street-citrus-wheat",
+      "name": "KARBACH BREWING Love Street Citrus Wheat",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per karbach brewing love street citrus wheat (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/karbach-brewing-love-street-citrus-wheat: macro check failed — stated 160 kcal vs computed 60 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "community-texas-lager",
+      "name": "COMMUNITY Texas Lager",
+      "description": null,
+      "category": "drink",
+      "calories": 120,
+      "protein_g": 1,
+      "carbs_g": 10,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per community texas lager (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/community-texas-lager: macro check failed — stated 120 kcal vs computed 44 (delta -76)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tupps-brewery-juice-pack-pale-ale",
+      "name": "TUPPS BREWERY Juice Pack Pale Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per tupps brewery juice pack pale ale (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/tupps-brewery-juice-pack-pale-ale: macro check failed — stated 170 kcal vs computed 60 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "deep-ellum-brewing-easy-peasy-ipa",
+      "name": "DEEP ELLUM BREWING Easy Peasy IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 2,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per deep ellum brewing easy peasy ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/deep-ellum-brewing-easy-peasy-ipa: macro check failed — stated 170 kcal vs computed 64 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fremont-brewing-golden-pilsner",
+      "name": "FREMONT BREWING - Golden Pilsner",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0.5,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per fremont brewing - golden pilsner (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/fremont-brewing-golden-pilsner: macro check failed — stated 140 kcal vs computed 50 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fremont-brewing-summer-pale-ale",
+      "name": "FREMONT BREWING - Summer Pale Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per fremont brewing - summer pale ale (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/fremont-brewing-summer-pale-ale: macro check failed — stated 160 kcal vs computed 60 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "georgetown-brewing-lucille-ipa",
+      "name": "GEORGETOWN BREWING - Lucille IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per georgetown brewing - lucille ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/georgetown-brewing-lucille-ipa: macro check failed — stated 220 kcal vs computed 60 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "silver-city-brewery-tropic-haze-ipa",
+      "name": "SILVER CITY BREWERY - Tropic Haze IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per silver city brewery - tropic haze ipa (12 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    "reasons": [
+      "mendocino-farms/silver-city-brewery-tropic-haze-ipa: macro check failed — stated 200 kcal vs computed 64 (delta -136)"
+    ]
+  }
+]

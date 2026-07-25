@@ -1,0 +1,3141 @@
+{
+  "id": "mendocino-farms",
+  "name": "Mendocino Farms",
+  "website": "https://www.mendocinofarms.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "465 California St, San Francisco, CA 94104",
+      "lat": 37.7927687,
+      "lng": -122.402453,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "303 2nd Street, San Francisco, CA 94107",
+      "lat": 37.7851497,
+      "lng": -122.395515,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "smoky-bbq-brioche-sandwich",
+      "name": "Smoky BBQ Brioche Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 37,
+      "carbs_g": 64,
+      "fat_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 1500,
+      "serving_note": "per smoky bbq brioche sandwich (12.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-farmhouse-ranch-salad",
+      "name": "The Farmhouse Ranch Salad",
+      "description": null,
+      "category": "condiment",
+      "calories": 350,
+      "protein_g": 19,
+      "carbs_g": 38,
+      "fat_g": 16,
+      "fiber_g": 11,
+      "sodium_mg": 770,
+      "serving_note": "per the farmhouse ranch salad (15.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-farmhouse-ranch-salad-without-dressing",
+      "name": "The Farmhouse Ranch Salad (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 460,
+      "protein_g": 17,
+      "carbs_g": 38,
+      "fat_g": 29,
+      "fiber_g": 9,
+      "sodium_mg": 1260,
+      "serving_note": "per the farmhouse ranch salad (without dressing) without dressing (16.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "seasonal-goat-with-sweet-citrus",
+      "name": "Seasonal GOAT with Sweet Citrus",
+      "description": null,
+      "category": "meal",
+      "calories": 790,
+      "protein_g": 37,
+      "carbs_g": 54,
+      "fat_g": 52,
+      "fiber_g": 11,
+      "sodium_mg": 1070,
+      "serving_note": "per seasonal goat with sweet citrus (18.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "seasonal-goat-with-sweet-citrus-without-dressing",
+      "name": "Seasonal GOAT with Sweet Citrus (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 580,
+      "protein_g": 36,
+      "carbs_g": 48,
+      "fat_g": 31,
+      "fiber_g": 11,
+      "sodium_mg": 820,
+      "serving_note": "per seasonal goat with sweet citrus (without dressing) without dressing (17.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "not-so-fried-chicken",
+      "name": "\"Not So Fried\" Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 900,
+      "protein_g": 35,
+      "carbs_g": 79,
+      "fat_g": 48,
+      "fiber_g": 5,
+      "sodium_mg": 1350,
+      "serving_note": "per sandwich (14.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "peruvian-steak-sandwich",
+      "name": "Peruvian Steak Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 780,
+      "protein_g": 41,
+      "carbs_g": 54,
+      "fat_g": 46,
+      "fiber_g": 3,
+      "sodium_mg": 2340,
+      "serving_note": "per sandwich (11.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "prosciutto-chicken",
+      "name": "Prosciutto & Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 790,
+      "protein_g": 44,
+      "carbs_g": 63,
+      "fat_g": 38,
+      "fiber_g": 5,
+      "sodium_mg": 1430,
+      "serving_note": "per sandwich (12.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-steak-and-bacon",
+      "name": "Chimichurri Steak and Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 950,
+      "protein_g": 43,
+      "carbs_g": 76,
+      "fat_g": 51,
+      "fiber_g": 3,
+      "sodium_mg": 2270,
+      "serving_note": "per sandwich (13.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "vegan-banh-mi",
+      "name": "Vegan Banh Mi",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 22,
+      "carbs_g": 77,
+      "fat_g": 29,
+      "fiber_g": 4,
+      "sodium_mg": 1560,
+      "serving_note": "per sandwich (12.4 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-happy-hippie",
+      "name": "The Happy Hippie",
+      "description": null,
+      "category": "meal",
+      "calories": 820,
+      "protein_g": 14,
+      "carbs_g": 88,
+      "fat_g": 47,
+      "fiber_g": 12,
+      "sodium_mg": 960,
+      "serving_note": "per sandwich (15.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chicken-parm-dip",
+      "name": "Chicken Parm Dip",
+      "description": null,
+      "category": "meal",
+      "calories": 940,
+      "protein_g": 46,
+      "carbs_g": 75,
+      "fat_g": 49,
+      "fiber_g": 3,
+      "sodium_mg": 2030,
+      "serving_note": "per sandwich (11.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-farm-club",
+      "name": "The Farm Club",
+      "description": null,
+      "category": "meal",
+      "calories": 760,
+      "protein_g": 40,
+      "carbs_g": 69,
+      "fat_g": 34,
+      "fiber_g": 6,
+      "sodium_mg": 1620,
+      "serving_note": "per sandwich (13.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-caprese",
+      "name": "Chicken Pesto Caprese",
+      "description": null,
+      "category": "meal",
+      "calories": 800,
+      "protein_g": 42,
+      "carbs_g": 57,
+      "fat_g": 42,
+      "fiber_g": 4,
+      "sodium_mg": 1180,
+      "serving_note": "per sandwich (13.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "vegetarian-pesto-caprese",
+      "name": "Vegetarian Pesto Caprese",
+      "description": null,
+      "category": "meal",
+      "calories": 950,
+      "protein_g": 39,
+      "carbs_g": 57,
+      "fat_g": 57,
+      "fiber_g": 4,
+      "sodium_mg": 810,
+      "serving_note": "per sandwich (13.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "turkey-avo-salsa-verde",
+      "name": "Turkey Avo Salsa Verde",
+      "description": null,
+      "category": "meal",
+      "calories": 840,
+      "protein_g": 41,
+      "carbs_g": 63,
+      "fat_g": 45,
+      "fiber_g": 7,
+      "sodium_mg": 1490,
+      "serving_note": "per sandwich (16.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-caprese-vegetarian",
+      "name": "Chicken Pesto Caprese - Vegetarian",
+      "description": null,
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 19,
+      "carbs_g": 28,
+      "fat_g": 28,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per ½ sandwich combo (6.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-caprese-2",
+      "name": "Chicken Pesto Caprese",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 21,
+      "carbs_g": 28,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 590,
+      "serving_note": "per ½ sandwich combo (6.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-farm-club-2",
+      "name": "The Farm Club",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 20,
+      "carbs_g": 34,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 810,
+      "serving_note": "per ½ sandwich combo (7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "vegan-banh-mi-2",
+      "name": "Vegan Banh Mi",
+      "description": null,
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 11,
+      "carbs_g": 39,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 780,
+      "serving_note": "per ½ sandwich combo (6.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "not-so-fried-chicken-2",
+      "name": "\"Not So Fried\" Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 17,
+      "carbs_g": 39,
+      "fat_g": 24,
+      "fiber_g": 3,
+      "sodium_mg": 670,
+      "serving_note": "per ½ sandwich combo (7.4 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "turkey-avo-salsa-verde-2",
+      "name": "Turkey Avo Salsa Verde",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 21,
+      "carbs_g": 31,
+      "fat_g": 23,
+      "fiber_g": 4,
+      "sodium_mg": 740,
+      "serving_note": "per ½ sandwich combo (8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "avocado-quinoa-superfood-ensalada",
+      "name": "Avocado & Quinoa Superfood Ensalada",
+      "description": null,
+      "category": "meal",
+      "calories": 690,
+      "protein_g": 19,
+      "carbs_g": 47,
+      "fat_g": 51,
+      "fiber_g": 15,
+      "sodium_mg": 1090,
+      "serving_note": "per salad (16.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "avocado-quinoa-superfood-ensalada-without-dressing",
+      "name": "Avocado & Quinoa Superfood Ensalada (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 400,
+      "protein_g": 19,
+      "carbs_g": 41,
+      "fat_g": 22,
+      "fiber_g": 14,
+      "sodium_mg": 570,
+      "serving_note": "per salad without dressing (14.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-to-avocado-quinoa-superfood-ensalada",
+      "name": "add chicken to Avocado & Quinoa Superfood Ensalada",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 500,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-impossible-chorizo-to-avocado-quinoa-superfood-ensalada",
+      "name": "add Impossible Chorizo to Avocado & Quinoa Superfood Ensalada",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "protein_g": 10,
+      "carbs_g": 7,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 430,
+      "serving_note": "per protein add-on (2.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-beyond-chorizo-to-avocado-quinoa-superfood-ensalada",
+      "name": "add Beyond Chorizo to Avocado & Quinoa Superfood Ensalada",
+      "description": null,
+      "category": "component",
+      "calories": 140,
+      "protein_g": 10,
+      "carbs_g": 5,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per protein add-on (2.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "thai-mango-salad",
+      "name": "Thai Mango Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 840,
+      "protein_g": 35,
+      "carbs_g": 70,
+      "fat_g": 50,
+      "fiber_g": 12,
+      "sodium_mg": 1780,
+      "serving_note": "per salad (19.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "thai-mango-salad-without-dressing",
+      "name": "Thai Mango Salad (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 640,
+      "protein_g": 34,
+      "carbs_g": 55,
+      "fat_g": 34,
+      "fiber_g": 12,
+      "sodium_mg": 1020,
+      "serving_note": "per salad without dressing (17.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "baja-green-goddess-salad",
+      "name": "Baja Green Goddess Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 600,
+      "protein_g": 15,
+      "carbs_g": 50,
+      "fat_g": 40,
+      "fiber_g": 12,
+      "sodium_mg": 800,
+      "serving_note": "per salad (15.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "baja-green-goddess-salad-without-dressing",
+      "name": "Baja Green Goddess Salad (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 410,
+      "protein_g": 15,
+      "carbs_g": 46,
+      "fat_g": 21,
+      "fiber_g": 12,
+      "sodium_mg": 350,
+      "serving_note": "per salad without dressing (13.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-adobado-to-baja-green-goddess-salad",
+      "name": "add chicken adobado to Baja Green Goddess Salad",
+      "description": null,
+      "category": "component",
+      "calories": 100,
+      "protein_g": 17,
+      "carbs_g": 2,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 500,
+      "serving_note": "per protein add-on (4.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-impossible-chorizo-to-baja-green-goddess-salad",
+      "name": "add Impossible Chorizo to Baja Green Goddess Salad",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "protein_g": 10,
+      "carbs_g": 7,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 430,
+      "serving_note": "per protein add-on (2.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-beyond-chorizo-to-baja-green-goddess-salad",
+      "name": "add Beyond Chorizo to Baja Green Goddess Salad",
+      "description": null,
+      "category": "component",
+      "calories": 140,
+      "protein_g": 10,
+      "carbs_g": 5,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per protein add-on (2.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-with-chicken",
+      "name": "Chen's Crispy Rice Salad with chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 700,
+      "protein_g": 35,
+      "carbs_g": 64,
+      "fat_g": 37,
+      "fiber_g": 10,
+      "sodium_mg": 1580,
+      "serving_note": "per salad (16.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-with-chicken-without-dressing",
+      "name": "Chen's Crispy Rice Salad with chicken (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 500,
+      "protein_g": 34,
+      "carbs_g": 54,
+      "fat_g": 20,
+      "fiber_g": 9,
+      "sodium_mg": 960,
+      "serving_note": "per salad without dressing (14.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-with-tofu",
+      "name": "Chen's Crispy Rice Salad with tofu",
+      "description": null,
+      "category": "meal",
+      "calories": 790,
+      "protein_g": 29,
+      "carbs_g": 76,
+      "fat_g": 46,
+      "fiber_g": 11,
+      "sodium_mg": 1750,
+      "serving_note": "per salad (16.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-with-tofu-without-dressing",
+      "name": "Chen's Crispy Rice Salad with tofu (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 600,
+      "protein_g": 28,
+      "carbs_g": 66,
+      "fat_g": 30,
+      "fiber_g": 10,
+      "sodium_mg": 1130,
+      "serving_note": "per salad without dressing (14.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-modern-caesar",
+      "name": "The Modern Caesar",
+      "description": null,
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 18,
+      "carbs_g": 30,
+      "fat_g": 56,
+      "fiber_g": 11,
+      "sodium_mg": 920,
+      "serving_note": "per salad (17.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-modern-caesar-without-dressing",
+      "name": "The Modern Caesar (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 260,
+      "protein_g": 13,
+      "carbs_g": 25,
+      "fat_g": 14,
+      "fiber_g": 11,
+      "sodium_mg": 390,
+      "serving_note": "per salad without dressing (15.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-to-the-modern-caesar",
+      "name": "add chicken to The Modern Caesar",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 500,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "golden-state-cobb",
+      "name": "Golden State Cobb",
+      "description": null,
+      "category": "meal",
+      "calories": 750,
+      "protein_g": 30,
+      "carbs_g": 29,
+      "fat_g": 60,
+      "fiber_g": 11,
+      "sodium_mg": 1430,
+      "serving_note": "per salad (19.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "golden-state-cobb-without-dressing",
+      "name": "Golden State Cobb (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 450,
+      "protein_g": 29,
+      "carbs_g": 26,
+      "fat_g": 28,
+      "fiber_g": 11,
+      "sodium_mg": 880,
+      "serving_note": "per salad without dressing (17.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "not-so-fried-chicken-salad-style",
+      "name": "Not So Fried Chicken - Salad Style",
+      "description": null,
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 31,
+      "carbs_g": 50,
+      "fat_g": 47,
+      "fiber_g": 7,
+      "sodium_mg": 1510,
+      "serving_note": "per salad (19.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "not-so-fried-chicken-salad-style-without-dressing",
+      "name": "Not So Fried Chicken - Salad Style (without dressing)",
+      "description": null,
+      "category": "condiment",
+      "calories": 420,
+      "protein_g": 27,
+      "carbs_g": 36,
+      "fat_g": 20,
+      "fiber_g": 7,
+      "sodium_mg": 1020,
+      "serving_note": "per salad without dressing (16.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "avocado-and-quinoa-superfood-ensalada-wrap",
+      "name": "Avocado and Quinoa Superfood Ensalada Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 1120,
+      "protein_g": 27,
+      "carbs_g": 108,
+      "fat_g": 68,
+      "fiber_g": 16,
+      "sodium_mg": 1760,
+      "serving_note": "per wrap (19.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-wrap",
+      "name": "Chen's Crispy Rice Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 1040,
+      "protein_g": 23,
+      "carbs_g": 127,
+      "fat_g": 52,
+      "fiber_g": 12,
+      "sodium_mg": 1800,
+      "serving_note": "per wrap (17.6 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-to-chen-s-crispy-rice-wrap",
+      "name": "add Chicken to Chen's Crispy Rice Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 500,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-baked-marinated-tofu-to-chen-s-crispy-rice-wrap",
+      "name": "add Baked Marinated Tofu to Chen's Crispy Rice Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 210,
+      "protein_g": 15,
+      "carbs_g": 9,
+      "fat_g": 14,
+      "fiber_g": 0.5,
+      "sodium_mg": 770,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "baja-green-goddess-wrap",
+      "name": "Baja Green Goddess Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 970,
+      "protein_g": 23,
+      "carbs_g": 102,
+      "fat_g": 55,
+      "fiber_g": 12,
+      "sodium_mg": 1250,
+      "serving_note": "per wrap (16.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-adobado-to-baja-green-goddess-wrap",
+      "name": "add Chicken Adobado to Baja Green Goddess Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 100,
+      "protein_g": 17,
+      "carbs_g": 2,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 520,
+      "serving_note": "per protein add-on (4.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-impossible-chorizo-to-baja-green-goddess-wrap",
+      "name": "add Impossible Chorizo to Baja Green Goddess Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "protein_g": 10,
+      "carbs_g": 7,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 400,
+      "serving_note": "per protein add-on (2.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "modern-caesar-wrap",
+      "name": "Modern Caesar Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 1090,
+      "protein_g": 26,
+      "carbs_g": 91,
+      "fat_g": 70,
+      "fiber_g": 12,
+      "sodium_mg": 1540,
+      "serving_note": "per wrap (21.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-to-modern-caesar-wrap",
+      "name": "add Chicken to Modern Caesar Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 500,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "thai-mango-wrap",
+      "name": "Thai Mango Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 930,
+      "protein_g": 18,
+      "carbs_g": 112,
+      "fat_g": 48,
+      "fiber_g": 8,
+      "sodium_mg": 1650,
+      "serving_note": "per wrap (15.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-chicken-to-thai-mango-wrap",
+      "name": "add Chicken to Thai Mango Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 500,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "add-baked-marinated-tofu-to-thai-mango-wrap",
+      "name": "add Baked Marinated Tofu to Thai Mango Wrap",
+      "description": null,
+      "category": "component",
+      "calories": 210,
+      "protein_g": 15,
+      "carbs_g": 9,
+      "fat_g": 14,
+      "fiber_g": 0.5,
+      "sodium_mg": 770,
+      "serving_note": "per protein add-on (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "golden-state-cobb-wrap",
+      "name": "Golden State Cobb Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 1170,
+      "protein_g": 35,
+      "carbs_g": 85,
+      "fat_g": 78,
+      "fiber_g": 9,
+      "sodium_mg": 2100,
+      "serving_note": "per wrap (19.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "grilled-cheddar-cheese-sandwich",
+      "name": "Grilled Cheddar Cheese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 22,
+      "carbs_g": 43,
+      "fat_g": 39,
+      "fiber_g": 2,
+      "sodium_mg": 650,
+      "serving_note": "per grilled cheddar cheese sandwich (5.4 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-jelly",
+      "name": "Peanut Butter & Jelly",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "protein_g": 14,
+      "carbs_g": 69,
+      "fat_g": 23,
+      "fiber_g": 5,
+      "sodium_mg": 410,
+      "serving_note": "per peanut butter & jelly (4.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "turkey-cheddar-sandwich",
+      "name": "Turkey & Cheddar Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 26,
+      "carbs_g": 43,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 740,
+      "serving_note": "per turkey & cheddar sandwich (6.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-tenders-turbo-chef",
+      "name": "Crispy Chicken Tenders (turbo chef)",
+      "description": null,
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 30,
+      "carbs_g": 18,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 670,
+      "serving_note": "per crispy chicken tenders (turbo chef) (6.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "organic-ketchup",
+      "name": "Organic Ketchup",
+      "description": null,
+      "category": "condiment",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 320,
+      "serving_note": "per organic ketchup (1.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "vegan-ranch-dressing",
+      "name": "Vegan Ranch Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 120,
+      "protein_g": 0,
+      "carbs_g": 0.5,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per vegan ranch dressing (1.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "apples",
+      "name": "Apples",
+      "description": null,
+      "category": "side",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fat_g": 0,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per apples (2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "baja-green-goddess-dressing-2",
+      "name": "Baja Green Goddess Dressing 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 190,
+      "protein_g": 0.5,
+      "carbs_g": 4,
+      "fat_g": 19,
+      "fiber_g": 0,
+      "sodium_mg": 450,
+      "serving_note": "per baja green goddess dressing 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "basil-pesto-balsamic-vinaigrette-1",
+      "name": "Basil Pesto-Balsamic Vinaigrette 1",
+      "description": null,
+      "category": "condiment",
+      "calories": 110,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per basil pesto-balsamic vinaigrette 1 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chipotle-vinaigrette-2",
+      "name": "Chipotle Vinaigrette 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 6,
+      "fat_g": 29,
+      "fiber_g": 0.5,
+      "sodium_mg": 520,
+      "serving_note": "per chipotle vinaigrette 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "ginger-ponzu-dressing-2",
+      "name": "Ginger Ponzu Dressing 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 250,
+      "protein_g": 0.5,
+      "carbs_g": 8,
+      "fat_g": 25,
+      "fiber_g": 0,
+      "sodium_mg": 600,
+      "serving_note": "per ginger ponzu dressing 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "classic-caesar-dressing-2",
+      "name": "Classic Caesar Dressing 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 340,
+      "protein_g": 4,
+      "carbs_g": 4,
+      "fat_g": 34,
+      "fiber_g": 0,
+      "sodium_mg": 420,
+      "serving_note": "per classic caesar dressing 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "farmhouse-vinaigrette-2",
+      "name": "Farmhouse Vinaigrette 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 9,
+      "fat_g": 28,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per farmhouse vinaigrette 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "herb-buttermilk-ranch-2",
+      "name": "Herb Buttermilk Ranch 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 180,
+      "protein_g": 0.5,
+      "carbs_g": 5,
+      "fat_g": 17,
+      "fiber_g": 0,
+      "sodium_mg": 670,
+      "serving_note": "per herb buttermilk ranch 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "jalape-o-salsa-verde-2",
+      "name": "Jalapeño Salsa Verde 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 25,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 2,
+      "fiber_g": 0.5,
+      "sodium_mg": 170,
+      "serving_note": "per jalapeño salsa verde 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "miso-mustard-sesame-dressing-2",
+      "name": "Miso Mustard Sesame Dressing 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 220,
+      "protein_g": 1,
+      "carbs_g": 13,
+      "fat_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 650,
+      "serving_note": "per miso mustard sesame dressing 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "mustard-shallot-vinaigrette-2",
+      "name": "Mustard Shallot Vinaigrette 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 6,
+      "fat_g": 24,
+      "fiber_g": 0,
+      "sodium_mg": 200,
+      "serving_note": "per mustard shallot vinaigrette 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "ruswc-red-wine-vinaigrette-2",
+      "name": "RusWc Red Wine Vinaigrette 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 32,
+      "fiber_g": 0,
+      "sodium_mg": 550,
+      "serving_note": "per ruswc red wine vinaigrette 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "pomodoro-sauce-2",
+      "name": "Pomodoro Sauce 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 60,
+      "protein_g": 0.5,
+      "carbs_g": 6,
+      "fat_g": 3.5,
+      "fiber_g": 0,
+      "sodium_mg": 340,
+      "serving_note": "per pomodoro sauce 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "tangy-bbq-sauce-2",
+      "name": "Tangy BBQ Sauce 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 50,
+      "protein_g": 0.5,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 540,
+      "serving_note": "per tangy bbq sauce 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "thai-almond-dressing-2",
+      "name": "Thai Almond Dressing 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 200,
+      "protein_g": 1,
+      "carbs_g": 15,
+      "fat_g": 16,
+      "fiber_g": 0.5,
+      "sodium_mg": 750,
+      "serving_note": "per thai almond dressing 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "vegan-ranch-2",
+      "name": "Vegan Ranch 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 26,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "per vegan ranch 2 (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "ciabatta",
+      "name": "Ciabatta",
+      "description": null,
+      "category": "side",
+      "calories": 260,
+      "protein_g": 7,
+      "carbs_g": 47,
+      "fat_g": 3.5,
+      "fiber_g": 2,
+      "sodium_mg": 160,
+      "serving_note": "per ciabatta (3.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "cornmeal-brioche",
+      "name": "Cornmeal Brioche",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 7,
+      "carbs_g": 43,
+      "fat_g": 7,
+      "fiber_g": 1,
+      "sodium_mg": 430,
+      "serving_note": "per cornmeal brioche (1 roll)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "gluten-free-bread",
+      "name": "Gluten Free Bread",
+      "description": null,
+      "category": "side",
+      "calories": 420,
+      "protein_g": 6,
+      "carbs_g": 62,
+      "fat_g": 18,
+      "fiber_g": 6,
+      "sodium_mg": 920,
+      "serving_note": "per gluten free bread (5.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "mom-s-seeded-whole-wheat",
+      "name": "Mom's Seeded Whole Wheat",
+      "description": null,
+      "category": "side",
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 58,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 400,
+      "serving_note": "per mom's seeded whole wheat (4.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "mejorado-vegan-tortilla",
+      "name": "Mejorado Vegan Tortilla",
+      "description": null,
+      "category": "side",
+      "calories": 460,
+      "protein_g": 9,
+      "carbs_g": 64,
+      "fat_g": 18,
+      "fiber_g": 2,
+      "sodium_mg": 710,
+      "serving_note": "per mejorado vegan tortilla (1 wrap)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "potato-brioche-hoagie",
+      "name": "Potato Brioche Hoagie",
+      "description": null,
+      "category": "side",
+      "calories": 240,
+      "protein_g": 8,
+      "carbs_g": 38,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 500,
+      "serving_note": "per potato brioche hoagie (2.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "sesame-roll",
+      "name": "Sesame Roll",
+      "description": null,
+      "category": "side",
+      "calories": 300,
+      "protein_g": 8,
+      "carbs_g": 54,
+      "fat_g": 5,
+      "fiber_g": 2,
+      "sodium_mg": 640,
+      "serving_note": "per sesame roll (4.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "sourdough",
+      "name": "Sourdough",
+      "description": null,
+      "category": "side",
+      "calories": 300,
+      "protein_g": 10,
+      "carbs_g": 62,
+      "fat_g": 2,
+      "fiber_g": 2,
+      "sodium_mg": 600,
+      "serving_note": "per sourdough (4.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "southern-potato-salad-small",
+      "name": "Southern Potato Salad Small",
+      "description": null,
+      "category": "side",
+      "calories": 260,
+      "protein_g": 2,
+      "carbs_g": 22,
+      "fat_g": 17,
+      "fiber_g": 1,
+      "sodium_mg": 400,
+      "serving_note": "per southern potato salad small (4.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "southern-potato-salad-medium",
+      "name": "Southern Potato Salad Medium",
+      "description": null,
+      "category": "side",
+      "calories": 530,
+      "protein_g": 4,
+      "carbs_g": 44,
+      "fat_g": 33,
+      "fiber_g": 3,
+      "sodium_mg": 790,
+      "serving_note": "per southern potato salad medium (9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "southern-potato-salad-large",
+      "name": "Southern Potato Salad Large",
+      "description": null,
+      "category": "side",
+      "calories": 1050,
+      "protein_g": 7,
+      "carbs_g": 87,
+      "fat_g": 67,
+      "fiber_g": 6,
+      "sodium_mg": 1590,
+      "serving_note": "per southern potato salad large (18 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "basil-pesto-shells-small",
+      "name": "Basil Pesto Shells Small",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 8,
+      "carbs_g": 24,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 650,
+      "serving_note": "per basil pesto shells small (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "basil-pesto-shells-medium",
+      "name": "Basil Pesto Shells Medium",
+      "description": null,
+      "category": "side",
+      "calories": 540,
+      "protein_g": 16,
+      "carbs_g": 48,
+      "fat_g": 30,
+      "fiber_g": 4,
+      "sodium_mg": 1300,
+      "serving_note": "per basil pesto shells medium (7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "basil-pesto-shells-large",
+      "name": "Basil Pesto Shells Large",
+      "description": null,
+      "category": "side",
+      "calories": 1070,
+      "protein_g": 33,
+      "carbs_g": 96,
+      "fat_g": 59,
+      "fiber_g": 8,
+      "sodium_mg": 2600,
+      "serving_note": "per basil pesto shells large (14 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "kale-and-apple-salad-small",
+      "name": "Kale and Apple Salad Small",
+      "description": null,
+      "category": "side",
+      "calories": 250,
+      "protein_g": 1,
+      "carbs_g": 17,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 125,
+      "serving_note": "per kale and apple salad small (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "kale-and-apple-salad-medium",
+      "name": "Kale and Apple Salad Medium",
+      "description": null,
+      "category": "side",
+      "calories": 510,
+      "protein_g": 2,
+      "carbs_g": 35,
+      "fat_g": 42,
+      "fiber_g": 6,
+      "sodium_mg": 250,
+      "serving_note": "per kale and apple salad medium (7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "kale-and-apple-salad-large",
+      "name": "Kale and Apple Salad Large",
+      "description": null,
+      "category": "side",
+      "calories": 1020,
+      "protein_g": 5,
+      "carbs_g": 69,
+      "fat_g": 85,
+      "fiber_g": 11,
+      "sodium_mg": 500,
+      "serving_note": "per kale and apple salad large (14 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "curried-couscous-small",
+      "name": "Curried Couscous Small",
+      "description": null,
+      "category": "side",
+      "calories": 290,
+      "protein_g": 2,
+      "carbs_g": 25,
+      "fat_g": 18,
+      "fiber_g": 2,
+      "sodium_mg": 600,
+      "serving_note": "per curried couscous small (4.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "curried-couscous-medium",
+      "name": "Curried Couscous Medium",
+      "description": null,
+      "category": "side",
+      "calories": 580,
+      "protein_g": 4,
+      "carbs_g": 49,
+      "fat_g": 36,
+      "fiber_g": 4,
+      "sodium_mg": 1210,
+      "serving_note": "per curried couscous medium (9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "curried-couscous-large",
+      "name": "Curried Couscous Large",
+      "description": null,
+      "category": "side",
+      "calories": 1160,
+      "protein_g": 9,
+      "carbs_g": 98,
+      "fat_g": 72,
+      "fiber_g": 9,
+      "sodium_mg": 2420,
+      "serving_note": "per curried couscous large (18 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "greek-lemon-chicken-and-farro-soup",
+      "name": "Greek Lemon Chicken and Farro Soup",
+      "description": null,
+      "category": "side",
+      "calories": 180,
+      "protein_g": 4,
+      "carbs_g": 16,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 1040,
+      "serving_note": "per greek lemon chicken and farro soup (cup 8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "greek-lemon-chicken-and-farro-soup-2",
+      "name": "Greek Lemon Chicken and Farro Soup",
+      "description": null,
+      "category": "side",
+      "calories": 360,
+      "protein_g": 8,
+      "carbs_g": 32,
+      "fat_g": 24,
+      "fiber_g": 4,
+      "sodium_mg": 2070,
+      "serving_note": "per greek lemon chicken and farro soup (bowl 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "tomato-basil-soup",
+      "name": "Tomato Basil Soup",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 3,
+      "carbs_g": 20,
+      "fat_g": 20,
+      "fiber_g": 2,
+      "sodium_mg": 640,
+      "serving_note": "per tomato basil soup (cup 8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "tomato-basil-soup-2",
+      "name": "Tomato Basil Soup",
+      "description": null,
+      "category": "side",
+      "calories": 540,
+      "protein_g": 6,
+      "carbs_g": 40,
+      "fat_g": 40,
+      "fiber_g": 4,
+      "sodium_mg": 1280,
+      "serving_note": "per tomato basil soup (bowl 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "iced-tea-16oz",
+      "name": "Iced Tea – 16oz",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per iced tea – 16oz (16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "iced-tea-20oz",
+      "name": "Iced Tea – 20oz",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per iced tea – 20oz (20 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "lemonade-16oz",
+      "name": "Lemonade – 16oz",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 65,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per lemonade – 16oz (16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "lemonade-20oz",
+      "name": "Lemonade – 20oz",
+      "description": null,
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 0,
+      "carbs_g": 82,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per lemonade – 20oz (20 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "guava-lemonade-16oz",
+      "name": "Guava Lemonade – 16oz",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 0.5,
+      "carbs_g": 87,
+      "fat_g": 1,
+      "fiber_g": 9,
+      "sodium_mg": 30,
+      "serving_note": "per guava lemonade – 16oz (16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "guava-lemonade-20oz",
+      "name": "Guava Lemonade – 20oz",
+      "description": null,
+      "category": "drink",
+      "calories": 440,
+      "protein_g": 1,
+      "carbs_g": 109,
+      "fat_g": 1,
+      "fiber_g": 11,
+      "sodium_mg": 35,
+      "serving_note": "per guava lemonade – 20oz (20 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "get-your-greens-16oz",
+      "name": "Get Your Greens – 16oz",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 2,
+      "carbs_g": 48,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 35,
+      "serving_note": "per get your greens – 16oz (16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "get-your-greens-20oz",
+      "name": "Get Your Greens – 20oz",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 3,
+      "carbs_g": 60,
+      "fat_g": 0.5,
+      "fiber_g": 1,
+      "sodium_mg": 40,
+      "serving_note": "per get your greens – 20oz (20 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "pomegranate-mint-lemonade-16oz",
+      "name": "Pomegranate Mint Lemonade – 16oz",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 65,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per pomegranate mint lemonade – 16oz (16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "pomegranate-mint-lemonade-20oz",
+      "name": "Pomegranate Mint Lemonade – 20oz",
+      "description": null,
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 0,
+      "carbs_g": 81,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per pomegranate mint lemonade – 20oz (20 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "organic-valley-milk",
+      "name": "Organic Valley Milk",
+      "description": null,
+      "category": "drink",
+      "calories": 90,
+      "protein_g": 7,
+      "carbs_g": 10,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per organic valley milk (6.75 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-farm-club-3",
+      "name": "The Farm Club",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 20,
+      "carbs_g": 34,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 810,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-steak-bacon",
+      "name": "Chimichurri Steak & Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 22,
+      "carbs_g": 38,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 1130,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-caprese-3",
+      "name": "Chicken Pesto Caprese",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 21,
+      "carbs_g": 28,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 590,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "mario-s-caprese",
+      "name": "Mario's Caprese",
+      "description": null,
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 19,
+      "carbs_g": 28,
+      "fat_g": 28,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "prosciutto-chicken-2",
+      "name": "Prosciutto & Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 23,
+      "carbs_g": 35,
+      "fat_g": 20,
+      "fiber_g": 3,
+      "sodium_mg": 950,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "turkey-avo-salsa-verde-3",
+      "name": "Turkey Avo Salsa Verde",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 21,
+      "carbs_g": 31,
+      "fat_g": 23,
+      "fiber_g": 4,
+      "sodium_mg": 740,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "vegan-banh-mi-3",
+      "name": "Vegan Banh Mi",
+      "description": null,
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 11,
+      "carbs_g": 39,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 790,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "not-so-fried-chicken-3",
+      "name": "\"Not So Fried\" Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 17,
+      "carbs_g": 39,
+      "fat_g": 24,
+      "fiber_g": 3,
+      "sodium_mg": 670,
+      "serving_note": "per sandwich (1/2 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "avocado-quinoa-superfood-ensalada-low-portion",
+      "name": "Avocado & Quinoa Superfood Ensalada (low portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 150,
+      "protein_g": 4,
+      "carbs_g": 10,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 230,
+      "serving_note": "per salad (3.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "avocado-quinoa-superfood-ensalada-high-portion",
+      "name": "Avocado & Quinoa Superfood Ensalada (high portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 200,
+      "protein_g": 6,
+      "carbs_g": 14,
+      "fat_g": 15,
+      "fiber_g": 4,
+      "sodium_mg": 310,
+      "serving_note": "per salad (4.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-seasonal-goat-with-oranges-low-portion",
+      "name": "The Seasonal GOAT with Oranges (low portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 160,
+      "protein_g": 3,
+      "carbs_g": 13,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 250,
+      "serving_note": "per salad (3.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-seasonal-goat-with-oranges-high-portion",
+      "name": "The Seasonal GOAT with Oranges (high portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 240,
+      "protein_g": 5,
+      "carbs_g": 20,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 340,
+      "serving_note": "per salad (4.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-low-portion",
+      "name": "Chen’s Crispy Rice Salad (low portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 170,
+      "protein_g": 6,
+      "carbs_g": 14,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 380,
+      "serving_note": "per salad (3.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-high-portion",
+      "name": "Chen’s Crispy Rice Salad (high portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 230,
+      "protein_g": 8,
+      "carbs_g": 22,
+      "fat_g": 14,
+      "fiber_g": 3,
+      "sodium_mg": 510,
+      "serving_note": "per salad (5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-modern-caesar-low-portion",
+      "name": "The Modern Caesar (low portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 160,
+      "protein_g": 4,
+      "carbs_g": 8,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 230,
+      "serving_note": "per salad (2.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-modern-caesar-high-portion",
+      "name": "The Modern Caesar (high portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 220,
+      "protein_g": 7,
+      "carbs_g": 10,
+      "fat_g": 18,
+      "fiber_g": 3,
+      "sodium_mg": 310,
+      "serving_note": "per salad (4.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "field-greens-salad-low-portion",
+      "name": "Field Greens Salad (low portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 70,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 6,
+      "fiber_g": 0.5,
+      "sodium_mg": 70,
+      "serving_note": "per salad (1.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "field-greens-salad-high-portion",
+      "name": "Field Greens Salad (high portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 90,
+      "protein_g": 0.5,
+      "carbs_g": 6,
+      "fat_g": 8,
+      "fiber_g": 0.5,
+      "sodium_mg": 90,
+      "serving_note": "per salad (2.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "low-porwon",
+      "name": "Low PorWon",
+      "description": null,
+      "category": "meal",
+      "calories": 15,
+      "protein_g": 3,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per salad (0.5 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "high-porwon",
+      "name": "High PorWon",
+      "description": null,
+      "category": "meal",
+      "calories": 20,
+      "protein_g": 4,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 95,
+      "serving_note": "per salad (0.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "avocado-quinoa-superfood-ensalada-2",
+      "name": "Avocado & Quinoa Superfood Ensalada",
+      "description": null,
+      "category": "meal",
+      "calories": 210,
+      "protein_g": 10,
+      "carbs_g": 23,
+      "fat_g": 11,
+      "fiber_g": 8,
+      "sodium_mg": 290,
+      "serving_note": "per salad (8.2 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chipotle-vinaigrette-1-75",
+      "name": "Chipotle Vinaigrette 1.75",
+      "description": null,
+      "category": "condiment",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 25,
+      "fiber_g": 0,
+      "sodium_mg": 450,
+      "serving_note": "per salad (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chen-s-crispy-rice-salad-with-chicken-2",
+      "name": "Chen’s Crispy Rice Salad with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 30,
+      "carbs_g": 40,
+      "fat_g": 18,
+      "fiber_g": 6,
+      "sodium_mg": 750,
+      "serving_note": "per salad (11.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "miso-sesame-dressing-2",
+      "name": "Miso Sesame Dressing 2",
+      "description": null,
+      "category": "condiment",
+      "calories": 190,
+      "protein_g": 1,
+      "carbs_g": 10,
+      "fat_g": 16,
+      "fiber_g": 1,
+      "sodium_mg": 610,
+      "serving_note": "per salad (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "the-modern-caesar-2-0",
+      "name": "The Modern Caesar 2.0",
+      "description": null,
+      "category": "meal",
+      "calories": 190,
+      "protein_g": 16,
+      "carbs_g": 10,
+      "fat_g": 10,
+      "fiber_g": 5,
+      "sodium_mg": 410,
+      "serving_note": "per salad (7.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "classic-caesar-dressing-1-75",
+      "name": "Classic Caesar Dressing 1.75",
+      "description": null,
+      "category": "condiment",
+      "calories": 300,
+      "protein_g": 4,
+      "carbs_g": 4,
+      "fat_g": 30,
+      "fiber_g": 0,
+      "sodium_mg": 370,
+      "serving_note": "per salad (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "field-greens-salad",
+      "name": "Field Greens Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 35,
+      "protein_g": 1,
+      "carbs_g": 7,
+      "fat_g": 0,
+      "fiber_g": 2,
+      "sodium_mg": 10,
+      "serving_note": "per salad (4.6 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "farmhouse-vinaigrette-1-75",
+      "name": "Farmhouse Vinaigrette 1.75",
+      "description": null,
+      "category": "condiment",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 7,
+      "fat_g": 21,
+      "fiber_g": 0.5,
+      "sodium_mg": 110,
+      "serving_note": "per salad (fl oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "basil-pesto-shells-low-portion",
+      "name": "Basil Pesto Shells (low portion)",
+      "description": null,
+      "category": "side",
+      "calories": 210,
+      "protein_g": 7,
+      "carbs_g": 19,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 520,
+      "serving_note": "per basil pesto shells (low portion) (2.9 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "basil-pesto-shells-high-portion",
+      "name": "Basil Pesto Shells (high portion)",
+      "description": null,
+      "category": "side",
+      "calories": 310,
+      "protein_g": 10,
+      "carbs_g": 27,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 750,
+      "serving_note": "per basil pesto shells (high portion) (4.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "southern-potato-salad-low-portion",
+      "name": "Southern Potato Salad (low portion)",
+      "description": null,
+      "category": "side",
+      "calories": 210,
+      "protein_g": 1,
+      "carbs_g": 17,
+      "fat_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 320,
+      "serving_note": "per southern potato salad (low portion) (3.6 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "southern-potato-salad-high-portion",
+      "name": "Southern Potato Salad (high portion)",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "protein_g": 2,
+      "carbs_g": 23,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 420,
+      "serving_note": "per southern potato salad (high portion) (4.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "kale-and-apple-salad-low-portion",
+      "name": "Kale and Apple Salad (low portion)",
+      "description": null,
+      "category": "side",
+      "calories": 180,
+      "protein_g": 0.5,
+      "carbs_g": 12,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 85,
+      "serving_note": "per kale and apple salad (low portion) (2.4 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "kale-and-apple-salad-high-portion",
+      "name": "Kale and Apple Salad (high portion)",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 1,
+      "carbs_g": 18,
+      "fat_g": 23,
+      "fiber_g": 3,
+      "sodium_mg": 135,
+      "serving_note": "per kale and apple salad (high portion) (3.7 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "curried-couscous-low-portion",
+      "name": "Curried Couscous (low portion)",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 20,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 480,
+      "serving_note": "per curried couscous (low portion) (3.6 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "curried-couscous-high-portion",
+      "name": "Curried Couscous (high portion)",
+      "description": null,
+      "category": "side",
+      "calories": 310,
+      "protein_g": 2,
+      "carbs_g": 26,
+      "fat_g": 19,
+      "fiber_g": 2,
+      "sodium_mg": 640,
+      "serving_note": "per curried couscous (high portion) (4.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "bbq-chicken-smoked-gouda",
+      "name": "BBQ Chicken & Smoked Gouda",
+      "description": null,
+      "category": "meal",
+      "calories": 220,
+      "protein_g": 15,
+      "carbs_g": 24,
+      "fat_g": 7,
+      "fiber_g": 1,
+      "sodium_mg": 670,
+      "serving_note": "per sandwich (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "caprese",
+      "name": "Caprese",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "protein_g": 9,
+      "carbs_g": 21,
+      "fat_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 250,
+      "serving_note": "per sandwich (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "tuscan-steak",
+      "name": "Tuscan Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "protein_g": 11,
+      "carbs_g": 21,
+      "fat_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 520,
+      "serving_note": "per sandwich (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "balsamic-steak-bacon",
+      "name": "Balsamic Steak & Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 220,
+      "protein_g": 8,
+      "carbs_g": 22,
+      "fat_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 440,
+      "serving_note": "per sandwich (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "prosciutto-and-fig",
+      "name": "Prosciutto and Fig",
+      "description": null,
+      "category": "meal",
+      "calories": 190,
+      "protein_g": 8,
+      "carbs_g": 24,
+      "fat_g": 6,
+      "fiber_g": 1,
+      "sodium_mg": 410,
+      "serving_note": "per sandwich (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "meat-cheese-tray",
+      "name": "Meat & Cheese Tray",
+      "description": null,
+      "category": "side",
+      "calories": 2760,
+      "protein_g": 128,
+      "carbs_g": 259,
+      "fat_g": 140,
+      "fiber_g": 13,
+      "sodium_mg": 5510,
+      "serving_note": "per meat & cheese tray (42.8 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "low-porwon-2",
+      "name": "Low PorWon",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "protein_g": 13,
+      "carbs_g": 26,
+      "fat_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 550,
+      "serving_note": "per low porwon (4.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "high-porwon-2",
+      "name": "High PorWon",
+      "description": null,
+      "category": "side",
+      "calories": 460,
+      "protein_g": 21,
+      "carbs_g": 43,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 920,
+      "serving_note": "per high porwon (7.1 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "veggies-chips-dip-tray",
+      "name": "Veggies, Chips & Dip Tray",
+      "description": null,
+      "category": "side",
+      "calories": 3240,
+      "protein_g": 83,
+      "carbs_g": 404,
+      "fat_g": 150,
+      "fiber_g": 50,
+      "sodium_mg": 5650,
+      "serving_note": "per veggies, chips & dip tray (56.0 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "low-porwon-3",
+      "name": "Low PorWon",
+      "description": null,
+      "category": "side",
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 40,
+      "fat_g": 15,
+      "fiber_g": 5,
+      "sodium_mg": 560,
+      "serving_note": "per low porwon (5.6 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "high-porwon-3",
+      "name": "High PorWon",
+      "description": null,
+      "category": "side",
+      "calories": 540,
+      "protein_g": 14,
+      "carbs_g": 67,
+      "fat_g": 25,
+      "fiber_g": 8,
+      "sodium_mg": 940,
+      "serving_note": "per high porwon (9.3 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-jelly-plaber",
+      "name": "Peanut Butter & Jelly PlaBer",
+      "description": null,
+      "category": "meal",
+      "calories": 120,
+      "protein_g": 3,
+      "carbs_g": 18,
+      "fat_g": 4,
+      "fiber_g": 1,
+      "sodium_mg": 130,
+      "serving_note": "per peanut butter & jelly plaber (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "cheddar-cheese-sack-lunch",
+      "name": "Cheddar Cheese Sack Lunch",
+      "description": null,
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 22,
+      "carbs_g": 43,
+      "fat_g": 39,
+      "fiber_g": 2,
+      "sodium_mg": 650,
+      "serving_note": "per cheddar cheese sack lunch (1 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-jelly-sack-lunch",
+      "name": "Peanut Butter & Jelly Sack Lunch",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "protein_g": 14,
+      "carbs_g": 69,
+      "fat_g": 23,
+      "fiber_g": 5,
+      "sodium_mg": 410,
+      "serving_note": "per peanut butter & jelly sack lunch (1 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "turkey-cheddar-sack-lunch",
+      "name": "Turkey & Cheddar Sack Lunch",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 26,
+      "carbs_g": 43,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 740,
+      "serving_note": "per turkey & cheddar sack lunch (1 sandwich)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookie",
+      "name": "Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 240,
+      "protein_g": 2,
+      "carbs_g": 36,
+      "fat_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 140,
+      "serving_note": "per chocolate chip cookie (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "double-chocolate-chip-cookie",
+      "name": "Double Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 250,
+      "protein_g": 2,
+      "carbs_g": 33,
+      "fat_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 125,
+      "serving_note": "per double chocolate chip cookie (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "oatmeal-raisin-cookie",
+      "name": "Oatmeal Raisin Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 200,
+      "protein_g": 3,
+      "carbs_g": 33,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 105,
+      "serving_note": "per oatmeal raisin cookie (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chunk",
+      "name": "Chocolate Chunk",
+      "description": null,
+      "category": "side",
+      "calories": 210,
+      "protein_g": 4,
+      "carbs_g": 29,
+      "fat_g": 11,
+      "fiber_g": 2,
+      "sodium_mg": 320,
+      "serving_note": "per chocolate chunk (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "ginger-molasses",
+      "name": "Ginger Molasses",
+      "description": null,
+      "category": "side",
+      "calories": 200,
+      "protein_g": 3,
+      "carbs_g": 34,
+      "fat_g": 6,
+      "fiber_g": 0.5,
+      "sodium_mg": 290,
+      "serving_note": "per ginger molasses (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "lemon-cheesecake",
+      "name": "Lemon Cheesecake",
+      "description": null,
+      "category": "side",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 32,
+      "fat_g": 7,
+      "fiber_g": 0.5,
+      "sodium_mg": 110,
+      "serving_note": "per lemon cheesecake (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    },
+    {
+      "id": "oat-hemp-and-date",
+      "name": "Oat, Hemp and Date",
+      "description": null,
+      "category": "side",
+      "calories": 210,
+      "protein_g": 3,
+      "carbs_g": 33,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 30,
+      "serving_note": "per oat, hemp and date (1 piece)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf"
+      }
+    }
+  ]
+}

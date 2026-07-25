@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "roasted-tomato-cup",
+      "name": "roasted tomato: cup",
+      "description": null,
+      "category": "side",
+      "calories": 277,
+      "protein_g": 5,
+      "carbs_g": 25,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 1124,
+      "serving_note": "per cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    "reasons": [
+      "tender-greens/roasted-tomato-cup: macro check failed — stated 277 kcal vs computed 228 (delta -49)"
+    ]
+  }
+]

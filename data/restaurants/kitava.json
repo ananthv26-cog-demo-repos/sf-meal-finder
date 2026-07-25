@@ -1,0 +1,1029 @@
+{
+  "id": "kitava",
+  "name": "Kitava",
+  "website": "https://www.kitava.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "2011 Mission St, San Francisco, CA 94110",
+      "lat": 37.7647936,
+      "lng": -122.4195404,
+      "neighborhood": "Mission"
+    }
+  ],
+  "items": [
+    {
+      "id": "evolved-caesar-salad",
+      "name": "Evolved Caesar Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 373.7,
+      "protein_g": 11.4,
+      "fat_g": 28.2,
+      "carbs_g": 22.2,
+      "fiber_g": 7.8,
+      "sodium_mg": 1442.2,
+      "serving_note": "per 357.8 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "seasonal-citrus-salad",
+      "name": "Seasonal Citrus Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 554.0,
+      "protein_g": 7.0,
+      "fat_g": 50.0,
+      "carbs_g": 23.0,
+      "fiber_g": 7.81,
+      "sodium_mg": 263.84,
+      "serving_note": "per 554 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "guac-greens-salad",
+      "name": "Guac & Greens Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 353.0,
+      "protein_g": 9.0,
+      "fat_g": 26.0,
+      "carbs_g": 25.0,
+      "fiber_g": 9.96,
+      "sodium_mg": 535.66,
+      "serving_note": "per 277.9 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "grilled-chicken-salad",
+      "name": "Grilled Chicken Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 795.0,
+      "protein_g": 49.0,
+      "fat_g": 49.0,
+      "carbs_g": 43.0,
+      "fiber_g": 13.13,
+      "sodium_mg": 1457.29,
+      "serving_note": "per 478.8 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "power-bowl",
+      "name": "Power Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 1077.0,
+      "protein_g": 30.0,
+      "fat_g": 70.0,
+      "carbs_g": 86.0,
+      "fiber_g": 20.31,
+      "sodium_mg": 3405.37,
+      "serving_note": "per 683.1 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "sesame-chicken-bowl",
+      "name": "Sesame Chicken Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 764.0,
+      "protein_g": 43.0,
+      "fat_g": 23.0,
+      "carbs_g": 98.93,
+      "fiber_g": 8.52,
+      "sodium_mg": 2635.94,
+      "serving_note": "per 1121.9 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "spring-noodle-bowl",
+      "name": "Spring Noodle Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 622.9,
+      "protein_g": 13.3,
+      "fat_g": 29.4,
+      "carbs_g": 77.0,
+      "fiber_g": 6.3,
+      "sodium_mg": 1993.9,
+      "serving_note": "per 457.7 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "sweet-plantain-bowl",
+      "name": "Sweet Plantain Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 838.0,
+      "protein_g": 19.0,
+      "fat_g": 38.0,
+      "carbs_g": 118.13,
+      "fiber_g": 13.97,
+      "sodium_mg": 1182.98,
+      "serving_note": "per 650.7 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "fish-chips",
+      "name": "Fish & Chips",
+      "description": null,
+      "category": "meal",
+      "calories": 1112.63,
+      "protein_g": 26.0,
+      "fat_g": 50.0,
+      "carbs_g": 143.0,
+      "fiber_g": 16.64,
+      "sodium_mg": 13644.0,
+      "serving_note": "per 752 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "ginger-squash-curry-bowl",
+      "name": "Ginger Squash Curry Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 425.0,
+      "protein_g": 11.0,
+      "fat_g": 4.0,
+      "carbs_g": 91.0,
+      "fiber_g": 14.84,
+      "sodium_mg": 2227.8,
+      "serving_note": "per 784.3 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "miso-salmon-protein-plate",
+      "name": "Miso Salmon Protein Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 486.0,
+      "protein_g": 35.0,
+      "fat_g": 10.0,
+      "carbs_g": 60.0,
+      "fiber_g": 3.77,
+      "sodium_mg": 339.22,
+      "serving_note": "per 411 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "beef-protein-plate",
+      "name": "Beef Protein Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 619.0,
+      "protein_g": 41.0,
+      "fat_g": 27.0,
+      "carbs_g": 55.0,
+      "fiber_g": 10.4,
+      "sodium_mg": 1686.0,
+      "serving_note": "per 342 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "chicken-protein-plate",
+      "name": "Chicken Protein Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 574.0,
+      "protein_g": 52.0,
+      "fat_g": 15.0,
+      "carbs_g": 56.0,
+      "fiber_g": 4.3,
+      "sodium_mg": 302.0,
+      "serving_note": "per 255 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "chicken-nuggets",
+      "name": "Chicken Nuggets",
+      "description": null,
+      "category": "side",
+      "calories": 324.7,
+      "protein_g": 30.3,
+      "fat_g": 8.4,
+      "carbs_g": 31.0,
+      "fiber_g": 1.9,
+      "sodium_mg": 1312.8,
+      "serving_note": "per 283.2 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "crispy-brussels-sprouts",
+      "name": "Crispy Brussels Sprouts",
+      "description": null,
+      "category": "side",
+      "calories": 455.0,
+      "protein_g": 7.8,
+      "fat_g": 42.3,
+      "carbs_g": 16.0,
+      "fiber_g": 6.5,
+      "sodium_mg": 256.1,
+      "serving_note": "per 228.8 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "fried-plantains",
+      "name": "Fried Plantains",
+      "description": null,
+      "category": "side",
+      "calories": 645.4,
+      "protein_g": 5.0,
+      "fat_g": 41.1,
+      "carbs_g": 73.1,
+      "fiber_g": 3.9,
+      "sodium_mg": 125.8,
+      "serving_note": "per 283.8 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "za-atar-cauliflower-hummus",
+      "name": "Za'atar Cauliflower & Hummus",
+      "description": null,
+      "category": "side",
+      "calories": 405.2,
+      "protein_g": 11.4,
+      "fat_g": 28.0,
+      "carbs_g": 31.6,
+      "fiber_g": 10.5,
+      "sodium_mg": 1297.1,
+      "serving_note": "per 297.2 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "cauliflower-bites-with-herb-ranch",
+      "name": "Cauliflower Bites with Herb Ranch",
+      "description": null,
+      "category": "side",
+      "calories": 419.0,
+      "protein_g": 3.0,
+      "fat_g": 39.0,
+      "carbs_g": 17.0,
+      "fiber_g": 3.74,
+      "sodium_mg": 288.2,
+      "serving_note": "per 213.4 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "dark-chocolate-brownie",
+      "name": "Dark Chocolate Brownie",
+      "description": null,
+      "category": "side",
+      "calories": 335.0,
+      "protein_g": 4.0,
+      "fat_g": 18.0,
+      "carbs_g": 42.6,
+      "fiber_g": 3.6,
+      "sodium_mg": 140.9,
+      "serving_note": "per 79 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookies",
+      "name": "Chocolate Chip Cookies",
+      "description": null,
+      "category": "side",
+      "calories": 273.0,
+      "protein_g": 5.0,
+      "fat_g": 17.0,
+      "carbs_g": 25.0,
+      "fiber_g": 2.22,
+      "sodium_mg": 80.53,
+      "serving_note": "per 56 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "dark-chocolate-soft-serve",
+      "name": "Dark Chocolate Soft Serve",
+      "description": null,
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 7.0,
+      "fat_g": 15.0,
+      "carbs_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 113 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "roasted-cashew-soft-serve",
+      "name": "Roasted Cashew Soft Serve",
+      "description": null,
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 6.0,
+      "fat_g": 17.0,
+      "carbs_g": 29.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 113 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "plant-protein-patty",
+      "name": "Plant Protein Patty",
+      "description": null,
+      "category": "component",
+      "calories": 243.0,
+      "protein_g": 11.0,
+      "fat_g": 10.0,
+      "carbs_g": 30.0,
+      "fiber_g": 10.98,
+      "sodium_mg": 915.01,
+      "serving_note": "per a-la-carte side portion, 113.4 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 177.0,
+      "protein_g": 30.0,
+      "fat_g": 5.0,
+      "carbs_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 74.0,
+      "serving_note": "per a-la-carte side portion, 127.6 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "picadillo-beef",
+      "name": "Picadillo Beef",
+      "description": null,
+      "category": "component",
+      "calories": 236.0,
+      "protein_g": 24.0,
+      "fat_g": 13.0,
+      "carbs_g": 4.8,
+      "fiber_g": 1.2,
+      "sodium_mg": 535.0,
+      "serving_note": "per a-la-carte side portion, 113.4 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "crispy-chicken",
+      "name": "Crispy Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 286.0,
+      "protein_g": 29.7,
+      "fat_g": 8.2,
+      "carbs_g": 21.6,
+      "fiber_g": 1.3,
+      "sodium_mg": 933.0,
+      "serving_note": "per a-la-carte side portion, 140.8 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "paprika-chicken",
+      "name": "Paprika Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 215.0,
+      "protein_g": 30.0,
+      "fat_g": 9.0,
+      "carbs_g": 2.0,
+      "fiber_g": 0.6,
+      "sodium_mg": 177.25,
+      "serving_note": "per a-la-carte side portion, 113.4 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "grilled-chicken-breast",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 32.0,
+      "fat_g": 9.0,
+      "carbs_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 774.75,
+      "serving_note": "per a-la-carte side portion, 113.4 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "wild-rice-blend",
+      "name": "Wild Rice Blend",
+      "description": "Published nutrition; missing PDF columns: Sodium.",
+      "category": "component",
+      "calories": 398.0,
+      "protein_g": 10.0,
+      "fat_g": 2.0,
+      "carbs_g": 87.0,
+      "fiber_g": 7.56,
+      "sodium_mg": null,
+      "serving_note": "per a-la-carte side portion, 142 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "cauliflower-rice",
+      "name": "Cauliflower Rice",
+      "description": null,
+      "category": "component",
+      "calories": 153.9,
+      "protein_g": 3.0,
+      "fat_g": 12.8,
+      "carbs_g": 9.1,
+      "fiber_g": 3.1,
+      "sodium_mg": 784.1,
+      "serving_note": "per a-la-carte side portion, 151.3 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "farmer-s-greens",
+      "name": "Farmer's Greens",
+      "description": null,
+      "category": "component",
+      "calories": 7.3,
+      "protein_g": 0.7,
+      "fat_g": 0.1,
+      "carbs_g": 1.2,
+      "fiber_g": 0.5,
+      "sodium_mg": 12.9,
+      "serving_note": "per a-la-carte side portion, 52.8 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "jasmine-rice",
+      "name": "Jasmine Rice",
+      "description": null,
+      "category": "component",
+      "calories": 184.0,
+      "protein_g": 4.0,
+      "fat_g": 0.2,
+      "carbs_g": 40.0,
+      "fiber_g": 0.48,
+      "sodium_mg": 1.42,
+      "serving_note": "per a-la-carte side portion, 172 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "rice-noodles",
+      "name": "Rice Noodles",
+      "description": null,
+      "category": "component",
+      "calories": 316.3,
+      "protein_g": 4.3,
+      "fat_g": 6.0,
+      "carbs_g": 58.4,
+      "fiber_g": 1.2,
+      "sodium_mg": 925.3,
+      "serving_note": "per a-la-carte side portion, 89.9 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "brussels-sprouts",
+      "name": "Brussels Sprouts",
+      "description": null,
+      "category": "component",
+      "calories": 112.9,
+      "protein_g": 5.7,
+      "fat_g": 5.0,
+      "carbs_g": 15.2,
+      "fiber_g": 6.5,
+      "sodium_mg": 139.4,
+      "serving_note": "per a-la-carte side portion, 174.8 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "charred-broccoli",
+      "name": "Charred Broccoli",
+      "description": null,
+      "category": "component",
+      "calories": 67.6,
+      "protein_g": 4.4,
+      "fat_g": 2.2,
+      "carbs_g": 10.4,
+      "fiber_g": 4.1,
+      "sodium_mg": 56.8,
+      "serving_note": "per a-la-carte side portion, 158.2 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "cumin-beans",
+      "name": "Cumin Beans",
+      "description": null,
+      "category": "component",
+      "calories": 63.7,
+      "protein_g": 4.5,
+      "fat_g": 1.1,
+      "carbs_g": 12.0,
+      "fiber_g": 3.4,
+      "sodium_mg": 329.2,
+      "serving_note": "per a-la-carte side portion, 119.8 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "chimichurri-mushrooms",
+      "name": "Chimichurri Mushrooms",
+      "description": null,
+      "category": "component",
+      "calories": 162.0,
+      "protein_g": 5.0,
+      "fat_g": 13.0,
+      "carbs_g": 9.0,
+      "fiber_g": 3.67,
+      "sodium_mg": 171.07,
+      "serving_note": "per a-la-carte side portion, 114 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "plantains",
+      "name": "Plantains",
+      "description": null,
+      "category": "component",
+      "calories": 316.0,
+      "protein_g": 3.0,
+      "fat_g": 5.0,
+      "carbs_g": 72.33,
+      "fiber_g": 3.86,
+      "sodium_mg": 9.07,
+      "serving_note": "per a-la-carte side portion, 231 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": null,
+      "category": "component",
+      "calories": 449.2,
+      "protein_g": 10.5,
+      "fat_g": 30.6,
+      "carbs_g": 36.0,
+      "fiber_g": 9.6,
+      "sodium_mg": 947.5,
+      "serving_note": "per a-la-carte side portion, 208.1 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "kale-slaw",
+      "name": "Kale Slaw",
+      "description": null,
+      "category": "component",
+      "calories": 182.3,
+      "protein_g": 4.8,
+      "fat_g": 14.9,
+      "carbs_g": 11.5,
+      "fiber_g": 3.9,
+      "sodium_mg": 450.5,
+      "serving_note": "per a-la-carte side portion, 160.5 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "sweet-potatoes",
+      "name": "Sweet Potatoes",
+      "description": null,
+      "category": "component",
+      "calories": 251.4,
+      "protein_g": 3.4,
+      "fat_g": 7.8,
+      "carbs_g": 42.9,
+      "fiber_g": 6.4,
+      "sodium_mg": 149.4,
+      "serving_note": "per a-la-carte side portion, 221.2 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "za-atar-cauliflower",
+      "name": "Za'atar Cauliflower",
+      "description": null,
+      "category": "component",
+      "calories": 109.5,
+      "protein_g": 3.8,
+      "fat_g": 7.4,
+      "carbs_g": 10.3,
+      "fiber_g": 4.7,
+      "sodium_mg": 404.7,
+      "serving_note": "per a-la-carte side portion, 155.8 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "black-bean-grill-corn-salad",
+      "name": "Black Bean & Grill Corn Salad",
+      "description": null,
+      "category": "component",
+      "calories": 134.0,
+      "protein_g": 5.0,
+      "fat_g": 3.0,
+      "carbs_g": 23.0,
+      "fiber_g": 6.6,
+      "sodium_mg": 181.0,
+      "serving_note": "per a-la-carte side portion, 140 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "fries",
+      "name": "Fries",
+      "description": null,
+      "category": "component",
+      "calories": 237.0,
+      "protein_g": 3.0,
+      "fat_g": 14.0,
+      "carbs_g": 27.0,
+      "fiber_g": 4.08,
+      "sodium_mg": 923.4,
+      "serving_note": "per a-la-carte side portion, 211 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "miso-eggplant",
+      "name": "Miso Eggplant",
+      "description": null,
+      "category": "component",
+      "calories": 88.0,
+      "protein_g": 1.8,
+      "fat_g": 0.4,
+      "carbs_g": 22.0,
+      "fiber_g": 4.2,
+      "sodium_mg": 763.0,
+      "serving_note": "per a-la-carte side portion, 170 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "roasted-rainbow-carrots",
+      "name": "Roasted Rainbow Carrots",
+      "description": null,
+      "category": "component",
+      "calories": 88.0,
+      "protein_g": 0.8,
+      "fat_g": 4.0,
+      "carbs_g": 12.0,
+      "fiber_g": 3.2,
+      "sodium_mg": 263.0,
+      "serving_note": "per a-la-carte side portion, 114 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "roasted-fingerling-potatoes",
+      "name": "Roasted Fingerling Potatoes",
+      "description": null,
+      "category": "component",
+      "calories": 177.0,
+      "protein_g": 3.0,
+      "fat_g": 6.7,
+      "carbs_g": 28.0,
+      "fiber_g": 4.4,
+      "sodium_mg": 66.0,
+      "serving_note": "per a-la-carte side portion, 170 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "chipotle-aioli",
+      "name": "Chipotle Aioli",
+      "description": null,
+      "category": "condiment",
+      "calories": 355.0,
+      "protein_g": 2.0,
+      "fat_g": 39.0,
+      "carbs_g": 1.0,
+      "fiber_g": 0.03,
+      "sodium_mg": 126.02,
+      "serving_note": "per 56.5 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "avocado-green-goddess",
+      "name": "Avocado Green Goddess",
+      "description": null,
+      "category": "condiment",
+      "calories": 111.0,
+      "protein_g": 4.0,
+      "fat_g": 8.0,
+      "carbs_g": 5.0,
+      "fiber_g": 1.52,
+      "sodium_mg": 653.4,
+      "serving_note": "per 56.7 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "house-ketchup",
+      "name": "House Ketchup",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "fat_g": 0.2,
+      "carbs_g": 15.0,
+      "fiber_g": 0.84,
+      "sodium_mg": 587.34,
+      "serving_note": "per 57 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "ginger-ponzu-sauce",
+      "name": "Ginger Ponzu Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 139.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carbs_g": 35.0,
+      "fiber_g": 0.12,
+      "sodium_mg": 2155.63,
+      "serving_note": "per 57 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "romesco-sauce",
+      "name": "Romesco Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 132.7,
+      "protein_g": 2.8,
+      "fat_g": 11.3,
+      "carbs_g": 7.1,
+      "fiber_g": 1.4,
+      "sodium_mg": 387.8,
+      "serving_note": "per 56.2 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "jalapeno-lime-dressing",
+      "name": "Jalapeno Lime Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 209.0,
+      "protein_g": 3.0,
+      "fat_g": 21.0,
+      "carbs_g": 4.0,
+      "fiber_g": 1.5,
+      "sodium_mg": 457.93,
+      "serving_note": "per 57 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "herb-ranch",
+      "name": "Herb Ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 231.0,
+      "protein_g": 1.0,
+      "fat_g": 26.0,
+      "carbs_g": 2.0,
+      "fiber_g": 0.25,
+      "sodium_mg": 170.53,
+      "serving_note": "per 61 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "lemon-vinaigrette",
+      "name": "Lemon Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "fat_g": 34.0,
+      "carbs_g": 1.0,
+      "fiber_g": 0.06,
+      "sodium_mg": 195.05,
+      "serving_note": "per 56.7 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    {
+      "id": "green-smoothie",
+      "name": "Green Smoothie",
+      "description": null,
+      "category": "drink",
+      "calories": 126.0,
+      "protein_g": 2.0,
+      "fat_g": 1.0,
+      "carbs_g": 30.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 25.9,
+      "serving_note": "per 342 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    }
+  ]
+}

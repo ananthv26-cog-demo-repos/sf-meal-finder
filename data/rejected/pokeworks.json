@@ -1,0 +1,71 @@
+[
+  {
+    "item": {
+      "id": "crunch-garlic-crisps-0-5",
+      "name": "Garlic Crisps (0.5)",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    "reasons": [
+      "pokeworks/crunch-garlic-crisps-0-5: macro check failed — stated 70.0 kcal vs computed 28 (delta -42)"
+    ]
+  },
+  {
+    "item": {
+      "id": "crunch-onion-crisps-1",
+      "name": "Onion Crisps",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    "reasons": [
+      "pokeworks/crunch-onion-crisps-1: macro check failed — stated 170.0 kcal vs computed 143 (delta -27)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beverage-classic-lemonade-10-5-oz",
+      "name": "Classic Lemonade (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 37.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    "reasons": [
+      "pokeworks/beverage-classic-lemonade-10-5-oz: macro check failed — stated 140.0 kcal vs computed 0 (delta -140)"
+    ]
+  }
+]

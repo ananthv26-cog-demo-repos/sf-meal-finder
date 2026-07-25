@@ -1,0 +1,1336 @@
+[
+  {
+    "item": {
+      "id": "veggie-shack-double",
+      "name": "Veggie Shack, Double",
+      "description": null,
+      "category": "meal",
+      "calories": 910.0,
+      "protein_g": 31.0,
+      "carbs_g": 73.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2730.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/veggie-shack-double: macro check failed — stated 910.0 kcal vs computed 785 (delta -125)"
+    ]
+  },
+  {
+    "item": {
+      "id": "veggie-patty",
+      "name": "Veggie Patty",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 8.0,
+      "carbs_g": 20.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per listed component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/veggie-patty: macro check failed — stated 210.0 kcal vs computed 175 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "veggie-shack-single-lettuce-wrap",
+      "name": "Veggie Shack, Single Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 13.0,
+      "carbs_g": 30.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1480.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/veggie-shack-single-lettuce-wrap: macro check failed — stated 460.0 kcal vs computed 397 (delta -63)"
+    ]
+  },
+  {
+    "item": {
+      "id": "veggie-shack-double-lettuce-wrap",
+      "name": "Veggie Shack, Double Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 25.0,
+      "carbs_g": 51.0,
+      "fat_g": 35.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2570.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/veggie-shack-double-lettuce-wrap: macro check failed — stated 740.0 kcal vs computed 619 (delta -121)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-brewery-shackmeister-ale-12oz-draft",
+      "name": "Brooklyn Brewery ShackMeister Ale (12oz. Draft)",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/brooklyn-brewery-shackmeister-ale-12oz-draft: macro check failed — stated 160.0 kcal vs computed 76 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-brewery-shackmeister-ale-16oz-draft",
+      "name": "Brooklyn Brewery ShackMeister Ale (16oz. Draft)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/brooklyn-brewery-shackmeister-ale-16oz-draft: macro check failed — stated 210.0 kcal vs computed 76 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-brewery-shackmeister-ale-24oz-draft",
+      "name": "Brooklyn Brewery ShackMeister Ale (24oz. Draft)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 4.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/brooklyn-brewery-shackmeister-ale-24oz-draft: macro check failed — stated 310.0 kcal vs computed 116 (delta -194)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-brewery-shackmeister-ale-32oz-draft",
+      "name": "Brooklyn Brewery ShackMeister Ale (32oz. Draft)",
+      "description": null,
+      "category": "drink",
+      "calories": 420.0,
+      "protein_g": 5.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/brooklyn-brewery-shackmeister-ale-32oz-draft: macro check failed — stated 420.0 kcal vs computed 152 (delta -268)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-brewery-shackmeister-ale-60oz-draft",
+      "name": "Brooklyn Brewery ShackMeister Ale (60oz. Draft)",
+      "description": null,
+      "category": "drink",
+      "calories": 780.0,
+      "protein_g": 9.0,
+      "carbs_g": 62.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/brooklyn-brewery-shackmeister-ale-60oz-draft: macro check failed — stated 780.0 kcal vs computed 284 (delta -496)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shack-white-6oz",
+      "name": "Shack White (6oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/shack-white-6oz: macro check failed — stated 140.0 kcal vs computed 16 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shack-red-6oz",
+      "name": "Shack Red (6oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/shack-red-6oz: macro check failed — stated 150.0 kcal vs computed 20 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shack-red-can-8-4oz",
+      "name": "Shack Red Can (8.4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/shack-red-can-8-4oz: macro check failed — stated 210.0 kcal vs computed 24 (delta -186)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shack-white-can-8-4oz",
+      "name": "Shack White Can (8.4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/shack-white-can-8-4oz: macro check failed — stated 200.0 kcal vs computed 20 (delta -180)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shack-ros-can-8-4oz",
+      "name": "Shack Rosé Can (8.4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/shack-ros-can-8-4oz: macro check failed — stated 210.0 kcal vs computed 40 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "gotham-project-red-wine-can-8-4oz",
+      "name": "Gotham Project Red Wine Can (8.4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 8.4oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/gotham-project-red-wine-can-8-4oz: macro check failed — stated 210.0 kcal vs computed 24 (delta -186)"
+    ]
+  },
+  {
+    "item": {
+      "id": "gotham-project-white-wine-can-8-4oz",
+      "name": "Gotham Project White Wine Can (8.4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 8.4oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/gotham-project-white-wine-can-8-4oz: macro check failed — stated 200.0 kcal vs computed 20 (delta -180)"
+    ]
+  },
+  {
+    "item": {
+      "id": "gotham-project-ros-wine-can-8-4oz",
+      "name": "Gotham Project Rosé Wine Can (8.4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 8.4oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/gotham-project-ros-wine-can-8-4oz: macro check failed — stated 210.0 kcal vs computed 40 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "margarita-can-100ml",
+      "name": "Margarita Can (100mL)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 100mL serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/margarita-can-100ml: macro check failed — stated 190.0 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "old-fashioned-can-tip-top-or-straightaway-100ml",
+      "name": "Old Fashioned Can Tip Top or Straightaway (100mL)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 100mL serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/old-fashioned-can-tip-top-or-straightaway-100ml: macro check failed — stated 230.0 kcal vs computed 16 (delta -214)"
+    ]
+  },
+  {
+    "item": {
+      "id": "negroni-can-100ml",
+      "name": "Negroni Can (100mL)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 100mL serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/negroni-can-100ml: macro check failed — stated 210.0 kcal vs computed 36 (delta -174)"
+    ]
+  },
+  {
+    "item": {
+      "id": "appico-spritz-can-250ml",
+      "name": "Appico Spritz Can (250mL)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 250mL serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/appico-spritz-can-250ml: macro check failed — stated 240.0 kcal vs computed 72 (delta -168)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vodka-white-tea-soda-can-250ml",
+      "name": "Vodka White Tea Soda Can (250mL)",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 250mL serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/vodka-white-tea-soda-can-250ml: macro check failed — stated 80.0 kcal vs computed 0 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "paloma-can-250ml",
+      "name": "Paloma Can (250mL)",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 250mL serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/paloma-can-250ml: macro check failed — stated 170.0 kcal vs computed 28 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tip-top-cosmopolitan-100ml-can",
+      "name": "Tip Top Cosmopolitan - 100ml can",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/tip-top-cosmopolitan-100ml-can: macro check failed — stated 180.0 kcal vs computed 16 (delta -164)"
+    ]
+  },
+  {
+    "item": {
+      "id": "truly-can-24oz",
+      "name": "Truly Can (24oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 24oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/truly-can-24oz: macro check failed — stated 210.0 kcal vs computed 12 (delta -198)"
+    ]
+  },
+  {
+    "item": {
+      "id": "surfside-iced-tea-lemonade-12oz-can",
+      "name": "Surfside Iced Tea & Lemonade (12oz can)",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/surfside-iced-tea-lemonade-12oz-can: macro check failed — stated 100.0 kcal vs computed 12 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-claw-black-cherry-12oz-can",
+      "name": "White Claw Black Cherry (12oz can)",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/white-claw-black-cherry-12oz-can: macro check failed — stated 100.0 kcal vs computed 8 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "high-noon-pineapple-12oz-can",
+      "name": "High Noon Pineapple (12oz can)",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/high-noon-pineapple-12oz-can: macro check failed — stated 100.0 kcal vs computed 20 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "topo-chico-strawberry-guava-hard-seltzer-16oz",
+      "name": "Topo Chico Strawberry Guava Hard Seltzer (16oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 54.0,
+      "serving_note": "per 16oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/topo-chico-strawberry-guava-hard-seltzer-16oz: macro check failed — stated 140.0 kcal vs computed 12 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "angry-orchid-crisp-apple-12oz",
+      "name": "Angry Orchid Crisp Apple (12oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/angry-orchid-crisp-apple-12oz: macro check failed — stated 190.0 kcal vs computed 88 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "frozen-lemonade-16oz",
+      "name": "Frozen Lemonade (16oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 16oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/frozen-lemonade-16oz: macro check failed — stated 190.0 kcal vs computed 120 (delta -70)"
+    ]
+  },
+  {
+    "item": {
+      "id": "prosecco-la-marca-mionetto-187ml-bottle",
+      "name": "Prosecco (La Marca, Mionetto), 187ml Bottle",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/prosecco-la-marca-mionetto-187ml-bottle: macro check failed — stated 130.0 kcal vs computed 0 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "prosecco-mionetto-750ml-bottle",
+      "name": "Prosecco (Mionetto), 750ml Bottle",
+      "description": null,
+      "category": "drink",
+      "calories": 600.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/prosecco-mionetto-750ml-bottle: macro check failed — stated 600.0 kcal vs computed 0 (delta -600)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vodka-soda",
+      "name": "Vodka Soda",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/vodka-soda: macro check failed — stated 100.0 kcal vs computed 0 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rum-and-coke",
+      "name": "Rum and Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/rum-and-coke: macro check failed — stated 130.0 kcal vs computed 40 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/gin-and-tonic: macro check failed — stated 140.0 kcal vs computed 32 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tequila-soda",
+      "name": "Tequila Soda",
+      "description": null,
+      "category": "drink",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/tequila-soda: macro check failed — stated 90.0 kcal vs computed 0 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whiskey-ginger",
+      "name": "Whiskey Ginger",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/whiskey-ginger: macro check failed — stated 120.0 kcal vs computed 36 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lemon-fizz",
+      "name": "Lemon Fizz",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/lemon-fizz: macro check failed — stated 150.0 kcal vs computed 36 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "gin-slam",
+      "name": "Gin Slam",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/gin-slam: macro check failed — stated 380.0 kcal vs computed 163 (delta -217)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bourbon-peach-fifty-fifty",
+      "name": "Bourbon Peach Fifty/Fifty",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/bourbon-peach-fifty-fifty: macro check failed — stated 260.0 kcal vs computed 92 (delta -168)"
+    ]
+  },
+  {
+    "item": {
+      "id": "aperol-spritz",
+      "name": "Aperol Spritz",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/aperol-spritz: macro check failed — stated 310.0 kcal vs computed 48 (delta -262)"
+    ]
+  },
+  {
+    "item": {
+      "id": "patron-shackarita",
+      "name": "Patron Shackarita",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/patron-shackarita: macro check failed — stated 260.0 kcal vs computed 120 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-patron-shackarita",
+      "name": "Spicy Patron Shackarita",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/spicy-patron-shackarita: macro check failed — stated 260.0 kcal vs computed 128 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "frozen-patron-shackarita-classic",
+      "name": "Frozen Patron Shackarita, Classic",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1370.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/frozen-patron-shackarita-classic: macro check failed — stated 250.0 kcal vs computed 104 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "frozen-patron-shackarita-strawberry",
+      "name": "Frozen Patron Shackarita, Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1380.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/frozen-patron-shackarita-strawberry: macro check failed — stated 270.0 kcal vs computed 128 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boozy-frozen-lemonade",
+      "name": "Boozy Frozen Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/boozy-frozen-lemonade: macro check failed — stated 290.0 kcal vs computed 120 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rbi-mai-tai",
+      "name": "RBI Mai Tai",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 49.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/rbi-mai-tai: macro check failed — stated 250.0 kcal vs computed 200 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/negroni: macro check failed — stated 300.0 kcal vs computed 8 (delta -292)"
+    ]
+  },
+  {
+    "item": {
+      "id": "old-fashioned-cocktail",
+      "name": "Old Fashioned Cocktail",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/old-fashioned-cocktail: macro check failed — stated 390.0 kcal vs computed 212 (delta -178)"
+    ]
+  },
+  {
+    "item": {
+      "id": "manhattan",
+      "name": "Manhattan",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/manhattan: macro check failed — stated 380.0 kcal vs computed 168 (delta -212)"
+    ]
+  },
+  {
+    "item": {
+      "id": "martini-gin-or-vodka",
+      "name": "Martini (Gin or Vodka)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/martini-gin-or-vodka: macro check failed — stated 190.0 kcal vs computed 0 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dirty-martini-gin-or-vodka",
+      "name": "Dirty Martini (Gin or Vodka)",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/dirty-martini-gin-or-vodka: macro check failed — stated 170.0 kcal vs computed 0 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "long-island-iced-tea",
+      "name": "Long Island Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/long-island-iced-tea: macro check failed — stated 260.0 kcal vs computed 36 (delta -224)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cosmopolitan-cocktail",
+      "name": "Cosmopolitan Cocktail",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/cosmopolitan-cocktail: macro check failed — stated 200.0 kcal vs computed 68 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hugo-spritz",
+      "name": "Hugo Spritz",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/hugo-spritz: macro check failed — stated 280.0 kcal vs computed 104 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "desert-sunrise",
+      "name": "Desert Sunrise",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 2.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/desert-sunrise: macro check failed — stated 360.0 kcal vs computed 152 (delta -208)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bloody-mary",
+      "name": "Bloody Mary",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 2.0,
+      "carbs_g": 11.0,
+      "fat_g": 1.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 2570.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    "reasons": [
+      "shake-shack/bloody-mary: macro check failed — stated 260.0 kcal vs computed 66 (delta -194)"
+    ]
+  }
+]

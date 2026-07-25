@@ -1,0 +1,2115 @@
+{
+  "id": "mixt",
+  "name": "Mixt",
+  "website": "https://www.mixt.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.mixt.com/nutrition-calculator/",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "100 California St, San Francisco, CA 94111",
+      "lat": 37.79373258803661,
+      "lng": -122.39786611301096,
+      "neighborhood": "100 california"
+    },
+    {
+      "address": "120 Sansome St Suite 114, San Francisco, CA 94104",
+      "lat": 37.791613150848654,
+      "lng": -122.40062348183415,
+      "neighborhood": "120 sansome"
+    },
+    {
+      "address": "240 Kearny St, San Francisco, CA 94108",
+      "lat": 37.79037403796381,
+      "lng": -122.40377617749029,
+      "neighborhood": "240 kearny st"
+    },
+    {
+      "address": "560 Mission St Suite 125, San Francisco, CA 94105",
+      "lat": 37.78883261396612,
+      "lng": -122.39922108558152,
+      "neighborhood": "560 mission"
+    },
+    {
+      "address": "475 Sansome St Suite 100-s, San Francisco, CA 94111",
+      "lat": 37.7947319357954,
+      "lng": -122.40170437399313,
+      "neighborhood": "commercial"
+    },
+    {
+      "address": "3130 Fillmore St, San Francisco, CA 94123",
+      "lat": 37.79875057674511,
+      "lng": -122.43565194531145,
+      "neighborhood": "cow hollow"
+    },
+    {
+      "address": "901 Valencia St, San Francisco, CA 94110",
+      "lat": 37.758377604176566,
+      "lng": -122.42105797308385,
+      "neighborhood": "mission"
+    },
+    {
+      "address": "70 Mission St, San Francisco, CA 94105",
+      "lat": 37.79304124710736,
+      "lng": -122.39400630946676,
+      "neighborhood": "one market plaza"
+    },
+    {
+      "address": "2300 Polk St, San Francisco, CA 94109",
+      "lat": 37.79829899622221,
+      "lng": -122.42203077327476,
+      "neighborhood": "polk st"
+    },
+    {
+      "address": "1210 9th Ave, San Francisco, CA 94122",
+      "lat": 37.76601939239363,
+      "lng": -122.46627171555,
+      "neighborhood": "sunset"
+    },
+    {
+      "address": "51 Yerba Buena Ln, San Francisco, CA 94103",
+      "lat": 37.78560739763764,
+      "lng": -122.40425983191571,
+      "neighborhood": "yerba buena"
+    }
+  ],
+  "items": [
+    {
+      "id": "component-84-arugula",
+      "name": "arugula",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-87-butter-lettuce",
+      "name": "butter lettuce",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-85-kale",
+      "name": "kale",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 4.0,
+      "fat_g": 1.5,
+      "fiber_g": 3.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-83-mixt-greens",
+      "name": "mixt greens",
+      "description": null,
+      "category": "component",
+      "calories": 25.0,
+      "protein_g": 2.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-88-romaine-hearts",
+      "name": "romaine hearts",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7215-cilantro-lime-brown-rice-apple-fennel-slaw",
+      "name": "cilantro lime brown rice + apple fennel slaw",
+      "description": null,
+      "category": "component",
+      "calories": 355.0,
+      "protein_g": 6.0,
+      "carbs_g": 62.0,
+      "fat_g": 10.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6044-cilantro-lime-brown-rice-arugula",
+      "name": "cilantro lime brown rice + arugula",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 8.0,
+      "carbs_g": 62.0,
+      "fat_g": 8.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6042-cilantro-lime-brown-rice-cabbage",
+      "name": "cilantro lime brown rice + cabbage",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 6.0,
+      "carbs_g": 60.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6043-cilantro-lime-brown-rice-kale",
+      "name": "cilantro lime brown rice + kale",
+      "description": null,
+      "category": "component",
+      "calories": 350.0,
+      "protein_g": 8.0,
+      "carbs_g": 62.0,
+      "fat_g": 8.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7213-quinoa-apple-fennel-slaw",
+      "name": "quinoa + apple fennel slaw",
+      "description": null,
+      "category": "component",
+      "calories": 215.0,
+      "protein_g": 5.0,
+      "carbs_g": 34.0,
+      "fat_g": 8.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-3212-quinoa-arugula",
+      "name": "quinoa + arugula",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 7.0,
+      "carbs_g": 34.0,
+      "fat_g": 6.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-91-quinoa-cabbage",
+      "name": "quinoa + cabbage",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 6.0,
+      "carbs_g": 33.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-90-quinoa-kale",
+      "name": "quinoa + kale",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 8.0,
+      "carbs_g": 35.0,
+      "fat_g": 6.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8819-soba-noodles",
+      "name": "soba noodles",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 6.0,
+      "carbs_g": 24.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7218-apple-fennel-slaw",
+      "name": "apple fennel slaw",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 2.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-116-cabbage",
+      "name": "cabbage",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-117-carrots",
+      "name": "carrots",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-119-cucumbers",
+      "name": "cucumbers",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-3589-jicama",
+      "name": "jicama",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-121-pickled-red-onions",
+      "name": "pickled red onions",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8820-radicchio",
+      "name": "radicchio",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-122-radishes",
+      "name": "radishes",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-3592-red-bell-peppers",
+      "name": "red bell peppers",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-124-scallions",
+      "name": "scallions",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4503-snow-peas",
+      "name": "snow peas",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8825-spicy-pickled-shimeji-mushrooms",
+      "name": "spicy pickled shimeji mushrooms",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8399-caramelized-fennel",
+      "name": "caramelized fennel",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 1.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-128-caramelized-onion",
+      "name": "caramelized onion",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 1.0,
+      "carbs_g": 11.0,
+      "fat_g": 4.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4637-grilled-corn",
+      "name": "grilled corn",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 3.0,
+      "carbs_g": 16.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-132-herb-roasted-potatoes",
+      "name": "herb roasted potatoes",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 1.0,
+      "carbs_g": 12.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-766-roasted-cauliflower",
+      "name": "roasted cauliflower",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 2.0,
+      "carbs_g": 4.0,
+      "fat_g": 1.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-135-roasted-golden-beets",
+      "name": "roasted golden beets",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4771-spiced-honey-roasted-sweet-potatoes",
+      "name": "spiced honey roasted sweet potatoes",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 21.0,
+      "fat_g": 4.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-151-apples",
+      "name": "apples",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-146-avocado",
+      "name": "avocado",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 6.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-148-cherry-tomatoes",
+      "name": "cherry tomatoes",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-149-dried-cranberries",
+      "name": "dried cranberries",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-5130-dried-currants",
+      "name": "dried currants",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-150-kalamata-olives",
+      "name": "kalamata olives",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-979-oranges",
+      "name": "oranges",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4639-peaches",
+      "name": "peaches",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8818-watermelon",
+      "name": "watermelon",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-139-blue-cheese",
+      "name": "blue cheese",
+      "description": null,
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 7.0,
+      "carbs_g": 0.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-1635-cotija",
+      "name": "cotija",
+      "description": null,
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 7.0,
+      "carbs_g": 0.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-145-egg",
+      "name": "egg",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 5.0,
+      "carbs_g": 0.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-141-feta",
+      "name": "feta",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-142-goat-cheese",
+      "name": "goat cheese",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 0.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-143-sharp-cheddar",
+      "name": "sharp cheddar",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 7.0,
+      "carbs_g": 0.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-144-shaved-parmesan",
+      "name": "shaved parmesan",
+      "description": null,
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-157-almonds",
+      "name": "almonds",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 6.0,
+      "carbs_g": 6.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-158-pumpkin-seeds",
+      "name": "pumpkin seeds",
+      "description": null,
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 9.0,
+      "carbs_g": 3.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4254-spiced-candied-almonds",
+      "name": "spiced candied almonds",
+      "description": null,
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 4.0,
+      "carbs_g": 10.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-159-walnuts",
+      "name": "walnuts",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 4.0,
+      "carbs_g": 4.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-161-black-beans",
+      "name": "black beans",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 4.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-162-chickpeas",
+      "name": "chickpeas",
+      "description": null,
+      "category": "component",
+      "calories": 25.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-163-edamame",
+      "name": "edamame",
+      "description": null,
+      "category": "component",
+      "calories": 50.0,
+      "protein_g": 5.0,
+      "carbs_g": 4.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-164-lentils",
+      "name": "lentils",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 6.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-166-fresh-herb-mix-basil-mint",
+      "name": "fresh herb mix: basil, mint",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-167-savory-herb-mix-parsley-chives-tarragon",
+      "name": "savory herb mix: parsley, chives, tarragon",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-152-breadcrumbs",
+      "name": "breadcrumbs",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7216-crispy-onions",
+      "name": "crispy onions",
+      "description": null,
+      "category": "component",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-154-garlic-herb-croutons",
+      "name": "garlic herb croutons",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 2.0,
+      "carbs_g": 9.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4876-spicy-sesame-seeds",
+      "name": "spicy sesame seeds",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8823-walnut-dukkah",
+      "name": "walnut dukkah",
+      "description": null,
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 13.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7217-wonton-crisps",
+      "name": "wonton crisps",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6023-zaatar-pita-crisps",
+      "name": "zaatar pita crisps",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-112-applewood-smoked-bacon",
+      "name": "applewood smoked bacon",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 5.0,
+      "carbs_g": 1.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7207-blackened-chicken",
+      "name": "blackened chicken",
+      "description": null,
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 22.0,
+      "carbs_g": 2.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4506-crispy-cauliflower-select-locations",
+      "name": "crispy cauliflower (select locations)",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 5.0,
+      "carbs_g": 19.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4505-crispy-chicken-select-locations",
+      "name": "crispy chicken (select locations)",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 28.0,
+      "carbs_g": 13.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-110-grilled-chicken",
+      "name": "grilled chicken",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 28.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-114-grilled-steak",
+      "name": "grilled steak",
+      "description": null,
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 25.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-115-marinated-organic-tofu",
+      "name": "marinated organic tofu",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 13.0,
+      "carbs_g": 7.0,
+      "fat_g": 12.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8821-tamari-salmon",
+      "name": "tamari salmon",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 22.0,
+      "carbs_g": 4.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-92-balsamic-df",
+      "name": "balsamic (df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-94-champagne-v-df",
+      "name": "champagne (v, df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4507-miso-ginger-df",
+      "name": "miso ginger (df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8822-preserved-lemon-mint",
+      "name": "preserved lemon mint",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-100-blue-cheese",
+      "name": "blue cheese",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-93-caesar-made-with-anchovies",
+      "name": "caesar (made with anchovies)",
+      "description": null,
+      "category": "condiment",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7222-fly-by-jing-chili-crisp",
+      "name": "Fly by Jing Chili Crisp",
+      "description": null,
+      "category": "condiment",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-2646-lemon-tahini-df-v",
+      "name": "lemon tahini (df, v)",
+      "description": null,
+      "category": "condiment",
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 3.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4638-lime-crema",
+      "name": "lime crema",
+      "description": null,
+      "category": "condiment",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4767-roasted-poblano",
+      "name": "roasted poblano",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-101-sriracha-ranch",
+      "name": "sriracha ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-8824-tamari-ginger",
+      "name": "tamari ginger",
+      "description": null,
+      "category": "condiment",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6215-bachan-s-japanese-bbq-sauce",
+      "name": "Bachan’s Japanese BBQ sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6212-chipotle-crema",
+      "name": "chipotle crema",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6214-ginger-sesame",
+      "name": "ginger sesame",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-4899-maple-bbq-v-df",
+      "name": "maple bbq (v, df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-7221-mixt-bbq-sauce",
+      "name": "MIXT BBQ sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6216-mixt-fire-sauce",
+      "name": "MIXT fire sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6213-red-pepper-walnut",
+      "name": "red pepper-walnut",
+      "description": null,
+      "category": "condiment",
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-6211-salsa-verde",
+      "name": "salsa verde",
+      "description": null,
+      "category": "condiment",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-106-balsamic-vinegar-v-df",
+      "name": "balsamic vinegar (v, df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-105-extra-virgin-olive-oil-v-df",
+      "name": "extra virgin olive oil (v, df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-108-lemon-juice-v-df",
+      "name": "lemon juice (v, df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "component-109-sherry-vinegar-v-df",
+      "name": "sherry vinegar (v, df)",
+      "description": null,
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "bachelor",
+      "name": "Bachelor",
+      "description": "Chef Crafted Salads. Standard build: arugula, blue cheese, balsamic (df), cherry tomatoes, grilled steak, herb roasted potatoes, mixt greens, savory herb mix: parsley, chives, tarragon, caramelized onion, breadcrumbs. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 40.0,
+      "carbs_g": 43.0,
+      "fat_g": 39.5,
+      "fiber_g": 8.0,
+      "sodium_mg": 1220.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "beetnik",
+      "name": "Beetnik",
+      "description": "Chef Crafted Salads. Standard build: avocado, arugula, balsamic (df), dried cranberries, goat cheese, mixt greens, roasted golden beets, savory herb mix: parsley, chives, tarragon, walnuts, caramelized fennel. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 14.0,
+      "carbs_g": 54.0,
+      "fat_g": 44.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 755.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "jing-s-chili-crisp",
+      "name": "Jing’S Chili Crisp",
+      "description": "Chef Crafted Salads. Standard build: romaine hearts, cabbage, avocado, edamame, spiced honey roasted sweet potatoes, carrots, red bell peppers, wonton crisps, scallions, Fly by Jing Chili Crisp, blackened chicken. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 32.0,
+      "carbs_g": 54.0,
+      "fat_g": 42.5,
+      "fiber_g": 11.0,
+      "sodium_mg": 1035.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "mandarin",
+      "name": "Mandarin",
+      "description": "Chef Crafted Salads. Standard build: romaine hearts, kale, crispy chicken (select locations), cabbage, oranges, snow peas, jicama, spicy sesame seeds, fresh herb mix: basil, mint, miso ginger (df), spiced candied almonds. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 735.0,
+      "protein_g": 38.0,
+      "carbs_g": 51.0,
+      "fat_g": 44.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 1670.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "mixt-caesar",
+      "name": "Mixt Caesar",
+      "description": "Chef Crafted Salads. Standard build: avocado, caesar (made with anchovies), garlic herb croutons, radishes, romaine hearts, savory herb mix: parsley, chives, tarragon, shaved parmesan. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 475.0,
+      "protein_g": 16.0,
+      "carbs_g": 18.0,
+      "fat_g": 37.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 705.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "mixt-cobb",
+      "name": "Mixt Cobb",
+      "description": "Chef Crafted Salads. Standard build: avocado, applewood smoked bacon, butter lettuce, blue cheese, cherry tomatoes, champagne (v, df), egg, grilled chicken, savory herb mix: parsley, chives, tarragon. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 715.0,
+      "protein_g": 49.0,
+      "carbs_g": 11.0,
+      "fat_g": 53.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 945.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "orchard",
+      "name": "Orchard",
+      "description": "Chef Crafted Salads. Standard build: avocado, applewood smoked bacon, kale, balsamic (df), grilled chicken, mixt greens, apples, sharp cheddar, savory herb mix: parsley, chives, tarragon, almonds. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 875.0,
+      "protein_g": 51.0,
+      "carbs_g": 31.0,
+      "fat_g": 63.5,
+      "fiber_g": 12.0,
+      "sodium_mg": 1085.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "puebla",
+      "name": "Puebla",
+      "description": "Chef Crafted Salads. Standard build: romaine hearts, crispy chicken (select locations), cabbage, avocado, spiced honey roasted sweet potatoes, sharp cheddar, pumpkin seeds, jicama, scallions, roasted poblano. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 935.0,
+      "protein_g": 47.0,
+      "carbs_g": 53.0,
+      "fat_g": 62.5,
+      "fiber_g": 13.0,
+      "sodium_mg": 1735.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "soba",
+      "name": "Soba",
+      "description": "Chef Crafted Salads. Standard build: arugula, cabbage, soba noodles, spicy pickled shimeji mushrooms, roasted golden beets, snow peas, cucumbers, tamari ginger, blackened chicken. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 555.0,
+      "protein_g": 33.0,
+      "carbs_g": 50.0,
+      "fat_g": 27.5,
+      "fiber_g": 6.0,
+      "sodium_mg": 1115.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "elote",
+      "name": "Elote",
+      "description": "Seasonal Salads. Standard build: butter lettuce, cabbage, grilled corn, cherry tomatoes, cotija, avocado, pumpkin seeds, jicama, scallions, lime crema, grilled chicken. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 51.0,
+      "carbs_g": 37.0,
+      "fat_g": 38.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "valkyries-2-0",
+      "name": "Valkyries 2.0",
+      "description": "Seasonal Salads. Standard build: romaine hearts, cabbage, radicchio, watermelon, feta, kalamata olives, pickled red onions, cucumbers, walnut dukkah, preserved lemon mint, blackened chicken. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 625.0,
+      "protein_g": 32.0,
+      "carbs_g": 30.0,
+      "fat_g": 44.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2025.0,
+      "serving_note": "per whole salad (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "bachan-s-bowl",
+      "name": "Bachan’S® Bowl",
+      "description": "Warm Bowls. Standard build: cilantro lime brown rice + arugula, crispy chicken (select locations), avocado, edamame, cucumbers, radishes, scallions, ginger sesame, Bachan’s Japanese BBQ sauce, cabbage. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 1015.0,
+      "protein_g": 43.0,
+      "carbs_g": 107.0,
+      "fat_g": 49.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 2195.0,
+      "serving_note": "per whole warm bowl (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "barbecue-bowl",
+      "name": "Barbecue Bowl",
+      "description": "Warm Bowls. Standard build: cilantro lime brown rice + apple fennel slaw, blackened chicken, sharp cheddar, spiced honey roasted sweet potatoes, black beans, MIXT BBQ sauce, crispy onions. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 915.0,
+      "protein_g": 40.0,
+      "carbs_g": 111.0,
+      "fat_g": 36.5,
+      "fiber_g": 9.0,
+      "sodium_mg": 1335.0,
+      "serving_note": "per whole warm bowl (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "dave-s-taco-bowl",
+      "name": "Dave’S Taco Bowl",
+      "description": "Warm Bowls. Standard build: cilantro lime brown rice + cabbage, blackened chicken, avocado, cotija, black beans, chipotle crema, salsa verde. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 805.0,
+      "protein_g": 40.0,
+      "carbs_g": 80.0,
+      "fat_g": 35.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1295.0,
+      "serving_note": "per whole warm bowl (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    {
+      "id": "mediterranean-bowl",
+      "name": "Mediterranean Bowl",
+      "description": "Warm Bowls. Standard build: quinoa + cabbage, grilled chicken, avocado, feta, zaatar pita crisps, walnuts, dried currants, pickled red onions, fresh herb mix: basil, mint, red pepper-walnut. Sum of Mixt's published per-ingredient calculator values.",
+      "category": "meal",
+      "calories": 930.0,
+      "protein_g": 46.0,
+      "carbs_g": 80.0,
+      "fat_g": 54.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 1090.0,
+      "serving_note": "per whole warm bowl (default build, no modifications)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    }
+  ]
+}

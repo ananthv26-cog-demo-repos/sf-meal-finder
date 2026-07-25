@@ -61,6 +61,345 @@
     ]
   },
   {
+    "id": "kitava",
+    "name": "Kitava",
+    "website": "https://www.kitava.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "2011 Mission St, San Francisco, CA 94110",
+        "lat": 37.7647936,
+        "lng": -122.4195404,
+        "neighborhood": "Mission"
+      }
+    ]
+  },
+  {
+    "id": "mendocino-farms",
+    "name": "Mendocino Farms",
+    "website": "https://www.mendocinofarms.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "465 California St, San Francisco, CA 94104",
+        "lat": 37.7927687,
+        "lng": -122.402453,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "303 2nd Street, San Francisco, CA 94107",
+        "lat": 37.7851497,
+        "lng": -122.395515,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "mixt",
+    "name": "Mixt",
+    "website": "https://www.mixt.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.mixt.com/nutrition-calculator/",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "100 California St, San Francisco, CA 94111",
+        "lat": 37.79373258803661,
+        "lng": -122.39786611301096,
+        "neighborhood": "100 california"
+      },
+      {
+        "address": "120 Sansome St Suite 114, San Francisco, CA 94104",
+        "lat": 37.791613150848654,
+        "lng": -122.40062348183415,
+        "neighborhood": "120 sansome"
+      },
+      {
+        "address": "240 Kearny St, San Francisco, CA 94108",
+        "lat": 37.79037403796381,
+        "lng": -122.40377617749029,
+        "neighborhood": "240 kearny st"
+      },
+      {
+        "address": "560 Mission St Suite 125, San Francisco, CA 94105",
+        "lat": 37.78883261396612,
+        "lng": -122.39922108558152,
+        "neighborhood": "560 mission"
+      },
+      {
+        "address": "475 Sansome St Suite 100-s, San Francisco, CA 94111",
+        "lat": 37.7947319357954,
+        "lng": -122.40170437399313,
+        "neighborhood": "commercial"
+      },
+      {
+        "address": "3130 Fillmore St, San Francisco, CA 94123",
+        "lat": 37.79875057674511,
+        "lng": -122.43565194531145,
+        "neighborhood": "cow hollow"
+      },
+      {
+        "address": "901 Valencia St, San Francisco, CA 94110",
+        "lat": 37.758377604176566,
+        "lng": -122.42105797308385,
+        "neighborhood": "mission"
+      },
+      {
+        "address": "70 Mission St, San Francisco, CA 94105",
+        "lat": 37.79304124710736,
+        "lng": -122.39400630946676,
+        "neighborhood": "one market plaza"
+      },
+      {
+        "address": "2300 Polk St, San Francisco, CA 94109",
+        "lat": 37.79829899622221,
+        "lng": -122.42203077327476,
+        "neighborhood": "polk st"
+      },
+      {
+        "address": "1210 9th Ave, San Francisco, CA 94122",
+        "lat": 37.76601939239363,
+        "lng": -122.46627171555,
+        "neighborhood": "sunset"
+      },
+      {
+        "address": "51 Yerba Buena Ln, San Francisco, CA 94103",
+        "lat": 37.78560739763764,
+        "lng": -122.40425983191571,
+        "neighborhood": "yerba buena"
+      }
+    ]
+  },
+  {
+    "id": "panda-express",
+    "name": "Panda Express",
+    "website": "https://www.pandaexpress.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.pandaexpress.com/nutritioninformation",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1480 Fillmore St., San Francisco, CA 94115",
+        "lat": 37.7830234,
+        "lng": -122.4325198,
+        "neighborhood": null
+      },
+      {
+        "address": "3519 California St, San Francisco, CA 94118",
+        "lat": 37.786581,
+        "lng": -122.451721,
+        "neighborhood": null
+      },
+      {
+        "address": "500 Parnassus Ave, San Francisco, CA 94143",
+        "lat": 37.7637371,
+        "lng": -122.4583642,
+        "neighborhood": null
+      },
+      {
+        "address": "3801 3rd Street, #300, San Francisco, CA 94124",
+        "lat": 37.741569,
+        "lng": -122.387276,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave. #250h, San Francisco, CA 94132",
+        "lat": 37.727863,
+        "lng": -122.4769858,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "pokeworks",
+    "name": "Pokeworks",
+    "website": "https://pokeworks.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "50 Fremont St. #R2A, San Francisco, CA, 94105",
+        "lat": 37.790749,
+        "lng": -122.397131,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "shake-shack",
+    "name": "Shake Shack",
+    "website": "https://shakeshack.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://prod.shakeshack.com/nutritionandallergeninfo",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "3060 Fillmore Street, San Francisco, CA, 94123",
+        "lat": 37.7979025,
+        "lng": -122.4353553,
+        "neighborhood": "Cow Hollow"
+      },
+      {
+        "address": "3251 20th Ave., San Francisco, CA, 94132",
+        "lat": 37.728935,
+        "lng": -122.476829,
+        "neighborhood": "Stonestown Galleria"
+      }
+    ]
+  },
+  {
+    "id": "souvla",
+    "name": "Souvla",
+    "website": "https://www.souvla.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://media-cdn.getbento.com/accounts/5a6ea86dc04d2c5de0b36e28812fa3b3/media/aVigbS9lS4aECVTnoic6_Souvla%20Nutritional%20Information.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "517 Hayes St, San Francisco, CA 94102",
+        "lat": 37.7764442,
+        "lng": -122.4250127,
+        "neighborhood": "Hayes Valley"
+      },
+      {
+        "address": "531 Divisadero St, San Francisco, CA 94117",
+        "lat": 37.7744196,
+        "lng": -122.4375265,
+        "neighborhood": "NoPa"
+      },
+      {
+        "address": "758 Valencia Street, San Francisco, CA 94110",
+        "lat": 37.7608194,
+        "lng": -122.4216435,
+        "neighborhood": "Mission"
+      },
+      {
+        "address": "2272 Chestnut Street, San Francisco, CA 94123",
+        "lat": 37.80033,
+        "lng": -122.4407367,
+        "neighborhood": "Marina"
+      },
+      {
+        "address": "2505 3rd Street, San Francisco, CA 94107",
+        "lat": 37.7577111,
+        "lng": -122.38806,
+        "neighborhood": "Dogpatch"
+      }
+    ]
+  },
+  {
+    "id": "starbird-chicken",
+    "name": "Starbird Chicken",
+    "website": "https://starbirdchicken.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "60 Morris Street, San Francisco, CA 94107",
+        "lat": 37.7766868,
+        "lng": -122.4024109,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "super-duper-burgers",
+    "name": "Super Duper Burgers",
+    "website": "https://www.superduperburgers.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Super+Duper",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1701 Fillmore St, San Francisco, CA 94115",
+        "lat": 37.785285,
+        "lng": -122.433317,
+        "neighborhood": null
+      },
+      {
+        "address": "3401 California St, San Francisco, CA 94118",
+        "lat": 37.786653,
+        "lng": -122.450247,
+        "neighborhood": null
+      },
+      {
+        "address": "2304 Market Street, San Francisco, CA 94114",
+        "lat": 37.763998,
+        "lng": -122.433731,
+        "neighborhood": null
+      },
+      {
+        "address": "737 Irving St, San Francisco, CA 94122",
+        "lat": 37.763906,
+        "lng": -122.465941,
+        "neighborhood": null
+      },
+      {
+        "address": "783 Mission Street, San Francisco, CA 94103",
+        "lat": 37.784872,
+        "lng": -122.403629,
+        "neighborhood": null
+      },
+      {
+        "address": "406 Hayes St, San Francisco, CA 94102",
+        "lat": 37.777007,
+        "lng": -122.423255,
+        "neighborhood": null
+      },
+      {
+        "address": "2201 Chestnut Street, San Francisco, CA 94123",
+        "lat": 37.800686,
+        "lng": -122.439195,
+        "neighborhood": null
+      },
+      {
+        "address": "721 Market Street, San Francisco, CA 94103",
+        "lat": 37.786854,
+        "lng": -122.403908,
+        "neighborhood": null
+      },
+      {
+        "address": "98 Mission Street, San Francisco, CA 94105",
+        "lat": 37.792802,
+        "lng": -122.394088,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
     "id": "sweetgreen",
     "name": "sweetgreen",
     "website": "https://www.sweetgreen.com",
@@ -94,6 +433,44 @@
         "lat": 37.800897,
         "lng": -122.437175,
         "neighborhood": "Marina"
+      }
+    ]
+  },
+  {
+    "id": "tender-greens",
+    "name": "Tender Greens",
+    "website": "https://www.tendergreens.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "30 Fremont St, San Francisco, CA 94105",
+        "lat": 37.7908283,
+        "lng": -122.397463,
+        "neighborhood": "Financial District"
+      }
+    ]
+  },
+  {
+    "id": "the-halal-guys",
+    "name": "The Halal Guys",
+    "website": "https://thehalalguys.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://thehalalguys.com/nutritional-guide/",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "336 O'Farrell St, San Francisco, CA 94102",
+        "lat": 37.786231,
+        "lng": -122.410376,
+        "neighborhood": "Union Square"
       }
     ]
   }

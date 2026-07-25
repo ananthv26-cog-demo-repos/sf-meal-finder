@@ -1,0 +1,141 @@
+{
+  "id": "super-duper-burgers",
+  "name": "Super Duper Burgers",
+  "website": "https://www.superduperburgers.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Super+Duper",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "1701 Fillmore St, San Francisco, CA 94115",
+      "lat": 37.785285,
+      "lng": -122.433317,
+      "neighborhood": null
+    },
+    {
+      "address": "3401 California St, San Francisco, CA 94118",
+      "lat": 37.786653,
+      "lng": -122.450247,
+      "neighborhood": null
+    },
+    {
+      "address": "2304 Market Street, San Francisco, CA 94114",
+      "lat": 37.763998,
+      "lng": -122.433731,
+      "neighborhood": null
+    },
+    {
+      "address": "737 Irving St, San Francisco, CA 94122",
+      "lat": 37.763906,
+      "lng": -122.465941,
+      "neighborhood": null
+    },
+    {
+      "address": "783 Mission Street, San Francisco, CA 94103",
+      "lat": 37.784872,
+      "lng": -122.403629,
+      "neighborhood": null
+    },
+    {
+      "address": "406 Hayes St, San Francisco, CA 94102",
+      "lat": 37.777007,
+      "lng": -122.423255,
+      "neighborhood": null
+    },
+    {
+      "address": "2201 Chestnut Street, San Francisco, CA 94123",
+      "lat": 37.800686,
+      "lng": -122.439195,
+      "neighborhood": null
+    },
+    {
+      "address": "721 Market Street, San Francisco, CA 94103",
+      "lat": 37.786854,
+      "lng": -122.403908,
+      "neighborhood": null
+    },
+    {
+      "address": "98 Mission Street, San Francisco, CA 94105",
+      "lat": 37.792802,
+      "lng": -122.394088,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "super-burger",
+      "name": "Super Burger",
+      "description": "Quarter-pound burger with cheese, Super Sauce, lettuce, tomato, onion, pickle.",
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 37.0,
+      "carbs_g": 39.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1440.0,
+      "serving_note": "per 1 burger (crowd-submitted; Super Duper publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/super-duper/super-burger"
+      }
+    },
+    {
+      "id": "mini-burger",
+      "name": "Mini Burger",
+      "description": "Single mini patty burger with cheese, Super Sauce and fixings.",
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 20.0,
+      "carbs_g": 39.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": null,
+      "serving_note": "per 1 burger (crowd-submitted; Super Duper publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/super-duper/mini-burger"
+      }
+    },
+    {
+      "id": "chicken-sandwich",
+      "name": "Chicken Sandwich",
+      "description": "Fried chicken sandwich.",
+      "category": "meal",
+      "calories": 800.0,
+      "protein_g": 65.0,
+      "carbs_g": 60.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1485.0,
+      "serving_note": "per 1 sandwich (crowd-submitted; Super Duper publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/super-duper/chicken-sandwich"
+      }
+    },
+    {
+      "id": "french-fries",
+      "name": "French Fries",
+      "description": null,
+      "category": "side",
+      "calories": 217.0,
+      "protein_g": 2.0,
+      "carbs_g": 29.0,
+      "fat_g": 10.0,
+      "fiber_g": null,
+      "sodium_mg": 146.0,
+      "serving_note": "per 1 serving (crowd-submitted; Super Duper publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/super-duper/french-fries"
+      }
+    }
+  ]
+}
