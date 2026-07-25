@@ -147,6 +147,9 @@ def category_for(section, name):
     lowered = name.lower()
     if lowered.startswith("add "):
         return "component"
+    section_category = SECTION_CATEGORIES.get(section)
+    if section_category == "meal":
+        return "meal"
     if any(word in lowered for word in ("dressing", "vinaigrette", "sauce", "mustard", "ketchup", "ranch")):
         return "condiment"
     if lowered == "apples":

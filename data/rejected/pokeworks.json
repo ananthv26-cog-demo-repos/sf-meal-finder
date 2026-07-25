@@ -67,5 +67,28 @@
     "reasons": [
       "pokeworks/beverage-classic-lemonade-10-5-oz: macro check failed — stated 140.0 kcal vs computed 0 (delta -140)"
     ]
+  },
+  {
+    "item": {
+      "id": "side-spicy-edamame-6-5oz",
+      "name": "Spicy Edamame (6.5oz)",
+      "description": null,
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 21.0,
+      "carbs_g": 17.0,
+      "fat_g": 14.0,
+      "fiber_g": 543.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 6.5oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    "reasons": [
+      "pokeworks/side-spicy-edamame-6-5oz: fiber_g 543.0 implausibly high"
+    ]
   }
 ]

@@ -5,10 +5,12 @@ calories. The tolerance is deliberately asymmetric:
 
 - Computed ABOVE stated calories is common and mostly benign: labels compute
   net carbs (fiber subtracted, ~4 kcal/g of slack), and per-macro rounding on
-  small items inflates the estimate. Allowed overshoot: 25% + 25 kcal.
+  small items inflates the estimate. Allowed overshoot: whichever is larger
+  of 25% or 25 kcal.
 - Computed BELOW stated calories means calories are coming from somewhere the
   macros don't capture (alcohol at 7 kcal/g, or simply wrong numbers). That is
-  suspicious for food, so the undershoot budget is tighter: 12% + 20 kcal.
+  suspicious for food, so the undershoot budget is tighter: whichever is larger
+  of 12% or 20 kcal.
 
 Rows that fail are quarantined (returned in `rejected`), never silently
 dropped and never published.
@@ -88,6 +90,11 @@ def validate_item(item, restaurant_id):
     for f in ("calories", "protein_g", "carbs_g", "fat_g"):
         if float(item[f]) < 0:
             errors.append(f"{ctx}: negative {f}")
+    for f in ("fiber_g", "sodium_mg"):
+        if item.get(f) is not None and float(item[f]) < 0:
+            errors.append(f"{ctx}: negative {f}")
+    if item.get("fiber_g") is not None and float(item["fiber_g"]) > 100:
+        errors.append(f"{ctx}: fiber_g {item['fiber_g']} implausibly high")
     if float(item["calories"]) > 5000:
         errors.append(f"{ctx}: calories {item['calories']} implausibly high — check what the row is per")
     ok, computed, delta = macro_check(item)

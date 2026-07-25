@@ -18,6 +18,7 @@ filling's macros (4 oz chicken = 180 cal), not the whole burrito.
 
 import datetime
 import json
+import os
 import sys
 import urllib.request
 from pathlib import Path
@@ -25,7 +26,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
 from save import save_restaurant  # noqa: E402
 
-KEY = "b4d9f36380184a3788857063bce25d6a"
+# Public client-side subscription key extractable from https://orderweb-cdn.chipotle.com/js/app.js.
+KEY = os.environ["CHIPOTLE_SUBSCRIPTION_KEY"]
 BASE = "https://services.chipotle.com"
 NUTRITION_URL = f"{BASE}/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
 RULES_URL = f"{BASE}/menuinnovation/v1/universalmenus/menurules?country=US"
