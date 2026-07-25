@@ -68,7 +68,7 @@ WANTED = {
 
 def fatsecret(params):
     key = os.environ["FATSECRET_CONSUMER_KEY"]
-    secret = os.environ["FAT_SECRET_CONSUMER_SECRET"]
+    secret = os.environ["FATSECRET_CONSUMER_SECRET"]
     p = {
         "oauth_consumer_key": key,
         "oauth_signature_method": "HMAC-SHA1",
