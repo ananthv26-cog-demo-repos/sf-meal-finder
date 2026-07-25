@@ -69,6 +69,7 @@ NAME_FIXES = {
     "TorZlla": "Tortilla",
     "LiBle": "Little",
     "PorQons": "Portions",
+    "PorWon": "Portion",
     "porWon": "portion",
     "nutriQon": "nutrition",
     "Cheffy": "Cheffy",
@@ -147,13 +148,15 @@ def category_for(section, name):
     lowered = name.lower()
     if lowered.startswith("add "):
         return "component"
-    section_category = SECTION_CATEGORIES.get(section)
-    if section_category == "meal":
-        return "meal"
-    if any(word in lowered for word in ("dressing", "vinaigrette", "sauce", "mustard", "ketchup", "ranch")):
-        return "condiment"
     if lowered == "apples":
         return "side"
+    section_category = SECTION_CATEGORIES.get(section)
+    has_condiment_keyword = any(
+        word in lowered for word in ("dressing", "vinaigrette", "sauce", "mustard", "ketchup", "ranch")
+    )
+    has_meal_word = any(word in lowered for word in ("salad", "sandwich", "wrap", "combo", "bowl"))
+    if has_condiment_keyword and not has_meal_word:
+        return "condiment"
     return SECTION_CATEGORIES.get(section, "side")
 
 

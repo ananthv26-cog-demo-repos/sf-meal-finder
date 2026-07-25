@@ -49,8 +49,12 @@ def save_restaurant(doc):
             print(f"  - {e}", file=sys.stderr)
         raise SystemExit(1)
 
-    rejected_ids = {r["item"].get("id") for r in rejected}
-    accepted = [i for i in doc["items"] if i["id"] not in rejected_ids]
+    rejected_items = {
+        id(rejected_item)
+        for rejected_row in rejected
+        if isinstance((rejected_item := rejected_row.get("item")), dict)
+    }
+    accepted = [item for item in doc["items"] if id(item) not in rejected_items]
 
     RESTAURANTS_DIR.mkdir(parents=True, exist_ok=True)
     REJECTED_DIR.mkdir(parents=True, exist_ok=True)
@@ -67,7 +71,7 @@ def save_restaurant(doc):
         rpath = REJECTED_DIR / f"{doc['id']}.json"
         rpath.unlink(missing_ok=True)
 
-    meals = sum(1 for i in accepted if i["category"] == "meal")
+    meals = sum(1 for i in accepted if i.get("category") == "meal")
     print(
         f"{doc['id']}: saved {len(accepted)} items ({meals} meals), "
         f"{len(doc['locations'])} SF location(s) -> {path}"
