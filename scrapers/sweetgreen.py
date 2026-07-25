@@ -40,7 +40,10 @@ def gql(query, variables):
 
 CATEGORY_MAP = {
     "beverages": "drink", "drinks": "drink", "sides": "side", "dressings": "condiment",
-    "dessert": "side", "ripple fries": "side", "custom": "component",
+    "dessert": "side", "featured": "side", "kids drinks": "drink",
+    "kids meals": "meal", "summer menu": "meal", "wraps": "meal",
+    "the function health menu": "meal", "bowls": "meal", "salads": "meal",
+    "protein plates": "meal", "new": "meal", "ripple fries": "side", "custom": "component",
 }
 
 
@@ -56,8 +59,13 @@ def main():
     menu = gql(MENU_QUERY, {"id": stores[0]["id"]})["restaurant"]["menu"]
     items, seen = [], set()
     for cat in menu["categories"]:
-        cat_kind = CATEGORY_MAP.get(cat["name"].strip().lower(), "meal")
+        section = cat["name"].strip().lower()
+        cat_kind = CATEGORY_MAP.get(section)
+        if cat_kind is None:
+            print(f"Warning: unmapped sweetgreen menu section {cat['name']!r}; defaulting to component", file=sys.stderr)
+            cat_kind = "component"
         for p in cat["products"]:
+            item_category = "drink" if "juice" in p["name"].lower() else cat_kind
             bp = p.get("baseProduct") or {}
             if bp.get("calories") in (None, 0) and not p.get("calories"):
                 continue
@@ -69,7 +77,7 @@ def main():
                 continue
             items.append({
                 "id": slug, "name": p["name"], "description": p.get("description"),
-                "category": cat_kind,
+                "category": item_category,
                 "calories": bp["calories"], "protein_g": bp["proteinG"],
                 "carbs_g": bp["totalCarbsG"], "fat_g": bp["totalFatG"],
                 "fiber_g": bp.get("dietaryFiberG"), "sodium_mg": None,
