@@ -1,0 +1,867 @@
+{
+  "id": "sweetgreen",
+  "name": "sweetgreen",
+  "website": "https://www.sweetgreen.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://order.sweetgreen.com/graphql",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "171 2nd St, San Francisco, CA 94105",
+      "lat": 37.787285,
+      "lng": -122.3985,
+      "neighborhood": "Soma"
+    },
+    {
+      "address": "1023 3rd Street, San Francisco, CA 94158",
+      "lat": 37.775462,
+      "lng": -122.389787,
+      "neighborhood": "Mission Rock"
+    },
+    {
+      "address": "150 Folsom Street, San Francisco, CA 94105",
+      "lat": 37.790009,
+      "lng": -122.391737,
+      "neighborhood": "Folsom + Main"
+    },
+    {
+      "address": "2040 Chestnut St., San Francisco, CA 94123",
+      "lat": 37.800897,
+      "lng": -122.437175,
+      "neighborhood": "Marina"
+    }
+  ],
+  "items": [
+    {
+      "id": "alice-waters-peach-and-goat-cheese-salad-may-2026",
+      "name": "Alice Waters' Peach & Goat Cheese Salad",
+      "description": "Peaches, goat cheese, mint, basil, cucumbers, almonds, garlic parm crunch, arugula, spring mix, lemon tarragon vinaigrette 1% of net purchase price Supports the Edible Schoolyard Project up to $50,000. See details for more information.",
+      "category": "meal",
+      "calories": 445,
+      "protein_g": 17,
+      "carbs_g": 22,
+      "fat_g": 31,
+      "fiber_g": 3,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "summer-market-bowl-may-2026",
+      "name": "Summer Market Bowl",
+      "description": "Antibiotic-free roasted chicken, warm wild rice, pickled onions, summer vegetable medley, maple toasted sunflower seeds, feta, pesto vinaigrette, baby spinach",
+      "category": "meal",
+      "calories": 730,
+      "protein_g": 43,
+      "carbs_g": 53,
+      "fat_g": 37,
+      "fiber_g": 7,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "picnic-bowl-may-2026",
+      "name": "Picnic Bowl",
+      "description": "Antibiotic-free blackened chicken, golden quinoa, summer vegetable medley, crispy onions, corn salsa, charred jalapeño ranch, chopped romaine",
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 29,
+      "carbs_g": 39,
+      "fat_g": 32,
+      "fiber_g": 7,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "classic-chicken-caesar-may-2026",
+      "name": "Classic Chicken Caesar",
+      "description": "Antibiotic-free roasted chicken, chopped romaine, garlic breadcrumbs, parmesan crisps, shaved parmesan, caesar dressing and lemon squeeze, wrapped in our new olive oil tortilla",
+      "category": "meal",
+      "calories": 990,
+      "protein_g": 47,
+      "carbs_g": 64,
+      "fat_g": 60,
+      "fiber_g": 2,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "cali-chicken-club-may-2026",
+      "name": "Cali Chicken Club",
+      "description": "Antibiotic-free roasted chicken, chopped romaine, crumbled bacon, garlic breadcrumbs, tomatoes, avocado and garlic aioli, wrapped in our new olive oil tortilla",
+      "category": "meal",
+      "calories": 1255,
+      "protein_g": 49,
+      "carbs_g": 76,
+      "fat_g": 86,
+      "fiber_g": 12,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "chicken-jalapeno-ranch-may-2026",
+      "name": "Chicken Jalapeño Ranch",
+      "description": "Antibiotic-free blackened chicken, white rice, white cheddar, corn salsa, pickled onions, shredded cabbage and charred jalapeño ranch, wrapped in our new olive oil tortilla",
+      "category": "meal",
+      "calories": 1320,
+      "protein_g": 41,
+      "carbs_g": 110,
+      "fat_g": 78,
+      "fiber_g": 5,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "kbbq-chicken-wrap-may-2026",
+      "name": "Saucy KBBQ Chicken",
+      "description": "Antibiotic-free roasted chicken, white rice, napa cabbage slaw, raw carrots, crispy onions, apple kimchi sauce, kbbq dressing and garlic aioli, wrapped in our new olive oil tortilla",
+      "category": "meal",
+      "calories": 1195,
+      "protein_g": 37,
+      "carbs_g": 130,
+      "fat_g": 60,
+      "fiber_g": 4,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "sourdough-cookie-may-2026",
+      "name": "Sourdough Chocolate Chip Cookie",
+      "description": "Baked fresh daily and made with artisan chocolate chips",
+      "category": "meal",
+      "calories": 240,
+      "protein_g": 3,
+      "carbs_g": 32,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "crispy-rice-bowl-(shredded-carrots)-dec-2025",
+      "name": "Crispy Rice Bowl",
+      "description": "Antibiotic-free blackened chicken, raw carrots, shredded cabbage, cucumbers, cilantro, roasted almonds, crispy rice, wild rice, organic arugula, lime squeeze and spicy cashew",
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 33,
+      "carbs_g": 61,
+      "fat_g": 31,
+      "fiber_g": 8,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "harvest-bowl",
+      "name": "Harvest Bowl",
+      "description": "Antibiotic-free roasted chicken, roasted sweet potatoes, apples, goat cheese, roasted almonds, wild rice, organic shredded kale and balsamic vinaigrette",
+      "category": "meal",
+      "calories": 760,
+      "protein_g": 40,
+      "carbs_g": 60,
+      "fat_g": 42,
+      "fiber_g": 10,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "chicken-pesto-parm-gq-oct-2025",
+      "name": "Chicken Pesto Parm",
+      "description": "Antibiotic-free roasted chicken, spicy broccoli, tomatoes, shaved parmesan, garlic breadcrumbs, golden quinoa, organic baby spinach, sweetgreen hot sauce and pesto vinaigrette",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 38,
+      "carbs_g": 30,
+      "fat_g": 24,
+      "fiber_g": 6,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "steak-honey-crunch-jan-2026",
+      "name": "Steak Honey Crunch",
+      "description": "Antibiotic-free grass-fed caramelized garlic steak, tomatoes, garlic breadcrumbs, pickled onions, golden quinoa, chopped romaine, hot honey mustard sauce",
+      "category": "meal",
+      "calories": 605,
+      "protein_g": 32,
+      "carbs_g": 43,
+      "fat_g": 33,
+      "fiber_g": 5,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "chicken-avocado-ranch-9bc2fb47-dba2-458e-9765-97a2eaaf5a43",
+      "name": "Chicken Avocado Ranch",
+      "description": "Antibiotic-free blackened chicken, avocado, pickled onions, apples, tortilla chips, white rice, chopped romaine and green goddess ranch",
+      "category": "meal",
+      "calories": 755,
+      "protein_g": 28,
+      "carbs_g": 59,
+      "fat_g": 43,
+      "fiber_g": 14,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "shroomami-s523",
+      "name": "Shroomami",
+      "description": "Roasted tofu, warm portobello mix, cucumbers, basil, shredded cabbage, roasted almonds, wild rice, organic shredded kale and miso sesame ginger",
+      "category": "meal",
+      "calories": 665,
+      "protein_g": 20,
+      "carbs_g": 51,
+      "fat_g": 45,
+      "fiber_g": 11,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "fish-taco-jan-2026",
+      "name": "Fish Taco",
+      "description": "Organic arugula, golden quinoa, cilantro, shredded cabbage, tortilla chips, avocado, antibiotic-free miso glazed salmon, lime cilantro jalapeno sauce, sweetgreen hot sauce",
+      "category": "meal",
+      "calories": 765,
+      "protein_g": 34,
+      "carbs_g": 44,
+      "fat_g": 50,
+      "fiber_g": 15,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "chicken-sesame-crunch-feb-2026",
+      "name": "Chicken Sesame Crunch",
+      "description": "Antibiotic-free roasted chicken, napa cabbage slaw, sesame crunch, crispy noodles, shredded cabbage, raw carrots, organic shredded kale, chopped romaine, citrus sesame vinaigrette",
+      "category": "meal",
+      "calories": 615,
+      "protein_g": 35,
+      "carbs_g": 54,
+      "fat_g": 29,
+      "fiber_g": 9,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "buffalo-chicken-feb-2026",
+      "name": "Buffalo Chicken",
+      "description": "Antibiotic-free blackened chicken, tomatoes, feta cheese, raw carrots, pickled onions, garlic breadcrumbs, cilantro, chopped romaine, organic shredded kale, caesar and sweetgreen hot sauce",
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 37,
+      "carbs_g": 30,
+      "fat_g": 35,
+      "fiber_g": 8,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "super-green-goddess-(shredded-carrots)-dec-2025",
+      "name": "Super Green Goddess",
+      "description": "Organic shredded kale, organic baby spinach, roasted sweet potatoes, shredded cabbage, spicy broccoli, roasted almonds, chickpeas, raw carrots, green goddess ranch",
+      "category": "meal",
+      "calories": 465,
+      "protein_g": 12,
+      "carbs_g": 36,
+      "fat_g": 31,
+      "fiber_g": 13,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "kale-caesar",
+      "name": "Kale Caesar",
+      "description": "Antibiotic-free roasted chicken, tomatoes, parmesan crisps, shaved parmesan, organic shredded kale, chopped romaine, lime squeeze and caesar",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 41,
+      "carbs_g": 14,
+      "fat_g": 33,
+      "fiber_g": 6,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "guacamole-greens-jan-2026",
+      "name": "Guacamole Greens",
+      "description": "Antibiotic-free roasted chicken, avocado, tomatoes, pickled onions, shredded cabbage, tortilla chips, organic spring mix, chopped romaine, lime squeeze and lime cilantro jalapeno vinaigrette",
+      "category": "meal",
+      "calories": 575,
+      "protein_g": 29,
+      "carbs_g": 33,
+      "fat_g": 35,
+      "fiber_g": 14,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "bbq-chicken-salad-may-2024",
+      "name": "BBQ Chicken Salad",
+      "description": "Antibiotic-free blackened chicken, shredded cabbage, pickled onions, tomatoes, apples, tortilla chips, chopped romaine, shredded kale, honey BBQ sauce and green goddess ranch",
+      "category": "meal",
+      "calories": 585,
+      "protein_g": 27,
+      "carbs_g": 40,
+      "fat_g": 30,
+      "fiber_g": 9,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "hummus-crunch-salad-feb-2026",
+      "name": "Hummus Crunch",
+      "description": "Hummus, feta crumble, napa cabbage slaw, chickpeas, tomatoes, cucumbers, shredded cabbage, garlic breadcrumbs, basil, organic shredded kale, chopped romaine, pesto vinaigrette",
+      "category": "meal",
+      "calories": 505,
+      "protein_g": 21,
+      "carbs_g": 42,
+      "fat_g": 26,
+      "fiber_g": 10,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "caramelized-garlic-steak-may-2024",
+      "name": "Caramelized Garlic Steak",
+      "description": "Antibiotic-free grass-fed caramelized garlic steak, warm roasted sweet potatoes, spicy broccoli, tomatoes, wild rice and pesto vinaigrette",
+      "category": "meal",
+      "calories": 770,
+      "protein_g": 34,
+      "carbs_g": 82,
+      "fat_g": 32,
+      "fiber_g": 8,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "miso-glazed-salmon-plate-sep-2025",
+      "name": "Miso Glazed Salmon",
+      "description": "Antibiotic-free miso glazed salmon, avocado, cucumbers, pickled onions, crispy onions, white rice, nori sesame seasoning and spicy cashew",
+      "category": "meal",
+      "calories": 880,
+      "protein_g": 34,
+      "carbs_g": 77,
+      "fat_g": 48,
+      "fiber_g": 12,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "hot-honey-chicken-gq-oct-2025",
+      "name": "Hot Honey Chicken",
+      "description": "Antibiotic-free blackened chicken, warm roasted sweet potatoes, napa cabbage slaw, crispy onions, golden quinoa and hot honey mustard sauce",
+      "category": "meal",
+      "calories": 845,
+      "protein_g": 49,
+      "carbs_g": 66,
+      "fat_g": 38,
+      "fiber_g": 7,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "steak-mezze-jan-2026",
+      "name": "Steak Mezze",
+      "description": "Antibiotic-free grass-fed caramelized garlic steak, hummus, tomatoes, cucumbers, crispy onions, pickled onions, white rice, lime cilantro jalapeño vinaigrette",
+      "category": "meal",
+      "calories": 755,
+      "protein_g": 34,
+      "carbs_g": 76,
+      "fat_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "ranchy-chicken-rice-modifiable",
+      "name": "Ranchy Chicken + Rice",
+      "description": "Wild rice, cucumbers, parmesan crisps, antibiotic-free roasted chicken, green goddess ranch",
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 33,
+      "carbs_g": 34,
+      "fat_g": 32,
+      "fiber_g": 2,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "little-harvest-modifiable-s523",
+      "name": "Little Harvest",
+      "description": "Apples, warm roasted sweet potatoes, antibiotic-free roasted chicken, balsamic vinaigrette",
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 24,
+      "carbs_g": 23,
+      "fat_g": 28,
+      "fiber_g": 3,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "mini-mezze-s5-2023",
+      "name": "Mini Mezze",
+      "description": "Cucumbers, tortilla chips, hummus, antibiotic-free roasted chicken",
+      "category": "meal",
+      "calories": 275,
+      "protein_g": 28,
+      "carbs_g": 18,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "honest-kids-apple-juice-jan-2024",
+      "name": "Honest Kids Apple Juice",
+      "description": "Organic juice with no added sugar or artificial sweeteners",
+      "category": "meal",
+      "calories": 110,
+      "protein_g": 0,
+      "carbs_g": 28,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "tortilla-on-side-may-2026",
+      "name": "Olive Oil Tortilla",
+      "description": "Side tortilla, made with just four ingredients *Contains common allergens, including gluten. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 51,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "rosemary-focaccia",
+      "name": "Rosemary Focaccia",
+      "description": "Freshly baked daily *Contains common allergens, including gluten. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 230,
+      "protein_g": 8,
+      "carbs_g": 34,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "sg-x-siete-green-goddess-ranch-potato-chips-s523",
+      "name": "SG X Siete: Green Goddess Ranch Potato Chips",
+      "description": "Kettle-cooked and inspired by our Green Goddess Ranch dressing flavor, made with avocado oil and a hint of poblano. Only available at sweetgreen",
+      "category": "side",
+      "calories": 220,
+      "protein_g": 3,
+      "carbs_g": 23,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "hummus-focaccia",
+      "name": "Hummus + Focaccia",
+      "description": "Freshly baked rosemary focaccia breadsticks with smooth hummus *Contains common allergens, including gluten. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 290,
+      "protein_g": 10,
+      "carbs_g": 37,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "siete-sea-salt-potato-chips",
+      "name": "Siete Sea Salt Potato Chips",
+      "description": "Kettle-cooked and made with sea salt and avocado oil for a light, salty crunch",
+      "category": "side",
+      "calories": 210,
+      "protein_g": 3,
+      "carbs_g": 27,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "hot-honey-sweet-potatoes",
+      "name": "Roasted Sweet Potatoes + Hot Honey Mustard",
+      "description": "Hot roasted sweet potatoes, hot honey sauce *Contains common allergens. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 350,
+      "protein_g": 2,
+      "carbs_g": 37,
+      "fat_g": 20,
+      "fiber_g": 4,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "green-goddess-sweet-potatoes-s222",
+      "name": "Roasted Sweet Potatoes + Green Goddess Ranch",
+      "description": "Hot roasted sweet potatoes, green goddess ranch *Contains common allergens, including dairy and eggs. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 360,
+      "protein_g": 3,
+      "carbs_g": 29,
+      "fat_g": 25,
+      "fiber_g": 4,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "hu-salty-dark-chocolate-bar",
+      "name": "Hu Salty Dark Chocolate Bar",
+      "description": "Organic dark chocolate with a pinch of sea salt and no refined sugar *This product is gluten-free and vegan but contains coconut. May contain other tree nuts & dairy. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 380,
+      "protein_g": 6,
+      "carbs_g": 28,
+      "fat_g": 28,
+      "fiber_g": 6,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "hu-cashews-vanilla-bean-hunks",
+      "name": "Hu Cashews + Vanilla Bean Hunks",
+      "description": "Organic snackable dark chocolate covered cashews with a pinch of sea salt and no refined sugar *This product is gluten-free and vegan but contains cashew & coconut. May contain dairy, peanuts & other tree nuts. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 170,
+      "protein_g": 4,
+      "carbs_g": 10,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "sweet-treat",
+      "name": "Crispy Rice Treat",
+      "description": "Crispy organic brown rice, quinoa, and puffed millet—naturally sweetened with honey date caramel and just 6g of sugar *This product is gluten-free but contains common allergens, including dairy and tree nuts. More info at sweetgreen.com/menu",
+      "category": "side",
+      "calories": 190,
+      "protein_g": 2,
+      "carbs_g": 23,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "olipop-lemon-lime-soda",
+      "name": "OLIPOP Lemon Lime Soda",
+      "description": "Like a sweet slice of key lime pie with a fresh squeeze of lemon, this fresh twist on a classic flavor has only 4g of sugar",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 9,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "harney-sons-organic-lemonade",
+      "name": "Harney & Sons Organic Lemonade",
+      "description": "A citrus refresher made with organic lemons + sweetened with organic maple syrup",
+      "category": "drink",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "spindrift-grapefruit",
+      "name": "Spindrift Grapefruit",
+      "description": "Sparkling water made with real grapefruit and no added sugar",
+      "category": "drink",
+      "calories": 17,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "health-ade-passionfruit-tangerine",
+      "name": "Health-Ade Passionfruit Tangerine",
+      "description": "A fruity, tangy drink that’s great for the gut",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "spindrift-raspberry-lime",
+      "name": "Spindrift Raspberry Lime",
+      "description": "Sparkling water made with real raspberries and limes and no added sugar",
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    {
+      "id": "health-ade-pink-lady-apple-canned",
+      "name": "Health-Ade Pink Lady Apple",
+      "description": "A crisp and slightly sweet brew with a hint of cider",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    }
+  ]
+}

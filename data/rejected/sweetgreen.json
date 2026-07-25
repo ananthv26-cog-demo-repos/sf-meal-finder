@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "olipop-vintage-cola",
+      "name": "OLIPOP Vintage Cola",
+      "description": "A classic cola made with plant-based, natural ingredients and just 2g of sugar",
+      "category": "drink",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 9,
+      "sodium_mg": null,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://order.sweetgreen.com/graphql"
+      }
+    },
+    "reasons": [
+      "sweetgreen/olipop-vintage-cola: macro check failed — stated 35 kcal vs computed 64 (delta +29)"
+    ]
+  }
+]
