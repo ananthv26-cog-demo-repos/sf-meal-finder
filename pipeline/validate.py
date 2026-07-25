@@ -140,14 +140,10 @@ def validate_restaurant(doc):
         if iid in seen:
             item_errors.append(f"{rid}/{iid}: duplicate item id")
         seen.add(iid)
-        if item_errors:
-            rejected.append({"item": item, "reasons": item_errors})
-    # crowd/derived data must be flagged as estimates
-    for item in doc["items"]:
+        # crowd/derived data must be flagged as estimates
         src_type = (item.get("source") or ns).get("type")
         if src_type in ("crowd", "derived") and not item.get("is_estimate"):
-            rejected.append({
-                "item": item,
-                "reasons": [f"{rid}/{item.get('id')}: {src_type} source must set is_estimate=true"],
-            })
+            item_errors.append(f"{rid}/{iid}: {src_type} source must set is_estimate=true")
+        if item_errors:
+            rejected.append({"item": item, "reasons": item_errors})
     return errors, rejected
