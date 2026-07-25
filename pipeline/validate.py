@@ -95,6 +95,8 @@ def validate_item(item, restaurant_id):
             errors.append(f"{ctx}: negative {f}")
     if item.get("fiber_g") is not None and float(item["fiber_g"]) > 100:
         errors.append(f"{ctx}: fiber_g {item['fiber_g']} implausibly high")
+    if item.get("sodium_mg") is not None and float(item["sodium_mg"]) > 10000:
+        errors.append(f"{ctx}: sodium_mg {item['sodium_mg']} implausibly high")
     if float(item["calories"]) > 5000:
         errors.append(f"{ctx}: calories {item['calories']} implausibly high — check what the row is per")
     ok, computed, delta = macro_check(item)

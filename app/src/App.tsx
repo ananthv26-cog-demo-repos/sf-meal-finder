@@ -29,11 +29,11 @@ type Meal = {
   source_url: string
 }
 
-const defaultFilters = { minCalories: 0, maxCalories: 2000, minProtein: 0, unofficial: false, search: '' }
+const defaultFilters = { minCalories: '0', maxCalories: '2000', minProtein: '0', unofficial: false, search: '' }
 const presets = [
-  { label: 'Cutting 400–700 · 30g+', minCalories: 400, maxCalories: 700, minProtein: 30 },
-  { label: 'Standard 700–900 · 40g+', minCalories: 700, maxCalories: 900, minProtein: 40 },
-  { label: 'Bulking 900–1300 · 50g+', minCalories: 900, maxCalories: 1300, minProtein: 50 },
+  { label: 'Cutting 400–700 · 30g+', minCalories: '400', maxCalories: '700', minProtein: '30' },
+  { label: 'Standard 700–900 · 40g+', minCalories: '700', maxCalories: '900', minProtein: '40' },
+  { label: 'Bulking 900–1300 · 50g+', minCalories: '900', maxCalories: '1300', minProtein: '50' },
 ]
 
 function FocusRestaurant({ restaurantId, restaurants }: { restaurantId: string | null; restaurants: Restaurant[] }) {
@@ -50,6 +50,12 @@ function FocusRestaurant({ restaurantId, restaurants }: { restaurantId: string |
 
 function formatNumber(value: number, isEstimate: boolean) {
   return `${isEstimate ? '~' : ''}${value}`
+}
+
+function parseFilterValue(value: string, emptyValue: number, invalidValue: number) {
+  if (value.trim() === '') return emptyValue
+  const parsed = Number(value)
+  return Number.isFinite(parsed) ? parsed : invalidValue
 }
 
 function App() {
@@ -71,10 +77,13 @@ function App() {
   const restaurantById = useMemo(() => new Map(restaurants.map((item) => [item.id, item])), [restaurants])
   const filteredMeals = useMemo(() => {
     const query = filters.search.trim().toLowerCase()
+    const minCalories = parseFilterValue(filters.minCalories, 0, 0)
+    const maxCalories = parseFilterValue(filters.maxCalories, Number.POSITIVE_INFINITY, Number.POSITIVE_INFINITY)
+    const minProtein = parseFilterValue(filters.minProtein, 0, 0)
     return [...meals]
       .filter((meal) => meal.category === 'meal')
-      .filter((meal) => meal.calories >= filters.minCalories && meal.calories <= filters.maxCalories)
-      .filter((meal) => meal.protein_g >= filters.minProtein)
+      .filter((meal) => meal.calories >= minCalories && meal.calories <= maxCalories)
+      .filter((meal) => meal.protein_g >= minProtein)
       .filter((meal) => filters.unofficial || !meal.is_estimate)
       .filter((meal) => {
         if (!query) return true
@@ -87,8 +96,7 @@ function App() {
   const totalMeals = meals.filter((meal) => meal.category === 'meal').length
 
   const updateNumber = (key: 'minCalories' | 'maxCalories' | 'minProtein', value: string) => {
-    const parsed = Number(value)
-    setFilters((current) => ({ ...current, [key]: Number.isFinite(parsed) ? parsed : 0 }))
+    setFilters((current) => ({ ...current, [key]: value }))
   }
 
   return (
