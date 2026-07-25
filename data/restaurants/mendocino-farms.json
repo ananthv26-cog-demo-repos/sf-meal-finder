@@ -17,8 +17,8 @@
     },
     {
       "address": "303 2nd Street, San Francisco, CA 94107",
-      "lat": 37.7851497,
-      "lng": -122.395515,
+      "lat": 37.7848586,
+      "lng": -122.3957025,
       "neighborhood": "SoMa"
     }
   ],
@@ -99,7 +99,7 @@
       "id": "seasonal-goat-with-sweet-citrus-without-dressing",
       "name": "Seasonal GOAT with Sweet Citrus (without dressing)",
       "description": null,
-      "category": "condiment",
+      "category": "meal",
       "calories": 580,
       "protein_g": 36,
       "carbs_g": 48,
@@ -729,7 +729,7 @@
       "id": "the-modern-caesar-without-dressing",
       "name": "The Modern Caesar (without dressing)",
       "description": null,
-      "category": "condiment",
+      "category": "meal",
       "calories": 260,
       "protein_g": 13,
       "carbs_g": 25,
@@ -783,7 +783,7 @@
       "id": "golden-state-cobb-without-dressing",
       "name": "Golden State Cobb (without dressing)",
       "description": null,
-      "category": "condiment",
+      "category": "meal",
       "calories": 450,
       "protein_g": 29,
       "carbs_g": 26,

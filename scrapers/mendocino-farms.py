@@ -169,7 +169,7 @@ def item_from_row(row, section, previous_name):
         name = f"{previous_name} ({name.lower()})"
     elif add_on:
         name = f"{name} to {previous_name}"
-    category = category_for(section, name)
+    category = category_for(section, previous_name if clarified else name)
     calories, _calories_from_fat, fat, _sat_fat, _trans_fat, cholesterol, sodium, carbs, fiber, _sugar, protein = values
     return {
         "id": re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-"),
