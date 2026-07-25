@@ -1,0 +1,53 @@
+[
+  {
+    "id": "tofu-power-bowl",
+    "restaurant_id": "mission-bowl",
+    "name": "Tofu Power Bowl",
+    "description": "Brown rice, greens, tofu, and sesame dressing.",
+    "category": "meal",
+    "calories": 540,
+    "protein_g": 28,
+    "carbs_g": 68,
+    "fat_g": 18,
+    "fiber_g": 11,
+    "sodium_mg": 690,
+    "serving_note": "per bowl",
+    "is_estimate": false,
+    "source_type": "published",
+    "source_url": "fixture"
+  },
+  {
+    "id": "salmon-grain-bowl",
+    "restaurant_id": "bay-greens",
+    "name": "Salmon Grain Bowl",
+    "description": "Roasted salmon with farro and seasonal greens.",
+    "category": "meal",
+    "calories": 610,
+    "protein_g": 36,
+    "carbs_g": 55,
+    "fat_g": 25,
+    "fiber_g": 8,
+    "sodium_mg": 720,
+    "serving_note": "per bowl",
+    "is_estimate": false,
+    "source_type": "vendor",
+    "source_url": "fixture"
+  },
+  {
+    "id": "sesame-cucumber",
+    "restaurant_id": "mission-bowl",
+    "name": "Sesame Cucumber",
+    "description": "Crisp cucumber with sesame chili dressing.",
+    "category": "side",
+    "calories": 90,
+    "protein_g": 2,
+    "carbs_g": 9,
+    "fat_g": 5,
+    "fiber_g": 2,
+    "sodium_mg": 210,
+    "serving_note": "per side",
+    "is_estimate": false,
+    "source_type": "published",
+    "source_url": "fixture"
+  }
+]

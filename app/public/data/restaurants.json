@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mission-bowl",
+    "name": "Mission Bowl",
+    "website": "https://example.com/mission-bowl",
+    "nutrition_source": { "type": "published", "url": "fixture", "retrieved": "2024-01-01" },
+    "locations": [
+      { "address": "250 Valencia St, San Francisco, CA", "lat": 37.7684, "lng": -122.4223, "neighborhood": "Mission" }
+    ]
+  },
+  {
+    "id": "bay-greens",
+    "name": "Bay Greens",
+    "website": "https://example.com/bay-greens",
+    "nutrition_source": { "type": "vendor", "url": "fixture", "retrieved": "2024-01-01" },
+    "locations": [
+      { "address": "301 3rd St, San Francisco, CA", "lat": 37.7836, "lng": -122.4011, "neighborhood": "SoMa" }
+    ]
+  }
+]
