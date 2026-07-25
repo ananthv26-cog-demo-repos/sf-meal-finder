@@ -94,51 +94,52 @@ def _section_for_line(text, current):
 
 def _rows(pdf_path):
     current = None
-    for page in pdfplumber.open(pdf_path).pages:
-        grouped = []
-        words = [word for word in page.extract_words() if word["upright"]]
-        for word in sorted(words, key=lambda w: w["top"]):
-            if not grouped or word["top"] - grouped[-1][0] > 1.0:
-                grouped.append((word["top"], [word]))
-            else:
-                grouped[-1][1].append(word)
-        for _, words in grouped:
-            row_words = sorted(words, key=lambda w: w["x0"])
-            line = " ".join(w["text"] for w in row_words)
-            current = _section_for_line(line, current)
-            if current is None or current == "POKE BOWLS":
-                continue
-            numeric = [
-                w for w in row_words
-                if 140 <= w["x0"] <= 360 and NUMBER_RE.match(w["text"])
-            ]
-            if len(numeric) < 8:
-                continue
-            values = [_row_value(numeric, center) for center in COLUMN_CENTERS]
-            if values[1] is None or values[2] is None:
-                continue
-            name_words = [w["text"] for w in row_words if w["x0"] < 140]
-            name = " ".join(name_words).strip()
-            if not name:
-                continue
-            portion_words = [
-                w["text"] for w in row_words
-                if 140 <= w["x0"] < 165 and w["text"] not in {"<"}
-            ]
-            portion_text = " ".join(portion_words).strip()
-            # PDF text extraction can join the beverage name and its portion,
-            # e.g. "Green Tea10.5 oz". Preserve the drink name and recover
-            # the glued numeric portion.
-            glued = re.search(r"(Tea|Fresca|Lemonade|Latte)(\d+(?:\.\d+)?)$", name)
-            if glued:
-                name = name[:glued.start()] + glued.group(1)
-                if portion_text == "oz":
-                    portion_text = f"{glued.group(2)} oz"
-            if not portion_text:
-                match = re.match(r"^(.*) (\d+(?:\.\d+)?\s*oz)$", name)
-                if match:
-                    name, portion_text = match.groups()
-            yield current, name, portion_text, values, line
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages:
+            grouped = []
+            words = [word for word in page.extract_words() if word["upright"]]
+            for word in sorted(words, key=lambda w: w["top"]):
+                if not grouped or word["top"] - grouped[-1][0] > 1.0:
+                    grouped.append((word["top"], [word]))
+                else:
+                    grouped[-1][1].append(word)
+            for _, words in grouped:
+                row_words = sorted(words, key=lambda w: w["x0"])
+                line = " ".join(w["text"] for w in row_words)
+                current = _section_for_line(line, current)
+                if current is None or current == "POKE BOWLS":
+                    continue
+                numeric = [
+                    w for w in row_words
+                    if 140 <= w["x0"] <= 360 and NUMBER_RE.match(w["text"])
+                ]
+                if len(numeric) < 8:
+                    continue
+                values = [_row_value(numeric, center) for center in COLUMN_CENTERS]
+                if values[1] is None or values[2] is None:
+                    continue
+                name_words = [w["text"] for w in row_words if w["x0"] < 140]
+                name = " ".join(name_words).strip()
+                if not name:
+                    continue
+                portion_words = [
+                    w["text"] for w in row_words
+                    if 140 <= w["x0"] < 165 and w["text"] not in {"<"}
+                ]
+                portion_text = " ".join(portion_words).strip()
+                # PDF text extraction can join the beverage name and its portion,
+                # e.g. "Green Tea10.5 oz". Preserve the drink name and recover
+                # the glued numeric portion.
+                glued = re.search(r"(Tea|Fresca|Lemonade|Latte)(\d+(?:\.\d+)?)$", name)
+                if glued:
+                    name = name[:glued.start()] + glued.group(1)
+                    if portion_text == "oz":
+                        portion_text = f"{glued.group(2)} oz"
+                if not portion_text:
+                    match = re.match(r"^(.*) (\d+(?:\.\d+)?\s*oz)$", name)
+                    if match:
+                        name, portion_text = match.groups()
+                yield current, name, portion_text, values, line
 
 
 def _slug(text):
@@ -172,9 +173,10 @@ def _display_name(section, name, portion):
     return name
 
 
-def parse_pdf(pdf_path):
+def parse_pdf(pdf_path, rows=None):
     items = []
-    for section, name, portion, values, _ in _rows(pdf_path):
+    source_rows = rows if rows is not None else _rows(pdf_path)
+    for section, name, portion, values, _ in source_rows:
         data = dict(zip(COLUMN_NAMES, values))
         if data["calories"] is None or data["fat_g"] is None or data["carbs_g"] is None or data["protein_g"] is None:
             raise ValueError(f"missing required nutrition cell for {section}/{name} ({values})")
@@ -250,9 +252,10 @@ def _locations():
 def main():
     pdf_path = _download_pdf()
     try:
-        items = parse_pdf(pdf_path)
+        rows = list(_rows(pdf_path))
+        items = parse_pdf(pdf_path, rows)
         wanted = {("SIGNATURE WORKS", "Spicy Ahi Tuna (Regular)"), ("PROTEIN", "Ahi Tuna")}
-        for section, name, portion, values, raw_line in _rows(pdf_path):
+        for section, name, portion, values, raw_line in rows:
             if (section, name) in wanted:
                 print(
                     f"spot-check {section}/{name}: raw pdfplumber line: {raw_line} || "
