@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "chicken-blt-wrap",
+      "name": "Chicken BLT Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 35,
+      "carbs_g": 52,
+      "fat_g": 17,
+      "fiber_g": 1,
+      "sodium_mg": 1240,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    "reasons": [
+      "proper-food/chicken-blt-wrap: macro check failed — stated 620 kcal vs computed 501 (delta -119)"
+    ]
+  }
+]

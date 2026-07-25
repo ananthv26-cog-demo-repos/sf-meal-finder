@@ -246,6 +246,85 @@
     ]
   },
   {
+    "id": "proper-food",
+    "name": "Proper Food",
+    "website": "https://properfood.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "100 First Street, San Francisco, CA 94105",
+        "lat": 37.789152,
+        "lng": -122.3976135,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "116 Montgomery St, San Francisco, CA 94102",
+        "lat": 37.790377,
+        "lng": -122.4019257,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "180 Howard St, San Francisco, CA 94105",
+        "lat": 37.791073,
+        "lng": -122.393397,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "2 Embarcadero Center, San Francisco, CA 94111",
+        "lat": 37.7947881,
+        "lng": -122.3984101,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "35 Spear St, San Francisco, CA 94104",
+        "lat": 37.7920497,
+        "lng": -122.393204,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "45 Fremont St, San Francisco, CA 94105",
+        "lat": 37.7912489,
+        "lng": -122.3971488,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "525 Market St, San Francisco, CA 94105",
+        "lat": 37.790507,
+        "lng": -122.3990375,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "555 California Street, San Francisco, CA 94104",
+        "lat": 37.7920903,
+        "lng": -122.4036761,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "588 Mission Bay Blvd N, San Francisco, CA 94158",
+        "lat": 37.7712778,
+        "lng": -122.3906509,
+        "neighborhood": "Mission Bay"
+      },
+      {
+        "address": "655 Montgomery St, San Francisco, CA 94111",
+        "lat": 37.7968158,
+        "lng": -122.4049119,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "Toni Stone Crossing (Mission Rock), San Francisco, CA 94158",
+        "lat": 37.7754184,
+        "lng": -122.3889959,
+        "neighborhood": "Mission Bay"
+      }
+    ]
+  },
+  {
     "id": "shake-shack",
     "name": "Shake Shack",
     "website": "https://shakeshack.com",
@@ -471,6 +550,31 @@
         "lat": 37.786231,
         "lng": -122.410376,
         "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "the-melt",
+    "name": "The Melt",
+    "website": "https://www.themelt.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.themelt.com/_api/cloud-data/v1/wix-data/collections/query",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "455 Market St, San Francisco, CA 94105",
+        "lat": 37.79079189999999,
+        "lng": -122.3984543,
+        "neighborhood": null
+      },
+      {
+        "address": "925 Market St, San Francisco, CA 94103",
+        "lat": 37.7833043,
+        "lng": -122.408453,
+        "neighborhood": null
       }
     ]
   }
