@@ -1,0 +1,4878 @@
+[
+  {
+    "item": {
+      "id": "prosecco-sparkling-wine-350-ml",
+      "name": "Prosecco Sparkling Wine (350 mL)",
+      "description": "Taco Bell menu section: Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/prosecco-sparkling-wine-350-ml: macro check failed — stated 280.0 kcal vs computed 36 (delta -244)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-wine-6-3-fl-oz",
+      "name": "Red Wine (6.3 fl oz)",
+      "description": "Taco Bell menu section: Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "taco-bell/red-wine-6-3-fl-oz: macro check failed — stated 160.0 kcal vs computed 20 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rum-80-proof",
+      "name": "Rum (80 proof)",
+      "description": "Taco Bell menu section: Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/rum-80-proof: macro check failed — stated 70.0 kcal vs computed 0 (delta -70)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tequila-80-proof",
+      "name": "Tequila (80 proof)",
+      "description": "Taco Bell menu section: Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tequila-80-proof: macro check failed — stated 70.0 kcal vs computed 0 (delta -70)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vodka-80-proof",
+      "name": "Vodka (80 proof)",
+      "description": "Taco Bell menu section: Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/vodka-80-proof: macro check failed — stated 70.0 kcal vs computed 0 (delta -70)"
+    ]
+  },
+  {
+    "item": {
+      "id": "anchor-steam-16-oz",
+      "name": "Anchor Steam (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/anchor-steam-16-oz: macro check failed — stated 200.0 kcal vs computed 0 (delta -200)"
+    ]
+  },
+  {
+    "item": {
+      "id": "angel-island-ipa-12-oz",
+      "name": "Angel Island IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/angel-island-ipa-12-oz: macro check failed — stated 190.0 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "angel-island-ipa-16-oz",
+      "name": "Angel Island IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 2.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/angel-island-ipa-16-oz: macro check failed — stated 250.0 kcal vs computed 84 (delta -166)"
+    ]
+  },
+  {
+    "item": {
+      "id": "angry-orchard-16-oz",
+      "name": "Angry Orchard (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/angry-orchard-16-oz: macro check failed — stated 260.0 kcal vs computed 0 (delta -260)"
+    ]
+  },
+  {
+    "item": {
+      "id": "angry-orchard-crisp-apple-12-oz",
+      "name": "Angry Orchard - Crisp Apple (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/angry-orchard-crisp-apple-12-oz: macro check failed — stated 200.0 kcal vs computed 100 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "angry-orchard-crisp-apple-16-oz",
+      "name": "Angry Orchard - Crisp Apple (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/angry-orchard-crisp-apple-16-oz: macro check failed — stated 260.0 kcal vs computed 132 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "barrio-blonde-12-oz",
+      "name": "Barrio Blonde (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/barrio-blonde-12-oz: macro check failed — stated 160.0 kcal vs computed 40 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "barrio-blonde-16-oz",
+      "name": "Barrio Blonde (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/barrio-blonde-16-oz: macro check failed — stated 210.0 kcal vs computed 52 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beach-bell-beer-12-oz",
+      "name": "Beach Bell Beer (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/beach-bell-beer-12-oz: macro check failed — stated 180.0 kcal vs computed 56 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beach-bell-beer-16-oz",
+      "name": "Beach Bell Beer (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/beach-bell-beer-16-oz: macro check failed — stated 240.0 kcal vs computed 76 (delta -164)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beer-general-12-oz",
+      "name": "Beer - General (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/beer-general-12-oz: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beer-general-16-oz",
+      "name": "Beer - General (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/beer-general-16-oz: macro check failed — stated 200.0 kcal vs computed 76 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bell-s-two-hearted-ale-12-oz",
+      "name": "Bell's Two Hearted Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bell-s-two-hearted-ale-12-oz: macro check failed — stated 210.0 kcal vs computed 68 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bell-s-two-hearted-ale-16-oz",
+      "name": "Bell's Two Hearted Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bell-s-two-hearted-ale-16-oz: macro check failed — stated 280.0 kcal vs computed 88 (delta -192)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bell-tower-cerveza-12-oz",
+      "name": "Bell Tower Cerveza (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bell-tower-cerveza-12-oz: macro check failed — stated 110.0 kcal vs computed 52 (delta -58)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bell-tower-cerveza-16-oz",
+      "name": "Bell Tower Cerveza (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bell-tower-cerveza-16-oz: macro check failed — stated 140.0 kcal vs computed 68 (delta -72)"
+    ]
+  },
+  {
+    "item": {
+      "id": "black-abbey-the-rose-12-oz",
+      "name": "Black Abbey - The Rose (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/black-abbey-the-rose-12-oz: macro check failed — stated 160.0 kcal vs computed 48 (delta -112)"
+    ]
+  },
+  {
+    "item": {
+      "id": "black-abbey-the-rose-16-oz",
+      "name": "Black Abbey - The Rose (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/black-abbey-the-rose-16-oz: macro check failed — stated 220.0 kcal vs computed 68 (delta -152)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-moon-belgian-white-12-oz",
+      "name": "Blue Moon Belgian White (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/blue-moon-belgian-white-12-oz: macro check failed — stated 170.0 kcal vs computed 64 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-moon-belgian-white-16-oz",
+      "name": "Blue Moon Belgian White (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/blue-moon-belgian-white-16-oz: macro check failed — stated 220.0 kcal vs computed 88 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-moon-belgian-white-24-oz",
+      "name": "Blue Moon Belgian White (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    "reasons": [
+      "taco-bell/blue-moon-belgian-white-24-oz: macro check failed — stated 340.0 kcal vs computed 128 (delta -212)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-moon-belgian-white-bottle-12-oz",
+      "name": "Blue Moon Belgian White Bottle (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/blue-moon-belgian-white-bottle-12-oz: macro check failed — stated 170.0 kcal vs computed 64 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-moon-mango-wheat-12-oz",
+      "name": "Blue Moon Mango Wheat (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/blue-moon-mango-wheat-12-oz: macro check failed — stated 180.0 kcal vs computed 72 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-moon-mango-wheat-16-oz",
+      "name": "Blue Moon Mango Wheat (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/blue-moon-mango-wheat-16-oz: macro check failed — stated 230.0 kcal vs computed 96 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-point-big-city-bells-pilsner-12-oz",
+      "name": "Blue Point Big City Bells Pilsner (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/blue-point-big-city-bells-pilsner-12-oz: macro check failed — stated 160.0 kcal vs computed 48 (delta -112)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-point-big-city-bells-pilsner-16-oz",
+      "name": "Blue Point Big City Bells Pilsner (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/blue-point-big-city-bells-pilsner-16-oz: macro check failed — stated 210.0 kcal vs computed 64 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-point-hoptical-illusion-ipa-12-oz",
+      "name": "Blue Point Hoptical Illusion IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/blue-point-hoptical-illusion-ipa-12-oz: macro check failed — stated 220.0 kcal vs computed 84 (delta -136)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-point-hoptical-illusion-ipa-16-oz",
+      "name": "Blue Point Hoptical Illusion IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    "reasons": [
+      "taco-bell/blue-point-hoptical-illusion-ipa-16-oz: macro check failed — stated 290.0 kcal vs computed 112 (delta -178)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-point-toasted-lager-12-oz",
+      "name": "Blue Point Toasted Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/blue-point-toasted-lager-12-oz: macro check failed — stated 150.0 kcal vs computed 68 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-point-toasted-lager-16-oz",
+      "name": "Blue Point Toasted Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/blue-point-toasted-lager-16-oz: macro check failed — stated 200.0 kcal vs computed 92 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-cherry-blossom-and-lime-12-oz",
+      "name": "Boulevard Cherry Blossom and Lime (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-cherry-blossom-and-lime-12-oz: macro check failed — stated 90.0 kcal vs computed 12 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-cherry-blossom-and-lime-16-oz",
+      "name": "Boulevard Cherry Blossom and Lime (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-cherry-blossom-and-lime-16-oz: macro check failed — stated 120.0 kcal vs computed 16 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-space-camper-cosmic-ipa-12-oz",
+      "name": "Boulevard Space Camper Cosmic IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-space-camper-cosmic-ipa-12-oz: macro check failed — stated 180.0 kcal vs computed 56 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-space-camper-cosmic-ipa-16-oz",
+      "name": "Boulevard Space Camper Cosmic IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-space-camper-cosmic-ipa-16-oz: macro check failed — stated 230.0 kcal vs computed 76 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-unfiltered-wheat-beer-12-oz",
+      "name": "Boulevard Unfiltered Wheat Beer (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-unfiltered-wheat-beer-12-oz: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-unfiltered-wheat-beer-16-oz",
+      "name": "Boulevard Unfiltered Wheat Beer (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-unfiltered-wheat-beer-16-oz: macro check failed — stated 200.0 kcal vs computed 80 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-unfiltered-wheat-beer-100-12-oz",
+      "name": "Boulevard Unfiltered Wheat Beer 100 (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-unfiltered-wheat-beer-100-12-oz: macro check failed — stated 100.0 kcal vs computed 20 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "boulevard-unfiltered-wheat-beer-100-16-oz",
+      "name": "Boulevard Unfiltered Wheat Beer 100 (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/boulevard-unfiltered-wheat-beer-100-16-oz: macro check failed — stated 130.0 kcal vs computed 28 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "breaking-bud-12-oz",
+      "name": "Breaking Bud (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/breaking-bud-12-oz: macro check failed — stated 180.0 kcal vs computed 52 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "breaking-bud-16-oz",
+      "name": "Breaking Bud (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/breaking-bud-16-oz: macro check failed — stated 240.0 kcal vs computed 72 (delta -168)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-lager-12-oz",
+      "name": "Brooklyn Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/brooklyn-lager-12-oz: macro check failed — stated 170.0 kcal vs computed 52 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brooklyn-lager-16-oz",
+      "name": "Brooklyn Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/brooklyn-lager-16-oz: macro check failed — stated 230.0 kcal vs computed 72 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bud-light-12-oz",
+      "name": "Bud Light (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bud-light-12-oz: macro check failed — stated 110.0 kcal vs computed 32 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bud-light-16-oz",
+      "name": "Bud Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bud-light-16-oz: macro check failed — stated 150.0 kcal vs computed 40 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bud-light-bottle-16-oz",
+      "name": "Bud Light Bottle (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/bud-light-bottle-16-oz: macro check failed — stated 110.0 kcal vs computed 32 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "budweiser-12-oz",
+      "name": "Budweiser (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/budweiser-12-oz: macro check failed — stated 150.0 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "budweiser-16-oz",
+      "name": "Budweiser (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/budweiser-16-oz: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "budweiser-bottle-16-oz",
+      "name": "Budweiser Bottle (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/budweiser-bottle-16-oz: macro check failed — stated 180.0 kcal vs computed 64 (delta -116)"
+    ]
+  },
+  {
+    "item": {
+      "id": "busch-light-16-oz",
+      "name": "Busch Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/busch-light-16-oz: macro check failed — stated 130.0 kcal vs computed 20 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "calicraft-coast-12-oz",
+      "name": "Calicraft Coast (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/calicraft-coast-12-oz: macro check failed — stated 130.0 kcal vs computed 44 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "calicraft-coast-16-oz",
+      "name": "Calicraft Coast (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/calicraft-coast-16-oz: macro check failed — stated 170.0 kcal vs computed 60 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "captain-lawrence-hop-commander-12-oz",
+      "name": "Captain Lawrence Hop Commander (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/captain-lawrence-hop-commander-12-oz: macro check failed — stated 200.0 kcal vs computed 68 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cool-kidz-ipa-16-oz",
+      "name": "Cool Kidz IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/cool-kidz-ipa-16-oz: macro check failed — stated 220.0 kcal vs computed 0 (delta -220)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors-coors-banquet-12-oz",
+      "name": "Coors (Coors Banquet) (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/coors-coors-banquet-12-oz: macro check failed — stated 150.0 kcal vs computed 52 (delta -98)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors-coors-banquet-16-oz",
+      "name": "Coors (Coors Banquet) (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 1.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/coors-coors-banquet-16-oz: macro check failed — stated 200.0 kcal vs computed 68 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors-light-12-oz",
+      "name": "Coors Light (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/coors-light-12-oz: macro check failed — stated 100.0 kcal vs computed 20 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors-light-16-oz",
+      "name": "Coors Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/coors-light-16-oz: macro check failed — stated 140.0 kcal vs computed 28 (delta -112)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors-light-24-oz",
+      "name": "Coors Light (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/coors-light-24-oz: macro check failed — stated 200.0 kcal vs computed 40 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "copperhead-red-12-oz",
+      "name": "Copperhead Red (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/copperhead-red-12-oz: macro check failed — stated 180.0 kcal vs computed 84 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "copperhead-red-16-oz",
+      "name": "Copperhead Red (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/copperhead-red-16-oz: macro check failed — stated 240.0 kcal vs computed 112 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-extra-12-oz",
+      "name": "Corona Extra (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/corona-extra-12-oz: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-extra-16-oz",
+      "name": "Corona Extra (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    "reasons": [
+      "taco-bell/corona-extra-16-oz: macro check failed — stated 200.0 kcal vs computed 84 (delta -116)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-light-12-oz",
+      "name": "Corona Light (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/corona-light-12-oz: macro check failed — stated 100.0 kcal vs computed 24 (delta -76)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-light-16-oz",
+      "name": "Corona Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/corona-light-16-oz: macro check failed — stated 130.0 kcal vs computed 32 (delta -98)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-premier-12-oz",
+      "name": "Corona Premier (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/corona-premier-12-oz: macro check failed — stated 90.0 kcal vs computed 12 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-premier-16-oz",
+      "name": "Corona Premier (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/corona-premier-16-oz: macro check failed — stated 120.0 kcal vs computed 16 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dos-equis-lager-especial-12-oz",
+      "name": "Dos Equis Lager Especial (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/dos-equis-lager-especial-12-oz: macro check failed — stated 130.0 kcal vs computed 44 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dos-equis-lager-especial-16-oz",
+      "name": "Dos Equis Lager Especial (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/dos-equis-lager-especial-16-oz: macro check failed — stated 170.0 kcal vs computed 60 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dos-equis-mexican-pale-ale-12-oz",
+      "name": "Dos Equis Mexican Pale Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/dos-equis-mexican-pale-ale-12-oz: macro check failed — stated 180.0 kcal vs computed 68 (delta -112)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dos-equis-mexican-pale-ale-16-oz",
+      "name": "Dos Equis Mexican Pale Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/dos-equis-mexican-pale-ale-16-oz: macro check failed — stated 230.0 kcal vs computed 92 (delta -138)"
+    ]
+  },
+  {
+    "item": {
+      "id": "elysian-space-dust-ipa-16-oz",
+      "name": "Elysian Space Dust IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 310.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/elysian-space-dust-ipa-16-oz: macro check failed — stated 310.0 kcal vs computed 72 (delta -238)"
+    ]
+  },
+  {
+    "item": {
+      "id": "elysian-space-dust-ipa-24-oz",
+      "name": "Elysian Space Dust IPA (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 470.0,
+      "protein_g": 5.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/elysian-space-dust-ipa-24-oz: macro check failed — stated 470.0 kcal vs computed 112 (delta -358)"
+    ]
+  },
+  {
+    "item": {
+      "id": "estrella-jalisco-12-oz",
+      "name": "Estrella Jalisco (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    "reasons": [
+      "taco-bell/estrella-jalisco-12-oz: macro check failed — stated 190.0 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "estrella-jalisco-16-oz",
+      "name": "Estrella Jalisco (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0
+    },
+    "reasons": [
+      "taco-bell/estrella-jalisco-16-oz: macro check failed — stated 250.0 kcal vs computed 80 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fair-winds-howling-gail-12-oz",
+      "name": "Fair Winds® Howling Gail (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/fair-winds-howling-gail-12-oz: macro check failed — stated 220.0 kcal vs computed 0 (delta -220)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fair-winds-howling-gail-16-oz",
+      "name": "Fair Winds® Howling Gail (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/fair-winds-howling-gail-16-oz: macro check failed — stated 300.0 kcal vs computed 0 (delta -300)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fat-tire-amber-ale-12-oz",
+      "name": "Fat Tire Amber Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/fat-tire-amber-ale-12-oz: macro check failed — stated 160.0 kcal vs computed 0 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fat-tire-amber-ale-16-oz",
+      "name": "Fat Tire Amber Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/fat-tire-amber-ale-16-oz: macro check failed — stated 210.0 kcal vs computed 0 (delta -210)"
+    ]
+  },
+  {
+    "item": {
+      "id": "firestone-805-12-oz",
+      "name": "Firestone 805 (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "taco-bell/firestone-805-12-oz: macro check failed — stated 150.0 kcal vs computed 64 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "firestone-805-16-oz",
+      "name": "Firestone 805 (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "taco-bell/firestone-805-16-oz: macro check failed — stated 200.0 kcal vs computed 80 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "firestone-805-24-oz",
+      "name": "Firestone 805 (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/firestone-805-24-oz: macro check failed — stated 300.0 kcal vs computed 120 (delta -180)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-lime-margarita",
+      "name": "Flybird Lime Margarita",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/flybird-lime-margarita: macro check failed — stated 190.0 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-lime-margarita-can",
+      "name": "Flybird Lime Margarita (Can)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    "reasons": [
+      "taco-bell/flybird-lime-margarita-can: macro check failed — stated 240.0 kcal vs computed 100 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-mangonada",
+      "name": "Flybird Mangonada",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/flybird-mangonada: macro check failed — stated 160.0 kcal vs computed 52 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-mojito",
+      "name": "Flybird Mojito",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    "reasons": [
+      "taco-bell/flybird-mojito: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-pina-colada",
+      "name": "Flybird Pina Colada",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    "reasons": [
+      "taco-bell/flybird-pina-colada: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-prickly-pear-margarita",
+      "name": "Flybird Prickly Pear Margarita",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    "reasons": [
+      "taco-bell/flybird-prickly-pear-margarita: macro check failed — stated 190.0 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-strawberry-margarita",
+      "name": "Flybird Strawberry Margarita",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/flybird-strawberry-margarita: macro check failed — stated 190.0 kcal vs computed 68 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flybird-strawberry-margarita-can",
+      "name": "Flybird Strawberry Margarita (Can)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0
+    },
+    "reasons": [
+      "taco-bell/flybird-strawberry-margarita-can: macro check failed — stated 250.0 kcal vs computed 108 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "four-peaks-kilt-lifter-12-oz",
+      "name": "Four Peaks Kilt Lifter (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/four-peaks-kilt-lifter-12-oz: macro check failed — stated 180.0 kcal vs computed 64 (delta -116)"
+    ]
+  },
+  {
+    "item": {
+      "id": "four-peaks-kilt-lifter-16-oz",
+      "name": "Four Peaks Kilt Lifter (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/four-peaks-kilt-lifter-16-oz: macro check failed — stated 240.0 kcal vs computed 88 (delta -152)"
+    ]
+  },
+  {
+    "item": {
+      "id": "goose-island-ipa-12-oz",
+      "name": "Goose Island IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/goose-island-ipa-12-oz: macro check failed — stated 190.0 kcal vs computed 68 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "goose-island-ipa-16-oz",
+      "name": "Goose Island IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/goose-island-ipa-16-oz: macro check failed — stated 250.0 kcal vs computed 92 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-baja-blast-12-oz",
+      "name": "Hard Mtn Dew - Baja Blast (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-baja-blast-12-oz: macro check failed — stated 100.0 kcal vs computed 8 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-baja-blast-24-oz",
+      "name": "Hard Mtn Dew - Baja Blast (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-baja-blast-24-oz: macro check failed — stated 200.0 kcal vs computed 16 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-black-cherry-12-oz",
+      "name": "Hard Mtn Dew - Black Cherry (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-black-cherry-12-oz: macro check failed — stated 100.0 kcal vs computed 8 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-black-cherry-24-oz",
+      "name": "Hard Mtn Dew - Black Cherry (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-black-cherry-24-oz: macro check failed — stated 200.0 kcal vs computed 16 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-original-12-oz",
+      "name": "Hard Mtn Dew - Original (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-original-12-oz: macro check failed — stated 100.0 kcal vs computed 8 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-original-24-oz",
+      "name": "Hard Mtn Dew - Original (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-original-24-oz: macro check failed — stated 200.0 kcal vs computed 16 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-watermelon-12-oz",
+      "name": "Hard Mtn Dew - Watermelon (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-watermelon-12-oz: macro check failed — stated 100.0 kcal vs computed 8 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hard-mtn-dew-watermelon-24-oz",
+      "name": "Hard Mtn Dew - Watermelon (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hard-mtn-dew-watermelon-24-oz: macro check failed — stated 200.0 kcal vs computed 16 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "harpoon-ipa-12-oz",
+      "name": "Harpoon IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/harpoon-ipa-12-oz: macro check failed — stated 180.0 kcal vs computed 64 (delta -116)"
+    ]
+  },
+  {
+    "item": {
+      "id": "harpoon-ipa-16-oz",
+      "name": "Harpoon IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/harpoon-ipa-16-oz: macro check failed — stated 240.0 kcal vs computed 84 (delta -156)"
+    ]
+  },
+  {
+    "item": {
+      "id": "heineken-12-oz",
+      "name": "Heineken (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/heineken-12-oz: macro check failed — stated 140.0 kcal vs computed 52 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "heineken-16-oz",
+      "name": "Heineken (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/heineken-16-oz: macro check failed — stated 190.0 kcal vs computed 72 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "heineken-bottle-12-oz",
+      "name": "Heineken Bottle (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/heineken-bottle-12-oz: macro check failed — stated 140.0 kcal vs computed 52 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "heineken-light-12-oz",
+      "name": "Heineken Light (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/heineken-light-12-oz: macro check failed — stated 100.0 kcal vs computed 32 (delta -68)"
+    ]
+  },
+  {
+    "item": {
+      "id": "heineken-light-16-oz",
+      "name": "Heineken Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/heineken-light-16-oz: macro check failed — stated 130.0 kcal vs computed 40 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hop-commander-ipa-12-oz",
+      "name": "Hop Commander IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hop-commander-ipa-12-oz: macro check failed — stated 210.0 kcal vs computed 0 (delta -210)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hop-commander-ipa-16-oz",
+      "name": "Hop Commander IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/hop-commander-ipa-16-oz: macro check failed — stated 280.0 kcal vs computed 0 (delta -280)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kansas-city-dunkel-12-oz",
+      "name": "Kansas City Dunkel (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/kansas-city-dunkel-12-oz: macro check failed — stated 180.0 kcal vs computed 60 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kansas-city-dunkel-16-oz",
+      "name": "Kansas City Dunkel (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/kansas-city-dunkel-16-oz: macro check failed — stated 230.0 kcal vs computed 84 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kansas-city-helles-12-oz",
+      "name": "Kansas City Helles (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/kansas-city-helles-12-oz: macro check failed — stated 180.0 kcal vs computed 56 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kansas-city-helles-16-oz",
+      "name": "Kansas City Helles (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/kansas-city-helles-16-oz: macro check failed — stated 230.0 kcal vs computed 76 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kona-big-wave-golden-ale-12-oz",
+      "name": "Kona Big Wave Golden Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/kona-big-wave-golden-ale-12-oz: macro check failed — stated 130.0 kcal vs computed 44 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kona-big-wave-golden-ale-16-oz",
+      "name": "Kona Big Wave Golden Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/kona-big-wave-golden-ale-16-oz: macro check failed — stated 180.0 kcal vs computed 60 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lagunitas-ipa-12-oz",
+      "name": "Lagunitas IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/lagunitas-ipa-12-oz: macro check failed — stated 190.0 kcal vs computed 68 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lagunitas-ipa-16-oz",
+      "name": "Lagunitas IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/lagunitas-ipa-16-oz: macro check failed — stated 250.0 kcal vs computed 92 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "landshark-lager-12-oz",
+      "name": "Landshark Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/landshark-lager-12-oz: macro check failed — stated 150.0 kcal vs computed 56 (delta -94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "landshark-lager-16-oz",
+      "name": "Landshark Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/landshark-lager-16-oz: macro check failed — stated 200.0 kcal vs computed 80 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "loose-cannon-ipa-12-oz",
+      "name": "Loose Cannon IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/loose-cannon-ipa-12-oz: macro check failed — stated 220.0 kcal vs computed 88 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "loose-cannon-ipa-16-oz",
+      "name": "Loose Cannon IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/loose-cannon-ipa-16-oz: macro check failed — stated 290.0 kcal vs computed 116 (delta -174)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-original-lager-12-oz",
+      "name": "Michelob Original Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/michelob-original-lager-12-oz: macro check failed — stated 160.0 kcal vs computed 64 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-original-lager-16-oz",
+      "name": "Michelob Original Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/michelob-original-lager-16-oz: macro check failed — stated 210.0 kcal vs computed 88 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-ultra-12-oz",
+      "name": "Michelob Ultra (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/michelob-ultra-12-oz: macro check failed — stated 100.0 kcal vs computed 16 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-ultra-16-oz",
+      "name": "Michelob Ultra (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/michelob-ultra-16-oz: macro check failed — stated 130.0 kcal vs computed 16 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-ultra-bottle-16-oz",
+      "name": "Michelob Ultra Bottle (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/michelob-ultra-bottle-16-oz: macro check failed — stated 100.0 kcal vs computed 12 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-genuine-draft-12-oz",
+      "name": "Miller Genuine Draft (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/miller-genuine-draft-12-oz: macro check failed — stated 140.0 kcal vs computed 48 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-genuine-draft-16-oz",
+      "name": "Miller Genuine Draft (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/miller-genuine-draft-16-oz: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-high-life-12-oz",
+      "name": "Miller High Life (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/miller-high-life-12-oz: macro check failed — stated 140.0 kcal vs computed 48 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-high-life-16-oz",
+      "name": "Miller High Life (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/miller-high-life-16-oz: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-lite-12-oz",
+      "name": "Miller Lite (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "taco-bell/miller-lite-12-oz: macro check failed — stated 100.0 kcal vs computed 12 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-lite-16-oz",
+      "name": "Miller Lite (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "taco-bell/miller-lite-16-oz: macro check failed — stated 130.0 kcal vs computed 16 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modelo-chelada-16-oz",
+      "name": "Modelo Chelada (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 590.0
+    },
+    "reasons": [
+      "taco-bell/modelo-chelada-16-oz: macro check failed — stated 190.0 kcal vs computed 104 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modelo-especial-12-oz",
+      "name": "Modelo Especial (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/modelo-especial-12-oz: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modelo-especial-16-oz",
+      "name": "Modelo Especial (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    "reasons": [
+      "taco-bell/modelo-especial-16-oz: macro check failed — stated 200.0 kcal vs computed 80 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modelo-especial-24-oz",
+      "name": "Modelo Especial (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 2.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    "reasons": [
+      "taco-bell/modelo-especial-24-oz: macro check failed — stated 300.0 kcal vs computed 120 (delta -180)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modelo-negra-12-oz",
+      "name": "Modelo Negra (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/modelo-negra-12-oz: macro check failed — stated 180.0 kcal vs computed 72 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "modelo-negra-16-oz",
+      "name": "Modelo Negra (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/modelo-negra-16-oz: macro check failed — stated 240.0 kcal vs computed 92 (delta -148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "motorworks-intellectual-property-ipa-12-oz",
+      "name": "Motorworks Intellectual Property IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 4.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/motorworks-intellectual-property-ipa-12-oz: macro check failed — stated 220.0 kcal vs computed 88 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "motorworks-intellectual-property-ipa-16-oz",
+      "name": "Motorworks Intellectual Property IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 5.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/motorworks-intellectual-property-ipa-16-oz: macro check failed — stated 290.0 kcal vs computed 116 (delta -174)"
+    ]
+  },
+  {
+    "item": {
+      "id": "motorworks-pulp-fiction-ipa-12-oz",
+      "name": "Motorworks Pulp Fiction IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 4.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/motorworks-pulp-fiction-ipa-12-oz: macro check failed — stated 220.0 kcal vs computed 88 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "motorworks-pulp-fiction-ipa-16-oz",
+      "name": "Motorworks Pulp Fiction IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 5.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/motorworks-pulp-fiction-ipa-16-oz: macro check failed — stated 300.0 kcal vs computed 116 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "newcastle-brown-ale-12-oz",
+      "name": "Newcastle Brown Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/newcastle-brown-ale-12-oz: macro check failed — stated 130.0 kcal vs computed 44 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "newcastle-brown-ale-16-oz",
+      "name": "Newcastle Brown Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/newcastle-brown-ale-16-oz: macro check failed — stated 170.0 kcal vs computed 56 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "old-elephant-ipa-12-oz",
+      "name": "Old Elephant IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/old-elephant-ipa-12-oz: macro check failed — stated 180.0 kcal vs computed 80 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "old-elephant-ipa-16-oz",
+      "name": "Old Elephant IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 4.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/old-elephant-ipa-16-oz: macro check failed — stated 230.0 kcal vs computed 104 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pabst-blue-ribbon-original-12-oz",
+      "name": "Pabst Blue Ribbon Original (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/pabst-blue-ribbon-original-12-oz: macro check failed — stated 140.0 kcal vs computed 52 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pabst-blue-ribbon-original-16-oz",
+      "name": "Pabst Blue Ribbon Original (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/pabst-blue-ribbon-original-16-oz: macro check failed — stated 190.0 kcal vs computed 72 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pacifico-12-oz",
+      "name": "Pacifico (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/pacifico-12-oz: macro check failed — stated 140.0 kcal vs computed 60 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pacifico-16-oz",
+      "name": "Pacifico (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/pacifico-16-oz: macro check failed — stated 190.0 kcal vs computed 80 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "patriot-ale-12-oz",
+      "name": "Patriot Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/patriot-ale-12-oz: macro check failed — stated 170.0 kcal vs computed 60 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "patriot-ale-16-oz",
+      "name": "Patriot Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/patriot-ale-16-oz: macro check failed — stated 230.0 kcal vs computed 80 (delta -150)"
+    ]
+  },
+  {
+    "item": {
+      "id": "revolution-anti-hero-12-oz",
+      "name": "Revolution Anti Hero (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/revolution-anti-hero-12-oz: macro check failed — stated 220.0 kcal vs computed 92 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "revolution-anti-hero-16-oz",
+      "name": "Revolution Anti Hero (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/revolution-anti-hero-16-oz: macro check failed — stated 290.0 kcal vs computed 124 (delta -166)"
+    ]
+  },
+  {
+    "item": {
+      "id": "road-2-ruin-double-ipa-12-oz",
+      "name": "Road 2 Ruin Double IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/road-2-ruin-double-ipa-12-oz: macro check failed — stated 220.0 kcal vs computed 68 (delta -152)"
+    ]
+  },
+  {
+    "item": {
+      "id": "road-2-ruin-double-ipa-16-oz",
+      "name": "Road 2 Ruin Double IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/road-2-ruin-double-ipa-16-oz: macro check failed — stated 290.0 kcal vs computed 92 (delta -198)"
+    ]
+  },
+  {
+    "item": {
+      "id": "samuel-adams-76-12-oz",
+      "name": "Samuel Adams '76 (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/samuel-adams-76-12-oz: macro check failed — stated 130.0 kcal vs computed 32 (delta -98)"
+    ]
+  },
+  {
+    "item": {
+      "id": "samuel-adams-winter-lager-12-oz",
+      "name": "Samuel Adams® Winter Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/samuel-adams-winter-lager-12-oz: macro check failed — stated 190.0 kcal vs computed 0 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "samuel-adams-winter-lager-16-oz",
+      "name": "Samuel Adams® Winter Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/samuel-adams-winter-lager-16-oz: macro check failed — stated 260.0 kcal vs computed 0 (delta -260)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sea-hag-ipa-12-oz",
+      "name": "Sea Hag IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/sea-hag-ipa-12-oz: macro check failed — stated 190.0 kcal vs computed 72 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sea-hag-ipa-16-oz",
+      "name": "Sea Hag IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/sea-hag-ipa-16-oz: macro check failed — stated 250.0 kcal vs computed 96 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shock-top-belgian-white-12-oz",
+      "name": "Shock Top Belgian White (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/shock-top-belgian-white-12-oz: macro check failed — stated 170.0 kcal vs computed 68 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shock-top-belgian-white-16-oz",
+      "name": "Shock Top Belgian White (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/shock-top-belgian-white-16-oz: macro check failed — stated 220.0 kcal vs computed 88 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sierra-nevada-hazy-little-thing-ipa-12-oz",
+      "name": "Sierra Nevada Hazy Little Thing IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/sierra-nevada-hazy-little-thing-ipa-12-oz: macro check failed — stated 210.0 kcal vs computed 92 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sierra-nevada-hazy-little-thing-ipa-16-oz",
+      "name": "Sierra Nevada Hazy Little Thing IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 3.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/sierra-nevada-hazy-little-thing-ipa-16-oz: macro check failed — stated 290.0 kcal vs computed 120 (delta -170)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sol-cervesa-12-oz",
+      "name": "Sol Cervesa (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/sol-cervesa-12-oz: macro check failed — stated 140.0 kcal vs computed 48 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sol-cervesa-16-oz",
+      "name": "Sol Cervesa (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/sol-cervesa-16-oz: macro check failed — stated 180.0 kcal vs computed 60 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "st-archer-16-oz",
+      "name": "St. Archer (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/st-archer-16-oz: macro check failed — stated 200.0 kcal vs computed 0 (delta -200)"
+    ]
+  },
+  {
+    "item": {
+      "id": "stella-artois-12-oz",
+      "name": "Stella Artois (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/stella-artois-12-oz: macro check failed — stated 140.0 kcal vs computed 44 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "stella-artois-16-oz",
+      "name": "Stella Artois (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/stella-artois-16-oz: macro check failed — stated 190.0 kcal vs computed 60 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "stella-artois-24-oz",
+      "name": "Stella Artois (24 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 24 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/stella-artois-24-oz: macro check failed — stated 280.0 kcal vs computed 88 (delta -192)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sweetwater-420-extra-pale-ale-12-oz",
+      "name": "Sweetwater 420 Extra Pale Ale (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/sweetwater-420-extra-pale-ale-12-oz: macro check failed — stated 170.0 kcal vs computed 60 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sweetwater-420-extra-pale-ale-16-oz",
+      "name": "Sweetwater 420 Extra Pale Ale (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/sweetwater-420-extra-pale-ale-16-oz: macro check failed — stated 220.0 kcal vs computed 80 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tampa-bay-reef-donkey-16-oz",
+      "name": "Tampa Bay Reef Donkey (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/tampa-bay-reef-donkey-16-oz: macro check failed — stated 240.0 kcal vs computed 64 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tecate-light-12-oz",
+      "name": "Tecate Light (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tecate-light-12-oz: macro check failed — stated 110.0 kcal vs computed 32 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tecate-light-16-oz",
+      "name": "Tecate Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tecate-light-16-oz: macro check failed — stated 140.0 kcal vs computed 40 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tecate-original-12-oz",
+      "name": "Tecate Original (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tecate-original-12-oz: macro check failed — stated 140.0 kcal vs computed 60 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tecate-original-16-oz",
+      "name": "Tecate Original (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tecate-original-16-oz: macro check failed — stated 190.0 kcal vs computed 80 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "victoria-12-oz",
+      "name": "Victoria (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/victoria-12-oz: macro check failed — stated 140.0 kcal vs computed 52 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "victoria-16-oz",
+      "name": "Victoria (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/victoria-16-oz: macro check failed — stated 180.0 kcal vs computed 72 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "voodoo-ranger-juicy-haze-ipa-12-oz",
+      "name": "Voodoo Ranger Juicy Haze IPA (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/voodoo-ranger-juicy-haze-ipa-12-oz: macro check failed — stated 230.0 kcal vs computed 64 (delta -166)"
+    ]
+  },
+  {
+    "item": {
+      "id": "voodoo-ranger-juicy-haze-ipa-16-oz",
+      "name": "Voodoo Ranger Juicy Haze IPA (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/voodoo-ranger-juicy-haze-ipa-16-oz: macro check failed — stated 310.0 kcal vs computed 84 (delta -226)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-claw-hard-seltzer-12-oz",
+      "name": "White Claw Hard Seltzer (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/white-claw-hard-seltzer-12-oz: macro check failed — stated 100.0 kcal vs computed 8 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-black-and-tan-12-oz",
+      "name": "Yuengling - Black and Tan (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-black-and-tan-12-oz: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-black-and-tan-16-oz",
+      "name": "Yuengling - Black and Tan (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-black-and-tan-16-oz: macro check failed — stated 200.0 kcal vs computed 80 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-golden-pilsner-12-oz",
+      "name": "Yuengling - Golden Pilsner (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-golden-pilsner-12-oz: macro check failed — stated 140.0 kcal vs computed 36 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-golden-pilsner-16-oz",
+      "name": "Yuengling - Golden Pilsner (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-golden-pilsner-16-oz: macro check failed — stated 180.0 kcal vs computed 48 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-lager-12-oz",
+      "name": "Yuengling - Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-lager-12-oz: macro check failed — stated 140.0 kcal vs computed 48 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-lager-16-oz",
+      "name": "Yuengling - Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-lager-16-oz: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-light-lager-12-oz",
+      "name": "Yuengling - Light Lager (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-light-lager-12-oz: macro check failed — stated 100.0 kcal vs computed 36 (delta -64)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-light-lager-16-oz",
+      "name": "Yuengling - Light Lager (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-light-lager-16-oz: macro check failed — stated 130.0 kcal vs computed 48 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-porter-12-oz",
+      "name": "Yuengling - Porter (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-porter-12-oz: macro check failed — stated 160.0 kcal vs computed 60 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-porter-16-oz",
+      "name": "Yuengling - Porter (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-porter-16-oz: macro check failed — stated 220.0 kcal vs computed 80 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-premium-12-oz",
+      "name": "Yuengling - Premium (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-premium-12-oz: macro check failed — stated 140.0 kcal vs computed 48 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-premium-16-oz",
+      "name": "Yuengling - Premium (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-premium-16-oz: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-premium-light-12-oz",
+      "name": "Yuengling - Premium Light (12 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 12 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-premium-light-12-oz: macro check failed — stated 100.0 kcal vs computed 28 (delta -72)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling-premium-light-16-oz",
+      "name": "Yuengling - Premium Light (16 oz)",
+      "description": "Taco Bell menu section: Cantina Beer, Wine and Spirits.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per 16 oz cup, as served",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "taco-bell/yuengling-premium-light-16-oz: macro check failed — stated 130.0 kcal vs computed 36 (delta -94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-sangria-lv",
+      "name": "Red Sangria - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 330.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    "reasons": [
+      "taco-bell/red-sangria-lv: macro check failed — stated 330.0 kcal vs computed 112 (delta -218)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rum-80-proof-double-lv",
+      "name": "Rum (80 proof) - Double - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/rum-80-proof-double-lv: macro check failed — stated 250.0 kcal vs computed 0 (delta -250)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rum-80-proof-single-lv",
+      "name": "Rum (80 proof) - Single - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/rum-80-proof-single-lv: macro check failed — stated 120.0 kcal vs computed 0 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tequila-80-proof-double-lv",
+      "name": "Tequila (80 proof) - Double - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tequila-80-proof-double-lv: macro check failed — stated 250.0 kcal vs computed 0 (delta -250)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tequila-80-proof-single-lv",
+      "name": "Tequila (80 proof) - Single - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/tequila-80-proof-single-lv: macro check failed — stated 120.0 kcal vs computed 0 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vodka-80-proof-double-lv",
+      "name": "Vodka (80 proof) - Double - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/vodka-80-proof-double-lv: macro check failed — stated 250.0 kcal vs computed 0 (delta -250)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vodka-80-proof-single-lv",
+      "name": "Vodka (80 proof) - Single - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/vodka-80-proof-single-lv: macro check failed — stated 120.0 kcal vs computed 0 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whiskey-80-proof-double-lv",
+      "name": "Whiskey (80 proof) - Double - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/whiskey-80-proof-double-lv: macro check failed — stated 250.0 kcal vs computed 0 (delta -250)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whiskey-80-proof-single-lv",
+      "name": "Whiskey (80 proof) - Single - LV",
+      "description": "Taco Bell menu section: Las Vegas Cantina Menu.",
+      "category": "drink",
+      "is_estimate": false,
+      "serving_note": "per item, as sold",
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/taco-bell/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    "reasons": [
+      "taco-bell/whiskey-80-proof-single-lv: macro check failed — stated 120.0 kcal vs computed 0 (delta -120)"
+    ]
+  }
+]

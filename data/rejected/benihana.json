@@ -1,0 +1,2349 @@
+[
+  {
+    "item": {
+      "id": "spicy-chicken-gyoza-dumplings-per-serving",
+      "name": "Spicy Chicken Gyoza Dumplings",
+      "description": null,
+      "category": "side",
+      "calories": 370,
+      "fat_g": 8.8,
+      "protein_g": 13,
+      "carbs_g": 44,
+      "fiber_g": 2.5,
+      "sodium_mg": 1332,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-chicken-gyoza-dumplings-per-serving: macro check failed — stated 370 kcal vs computed 307 (delta -63)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sesame-garlic-sauce-per-serving",
+      "name": "Sesame Garlic Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 770,
+      "fat_g": 90,
+      "protein_g": 81,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 1856,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sesame-garlic-sauce-per-serving: macro check failed — stated 770 kcal vs computed 1166 (delta +396)"
+    ]
+  },
+  {
+    "item": {
+      "id": "black-pepper-teriyaki-sauce-per-serving",
+      "name": "Black Pepper Teriyaki Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 680,
+      "fat_g": 60,
+      "protein_g": 83,
+      "carbs_g": 22,
+      "fiber_g": 0,
+      "sodium_mg": 2446,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/black-pepper-teriyaki-sauce-per-serving: macro check failed — stated 680 kcal vs computed 960 (delta +280)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-sauce-per-serving",
+      "name": "Spicy Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 690,
+      "fat_g": 70,
+      "protein_g": 82,
+      "carbs_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 2276,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-sauce-per-serving: macro check failed — stated 690 kcal vs computed 978 (delta +288)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hibachi-chicken-rice-per-serving",
+      "name": "Hibachi Chicken Rice",
+      "description": null,
+      "category": "side",
+      "calories": 560,
+      "fat_g": 11,
+      "protein_g": 15,
+      "carbs_g": 70,
+      "fiber_g": 6,
+      "sodium_mg": 570,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hibachi-chicken-rice-per-serving: macro check failed — stated 560 kcal vs computed 439 (delta -121)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hibachi-steak-rice-per-serving",
+      "name": "Hibachi Steak Rice",
+      "description": null,
+      "category": "side",
+      "calories": 600,
+      "fat_g": 14,
+      "protein_g": 15,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 564,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hibachi-steak-rice-per-serving: macro check failed — stated 600 kcal vs computed 470 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hibachi-shrimp-rice-per-serving",
+      "name": "Hibachi Shrimp Rice",
+      "description": null,
+      "category": "side",
+      "calories": 600,
+      "fat_g": 10.3,
+      "protein_g": 15,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 621,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hibachi-shrimp-rice-per-serving: macro check failed — stated 600 kcal vs computed 437 (delta -163)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-hibachi-chicken-rice-per-serving",
+      "name": "Spicy Hibachi Chicken Rice",
+      "description": null,
+      "category": "side",
+      "calories": 600,
+      "fat_g": 15,
+      "protein_g": 15,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 770,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-hibachi-chicken-rice-per-serving: macro check failed — stated 600 kcal vs computed 479 (delta -121)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-fried-steak-rice-per-serving",
+      "name": "Spicy Fried Steak Rice",
+      "description": null,
+      "category": "side",
+      "calories": 640,
+      "fat_g": 17,
+      "protein_g": 15,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 765,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-fried-steak-rice-per-serving: macro check failed — stated 640 kcal vs computed 497 (delta -143)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-fried-shrimp-rice-per-serving",
+      "name": "Spicy Fried Shrimp Rice",
+      "description": null,
+      "category": "side",
+      "calories": 600,
+      "fat_g": 14,
+      "protein_g": 15,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 671,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-fried-shrimp-rice-per-serving: macro check failed — stated 600 kcal vs computed 470 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "smoked-salmon-per-serving",
+      "name": "Smoked Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 50,
+      "fat_g": 1,
+      "protein_g": 4,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 300,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/smoked-salmon-per-serving: macro check failed — stated 50 kcal vs computed 25 (delta -25)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shrimp-lover-s-roll-per-serving",
+      "name": "Shrimp Lover's Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 240,
+      "fat_g": 9,
+      "protein_g": 17,
+      "carbs_g": 61,
+      "fiber_g": 7,
+      "sodium_mg": 1283,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/shrimp-lover-s-roll-per-serving: macro check failed — stated 240 kcal vs computed 393 (delta +153)"
+    ]
+  },
+  {
+    "item": {
+      "id": "las-vegas-roll-per-serving",
+      "name": "Las Vegas Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 280,
+      "fat_g": 21,
+      "protein_g": 13,
+      "carbs_g": 58,
+      "fiber_g": 5,
+      "sodium_mg": 878,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/las-vegas-roll-per-serving: macro check failed — stated 280 kcal vs computed 473 (delta +193)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sumo-roll-per-serving",
+      "name": "Sumo Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 610,
+      "fat_g": 55,
+      "protein_g": 29,
+      "carbs_g": 96,
+      "fiber_g": 5,
+      "sodium_mg": 1466,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sumo-roll-per-serving: macro check failed — stated 610 kcal vs computed 995 (delta +385)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ginger-sauce-1-pt-per-serving",
+      "name": "Ginger Sauce (1 pt)",
+      "description": null,
+      "category": "condiment",
+      "calories": 160,
+      "fat_g": 0,
+      "protein_g": 28,
+      "carbs_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 12000,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/ginger-sauce-1-pt-per-serving: sodium_mg 12000 implausibly high",
+      "benihana/ginger-sauce-1-pt-per-serving: macro check failed — stated 160 kcal vs computed 120 (delta -40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hibachi-chicken-rice-12-oz-per-serving",
+      "name": "Hibachi Chicken Rice (12 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 880,
+      "fat_g": 22,
+      "protein_g": 30,
+      "carbs_g": 114,
+      "fiber_g": 13,
+      "sodium_mg": 1140,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hibachi-chicken-rice-12-oz-per-serving: macro check failed — stated 880 kcal vs computed 774 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hibachi-chicken-rice-per-side-order",
+      "name": "Hibachi Chicken Rice",
+      "description": null,
+      "category": "side",
+      "calories": 560,
+      "fat_g": 11,
+      "protein_g": 15,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 570,
+      "serving_note": "per side order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hibachi-chicken-rice-per-side-order: macro check failed — stated 560 kcal vs computed 443 (delta -117)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-chicken-gyoza-per-serving",
+      "name": "Spicy Chicken Gyoza",
+      "description": null,
+      "category": "component",
+      "calories": 370,
+      "fat_g": 8.8,
+      "protein_g": 13,
+      "carbs_g": 44,
+      "fiber_g": 2.5,
+      "sodium_mg": 1332,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-chicken-gyoza-per-serving: macro check failed — stated 370 kcal vs computed 307 (delta -63)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sesame-garlic-sauce-6-wings-per-serving",
+      "name": "Sesame Garlic Sauce (6 wings)",
+      "description": null,
+      "category": "condiment",
+      "calories": 770,
+      "fat_g": 90,
+      "protein_g": 81,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 1856,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sesame-garlic-sauce-6-wings-per-serving: macro check failed — stated 770 kcal vs computed 1166 (delta +396)"
+    ]
+  },
+  {
+    "item": {
+      "id": "black-pepper-teriyaki-s-6-wings-per-serving",
+      "name": "Black Pepper Teriyaki S. (6 wings)",
+      "description": null,
+      "category": "component",
+      "calories": 680,
+      "fat_g": 60,
+      "protein_g": 83,
+      "carbs_g": 22,
+      "fiber_g": 0,
+      "sodium_mg": 2446,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/black-pepper-teriyaki-s-6-wings-per-serving: macro check failed — stated 680 kcal vs computed 960 (delta +280)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spicy-sauce-6-wings-per-serving",
+      "name": "Spicy Sauce (6 wings)",
+      "description": null,
+      "category": "condiment",
+      "calories": 690,
+      "fat_g": 70,
+      "protein_g": 82,
+      "carbs_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 2276,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/spicy-sauce-6-wings-per-serving: macro check failed — stated 690 kcal vs computed 978 (delta +288)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-hot-sake-per-serving",
+      "name": "Benihana Hot Sake",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 8,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-hot-sake-per-serving: macro check failed — stated 250 kcal vs computed 32 (delta -218)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mio-sparkling-sake-300ml-per-serving",
+      "name": "MIO Sparkling Sake (300ml)",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 42,
+      "fiber_g": 0,
+      "sodium_mg": 11.2,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/mio-sparkling-sake-300ml-per-serving: macro check failed — stated 250 kcal vs computed 168 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sake-glass-4oz-per-serving",
+      "name": "Sake Glass (4oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sake-glass-4oz-per-serving: macro check failed — stated 130 kcal vs computed 32 (delta -98)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sake-carafe-8oz-per-serving",
+      "name": "Sake Carafe (8oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sake-carafe-8oz-per-serving: macro check failed — stated 250 kcal vs computed 60 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sake-bottle-720ml-per-serving",
+      "name": "Sake Bottle (720ml)",
+      "description": null,
+      "category": "drink",
+      "calories": 760,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sake-bottle-720ml-per-serving: macro check failed — stated 760 kcal vs computed 184 (delta -576)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sho-chiku-bai-ginjo-300ml-per-serving",
+      "name": "Sho Chiku Bai Ginjo (300ml)",
+      "description": null,
+      "category": "drink",
+      "calories": 290,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 4.1,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sho-chiku-bai-ginjo-300ml-per-serving: macro check failed — stated 290 kcal vs computed 48 (delta -242)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hana-fuji-apple-4-oz-per-serving",
+      "name": "Hana Fuji Apple (4 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 2.4,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hana-fuji-apple-4-oz-per-serving: macro check failed — stated 110 kcal vs computed 52 (delta -58)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hana-lychee-4-oz-per-serving",
+      "name": "Hana Lychee (4 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 2.4,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/hana-lychee-4-oz-per-serving: macro check failed — stated 110 kcal vs computed 52 (delta -58)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sho-chiku-bai-nigori-375ml-per-serving",
+      "name": "Sho Chiku Bai Nigori (375ml)",
+      "description": null,
+      "category": "drink",
+      "calories": 440,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sodium_mg": 29.2,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sho-chiku-bai-nigori-375ml-per-serving: macro check failed — stated 440 kcal vs computed 96 (delta -344)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sho-chiku-bai-nigori-750ml-per-serving",
+      "name": "Sho Chiku Bai Nigori (750ml)",
+      "description": null,
+      "category": "drink",
+      "calories": 850,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 48,
+      "fiber_g": 0,
+      "sodium_mg": 58.2,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sho-chiku-bai-nigori-750ml-per-serving: macro check failed — stated 850 kcal vs computed 192 (delta -658)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-mojito-per-serving",
+      "name": "Benihana Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "fat_g": 0,
+      "protein_g": 0.5,
+      "carbs_g": 30,
+      "fiber_g": 1.3,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-mojito-per-serving: macro check failed — stated 260 kcal vs computed 122 (delta -138)"
+    ]
+  },
+  {
+    "item": {
+      "id": "old-fashioned-per-serving",
+      "name": "Old Fashioned",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/old-fashioned-per-serving: macro check failed — stated 180 kcal vs computed 80 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "paloma-per-serving",
+      "name": "Paloma",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/paloma-per-serving: macro check failed — stated 160 kcal vs computed 52 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "japanese-spritz-per-serving",
+      "name": "Japanese Spritz",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 22,
+      "fiber_g": 0,
+      "sodium_mg": 3,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/japanese-spritz-per-serving: macro check failed — stated 200 kcal vs computed 88 (delta -112)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tokyo-mule-per-serving",
+      "name": "Tokyo Mule",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/tokyo-mule-per-serving: macro check failed — stated 190 kcal vs computed 76 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cosmopolitan-per-serving",
+      "name": "Cosmopolitan",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 22,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/cosmopolitan-per-serving: macro check failed — stated 180 kcal vs computed 88 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espresso-martini-per-serving",
+      "name": "Espresso Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/espresso-martini-per-serving: macro check failed — stated 210 kcal vs computed 96 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "wine-glass-6-oz-per-serving",
+      "name": "Wine Glass (6 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/wine-glass-6-oz-per-serving: macro check failed — stated 150 kcal vs computed 16 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "wine-carafe-9-oz-per-serving",
+      "name": "Wine Carafe (9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/wine-carafe-9-oz-per-serving: macro check failed — stated 230 kcal vs computed 28 (delta -202)"
+    ]
+  },
+  {
+    "item": {
+      "id": "wine-bottle-750ml-per-serving",
+      "name": "Wine Bottle (750ml)",
+      "description": null,
+      "category": "drink",
+      "calories": 640,
+      "fat_g": 0,
+      "protein_g": 0.5,
+      "carbs_g": 19,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/wine-bottle-750ml-per-serving: macro check failed — stated 640 kcal vs computed 78 (delta -562)"
+    ]
+  },
+  {
+    "item": {
+      "id": "plum-wine-glass-6oz-per-serving",
+      "name": "Plum Wine Glass (6oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/plum-wine-glass-6oz-per-serving: macro check failed — stated 240 kcal vs computed 116 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "plum-carafe-9oz-per-serving",
+      "name": "Plum Carafe (9oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 44,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/plum-carafe-9oz-per-serving: macro check failed — stated 350 kcal vs computed 176 (delta -174)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sapporo-per-21-3-oz",
+      "name": "Sapporo",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 21.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sapporo-per-21-3-oz: macro check failed — stated 250 kcal vs computed 72 (delta -178)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kirin-ichiban-per-22-oz",
+      "name": "Kirin Ichiban",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 22 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/kirin-ichiban-per-22-oz: macro check failed — stated 270 kcal vs computed 80 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kirin-light-per-22-oz",
+      "name": "Kirin Light",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 22 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/kirin-light-per-22-oz: macro check failed — stated 170 kcal vs computed 56 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "asahi-per-21-4-oz",
+      "name": "Asahi",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 21.4 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/asahi-per-21-4-oz: macro check failed — stated 270 kcal vs computed 44 (delta -226)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kirin-light-per-serving",
+      "name": "Kirin Light",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 7.8,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/kirin-light-per-serving: macro check failed — stated 100 kcal vs computed 31 (delta -69)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-extra-per-serving",
+      "name": "Corona Extra",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/corona-extra-per-serving: macro check failed — stated 150 kcal vs computed 56 (delta -94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "samuel-adams-per-serving",
+      "name": "Samuel Adams",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/samuel-adams-per-serving: macro check failed — stated 150 kcal vs computed 40 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "stella-artois-per-serving",
+      "name": "Stella Artois",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/stella-artois-per-serving: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bud-light-per-serving",
+      "name": "Bud Light",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/bud-light-per-serving: macro check failed — stated 110 kcal vs computed 28 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-ultra-per-serving",
+      "name": "Michelob Ultra",
+      "description": null,
+      "category": "drink",
+      "calories": 90,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/michelob-ultra-per-serving: macro check failed — stated 90 kcal vs computed 12 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dogfish-60-minute-ipa-per-serving",
+      "name": "Dogfish ‘60 Minute’ IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 17,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/dogfish-60-minute-ipa-per-serving: macro check failed — stated 210 kcal vs computed 68 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "high-noon-seltzer-per-serving",
+      "name": "High Noon Seltzer",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 2.6,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/high-noon-seltzer-per-serving: macro check failed — stated 100 kcal vs computed 10 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-punch-per-serving",
+      "name": "Benihana Punch",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0.61,
+      "carbs_g": 37,
+      "fiber_g": 1,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-punch-per-serving: macro check failed — stated 270 kcal vs computed 150 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mai-tai-per-serving",
+      "name": "Mai Tai",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0.5,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/mai-tai-per-serving: macro check failed — stated 270 kcal vs computed 122 (delta -148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "haiku-colada-per-serving",
+      "name": "Haiku Colada",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "fat_g": 0.5,
+      "protein_g": 4,
+      "carbs_g": 16,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/haiku-colada-per-serving: macro check failed — stated 370 kcal vs computed 84 (delta -286)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cucumber-collins-per-serving",
+      "name": "Cucumber Collins",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 19,
+      "fiber_g": 4,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/cucumber-collins-per-serving: macro check failed — stated 190 kcal vs computed 76 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beni-long-island-iced-tea-per-serving",
+      "name": "Beni Long Island Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/beni-long-island-iced-tea-per-serving: macro check failed — stated 230 kcal vs computed 72 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "exotic-mojito-per-serving",
+      "name": "Exotic Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "fat_g": 0,
+      "protein_g": 1,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1.7,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/exotic-mojito-per-serving: macro check failed — stated 200 kcal vs computed 104 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-frozen-mojito-per-serving",
+      "name": "Benihana Frozen Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-frozen-mojito-per-serving: macro check failed — stated 280 kcal vs computed 104 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rocky-s-margarita-per-serving",
+      "name": "Rocky’s Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/rocky-s-margarita-per-serving: macro check failed — stated 230 kcal vs computed 116 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "prickly-pear-margarita-per-serving",
+      "name": "Prickly Pear Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "fat_g": 0,
+      "protein_g": 1,
+      "carbs_g": 27,
+      "fiber_g": 1,
+      "sodium_mg": 1,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/prickly-pear-margarita-per-serving: macro check failed — stated 240 kcal vs computed 112 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-plum-sake-sangria-per-serving",
+      "name": "Red Plum Sake Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "fat_g": 2,
+      "protein_g": 2,
+      "carbs_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/red-plum-sake-sangria-per-serving: macro check failed — stated 190 kcal vs computed 142 (delta -48)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-peach-sake-sangria-per-serving",
+      "name": "White Peach Sake Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/white-peach-sake-sangria-per-serving: macro check failed — stated 200 kcal vs computed 76 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-ros-sangria-per-serving",
+      "name": "Sparkling Rosé Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sparkling-ros-sangria-per-serving: macro check failed — stated 210 kcal vs computed 60 (delta -150)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beni-tini-per-serving",
+      "name": "Beni-Tini",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/beni-tini-per-serving: macro check failed — stated 180 kcal vs computed 76 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rising-sun-lemon-drop-per-serving",
+      "name": "Rising Sun Lemon Drop",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sodium_mg": 0.4,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/rising-sun-lemon-drop-per-serving: macro check failed — stated 260 kcal vs computed 100 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lychee-blossom-martini-per-serving",
+      "name": "Lychee Blossom Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 34,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/lychee-blossom-martini-per-serving: macro check failed — stated 270 kcal vs computed 136 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-ocean-punch-bowl-per-serving",
+      "name": "Blue Ocean Punch Bowl",
+      "description": null,
+      "category": "drink",
+      "calories": 1220,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 200,
+      "fiber_g": 4,
+      "sodium_mg": 130,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/blue-ocean-punch-bowl-per-serving: macro check failed — stated 1220 kcal vs computed 808 (delta -412)"
+    ]
+  },
+  {
+    "item": {
+      "id": "baby-blue-ocean-per-serving",
+      "name": "Baby Blue Ocean",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/baby-blue-ocean-per-serving: macro check failed — stated 270 kcal vs computed 160 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tropical-energy-punch-bowl-per-serving",
+      "name": "Tropical Energy Punch Bowl",
+      "description": null,
+      "category": "drink",
+      "calories": 1120,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 92,
+      "fiber_g": 2,
+      "sodium_mg": 150,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/tropical-energy-punch-bowl-per-serving: macro check failed — stated 1120 kcal vs computed 368 (delta -752)"
+    ]
+  },
+  {
+    "item": {
+      "id": "baby-tropical-energy-punch-per-serving",
+      "name": "Baby Tropical Energy Punch",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 21,
+      "fiber_g": 1,
+      "sodium_mg": 35,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/baby-tropical-energy-punch-per-serving: macro check failed — stated 250 kcal vs computed 84 (delta -166)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-hurricane-punch-bowl-per-serving",
+      "name": "Benihana Hurricane Punch Bowl",
+      "description": null,
+      "category": "drink",
+      "calories": 990,
+      "fat_g": 1,
+      "protein_g": 2,
+      "carbs_g": 147,
+      "fiber_g": 4,
+      "sodium_mg": 9,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-hurricane-punch-bowl-per-serving: macro check failed — stated 990 kcal vs computed 605 (delta -385)"
+    ]
+  },
+  {
+    "item": {
+      "id": "baby-hurricane-per-serving",
+      "name": "Baby Hurricane",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 33,
+      "fiber_g": 1,
+      "sodium_mg": 2,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/baby-hurricane-per-serving: macro check failed — stated 220 kcal vs computed 145 (delta -75)"
+    ]
+  },
+  {
+    "item": {
+      "id": "banana-berry-smoothie-per-serving",
+      "name": "Banana Berry Smoothie",
+      "description": null,
+      "category": "drink",
+      "calories": 360,
+      "fat_g": 2,
+      "protein_g": 1,
+      "carbs_g": 171,
+      "fiber_g": 4,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/banana-berry-smoothie-per-serving: macro check failed — stated 360 kcal vs computed 706 (delta +346)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mango-colada-per-serving",
+      "name": "Mango Colada",
+      "description": null,
+      "category": "drink",
+      "calories": 360,
+      "fat_g": 2,
+      "protein_g": 1,
+      "carbs_g": 171,
+      "fiber_g": 5,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/mango-colada-per-serving: macro check failed — stated 360 kcal vs computed 706 (delta +346)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-per-serving",
+      "name": "Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 307,
+      "fat_g": 3,
+      "protein_g": 50,
+      "carbs_g": 517,
+      "fiber_g": 65,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/strawberry-per-serving: macro check failed — stated 307 kcal vs computed 2295 (delta +1988)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cookies-cream-per-serving",
+      "name": "Cookies & Cream",
+      "description": null,
+      "category": "drink",
+      "calories": 380,
+      "fat_g": 8,
+      "protein_g": 52,
+      "carbs_g": 1046,
+      "fiber_g": 72,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/cookies-cream-per-serving: macro check failed — stated 380 kcal vs computed 4464 (delta +4084)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mango-per-serving",
+      "name": "Mango",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 56,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/mango-per-serving: macro check failed — stated 130 kcal vs computed 224 (delta +94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-per-serving-beverage",
+      "name": "Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 93,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/strawberry-per-serving-beverage: macro check failed — stated 130 kcal vs computed 372 (delta +242)"
+    ]
+  },
+  {
+    "item": {
+      "id": "raspberry-per-serving",
+      "name": "Raspberry",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/raspberry-per-serving: macro check failed — stated 130 kcal vs computed 96 (delta -34)"
+    ]
+  },
+  {
+    "item": {
+      "id": "iced-green-tea-per-serving",
+      "name": "Iced Green Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/iced-green-tea-per-serving: macro check failed — stated 30 kcal vs computed 80 (delta +50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cranberry-juice-per-serving",
+      "name": "Cranberry Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 35,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/cranberry-juice-per-serving: macro check failed — stated 100 kcal vs computed 140 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-ocean-punch-bowl-per-serving-beverage",
+      "name": "Blue Ocean Punch Bowl",
+      "description": null,
+      "category": "drink",
+      "calories": 1220,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 200,
+      "fiber_g": 4,
+      "sodium_mg": 130,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/blue-ocean-punch-bowl-per-serving-beverage: macro check failed — stated 1220 kcal vs computed 808 (delta -412)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-hot-sake-per-serving-beverage",
+      "name": "Benihana Hot Sake",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 8,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-hot-sake-per-serving-beverage: macro check failed — stated 240 kcal vs computed 32 (delta -208)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kirin-ichiban-sake-bomber-per-serving",
+      "name": "Kirin Ichiban Sake Bomber",
+      "description": null,
+      "category": "drink",
+      "calories": 390,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sodium_mg": 4,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/kirin-ichiban-sake-bomber-per-serving: macro check failed — stated 390 kcal vs computed 96 (delta -294)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kirin-light-per-serving-beverage",
+      "name": "Kirin Light",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0.7,
+      "carbs_g": 7.8,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/kirin-light-per-serving-beverage: macro check failed — stated 100 kcal vs computed 34 (delta -66)"
+    ]
+  },
+  {
+    "item": {
+      "id": "plum-wine-glass-6oz-per-serving-beverage",
+      "name": "Plum Wine Glass (6oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/plum-wine-glass-6oz-per-serving-beverage: macro check failed — stated 240 kcal vs computed 116 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "benihana-punch-per-serving-beverage",
+      "name": "Benihana Punch",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0.61,
+      "carbs_g": 37,
+      "fiber_g": 1,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/benihana-punch-per-serving-beverage: macro check failed — stated 270 kcal vs computed 150 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mai-tai-per-serving-beverage",
+      "name": "Mai Tai",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "fat_g": 0,
+      "protein_g": 0.5,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/mai-tai-per-serving-beverage: macro check failed — stated 270 kcal vs computed 122 (delta -148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cucumber-collins-per-serving-beverage",
+      "name": "Cucumber Collins",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 19,
+      "fiber_g": 4,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/cucumber-collins-per-serving-beverage: macro check failed — stated 200 kcal vs computed 76 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "haiku-colada-per-serving-beverage",
+      "name": "Haiku Colada",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "fat_g": 0.5,
+      "protein_g": 4,
+      "carbs_g": 16,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/haiku-colada-per-serving-beverage: macro check failed — stated 370 kcal vs computed 84 (delta -286)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-peach-sangria-per-serving",
+      "name": "White Peach Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/white-peach-sangria-per-serving: macro check failed — stated 200 kcal vs computed 76 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-plum-sake-sangria-per-serving-beverage",
+      "name": "Red Plum Sake Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/red-plum-sake-sangria-per-serving-beverage: macro check failed — stated 190 kcal vs computed 116 (delta -74)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-ros-sangria-per-serving-beverage",
+      "name": "Sparkling Rosé Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/sparkling-ros-sangria-per-serving-beverage: macro check failed — stated 180 kcal vs computed 60 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "classic-mojito-per-serving",
+      "name": "Classic Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "fat_g": 0,
+      "protein_g": 0.5,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sodium_mg": 10,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/classic-mojito-per-serving: macro check failed — stated 260 kcal vs computed 122 (delta -138)"
+    ]
+  },
+  {
+    "item": {
+      "id": "exotic-mojito-per-serving-beverage",
+      "name": "Exotic Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "fat_g": 0,
+      "protein_g": 1,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1.7,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/exotic-mojito-per-serving-beverage: macro check failed — stated 200 kcal vs computed 104 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-mojito-per-serving-beverage",
+      "name": "Coconut Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "fat_g": 2,
+      "protein_g": 0,
+      "carbs_g": 21,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/coconut-mojito-per-serving-beverage: macro check failed — stated 210 kcal vs computed 102 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rocky-s-margarita-per-serving-beverage",
+      "name": "Rocky’s Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/rocky-s-margarita-per-serving-beverage: macro check failed — stated 230 kcal vs computed 116 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beni-long-island-iced-tea-per-serving-beverage",
+      "name": "Beni Long Island Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    "reasons": [
+      "benihana/beni-long-island-iced-tea-per-serving-beverage: macro check failed — stated 230 kcal vs computed 72 (delta -158)"
+    ]
+  }
+]

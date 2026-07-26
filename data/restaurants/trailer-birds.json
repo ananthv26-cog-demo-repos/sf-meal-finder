@@ -1,0 +1,117 @@
+{
+  "id": "trailer-birds",
+  "name": "Trailer Birds",
+  "website": "https://www.trailerbirds.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "590 Van Ness Avenue, San Francisco, CA 94102",
+      "lat": 37.780713,
+      "lng": -122.420184,
+      "neighborhood": "Civic Center"
+    },
+    {
+      "address": "5155 3rd Street, San Francisco, CA 94124",
+      "lat": 37.7314584,
+      "lng": -122.3917507,
+      "neighborhood": "Bayview"
+    }
+  ],
+  "items": [
+    {
+      "id": "1-tenders",
+      "name": "1 Tender",
+      "description": "Derived as 1 × one 100 g breaded chicken tender crowd row. Official menu calorie range reference: https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+      "category": "component",
+      "is_estimate": true,
+      "serving_note": "1 tenders, derived from one 100 g tender-equivalent serving",
+      "source": {
+        "type": "derived",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1735"
+      },
+      "calories": 226.0,
+      "protein_g": 11.85,
+      "carbs_g": 12.4,
+      "fat_g": 14.3,
+      "fiber_g": 0.7,
+      "sodium_mg": 436.0
+    },
+    {
+      "id": "2-tenders",
+      "name": "2 Tenders",
+      "description": "Derived as 2 × one 100 g breaded chicken tender crowd row. Official menu calorie range reference: https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+      "category": "component",
+      "is_estimate": true,
+      "serving_note": "2 tenders, derived from one 100 g tender-equivalent serving",
+      "source": {
+        "type": "derived",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1735"
+      },
+      "calories": 452.0,
+      "protein_g": 23.7,
+      "carbs_g": 24.8,
+      "fat_g": 28.6,
+      "fiber_g": 1.4,
+      "sodium_mg": 872.0
+    },
+    {
+      "id": "3-tenders",
+      "name": "3 Tenders",
+      "description": "Derived as 3 × one 100 g breaded chicken tender crowd row. Official menu calorie range reference: https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "3 tenders, derived from one 100 g tender-equivalent serving",
+      "source": {
+        "type": "derived",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1735"
+      },
+      "calories": 678.0,
+      "protein_g": 35.55,
+      "carbs_g": 37.2,
+      "fat_g": 42.9,
+      "fiber_g": 2.1,
+      "sodium_mg": 1308.0
+    },
+    {
+      "id": "4-tenders",
+      "name": "4 Tenders",
+      "description": "Derived as 4 × one 100 g breaded chicken tender crowd row. Official menu calorie range reference: https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "4 tenders, derived from one 100 g tender-equivalent serving",
+      "source": {
+        "type": "derived",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1735"
+      },
+      "calories": 904.0,
+      "protein_g": 47.4,
+      "carbs_g": 49.6,
+      "fat_g": 57.2,
+      "fiber_g": 2.8,
+      "sodium_mg": 1744.0
+    },
+    {
+      "id": "6-tenders",
+      "name": "6 Tenders",
+      "description": "Derived as 6 × one 100 g breaded chicken tender crowd row. Official menu calorie range reference: https://www.trailerbirds.com/static/docs/trailer-birds-menu-at-a-glance.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "6 tenders, derived from one 100 g tender-equivalent serving",
+      "source": {
+        "type": "derived",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1735"
+      },
+      "calories": 1356.0,
+      "protein_g": 71.1,
+      "carbs_g": 74.4,
+      "fat_g": 85.8,
+      "fiber_g": 4.2,
+      "sodium_mg": 2616.0
+    }
+  ]
+}

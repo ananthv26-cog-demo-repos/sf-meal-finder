@@ -1,0 +1,885 @@
+{
+  "id": "five-guys",
+  "name": "Five Guys",
+  "website": "https://www.fiveguys.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "90 Charter Oak Avenue, San Francisco, CA 94124",
+      "lat": 37.736831300629646,
+      "lng": -122.40535357668648,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "published-bacon-2-pieces-supplier-s",
+      "name": "Bacon (2 pieces) (Supplier S)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 14 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "published-bacon-2-pieces-supplier-d",
+      "name": "Bacon (2 pieces) (Supplier D)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 14 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 73.0,
+      "protein_g": 6.0,
+      "carbs_g": 0.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 213.0
+    },
+    {
+      "id": "published-hot-dog-supplier-h",
+      "name": "Hot Dog (Supplier H)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 90 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 11.0,
+      "carbs_g": 1.0,
+      "fat_g": 26.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 800.0
+    },
+    {
+      "id": "published-bun",
+      "name": "Bun",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 77 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 7.0,
+      "carbs_g": 39.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 330.0
+    },
+    {
+      "id": "published-little-five-guys-style",
+      "name": "Little Five Guys Style",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 227 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 526.0,
+      "protein_g": 8.0,
+      "carbs_g": 72.0,
+      "fat_g": 23.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 531.0
+    },
+    {
+      "id": "published-regular-five-guys-style",
+      "name": "Regular Five Guys Style",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 411 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 953.0,
+      "protein_g": 15.0,
+      "carbs_g": 131.0,
+      "fat_g": 41.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 962.0
+    },
+    {
+      "id": "published-large-five-guys-style",
+      "name": "Large Five Guys Style",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 567 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 1314.0,
+      "protein_g": 20.0,
+      "carbs_g": 181.0,
+      "fat_g": 57.0,
+      "fiber_g": 21.0,
+      "sodium_mg": 1327.0
+    },
+    {
+      "id": "published-little-cajun-style",
+      "name": "Little Cajun Style",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 232 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 540.0,
+      "protein_g": 8.0,
+      "carbs_g": 75.0,
+      "fat_g": 28.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 862.0
+    },
+    {
+      "id": "published-regular-cajun-style",
+      "name": "Regular Cajun Style",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 416 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 967.0,
+      "protein_g": 15.0,
+      "carbs_g": 134.0,
+      "fat_g": 41.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 1293.0
+    },
+    {
+      "id": "published-large-cajun-style",
+      "name": "Large Cajun Style",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 572 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 1328.0,
+      "protein_g": 20.0,
+      "carbs_g": 184.0,
+      "fat_g": 57.0,
+      "fiber_g": 21.0,
+      "sodium_mg": 1658.0
+    },
+    {
+      "id": "published-a-1-sauce",
+      "name": "A.1.® Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 17 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0
+    },
+    {
+      "id": "published-bbq-sauce",
+      "name": "BBQ Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 28 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 49.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 400.0
+    },
+    {
+      "id": "published-cheese-1-slice-supplier-k",
+      "name": "Cheese (1 slice) (Supplier K)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 19 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0
+    },
+    {
+      "id": "published-cheese-1-slice-supplier-s",
+      "name": "Cheese (1 slice) (Supplier S)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 19 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 3.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0
+    },
+    {
+      "id": "published-green-peppers",
+      "name": "Green Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 25 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 3.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1.0
+    },
+    {
+      "id": "published-grilled-mushrooms",
+      "name": "Grilled Mushrooms",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 21 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 6.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "published-hot-sauce",
+      "name": "Hot Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 5 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0
+    },
+    {
+      "id": "published-jalape-o-peppers",
+      "name": "Jalapeño Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 11 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 3.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "published-ketchup",
+      "name": "Ketchup",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 17 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0
+    },
+    {
+      "id": "published-lettuce",
+      "name": "Lettuce",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 30 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 3.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 3.0
+    },
+    {
+      "id": "published-mayonnaise-supplier-k",
+      "name": "Mayonnaise (Supplier K)",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 14 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 111.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "published-mayonnaise-supplier-s",
+      "name": "Mayonnaise (Supplier S)",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 14 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 103.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 69.0
+    },
+    {
+      "id": "published-mustard",
+      "name": "Mustard",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 5 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "published-onions-grilled-onions",
+      "name": "Onions / Grilled Onions",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 26 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 11.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1.0
+    },
+    {
+      "id": "published-pickles-supplier-m",
+      "name": "Pickles (Supplier M)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 28 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0
+    },
+    {
+      "id": "published-pickles-supplier-b",
+      "name": "Pickles (Supplier B)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 28 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0
+    },
+    {
+      "id": "published-relish",
+      "name": "Relish",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 15 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 16.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0
+    },
+    {
+      "id": "published-tomatoes",
+      "name": "Tomatoes",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 52 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 8.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 3.0
+    },
+    {
+      "id": "published-vanilla-shake-base",
+      "name": "Vanilla Shake Base",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 396 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 670.0,
+      "protein_g": 13.0,
+      "carbs_g": 84.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 360.0
+    },
+    {
+      "id": "published-whipped-cream-supplier-s",
+      "name": "Whipped Cream (Supplier S)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 7 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "published-whipped-cream-supplier-a",
+      "name": "Whipped Cream (Supplier A)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 6 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "published-bacon-2-pieces",
+      "name": "Bacon (2 pieces)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 14 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "published-candy-cane-crunch",
+      "name": "Candy Cane Crunch",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 48 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 185.0,
+      "protein_g": 0.0,
+      "carbs_g": 48.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0
+    },
+    {
+      "id": "published-chocolate",
+      "name": "Chocolate",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 50 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 133.0,
+      "protein_g": 2.0,
+      "carbs_g": 30.0,
+      "fat_g": 2.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "published-oreo-cr-me",
+      "name": "Oreo® Crème",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 50 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 23.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 48.0
+    },
+    {
+      "id": "published-oreo-cookie-pieces",
+      "name": "Oreo® Cookie Pieces",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 25 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 18.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 86.0
+    },
+    {
+      "id": "published-peanut-butter",
+      "name": "Peanut Butter",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 50 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 322.0,
+      "protein_g": 9.0,
+      "carbs_g": 9.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 218.0
+    },
+    {
+      "id": "published-reese-s-peanut-butter-cup",
+      "name": "Reese’s® Peanut Butter Cup",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 28 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 150.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 98.0
+    },
+    {
+      "id": "published-salted-caramel",
+      "name": "Salted Caramel",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 50 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 155.0,
+      "protein_g": 1.0,
+      "carbs_g": 37.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0
+    },
+    {
+      "id": "published-bulk-peanuts-1oz",
+      "name": "Bulk Peanuts (1oz.)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 30 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 7.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 180.0
+    },
+    {
+      "id": "published-fry-sauce-bulk",
+      "name": "Fry Sauce Bulk",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 28 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 294.0
+    },
+    {
+      "id": "published-fry-sauce-pc",
+      "name": "Fry Sauce PC",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 35 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0
+    },
+    {
+      "id": "published-malt-vinegar-1tbs",
+      "name": "Malt Vinegar (1tbs)",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 15 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0
+    },
+    {
+      "id": "little-hamburger",
+      "name": "Little Hamburger",
+      "description": "Derived standard build: 1 x Hamburger Patty, 1 x Bun. Sum of Five Guys published component nutrition.",
+      "category": "meal",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 542.0,
+      "protein_g": 23.0,
+      "carbs_g": 39.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 380.0
+    },
+    {
+      "id": "cheese-dog",
+      "name": "Cheese Dog",
+      "description": "Derived standard build: 1 x Hot Dog (Supplier H), 1 x Bun, 1 x Cheese (1 slice) (Supplier S). Sum of Five Guys published component nutrition.",
+      "category": "meal",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 590.0,
+      "protein_g": 21.0,
+      "carbs_g": 41.0,
+      "fat_g": 41.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1460.0
+    },
+    {
+      "id": "vanilla-milkshake",
+      "name": "Vanilla Milkshake",
+      "description": "Derived standard build: 1 x Vanilla Shake Base, 1 x Whipped Cream (Supplier S). Sum of Five Guys published component nutrition.",
+      "category": "drink",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 690.0,
+      "protein_g": 13.0,
+      "carbs_g": 85.0,
+      "fat_g": 33.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 360.0
+    },
+    {
+      "id": "chocolate-milkshake",
+      "name": "Chocolate Milkshake",
+      "description": "Derived standard build: 1 x Vanilla Shake Base, 1 x Whipped Cream (Supplier S), 1 x Chocolate. Sum of Five Guys published component nutrition.",
+      "category": "drink",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 823.0,
+      "protein_g": 15.0,
+      "carbs_g": 115.0,
+      "fat_g": 35.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 390.0
+    },
+    {
+      "id": "oreo-milkshake",
+      "name": "Oreo Milkshake",
+      "description": "Derived standard build: 1 x Vanilla Shake Base, 1 x Whipped Cream (Supplier S), 1 x Oreo® Cookie Pieces. Sum of Five Guys published component nutrition.",
+      "category": "drink",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 810.0,
+      "protein_g": 14.0,
+      "carbs_g": 103.0,
+      "fat_g": 38.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 446.0
+    }
+  ]
+}

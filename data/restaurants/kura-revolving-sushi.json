@@ -1,0 +1,2613 @@
+{
+  "id": "kura-revolving-sushi",
+  "name": "Kura Revolving Sushi Bar",
+  "website": "https://kurasushi.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "3251 20th Ave, Space 220, San Francisco, CA 94132",
+      "lat": 37.728694,
+      "lng": -122.47523,
+      "neighborhood": "Stonestown"
+    }
+  ],
+  "items": [
+    {
+      "id": "american-wagyu",
+      "name": "American Wagyu",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "bluefin-chutoro-1pc",
+      "name": "Bluefin Chutoro [1PC]",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 3.0,
+      "carbs_g": 6.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "charbroiled-mackerel",
+      "name": "Charbroiled Mackerel",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 7.0,
+      "carbs_g": 11.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "conch",
+      "name": "Conch",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 4.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "eel",
+      "name": "Eel",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "garlic-ponzu-salmon",
+      "name": "Garlic Ponzu Salmon",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "garlic-skipjack-tuna",
+      "name": "Garlic Skipjack Tuna",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "grilled-teriyaki-salmon",
+      "name": "Grilled Teriyaki Salmon",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 5.0,
+      "carbs_g": 14.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "hokkaido-scallop",
+      "name": "Hokkaido Scallop",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "salmon",
+      "name": "Salmon",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "salmon-toro",
+      "name": "Salmon Toro",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 7.0,
+      "carbs_g": 11.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sea-bream-with-yuzu-pepper",
+      "name": "Sea Bream with Yuzu Pepper",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-beef-with-yakiniku-sauce",
+      "name": "Seared Beef with Yakiniku Sauce",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 6.0,
+      "carbs_g": 14.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-bluefin-chutoro-1pc",
+      "name": "Seared Bluefin Chutoro [1PC]",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 3.0,
+      "carbs_g": 5.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-eel-with-miso-cream-cheese",
+      "name": "Seared Eel with Miso Cream Cheese",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 13.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-hokkai-octopus",
+      "name": "Seared Hokkai Octopus",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 4.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-salmon-with-japanese-mayo",
+      "name": "Seared Salmon with Japanese Mayo",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-salmon-with-miso-cream-cheese",
+      "name": "Seared Salmon with Miso Cream Cheese",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 13.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "seared-scallop-with-japanese-mayo",
+      "name": "Seared Scallop with Japanese Mayo",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 4.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "snow-crab-1pc",
+      "name": "Snow Crab [1PC]",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 40.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spanish-mackerel-aji",
+      "name": "Spanish Mackerel (Aji)",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "squid",
+      "name": "Squid",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sweet-shrimp-red-shrimp",
+      "name": "Sweet Shrimp (Red Shrimp)",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 6.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tamago",
+      "name": "Tamago",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 6.0,
+      "carbs_g": 19.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tuna",
+      "name": "Tuna",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 6.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "umami-oil-salmon",
+      "name": "Umami Oil Salmon",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "umami-oil-seared-beef",
+      "name": "Umami Oil Seared Beef",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "yellowtail",
+      "name": "Yellowtail",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "yuzu-jalape-o-sweet-shrimp",
+      "name": "Yuzu Jalapeño Sweet Shrimp",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 7.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "yuzu-jalape-o-tuna",
+      "name": "Yuzu Jalapeño Tuna",
+      "description": "Official Kura Sushi nutrition PDF; section Nigiri.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 7.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "american-wagyu-2",
+      "name": "American Wagyu",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 6.0,
+      "carbs_g": 16.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "ikura-salmon-roe",
+      "name": "Ikura (Salmon Roe)",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 7.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "inari",
+      "name": "Inari",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "negitoro",
+      "name": "Negitoro",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 10.0,
+      "carbs_g": 14.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sea-urchin-1pc",
+      "name": "Sea Urchin [1PC]",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 45.0,
+      "protein_g": 2.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "snow-crab-meat",
+      "name": "Snow Crab Meat",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 7.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "umami-oil-hokkai-octopus",
+      "name": "Umami Oil Hokkai Octopus",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 7.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "umami-sesame-patagonian-scallops",
+      "name": "Umami Sesame Patagonian Scallops",
+      "description": "Official Kura Sushi nutrition PDF; section Gunkan.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 7.0,
+      "carbs_g": 16.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "caterpillar-roll",
+      "name": "Caterpillar Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 15.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-cod-fish-taco",
+      "name": "Crispy Cod Fish Taco",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 5.0,
+      "carbs_g": 14.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crunchy-roll",
+      "name": "Crunchy Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 5.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "golden-crunchy-roll",
+      "name": "Golden Crunchy Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 5.0,
+      "carbs_g": 28.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "kappa-maki",
+      "name": "Kappa Maki",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 2.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "kura-roll",
+      "name": "Kura Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 5.0,
+      "carbs_g": 15.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "philadelphia-roll",
+      "name": "Philadelphia Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 5.0,
+      "carbs_g": 14.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "rainbow-roll",
+      "name": "Rainbow Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 6.0,
+      "carbs_g": 15.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "salmon-skin-roll",
+      "name": "Salmon Skin Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "shrimp-avocado-roll",
+      "name": "Shrimp Avocado Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 4.0,
+      "carbs_g": 15.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "snow-crab-california-roll",
+      "name": "Snow Crab California Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 5.0,
+      "carbs_g": 20.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-crunchy-taco",
+      "name": "Spicy Crunchy Taco",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 6.0,
+      "carbs_g": 14.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-popcorn-shrimp-roll",
+      "name": "Spicy Popcorn Shrimp Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 6.0,
+      "carbs_g": 18.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-crunchy-roll",
+      "name": "Spicy Salmon Crunchy Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 19.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-crunchy-roll",
+      "name": "Spicy Tuna Crunchy Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 9.0,
+      "carbs_g": 19.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-roll",
+      "name": "Spicy Tuna Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 7.0,
+      "carbs_g": 20.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spider-roll",
+      "name": "Spider Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 5.0,
+      "carbs_g": 28.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tekka-maki",
+      "name": "Tekka Maki",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 5.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tempura-philadelphia-roll",
+      "name": "Tempura Philadelphia Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tiger-roll",
+      "name": "Tiger Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Rolls.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 4.0,
+      "carbs_g": 15.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "panko-tuna-wrap",
+      "name": "Panko Tuna Wrap",
+      "description": "Official Kura Sushi nutrition PDF; section Wraps.",
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 7.0,
+      "carbs_g": 10.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-panko-tuna-wrap",
+      "name": "Spicy Panko Tuna Wrap",
+      "description": "Official Kura Sushi nutrition PDF; section Wraps.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 8.0,
+      "carbs_g": 10.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "avocado-hand-roll",
+      "name": "Avocado Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 2.0,
+      "carbs_g": 12.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crunchy-hand-roll",
+      "name": "Crunchy Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 6.0,
+      "carbs_g": 16.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "cucumber-hand-roll",
+      "name": "Cucumber Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 2.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "eel-hand-roll",
+      "name": "Eel Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "negitoro-hand-roll",
+      "name": "Negitoro Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 9.0,
+      "carbs_g": 10.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "salmon-skin-hand-roll",
+      "name": "Salmon Skin Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 3.0,
+      "carbs_g": 11.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "snow-crab-california-hand-roll",
+      "name": "Snow Crab California Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-patagonian-scallop-hand-roll",
+      "name": "Spicy Patagonian Scallop Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-hand-roll",
+      "name": "Spicy Salmon Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 6.0,
+      "carbs_g": 11.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-hand-roll",
+      "name": "Spicy Tuna Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 7.0,
+      "carbs_g": 11.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-yellowtail-hand-roll",
+      "name": "Spicy Yellowtail Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spider-hand-roll",
+      "name": "Spider Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 5.0,
+      "carbs_g": 19.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "vegetable-hand-roll",
+      "name": "Vegetable Hand Roll",
+      "description": "Official Kura Sushi nutrition PDF; section Hand Rolls.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "avocado-hand-roll-soy-paper",
+      "name": "Avocado Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 13.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crunchy-hand-roll-soy-paper",
+      "name": "Crunchy Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "cucumber-hand-roll-soy-paper",
+      "name": "Cucumber Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 3.0,
+      "carbs_g": 12.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "eel-hand-roll-soy-paper",
+      "name": "Eel Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 7.0,
+      "carbs_g": 13.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "negitoro-hand-roll-soy-paper",
+      "name": "Negitoro Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 11.0,
+      "carbs_g": 11.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "salmon-skin-hand-roll-soy-paper",
+      "name": "Salmon Skin Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 4.0,
+      "carbs_g": 12.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "snow-crab-california-hand-roll-soy-paper",
+      "name": "Snow Crab California Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-patagonian-scallop-hand-roll-soy-paper",
+      "name": "Spicy Patagonian Scallop Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 7.0,
+      "carbs_g": 13.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-hand-roll-soy-paper",
+      "name": "Spicy Salmon Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 7.0,
+      "carbs_g": 12.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-hand-roll-soy-paper",
+      "name": "Spicy Tuna Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 8.0,
+      "carbs_g": 12.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spicy-yellowtail-hand-roll-soy-paper",
+      "name": "Spicy Yellowtail Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 7.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "spider-hand-roll-soy-paper",
+      "name": "Spider Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 6.0,
+      "carbs_g": 20.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "vegetable-hand-roll-soy-paper",
+      "name": "Vegetable Hand Roll (Soy Paper)",
+      "description": "Official Kura Sushi nutrition PDF; section Soy Paper Hand Rolls.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 3.0,
+      "carbs_g": 13.0,
+      "fat_g": 2.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken",
+      "name": "Crispy Chicken",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 10.0,
+      "carbs_g": 9.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-cod-fish-chips",
+      "name": "Crispy Cod Fish & Chips",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 440.0,
+      "protein_g": 8.0,
+      "carbs_g": 30.0,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-rice-hot-dog",
+      "name": "Crispy Rice Hot Dog",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 10.0,
+      "carbs_g": 22.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-rice-with-snow-crab-mayo",
+      "name": "Crispy Rice with Snow Crab Mayo",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 4.0,
+      "carbs_g": 16.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-rice-with-spicy-salmon",
+      "name": "Crispy Rice with Spicy Salmon",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 6.0,
+      "carbs_g": 17.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-rice-with-spicy-tuna",
+      "name": "Crispy Rice with Spicy Tuna",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 6.0,
+      "carbs_g": 17.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "crispy-squid",
+      "name": "Crispy Squid",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 11.0,
+      "carbs_g": 7.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "edamame",
+      "name": "Edamame",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 13.0,
+      "carbs_g": 12.0,
+      "fat_g": 4.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "fried-shrimp-wonton",
+      "name": "Fried Shrimp Wonton",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 5.0,
+      "carbs_g": 12.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "fried-takoyaki",
+      "name": "Fried Takoyaki",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 5.0,
+      "carbs_g": 21.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "garlic-ponzu-sashimi",
+      "name": "Garlic Ponzu Sashimi",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 23.0,
+      "carbs_g": 3.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "kura-crispy-fries",
+      "name": "Kura Crispy Fries",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 380.0,
+      "protein_g": 3.0,
+      "carbs_g": 30.0,
+      "fat_g": 27.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "miso-soup",
+      "name": "Miso Soup",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 6.0,
+      "carbs_g": 6.0,
+      "fat_g": 1.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "panko-tuna-sticks",
+      "name": "Panko Tuna Sticks",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 860.0,
+      "protein_g": 45.0,
+      "carbs_g": 53.0,
+      "fat_g": 52.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1100.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "salmon-sashimi",
+      "name": "Salmon Sashimi",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "shrimp-tempura",
+      "name": "Shrimp Tempura",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 8.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "softshell-crab-tempura",
+      "name": "Softshell Crab Tempura",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 6.0,
+      "carbs_g": 18.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sweet-corn-kakiage",
+      "name": "Sweet Corn Kakiage",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 27.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tuna-sashimi",
+      "name": "Tuna Sashimi",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 10.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "umami-cucumber-salad",
+      "name": "Umami Cucumber Salad",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-sashimi",
+      "name": "Yellowtail Sashimi",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "beef-udon",
+      "name": "Beef Udon",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "kitsune-udon",
+      "name": "Kitsune Udon",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 10.0,
+      "carbs_g": 40.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1180.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "miso-ramen",
+      "name": "Miso Ramen",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 570.0,
+      "protein_g": 23.0,
+      "carbs_g": 66.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2880.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "shoyu-ramen",
+      "name": "Shoyu Ramen",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 21.0,
+      "carbs_g": 65.0,
+      "fat_g": 21.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2590.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "shrimp-tempura-udon",
+      "name": "Shrimp Tempura Udon",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 310.0,
+      "protein_g": 15.0,
+      "carbs_g": 43.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1130.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tantanmen",
+      "name": "Tantanmen",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 26.0,
+      "carbs_g": 73.0,
+      "fat_g": 29.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2790.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tonkotsu-ramen",
+      "name": "Tonkotsu Ramen",
+      "description": "Official Kura Sushi nutrition PDF; section Noodles.",
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 18.0,
+      "carbs_g": 60.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2540.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "black-sesame-mochi-ice-cream",
+      "name": "Black Sesame Mochi Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 36.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "black-sesame-match-a-mochi-ice-cream",
+      "name": "Black Sesame/Match a Mochi Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 34.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "gooey-butter-cake",
+      "name": "Gooey Butter Cake",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 2.0,
+      "carbs_g": 33.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "matcha-green-tea-mochi-ice-cream",
+      "name": "Matcha Green Tea Mochi Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 32.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "ny-cheesecake",
+      "name": "NY Cheesecake",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 4.0,
+      "carbs_g": 17.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sesame-ball",
+      "name": "Sesame Ball",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 6.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "strawberry-mochi-ice-cream",
+      "name": "Strawberry Mochi Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 38.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "strawberry-bla-ck-sesame-mochi-ice-cream",
+      "name": "Strawberry/Bla ck Sesame Mochi Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 37.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "strawberry-ma-tcha-mochi-ice-cream",
+      "name": "Strawberry/Ma tcha Mochi Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 2.0,
+      "carbs_g": 35.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "taiyaki-ice-cream",
+      "name": "Taiyaki Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 450.0,
+      "protein_g": 7.0,
+      "carbs_g": 51.0,
+      "fat_g": 21.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "vanilla-ice-cream",
+      "name": "Vanilla Ice Cream",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 6.0,
+      "carbs_g": 29.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "warabimochi",
+      "name": "Warabimochi",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 6.0,
+      "carbs_g": 39.0,
+      "fat_g": 3.5,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon",
+      "description": "Official Kura Sushi nutrition PDF; section Desserts.",
+      "category": "side",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "coke",
+      "name": "Coke",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "coke-zero",
+      "name": "Coke Zero",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "diet-pepsi",
+      "name": "Diet Pepsi",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "dr-pepper",
+      "name": "Dr. Pepper",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "ginger-ale",
+      "name": "Ginger Ale",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "hot-green-tea",
+      "name": "Hot Green Tea",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "iced-green-tea",
+      "name": "Iced Green Tea",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "iced-tea-unsweetened-lemonade",
+      "name": "Iced Tea (Unsweetened) Lemonade",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "mountain-dew",
+      "name": "Mountain Dew",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "pepsi",
+      "name": "Pepsi",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 56.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "pibb-xtra-raspberry-iced-tea",
+      "name": "Pibb Xtra Raspberry Iced Tea",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sierra-mist",
+      "name": "Sierra Mist",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sparkling-lychee-oolong-tea",
+      "name": "Sparkling Lychee Oolong Tea",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "sprite",
+      "name": "Sprite",
+      "description": "Official Kura Sushi nutrition PDF; section Soft Drinks.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    {
+      "id": "tonkotsu-mazemen",
+      "name": "Tonkotsu Mazemen",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 20.0,
+      "carbs_g": 72.0,
+      "fat_g": 20.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1940.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    }
+  ]
+}

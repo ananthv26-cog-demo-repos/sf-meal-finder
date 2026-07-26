@@ -1,0 +1,4167 @@
+{
+  "id": "kfc",
+  "name": "KFC",
+  "website": "https://www.kfc.com",
+  "nutrition_source": {
+    "type": "vendor",
+    "url": "https://www.nutritionix.com/kfc/menu/premium",
+    "vendor": "nutritionix",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "1150 Taraval Street, San Francisco, CA 94116",
+      "lat": 37.7431213,
+      "lng": -122.4787674,
+      "neighborhood": null
+    },
+    {
+      "address": "2040 Ocean Avenue, San Francisco, CA 94127",
+      "lat": 37.7265089,
+      "lng": -122.4649774,
+      "neighborhood": null
+    },
+    {
+      "address": "4150 Geary Boulevard, San Francisco, CA 94118",
+      "lat": 37.7812721,
+      "lng": -122.4641203,
+      "neighborhood": null
+    },
+    {
+      "address": "4285 Mission St, San Francisco, CA 94112",
+      "lat": 37.7288885,
+      "lng": -122.4307199,
+      "neighborhood": null
+    },
+    {
+      "address": "691 Eddy Street, San Francisco, CA 94109",
+      "lat": 37.7830061,
+      "lng": -122.4190289,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "apple-pie-poppers",
+      "name": "Apple Pie Poppers",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "boneless-bucket",
+      "name": "Boneless Bucket",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 1590.0,
+      "protein_g": 59.0,
+      "carbs_g": 139.0,
+      "fat_g": 90.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 4400.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "country-fried-steak-meal",
+      "name": "Country Fried Steak Meal",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 870.0,
+      "protein_g": 21.0,
+      "carbs_g": 83.0,
+      "fat_g": 51.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2120.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dirty-dr-pepper-20-fl-oz",
+      "name": "Dirty Dr Pepper® (20 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0,
+      "carbs_g": 74.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dirty-dr-pepper-30-fl-oz",
+      "name": "Dirty Dr Pepper® (30 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 430.0,
+      "protein_g": 0,
+      "carbs_g": 107.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dirty-lemonade-20-fl-oz",
+      "name": "Dirty Lemonade (20 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0,
+      "carbs_g": 48.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dirty-lemonade-30-fl-oz",
+      "name": "Dirty Lemonade (30 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0,
+      "carbs_g": 67.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dirty-pepsi-20-fl-oz",
+      "name": "Dirty Pepsi® (20 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0,
+      "carbs_g": 78.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dirty-pepsi-30-fl-oz",
+      "name": "Dirty Pepsi® (30 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 450.0,
+      "protein_g": 0,
+      "carbs_g": 113.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "fried-pickles",
+      "name": "Fried Pickles",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "fries-fried-pickles",
+      "name": "Fries + Fried Pickles",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 610.0,
+      "protein_g": 9.0,
+      "carbs_g": 73.0,
+      "fat_g": 31.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2500.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "handheld-pot-pie",
+      "name": "HandHeld Pot Pie",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 12.0,
+      "carbs_g": 47.0,
+      "fat_g": 34.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 790.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "honey-bbq-hot-spicy-wings-1",
+      "name": "Honey BBQ Hot & Spicy Wings (1)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 9.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per 1",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "honey-chili-crisp-dip-cup",
+      "name": "Honey Chili Crisp Dip Cup",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "honey-chili-crisp-snacker",
+      "name": "Honey Chili Crisp Snacker",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 490.0,
+      "protein_g": 17.0,
+      "carbs_g": 46.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "hot-spicy-wings-1",
+      "name": "Hot & Spicy Wings (1)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 5.0,
+      "carbs_g": 3.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 1",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "jalapeno-ranch-dip-cup",
+      "name": "Jalapeno Ranch Dip Cup",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "condiment",
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mac-cheese-bowl",
+      "name": "Mac & Cheese Bowl",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 30.0,
+      "carbs_g": 42.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1970.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mashed-potatoes-with-gravy-medium",
+      "name": "Mashed Potatoes With Gravy (Medium)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "condiment",
+      "calories": 180.0,
+      "protein_g": 4.0,
+      "carbs_g": 27.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per Medium",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "matty-s-cheesy-nuggy-gravy-bowl",
+      "name": "Matty's Cheesy Nuggy Gravy Bowl",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 34.0,
+      "carbs_g": 63.0,
+      "fat_g": 39.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2470.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mike-s-hot-honey-hot-spicy-wings-1",
+      "name": "Mike's Hot Honey Hot & Spicy Wings (1)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 9.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 1",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-twister",
+      "name": "Original Twister®",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 1100.0,
+      "protein_g": 29.0,
+      "carbs_g": 88.0,
+      "fat_g": 73.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2040.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-twister-with-bacon",
+      "name": "Original Twister® with Bacon",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 1170.0,
+      "protein_g": 33.0,
+      "carbs_g": 89.0,
+      "fat_g": 79.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2300.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "popcorn-chicken",
+      "name": "Popcorn Chicken",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 620.0,
+      "protein_g": 23.0,
+      "carbs_g": 40.0,
+      "fat_g": 41.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1970.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "popcorn-chicken-big-box",
+      "name": "Popcorn Chicken Big Box",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 1470.0,
+      "protein_g": 52.0,
+      "carbs_g": 147.0,
+      "fat_g": 77.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3980.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "popcorn-chicken-bucket",
+      "name": "Popcorn Chicken Bucket",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 1670.0,
+      "protein_g": 63.0,
+      "carbs_g": 106.0,
+      "fat_g": 110.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 5260.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "popcorn-chicken-combo",
+      "name": "Popcorn Chicken Combo",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 940.0,
+      "protein_g": 28.0,
+      "carbs_g": 81.0,
+      "fat_g": 56.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 3070.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "potato-wedges",
+      "name": "Potato Wedges",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 320.0,
+      "protein_g": 5.0,
+      "carbs_g": 40.0,
+      "fat_g": 15.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 830.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "potato-wedges-large",
+      "name": "Potato Wedges (Large)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 760.0,
+      "protein_g": 11.0,
+      "carbs_g": 97.0,
+      "fat_g": 36.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1980.0,
+      "serving_note": "per Large",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "prickly-pear-lemonade-20-fl-oz",
+      "name": "Prickly Pear Lemonade (20 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "prickly-pear-lemonade-32-fl-oz",
+      "name": "Prickly Pear Lemonade (32 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0,
+      "carbs_g": 76.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 32 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "prickly-pear-lemonade-64-fl-oz",
+      "name": "Prickly Pear Lemonade (64 fl oz)",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 610.0,
+      "protein_g": 0,
+      "carbs_g": 165.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 64 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "saucy-fries",
+      "name": "Saucy Fries",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 560.0,
+      "protein_g": 6.0,
+      "carbs_g": 71.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1390.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "side-of-pickles",
+      "name": "Side of Pickles",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 32.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1400.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "snack-box",
+      "name": "Snack Box",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 21.0,
+      "carbs_g": 39.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2090.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-twister",
+      "name": "Spicy Twister®",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 28.0,
+      "carbs_g": 79.0,
+      "fat_g": 37.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1420.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-twister-with-bacon",
+      "name": "Spicy Twister® with Bacon",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 33.0,
+      "carbs_g": 79.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1680.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-zinger-sandwich",
+      "name": "Spicy Zinger Sandwich",
+      "description": "KFC menu section: Limited Time Offers.",
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 33.0,
+      "carbs_g": 37.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1360.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-recipe-chicken-breast",
+      "name": "Original Recipe® Chicken Breast",
+      "description": "KFC menu section: Original Recipe Chicken.",
+      "category": "component",
+      "calories": 390.0,
+      "protein_g": 39.0,
+      "carbs_g": 11.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-recipe-chicken-drumstick",
+      "name": "Original Recipe® Chicken Drumstick",
+      "description": "KFC menu section: Original Recipe Chicken.",
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 12.0,
+      "carbs_g": 4.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-recipe-chicken-thigh",
+      "name": "Original Recipe® Chicken Thigh",
+      "description": "KFC menu section: Original Recipe Chicken.",
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 19.0,
+      "carbs_g": 8.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-recipe-chicken-whole-wing",
+      "name": "Original Recipe® Chicken Whole Wing",
+      "description": "KFC menu section: Original Recipe Chicken.",
+      "category": "meal",
+      "calories": 130.0,
+      "protein_g": 10.0,
+      "carbs_g": 3.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "extra-crispy-chicken-breast",
+      "name": "Extra Crispy™ Chicken Breast",
+      "description": "KFC menu section: Extra Crispy Chicken.",
+      "category": "component",
+      "calories": 530.0,
+      "protein_g": 35.0,
+      "carbs_g": 18.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "extra-crispy-chicken-drumstick",
+      "name": "Extra Crispy™ Chicken Drumstick",
+      "description": "KFC menu section: Extra Crispy Chicken.",
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 5.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "extra-crispy-chicken-thigh",
+      "name": "Extra Crispy™ Chicken Thigh",
+      "description": "KFC menu section: Extra Crispy Chicken.",
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 22.0,
+      "carbs_g": 9.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "extra-crispy-chicken-whole-wing",
+      "name": "Extra Crispy™ Chicken Whole Wing",
+      "description": "KFC menu section: Extra Crispy Chicken.",
+      "category": "meal",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 5.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kentucky-grilled-chicken-breast",
+      "name": "Kentucky Grilled Chicken® Breast",
+      "description": "KFC menu section: Kentucky Grilled Chicken.",
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 38.0,
+      "carbs_g": 0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kentucky-grilled-chicken-drumstick",
+      "name": "Kentucky Grilled Chicken® Drumstick",
+      "description": "KFC menu section: Kentucky Grilled Chicken.",
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 11.0,
+      "carbs_g": 0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kentucky-grilled-chicken-thigh",
+      "name": "Kentucky Grilled Chicken® Thigh",
+      "description": "KFC menu section: Kentucky Grilled Chicken.",
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 17.0,
+      "carbs_g": 0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kentucky-grilled-chicken-whole-wing",
+      "name": "Kentucky Grilled Chicken® Whole Wing",
+      "description": "KFC menu section: Kentucky Grilled Chicken.",
+      "category": "meal",
+      "calories": 70.0,
+      "protein_g": 9.0,
+      "carbs_g": 0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-crispy-chicken-breast",
+      "name": "Spicy Crispy Chicken Breast",
+      "description": "KFC menu section: Spicy Crispy Chicken.",
+      "category": "component",
+      "calories": 350.0,
+      "protein_g": 30.0,
+      "carbs_g": 11.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1100.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-crispy-chicken-drumstick",
+      "name": "Spicy Crispy Chicken Drumstick",
+      "description": "KFC menu section: Spicy Crispy Chicken.",
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 9.0,
+      "carbs_g": 5.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-crispy-chicken-thigh",
+      "name": "Spicy Crispy Chicken Thigh",
+      "description": "KFC menu section: Spicy Crispy Chicken.",
+      "category": "component",
+      "calories": 270.0,
+      "protein_g": 13.0,
+      "carbs_g": 10.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 720.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-crispy-chicken-whole-wing",
+      "name": "Spicy Crispy Chicken Whole Wing",
+      "description": "KFC menu section: Spicy Crispy Chicken.",
+      "category": "meal",
+      "calories": 120.0,
+      "protein_g": 7.0,
+      "carbs_g": 5.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "new-original-recipe-tender-each",
+      "name": "NEW! Original Recipe® Tender (each)",
+      "description": "KFC menu section: Original Recipe® Tenders.",
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 11.0,
+      "carbs_g": 20.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per each",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kentucky-fried-nuggets-1",
+      "name": "Kentucky Fried Nuggets (1)",
+      "description": "KFC menu section: Kentucky Fried Nuggets.",
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 3.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 1",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "bbq-baked-beans",
+      "name": "BBQ Baked Beans",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 11.0,
+      "carbs_g": 34.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "biscuit",
+      "name": "Biscuit",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 180.0,
+      "protein_g": 4.0,
+      "carbs_g": 22.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "cheese-curds",
+      "name": "Cheese Curds",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 350.0,
+      "protein_g": 17.0,
+      "carbs_g": 17.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "cheese-curd-snack-box",
+      "name": "Cheese Curd Snack Box",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 340.0,
+      "protein_g": 25.0,
+      "carbs_g": 15.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "coleslaw",
+      "name": "Coleslaw",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "corn-on-the-cob",
+      "name": "Corn on the Cob",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "green-beans",
+      "name": "Green Beans",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 25.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-cornbread-muffin",
+      "name": "KFC® Cornbread Muffin",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "macaroni-cheese",
+      "name": "Macaroni & Cheese",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 5.0,
+      "carbs_g": 17.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mashed-potatoes",
+      "name": "Mashed Potatoes",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mashed-potatoes-with-gravy",
+      "name": "Mashed Potatoes With Gravy",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "secret-recipe-fries",
+      "name": "Secret Recipe Fries",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 320.0,
+      "protein_g": 5.0,
+      "carbs_g": 41.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1100.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sweet-kernel-corn",
+      "name": "Sweet Kernel Corn",
+      "description": "KFC menu section: Homestyle Sides (Individual).",
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "bbq-baked-beans-family",
+      "name": "BBQ Baked Beans (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 830.0,
+      "protein_g": 47.0,
+      "carbs_g": 148.0,
+      "fat_g": 5.0,
+      "fiber_g": 31.0,
+      "sodium_mg": 2810.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "coleslaw-family",
+      "name": "Coleslaw (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 640.0,
+      "protein_g": 4.0,
+      "carbs_g": 54.0,
+      "fat_g": 46.0,
+      "fiber_g": 14.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "corn-on-the-cob-family",
+      "name": "Corn on the Cob (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 9.0,
+      "carbs_g": 67.0,
+      "fat_g": 2.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "green-beans-family",
+      "name": "Green Beans (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 4.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "macaroni-cheese-family",
+      "name": "Macaroni & Cheese (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 540.0,
+      "protein_g": 18.0,
+      "carbs_g": 66.0,
+      "fat_g": 23.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2220.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mashed-potatoes-family",
+      "name": "Mashed Potatoes (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 460.0,
+      "protein_g": 9.0,
+      "carbs_g": 72.0,
+      "fat_g": 15.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1410.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mashed-potatoes-with-gravy-family",
+      "name": "Mashed Potatoes With Gravy (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 590.0,
+      "protein_g": 12.0,
+      "carbs_g": 88.0,
+      "fat_g": 21.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2590.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "secret-recipe-fries-family",
+      "name": "Secret Recipe Fries (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 840.0,
+      "protein_g": 13.0,
+      "carbs_g": 108.0,
+      "fat_g": 40.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2890.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sweet-kernel-corn-family",
+      "name": "Sweet Kernel Corn (Family)",
+      "description": "KFC menu section: Homestyle Sides (Family).",
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 10.0,
+      "carbs_g": 67.0,
+      "fat_g": 2.5,
+      "fiber_g": 7.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per Family",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "classic-chicken-sandwich",
+      "name": "Classic Chicken Sandwich",
+      "description": "KFC menu section: Sandwiches.",
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 34.0,
+      "carbs_g": 49.0,
+      "fat_g": 35.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-snacker",
+      "name": "KFC Snacker",
+      "description": "KFC menu section: Sandwiches.",
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 15.0,
+      "carbs_g": 39.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 730.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-chicken-sandwich",
+      "name": "Spicy Chicken Sandwich",
+      "description": "KFC menu section: Sandwiches.",
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 34.0,
+      "carbs_g": 49.0,
+      "fat_g": 33.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2140.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "twister",
+      "name": "Twister®",
+      "description": "KFC menu section: Sandwiches.",
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 29.0,
+      "carbs_g": 74.0,
+      "fat_g": 31.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1360.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "chicken-pot-pie",
+      "name": "Chicken Pot Pie",
+      "description": "KFC menu section: Pot Pie and Bowls.",
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 26.0,
+      "carbs_g": 60.0,
+      "fat_g": 41.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1750.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-famous-bowl",
+      "name": "KFC® Famous Bowl",
+      "description": "KFC menu section: Pot Pie and Bowls.",
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 31.0,
+      "carbs_g": 67.0,
+      "fat_g": 22.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2160.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "caesar-side-salad",
+      "name": "Caesar Side Salad",
+      "description": "KFC menu section: Salads.",
+      "category": "side",
+      "calories": 40.0,
+      "protein_g": 3.0,
+      "carbs_g": 2.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "house-side-salad",
+      "name": "House Side Salad",
+      "description": "KFC menu section: Salads.",
+      "category": "side",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "heinz-buttermilk-dressing",
+      "name": "Heinz Buttermilk Dressing",
+      "description": "KFC menu section: Dressing and Croutons.",
+      "category": "condiment",
+      "calories": 160.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "hidden-valley-the-original-ranch-fat-free-dressing",
+      "name": "Hidden Valley The Original Ranch Fat Free Dressing",
+      "description": "KFC menu section: Dressing and Croutons.",
+      "category": "condiment",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-creamy-parmesan-caesar-dressing",
+      "name": "KFC® Creamy Parmesan Caesar Dressing",
+      "description": "KFC menu section: Dressing and Croutons.",
+      "category": "condiment",
+      "calories": 260.0,
+      "protein_g": 2.0,
+      "carbs_g": 4.0,
+      "fat_g": 26.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "marzetti-light-italian-dressing",
+      "name": "Marzetti Light Italian Dressing",
+      "description": "KFC menu section: Dressing and Croutons.",
+      "category": "condiment",
+      "calories": 15.0,
+      "protein_g": 0,
+      "carbs_g": 2.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "parmesan-garlic-croutons",
+      "name": "Parmesan Garlic Croutons",
+      "description": "KFC menu section: Dressing and Croutons.",
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 2.0,
+      "carbs_g": 8.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "apple-turnover",
+      "name": "Apple Turnover",
+      "description": "KFC menu section: Desserts.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 2.0,
+      "carbs_g": 32.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "caf-valley-chocolate-chip-cake-1-slice",
+      "name": "Café Valley Chocolate Chip Cake (1 Slice)",
+      "description": "KFC menu section: Desserts.",
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 4.0,
+      "carbs_g": 39.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 1 Slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "caf-valley-lemon-cake-1-slice",
+      "name": "Café Valley Lemon Cake (1 Slice)",
+      "description": "KFC menu section: Desserts.",
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 2.0,
+      "carbs_g": 30.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 Slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "caf-valley-mini-chocolate-chip-cake",
+      "name": "Café Valley Mini Chocolate Chip Cake",
+      "description": "KFC menu section: Desserts.",
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 49.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "caf-valley-mini-lemon-cake",
+      "name": "Café Valley Mini Lemon Cake",
+      "description": "KFC menu section: Desserts.",
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 43.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "chocolate-chunk-cookie",
+      "name": "Chocolate Chunk Cookie",
+      "description": "KFC menu section: Desserts.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "bbq-dipping-sauce-cup",
+      "name": "BBQ - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 45.0,
+      "protein_g": 0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "buffalo-ranch-dipping-sauce-cup",
+      "name": "Buffalo Ranch - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "colonel-s-buttery-spread",
+      "name": "Colonel's Buttery Spread",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 35.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "comeback-sauce-dipping-sauce-cup",
+      "name": "Comeback Sauce - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "grape-jelly-packet",
+      "name": "Grape Jelly Packet",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 35.0,
+      "protein_g": 0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "honey-mustard-dipping-sauce-cup",
+      "name": "Honey Mustard - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0,
+      "carbs_g": 6.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "honey-sauce-packet",
+      "name": "Honey Sauce Packet",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "ketchup",
+      "name": "Ketchup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-sauce-dipping-sauce-cup",
+      "name": "KFC Sauce - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 0,
+      "carbs_g": 5.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lemon-juice-packet",
+      "name": "Lemon Juice Packet",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "ranch-dipping-sauce-cup",
+      "name": "Ranch - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 130.0,
+      "protein_g": 0,
+      "carbs_g": 2.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "spicy-zinger-mayo",
+      "name": "Spicy Zinger Mayo",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 590.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 64.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sticky-chicky-sweet-n-sour-dipping-sauce-cup",
+      "name": "Sticky Chicky Sweet n' Sour Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 45.0,
+      "protein_g": 0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "strawberry-jam-packet",
+      "name": "Strawberry Jam Packet",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 35.0,
+      "protein_g": 0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "supergirl-honey-mustard-dipping-sauce-cup",
+      "name": "Supergirl Honey Mustard - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 0,
+      "carbs_g": 4.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "supergirl-ranch-dipping-sauce-cup",
+      "name": "Supergirl Ranch - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "supergirl-sweet-chili-dipping-sauce-cup",
+      "name": "Supergirl Sweet Chili - Dipping Sauce Cup",
+      "description": "KFC menu section: Dipping Sauces & Condiments.",
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kentucky-fried-chicken-nuggets-kids-meal",
+      "name": "Kentucky Fried Chicken Nuggets Kids Meal",
+      "description": "KFC menu section: Kids Meal.",
+      "category": "meal",
+      "calories": 170.0,
+      "protein_g": 17.0,
+      "carbs_g": 7.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "original-recipe-tenders-kids-meal",
+      "name": "Original Recipe® Tenders Kids Meal",
+      "description": "KFC menu section: Kids Meal.",
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 21.0,
+      "carbs_g": 39.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "capri-sun-100-juice-fruit-punch",
+      "name": "Capri Sun® 100% Juice Fruit Punch",
+      "description": "KFC menu section: Kids Drinks.",
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "chocolate-milk-1",
+      "name": "Chocolate Milk 1%",
+      "description": "KFC menu section: Kids Drinks.",
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 7.0,
+      "carbs_g": 26.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "milk-1",
+      "name": "Milk 1%",
+      "description": "KFC menu section: Kids Drinks.",
+      "category": "drink",
+      "calories": 90.0,
+      "protein_g": 7.0,
+      "carbs_g": 10.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "musselman-s-applesauce",
+      "name": "Musselman's™ Applesauce",
+      "description": "KFC menu section: Kids Meal Applesauce.",
+      "category": "side",
+      "calories": 45.0,
+      "protein_g": 0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "7up-12-fl-oz",
+      "name": "7UP® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0,
+      "carbs_g": 35.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "7up-16-fl-oz",
+      "name": "7UP® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "7up-20-fl-oz",
+      "name": "7UP® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "7up-30-fl-oz",
+      "name": "7UP® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 0,
+      "carbs_g": 87.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "classic-lemonade-1-2-gallon",
+      "name": "Classic Lemonade (1/2 Gallon)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 880.0,
+      "protein_g": 0,
+      "carbs_g": 234.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per 1/2 Gallon",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "classic-lemonade-20-fl-oz",
+      "name": "Classic Lemonade (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "code-red-mountain-dew-12-fl-oz",
+      "name": "Code Red Mountain Dew® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "code-red-mountain-dew-16-fl-oz",
+      "name": "Code Red Mountain Dew® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0,
+      "carbs_g": 62.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "code-red-mountain-dew-20-fl-oz",
+      "name": "Code Red Mountain Dew® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0,
+      "carbs_g": 77.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "code-red-mountain-dew-30-fl-oz",
+      "name": "Code Red Mountain Dew® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 430.0,
+      "protein_g": 0,
+      "carbs_g": 116.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-dr-pepper-12-fl-oz",
+      "name": "Diet Dr Pepper® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-dr-pepper-16-fl-oz",
+      "name": "Diet Dr Pepper® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-dr-pepper-20-fl-oz",
+      "name": "Diet Dr Pepper® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-dr-pepper-30-fl-oz",
+      "name": "Diet Dr Pepper® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-mountain-dew-12-fl-oz",
+      "name": "Diet Mountain Dew® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-mountain-dew-16-fl-oz",
+      "name": "Diet Mountain Dew® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-mountain-dew-20-fl-oz",
+      "name": "Diet Mountain Dew® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-mountain-dew-30-fl-oz",
+      "name": "Diet Mountain Dew® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-pepsi-wild-cherry-pepsi-12-fl-oz",
+      "name": "Diet Pepsi® Wild Cherry Pepsi® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-pepsi-wild-cherry-pepsi-16-fl-oz",
+      "name": "Diet Pepsi® Wild Cherry Pepsi® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-pepsi-wild-cherry-pepsi-20-fl-oz",
+      "name": "Diet Pepsi® Wild Cherry Pepsi® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "diet-pepsi-wild-cherry-pepsi-30-fl-oz",
+      "name": "Diet Pepsi® Wild Cherry Pepsi® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dr-pepper-12-fl-oz",
+      "name": "Dr Pepper® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dr-pepper-16-fl-oz",
+      "name": "Dr Pepper® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dr-pepper-20-fl-oz",
+      "name": "Dr Pepper® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "dr-pepper-30-fl-oz",
+      "name": "Dr Pepper® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 0,
+      "carbs_g": 98.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-lemon-tea-12-fl-oz",
+      "name": "Lipton® Brisk® Lemon Tea (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-lemon-tea-16-fl-oz",
+      "name": "Lipton® Brisk® Lemon Tea (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-lemon-tea-20-fl-oz",
+      "name": "Lipton® Brisk® Lemon Tea (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-lemon-tea-30-fl-oz",
+      "name": "Lipton® Brisk® Lemon Tea (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-no-calorie-peach-iced-green-tea-12-fl-oz",
+      "name": "Lipton® Brisk® No Calorie Peach Iced Green Tea (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-no-calorie-peach-iced-green-tea-16-fl-oz",
+      "name": "Lipton® Brisk® No Calorie Peach Iced Green Tea (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-no-calorie-peach-iced-green-tea-20-fl-oz",
+      "name": "Lipton® Brisk® No Calorie Peach Iced Green Tea (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-no-calorie-peach-iced-green-tea-30-fl-oz",
+      "name": "Lipton® Brisk® No Calorie Peach Iced Green Tea (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-raspberry-tea-12-fl-oz",
+      "name": "Lipton® Brisk® Raspberry Tea (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-raspberry-tea-16-fl-oz",
+      "name": "Lipton® Brisk® Raspberry Tea (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-raspberry-tea-20-fl-oz",
+      "name": "Lipton® Brisk® Raspberry Tea (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-raspberry-tea-30-fl-oz",
+      "name": "Lipton® Brisk® Raspberry Tea (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0,
+      "carbs_g": 49.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-sweet-iced-tea-12-fl-oz",
+      "name": "Lipton® Brisk® Sweet Iced Tea (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-sweet-iced-tea-16-fl-oz",
+      "name": "Lipton® Brisk® Sweet Iced Tea (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-sweet-iced-tea-20-fl-oz",
+      "name": "Lipton® Brisk® Sweet Iced Tea (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-sweet-iced-tea-30-fl-oz",
+      "name": "Lipton® Brisk® Sweet Iced Tea (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-unsweetened-no-lemon-iced-tea-12-fl-oz",
+      "name": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-unsweetened-no-lemon-iced-tea-16-fl-oz",
+      "name": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-unsweetened-no-lemon-iced-tea-20-fl-oz",
+      "name": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "lipton-brisk-unsweetened-no-lemon-iced-tea-30-fl-oz",
+      "name": "Lipton® Brisk® Unsweetened No Lemon Iced Tea (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "manzanita-sol-12-fl-oz",
+      "name": "Manzanita Sol® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "manzanita-sol-16-fl-oz",
+      "name": "Manzanita Sol® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0,
+      "carbs_g": 57.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "manzanita-sol-20-fl-oz",
+      "name": "Manzanita Sol® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0,
+      "carbs_g": 71.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "manzanita-sol-30-fl-oz",
+      "name": "Manzanita Sol® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 0,
+      "carbs_g": 106.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "miranda-strawberry-12-fl-oz",
+      "name": "Miranda® Strawberry (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0,
+      "carbs_g": 44.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "miranda-strawberry-16-fl-oz",
+      "name": "Miranda® Strawberry (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "miranda-strawberry-20-fl-oz",
+      "name": "Miranda® Strawberry (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "miranda-strawberry-30-fl-oz",
+      "name": "Miranda® Strawberry (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 0,
+      "carbs_g": 109.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mnt-dew-sweet-lightning-20-fl-oz",
+      "name": "MNT DEW Sweet Lightning (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mountain-dew-12-fl-oz",
+      "name": "Mountain Dew® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0,
+      "carbs_g": 44.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mountain-dew-16-fl-oz",
+      "name": "Mountain Dew® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0,
+      "carbs_g": 59.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mountain-dew-20-fl-oz",
+      "name": "Mountain Dew® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mountain-dew-30-fl-oz",
+      "name": "Mountain Dew® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 0,
+      "carbs_g": 110.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mug-root-beer-12-fl-oz",
+      "name": "Mug Root Beer® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mug-root-beer-16-fl-oz",
+      "name": "Mug Root Beer® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mug-root-beer-20-fl-oz",
+      "name": "Mug Root Beer® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "mug-root-beer-30-fl-oz",
+      "name": "Mug Root Beer® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 0,
+      "carbs_g": 98.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-zero-sugar-12-fl-oz",
+      "name": "Pepsi Zero Sugar® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-zero-sugar-16-fl-oz",
+      "name": "Pepsi Zero Sugar® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-zero-sugar-20-fl-oz",
+      "name": "Pepsi Zero Sugar® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-zero-sugar-30-fl-oz",
+      "name": "Pepsi Zero Sugar® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-12-fl-oz",
+      "name": "Pepsi® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-16-fl-oz",
+      "name": "Pepsi® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-20-fl-oz",
+      "name": "Pepsi® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0,
+      "carbs_g": 69.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "pepsi-30-fl-oz",
+      "name": "Pepsi® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 0,
+      "carbs_g": 104.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sobe-lifewater-yumberry-pomegranate-12-fl-oz",
+      "name": "Sobe Lifewater Yumberry Pomegranate (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sobe-lifewater-yumberry-pomegranate-16-fl-oz",
+      "name": "Sobe Lifewater Yumberry Pomegranate (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sobe-lifewater-yumberry-pomegranate-20-fl-oz",
+      "name": "Sobe Lifewater Yumberry Pomegranate (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "sobe-lifewater-yumberry-pomegranate-30-fl-oz",
+      "name": "Sobe Lifewater Yumberry Pomegranate (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "southern-iced-tea-1-2-gallon",
+      "name": "Southern Iced Tea (1/2 Gallon)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 1130.0,
+      "protein_g": 8.0,
+      "carbs_g": 274.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 1/2 Gallon",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "southern-iced-tea-12-fl-oz",
+      "name": "Southern Iced Tea (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 1.0,
+      "carbs_g": 51.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "southern-iced-tea-16-fl-oz",
+      "name": "Southern Iced Tea (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 2.0,
+      "carbs_g": 69.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "southern-iced-tea-20-fl-oz",
+      "name": "Southern Iced Tea (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 2.0,
+      "carbs_g": 86.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "southern-iced-tea-30-fl-oz",
+      "name": "Southern Iced Tea (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 530.0,
+      "protein_g": 4.0,
+      "carbs_g": 128.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "southern-iced-tea-gallon",
+      "name": "Southern Iced Tea (Gallon)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 2250.0,
+      "protein_g": 15.0,
+      "carbs_g": 548.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per Gallon",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "starry-12-fl-oz",
+      "name": "Starry® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "starry-16-fl-oz",
+      "name": "Starry® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "starry-20-fl-oz",
+      "name": "Starry® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "starry-30-fl-oz",
+      "name": "Starry® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 0,
+      "carbs_g": 97.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-fruit-punch-12-fl-oz",
+      "name": "Tropicana® Fruit Punch (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-fruit-punch-16-fl-oz",
+      "name": "Tropicana® Fruit Punch (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0,
+      "carbs_g": 60.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-fruit-punch-20-fl-oz",
+      "name": "Tropicana® Fruit Punch (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0,
+      "carbs_g": 75.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-fruit-punch-30-fl-oz",
+      "name": "Tropicana® Fruit Punch (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 420.0,
+      "protein_g": 0,
+      "carbs_g": 113.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-light-lemonade-12-fl-oz",
+      "name": "Tropicana® Light Lemonade (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-light-lemonade-16-fl-oz",
+      "name": "Tropicana® Light Lemonade (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-light-lemonade-20-fl-oz",
+      "name": "Tropicana® Light Lemonade (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-light-lemonade-30-fl-oz",
+      "name": "Tropicana® Light Lemonade (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-pink-lemonade-12-fl-oz",
+      "name": "Tropicana® Pink Lemonade (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-pink-lemonade-16-fl-oz",
+      "name": "Tropicana® Pink Lemonade (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-pink-lemonade-20-fl-oz",
+      "name": "Tropicana® Pink Lemonade (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0,
+      "carbs_g": 67.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-pink-lemonade-30-fl-oz",
+      "name": "Tropicana® Pink Lemonade (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0,
+      "carbs_g": 100.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-twister-orange-12-fl-oz",
+      "name": "Tropicana® Twister® Orange (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-twister-orange-16-fl-oz",
+      "name": "Tropicana® Twister® Orange (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0,
+      "carbs_g": 61.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-twister-orange-20-fl-oz",
+      "name": "Tropicana® Twister® Orange (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0,
+      "carbs_g": 76.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "tropicana-twister-orange-30-fl-oz",
+      "name": "Tropicana® Twister® Orange (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 430.0,
+      "protein_g": 0,
+      "carbs_g": 115.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "wild-cherry-pepsi-12-fl-oz",
+      "name": "Wild Cherry Pepsi® (12 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "wild-cherry-pepsi-16-fl-oz",
+      "name": "Wild Cherry Pepsi® (16 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0,
+      "carbs_g": 56.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "wild-cherry-pepsi-20-fl-oz",
+      "name": "Wild Cherry Pepsi® (20 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0,
+      "carbs_g": 70.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "wild-cherry-pepsi-30-fl-oz",
+      "name": "Wild Cherry Pepsi® (30 fl oz)",
+      "description": "KFC menu section: Beverages.",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0,
+      "carbs_g": 105.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 30 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "country-fried-steak-without-peppered-white-gravy",
+      "name": "Country Fried Steak without Peppered White Gravy",
+      "description": "KFC menu section: Regional Menu Items.",
+      "category": "meal",
+      "calories": 360.0,
+      "protein_g": 13.0,
+      "carbs_g": 22.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "country-fried-steak-with-peppered-white-gravy",
+      "name": "Country Fried Steak with Peppered White Gravy",
+      "description": "KFC menu section: Regional Menu Items.",
+      "category": "meal",
+      "calories": 390.0,
+      "protein_g": 13.0,
+      "carbs_g": 26.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-gizzards",
+      "name": "KFC® Gizzards",
+      "description": "KFC menu section: Regional Menu Items.",
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 20.0,
+      "carbs_g": 18.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    },
+    {
+      "id": "kfc-livers",
+      "name": "KFC® Livers",
+      "description": "KFC menu section: Regional Menu Items.",
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 17.0,
+      "carbs_g": 12.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/kfc/menu/premium"
+      }
+    }
+  ]
+}

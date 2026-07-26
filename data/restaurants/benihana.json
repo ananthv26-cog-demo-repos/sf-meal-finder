@@ -1,0 +1,4593 @@
+{
+  "id": "benihana",
+  "name": "Benihana",
+  "website": "https://www.benihana.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "1737 Post Street, San Francisco, CA 94115",
+      "lat": 37.78530187479773,
+      "lng": -122.43069345767053,
+      "neighborhood": "Japantown"
+    }
+  ],
+  "items": [
+    {
+      "id": "edamame-per-serving",
+      "name": "Edamame",
+      "description": null,
+      "category": "side",
+      "calories": 210,
+      "fat_g": 8.8,
+      "protein_g": 18.4,
+      "carbs_g": 17,
+      "fiber_g": 8.8,
+      "sodium_mg": 435,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-edamame-per-serving",
+      "name": "Spicy Edamame",
+      "description": null,
+      "category": "side",
+      "calories": 340,
+      "fat_g": 16.3,
+      "protein_g": 21.8,
+      "carbs_g": 35,
+      "fiber_g": 8.9,
+      "sodium_mg": 1145,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-tempura-per-serving",
+      "name": "Shrimp Tempura",
+      "description": null,
+      "category": "side",
+      "calories": 560,
+      "fat_g": 37,
+      "protein_g": 18,
+      "carbs_g": 38,
+      "fiber_g": 1,
+      "sodium_mg": 910,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "vegetable-tempura-per-serving",
+      "name": "Vegetable Tempura",
+      "description": null,
+      "category": "side",
+      "calories": 590,
+      "fat_g": 43,
+      "protein_g": 7,
+      "carbs_g": 44,
+      "fiber_g": 4,
+      "sodium_mg": 490,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "pork-gyoza-dumplings-per-serving",
+      "name": "Pork Gyoza Dumplings",
+      "description": null,
+      "category": "side",
+      "calories": 250,
+      "fat_g": 12,
+      "protein_g": 10,
+      "carbs_g": 25,
+      "fiber_g": 0,
+      "sodium_mg": 990,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-nigiri-per-serving",
+      "name": "Tuna Nigiri",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 0,
+      "protein_g": 5,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "izumidai-nigiri-per-serving",
+      "name": "Izumidai Nigiri",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-nigiri-per-serving",
+      "name": "Salmon Nigiri",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "fat_g": 2,
+      "protein_g": 4,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-nigiri-per-serving",
+      "name": "Shrimp Nigiri",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-nigiri-per-serving",
+      "name": "Yellowtail Nigiri",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "fat_g": 3,
+      "protein_g": 4,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-sashimi-per-serving",
+      "name": "Tuna Sashimi",
+      "description": null,
+      "category": "component",
+      "calories": 50,
+      "fat_g": 0.5,
+      "protein_g": 12,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "izumidai-sashimi-per-serving",
+      "name": "Izumidai Sashimi",
+      "description": null,
+      "category": "component",
+      "calories": 20,
+      "fat_g": 0,
+      "protein_g": 5,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 12,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-sashimi-per-serving",
+      "name": "Salmon Sashimi",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 4,
+      "protein_g": 7,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chili-ponzu-yellowtail-per-serving",
+      "name": "Chili Ponzu Yellowtail",
+      "description": null,
+      "category": "side",
+      "calories": 260,
+      "fat_g": 15,
+      "protein_g": 26,
+      "carbs_g": 4,
+      "fiber_g": 5,
+      "sodium_mg": 430,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-serving",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "miso-soup-per-serving",
+      "name": "Miso Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sodium_mg": 950,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-serving",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "classic-per-serving",
+      "name": "Classic",
+      "description": null,
+      "category": "side",
+      "calories": 110,
+      "fat_g": 3,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fiber_g": 7,
+      "sodium_mg": 1380,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "miso-soup-per-entr-e",
+      "name": "Miso Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 2.3,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sodium_mg": 950,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-entr-e",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "sushi-sashimi-combination-per-entr-e",
+      "name": "Sushi & Sashimi Combination",
+      "description": null,
+      "category": "meal",
+      "calories": 720,
+      "fat_g": 16,
+      "protein_g": 36,
+      "carbs_g": 105,
+      "fiber_g": 2,
+      "sodium_mg": 757,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "rice-per-entr-e",
+      "name": "Rice",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 5,
+      "carbs_g": 61,
+      "fiber_g": 0,
+      "sodium_mg": 4,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "california-roll-4-pieces-per-entr-e",
+      "name": "California roll (4 pieces)",
+      "description": null,
+      "category": "component",
+      "calories": 210,
+      "fat_g": 10,
+      "protein_g": 4,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-nigiri-1-piece-per-entr-e",
+      "name": "Tuna Nigiri (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 1,
+      "protein_g": 3,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 75,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-nigiri-1-piece-per-entr-e",
+      "name": "Yellowtail Nigiri (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 1,
+      "protein_g": 3,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-nigiri-1-piece-per-entr-e",
+      "name": "Salmon Nigiri (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 1,
+      "protein_g": 3,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-nigiri-1-piece-per-entr-e",
+      "name": "Shrimp Nigiri (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-sashimi-2-pieces-1-oz-per-entr-e",
+      "name": "Tuna Sashimi (2 pieces/1 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 1,
+      "protein_g": 6,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 11,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-sashimi-2-pieces-1-oz-per-entr-e",
+      "name": "Yellowtail Sashimi (2 pieces/1 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 1,
+      "protein_g": 6,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 11,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-sashimi-2-pieces-1-oz-per-entr-e",
+      "name": "Salmon Sashimi (2 pieces/1 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 2,
+      "protein_g": 5,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "sashimi-assortment-per-entr-e",
+      "name": "Sashimi Assortment",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "fat_g": 10,
+      "protein_g": 47,
+      "carbs_g": 62,
+      "fiber_g": 0,
+      "sodium_mg": 314,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-sashimi-4-pieces-2-oz-per-entr-e",
+      "name": "Tuna Sashimi (4 pieces/2 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 3,
+      "protein_g": 12,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 23,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-sashimi-4-pieces-2-oz-per-entr-e",
+      "name": "Salmon Sashimi (4 pieces/2 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 3,
+      "protein_g": 10,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-sashimi-4-pieces-2-oz-per-entr-e",
+      "name": "Yellowtail Sashimi (4 pieces/2 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 3,
+      "protein_g": 12,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 23,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "whitefish-sashimi-4-pieces-1-5-oz-per-entr-e",
+      "name": "Whitefish Sashimi (4 pieces/1.5 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "fat_g": 2,
+      "protein_g": 9,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 215,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "rice-per-entr-e-sushi-entr-es",
+      "name": "Rice",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 0,
+      "protein_g": 5,
+      "carbs_g": 61,
+      "fiber_g": 0,
+      "sodium_mg": 4,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "nigiri-assortment-per-entr-e",
+      "name": "Nigiri Assortment",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "fat_g": 10,
+      "protein_g": 27,
+      "carbs_g": 52,
+      "fiber_g": 0,
+      "sodium_mg": 800,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-2-pieces-per-entr-e",
+      "name": "Tuna (2 pieces)",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "fat_g": 2,
+      "protein_g": 6,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-2-pieces-per-entr-e",
+      "name": "Yellowtail (2 pieces)",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 1,
+      "protein_g": 5,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-2-pieces-per-entr-e",
+      "name": "Salmon (2 pieces)",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "fat_g": 2,
+      "protein_g": 5,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "whitefish-1-piece-per-entr-e",
+      "name": "Whitefish (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-1-piece-per-entr-e",
+      "name": "Shrimp (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "octopus-1-piece-per-entr-e",
+      "name": "Octopus (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tamago-1-piece-per-entr-e",
+      "name": "Tamago (1 piece)",
+      "description": null,
+      "category": "component",
+      "calories": 90,
+      "fat_g": 6,
+      "protein_g": 4,
+      "carbs_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 110,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "egg-tamago-per-serving",
+      "name": "Egg Tamago",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-per-serving",
+      "name": "Shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "snapper-per-serving",
+      "name": "Snapper",
+      "description": null,
+      "category": "component",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "octopus-per-serving",
+      "name": "Octopus",
+      "description": null,
+      "category": "component",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-per-serving",
+      "name": "Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 2,
+      "protein_g": 3,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-per-serving",
+      "name": "Yellowtail",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 3,
+      "protein_g": 4,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "egg-tamago-per-serving-nigiri-with-rice-added-in",
+      "name": "Egg Tamago",
+      "description": null,
+      "category": "component",
+      "calories": 50,
+      "fat_g": 1,
+      "protein_g": 2,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-per-serving-nigiri-with-rice-added-in",
+      "name": "Shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "snapper-per-serving-nigiri-with-rice-added-in",
+      "name": "Snapper",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "octopus-per-serving-nigiri-with-rice-added-in",
+      "name": "Octopus",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 95,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-per-serving-nigiri-with-rice-added-in",
+      "name": "Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "fat_g": 2,
+      "protein_g": 4,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "eel-per-serving",
+      "name": "Eel",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "fat_g": 4,
+      "protein_g": 4,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-per-serving",
+      "name": "Tuna",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 0,
+      "protein_g": 5,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "smoked-salmon-per-serving-nigiri-with-rice-added-in",
+      "name": "Smoked Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 1,
+      "protein_g": 4,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 300,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-per-serving-nigiri-with-rice-added-in",
+      "name": "Yellowtail",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 3,
+      "protein_g": 4,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-roe-per-serving",
+      "name": "Salmon Roe",
+      "description": null,
+      "category": "component",
+      "calories": 50,
+      "fat_g": 1,
+      "protein_g": 4,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "kani-kanikama-per-serving",
+      "name": "Kani Kanikama",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 0.1,
+      "protein_g": 2,
+      "carbs_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 142,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "dragon-roll-per-roll",
+      "name": "Dragon Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 510,
+      "fat_g": 21,
+      "protein_g": 26,
+      "carbs_g": 67,
+      "fiber_g": 7,
+      "sodium_mg": 1552,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "rainbow-roll-per-roll",
+      "name": "Rainbow Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 510,
+      "fat_g": 21,
+      "protein_g": 21,
+      "carbs_g": 58,
+      "fiber_g": 6,
+      "sodium_mg": 920,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "alaskan-roll-per-roll",
+      "name": "Alaskan Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "fat_g": 18,
+      "protein_g": 22,
+      "carbs_g": 47,
+      "fiber_g": 2,
+      "sodium_mg": 782,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-roll-per-roll",
+      "name": "Spicy Tuna Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "fat_g": 6,
+      "protein_g": 13,
+      "carbs_g": 56,
+      "fiber_g": 1,
+      "sodium_mg": 924,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-roll-per-roll",
+      "name": "Spicy Salmon Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "fat_g": 9,
+      "protein_g": 7,
+      "carbs_g": 41,
+      "fiber_g": 14,
+      "sodium_mg": 690,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "philadelphia-roll-per-roll",
+      "name": "Philadelphia Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "fat_g": 13,
+      "protein_g": 13,
+      "carbs_g": 54,
+      "fiber_g": 3,
+      "sodium_mg": 680,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-avocado-roll-per-roll",
+      "name": "Salmon Avocado Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "fat_g": 21,
+      "protein_g": 10,
+      "carbs_g": 48,
+      "fiber_g": 6,
+      "sodium_mg": 1100,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-roll-per-roll",
+      "name": "Salmon Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "fat_g": 5,
+      "protein_g": 14,
+      "carbs_g": 37,
+      "fiber_g": 0,
+      "sodium_mg": 270,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yellowtail-roll-per-roll",
+      "name": "Yellowtail Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 230,
+      "fat_g": 3.5,
+      "protein_g": 13,
+      "carbs_g": 37,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "tuna-roll-per-roll",
+      "name": "Tuna Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 210,
+      "fat_g": 0,
+      "protein_g": 15,
+      "carbs_g": 37,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "vegetable-roll-per-roll",
+      "name": "Vegetable Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "fat_g": 6,
+      "protein_g": 5,
+      "carbs_g": 55,
+      "fiber_g": 6,
+      "sodium_mg": 690,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "cucumber-roll-per-roll",
+      "name": "Cucumber Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 240,
+      "fat_g": 1,
+      "protein_g": 8,
+      "carbs_g": 49,
+      "fiber_g": 1,
+      "sodium_mg": 330,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "california-roll-per-roll",
+      "name": "California Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 280,
+      "fat_g": 5,
+      "protein_g": 13,
+      "carbs_g": 55,
+      "fiber_g": 5,
+      "sodium_mg": 680,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "eel-roll-per-roll",
+      "name": "Eel Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "fat_g": 12,
+      "protein_g": 18,
+      "carbs_g": 60,
+      "fiber_g": 1,
+      "sodium_mg": 1070,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-tempura-roll-per-roll",
+      "name": "Shrimp Tempura Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 330,
+      "fat_g": 10,
+      "protein_g": 9,
+      "carbs_g": 52,
+      "fiber_g": 5,
+      "sodium_mg": 890,
+      "serving_note": "per roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "crispy-rice-per-serving",
+      "name": "Crispy Rice",
+      "description": null,
+      "category": "component",
+      "calories": 213,
+      "fat_g": 4.5,
+      "protein_g": 9,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-per-serving",
+      "name": "Spicy Tuna",
+      "description": null,
+      "category": "component",
+      "calories": 220,
+      "fat_g": 3.8,
+      "protein_g": 10,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-yellowtail-per-serving",
+      "name": "Spicy Yellowtail",
+      "description": null,
+      "category": "component",
+      "calories": 200,
+      "fat_g": 3.8,
+      "protein_g": 7,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-per-serving",
+      "name": "Spicy Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "fat_g": 5.9,
+      "protein_g": 9,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chili-ponzu-yellowtail-roll-per-serving",
+      "name": "Chili Ponzu Yellowtail Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 480,
+      "fat_g": 15,
+      "protein_g": 30,
+      "carbs_g": 55,
+      "fiber_g": 22,
+      "sodium_mg": 1020,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chili-shrimp-roll-per-serving",
+      "name": "Chili Shrimp Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 810,
+      "fat_g": 32,
+      "protein_g": 20,
+      "carbs_g": 101,
+      "fiber_g": 3,
+      "sodium_mg": 2108,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-crunchy-roll-per-serving",
+      "name": "Shrimp Crunchy Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "fat_g": 20,
+      "protein_g": 11,
+      "carbs_g": 68,
+      "fiber_g": 1,
+      "sodium_mg": 1260,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lobster-roll-per-serving",
+      "name": "Lobster Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "fat_g": 17,
+      "protein_g": 15,
+      "carbs_g": 53,
+      "fiber_g": 2,
+      "sodium_mg": 1018,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ny-strip-steak-per-serving",
+      "name": "NY Strip Steak",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "fat_g": 11,
+      "protein_g": 32,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 189,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-serving-5-course-entr-e-header",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-serving-5-course-entr-e-header",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ginger-sauce-per-serving",
+      "name": "Ginger Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 750,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "mustard-sauce-per-serving",
+      "name": "Mustard Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 110,
+      "fat_g": 10,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 530,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-s-original-per-serving",
+      "name": "Benihana’s Original",
+      "description": null,
+      "category": "component",
+      "calories": 170,
+      "fat_g": 19,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steamed-rice-per-serving",
+      "name": "Steamed Rice",
+      "description": null,
+      "category": "component",
+      "calories": 300,
+      "fat_g": 0,
+      "protein_g": 6,
+      "carbs_g": 72,
+      "fiber_g": 1,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "seafood-diablo-per-entr-e",
+      "name": "Seafood Diablo",
+      "description": null,
+      "category": "meal",
+      "calories": 630,
+      "fat_g": 26,
+      "protein_g": 31,
+      "carbs_g": 69,
+      "fiber_g": 3,
+      "sodium_mg": 1620,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-tofu-steak-per-entr-e",
+      "name": "Spicy Tofu Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 490,
+      "fat_g": 16,
+      "protein_g": 30,
+      "carbs_g": 55,
+      "fiber_g": 7,
+      "sodium_mg": 1250,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-chicken-per-entr-e",
+      "name": "Yakisoba Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 640,
+      "fat_g": 14,
+      "protein_g": 34,
+      "carbs_g": 94,
+      "fiber_g": 9,
+      "sodium_mg": 1540,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-steak-per-entr-e",
+      "name": "Yakisoba Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "fat_g": 13.2,
+      "protein_g": 26,
+      "carbs_g": 100,
+      "fiber_g": 9,
+      "sodium_mg": 1702,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-shrimp-per-entr-e",
+      "name": "Yakisoba Shrimp",
+      "description": null,
+      "category": "meal",
+      "calories": 600,
+      "fat_g": 11.2,
+      "protein_g": 30,
+      "carbs_g": 94,
+      "fiber_g": 9,
+      "sodium_mg": 1702,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-trio-per-entr-e",
+      "name": "Yakisoba Trio",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "fat_g": 13,
+      "protein_g": 30,
+      "carbs_g": 96,
+      "fiber_g": 9,
+      "sodium_mg": 1650,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-entr-e",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "teriyaki-chicken-per-entr-e",
+      "name": "Teriyaki Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 370,
+      "fat_g": 11,
+      "protein_g": 52,
+      "carbs_g": 17,
+      "fiber_g": 0,
+      "sodium_mg": 430,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-hibachi-chicken-per-entr-e",
+      "name": "Spicy Hibachi Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "fat_g": 14,
+      "protein_g": 44,
+      "carbs_g": 16,
+      "fiber_g": 1,
+      "sodium_mg": 790,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chicken-per-entr-e",
+      "name": "Hibachi Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 280,
+      "fat_g": 11,
+      "protein_g": 44,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-steak-per-entr-e",
+      "name": "Hibachi Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 230,
+      "fat_g": 11,
+      "protein_g": 32,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "teriyaki-steak-per-entr-e",
+      "name": "Teriyaki Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 290,
+      "fat_g": 11,
+      "protein_g": 33,
+      "carbs_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 530,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chateaubriand-per-entr-e",
+      "name": "Hibachi Chateaubriand",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "fat_g": 18,
+      "protein_g": 48,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-tuna-steak-per-entr-e",
+      "name": "Hibachi Tuna Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "fat_g": 31,
+      "protein_g": 45,
+      "carbs_g": 7,
+      "fiber_g": 1,
+      "sodium_mg": 530,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-w-avocado-per-entr-e",
+      "name": "Salmon w/Avocado",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "fat_g": 42,
+      "protein_g": 46,
+      "carbs_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 830,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-scallops-per-entr-e",
+      "name": "Hibachi Scallops",
+      "description": null,
+      "category": "meal",
+      "calories": 140,
+      "fat_g": 4,
+      "protein_g": 23,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sodium_mg": 810,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-serving-6-course-entr-e-header",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-serving-6-course-entr-e-header",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "mushrooms-per-serving",
+      "name": "Mushrooms",
+      "description": null,
+      "category": "component",
+      "calories": 20,
+      "fat_g": 0.6,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 9,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-vegetables-onions-per-serving",
+      "name": "Hibachi Vegetables Onions",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-vegetables-zucchini-per-serving",
+      "name": "Hibachi Vegetables Zucchini",
+      "description": null,
+      "category": "component",
+      "calories": 20,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ginger-sauce-per-serving-6-course-entr-e-header",
+      "name": "Ginger Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 750,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "mustard-sauce-per-serving-6-course-entr-e-header",
+      "name": "Mustard Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 110,
+      "fat_g": 10,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 530,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-s-original-per-serving-6-course-entr-e-header",
+      "name": "Benihana’s Original",
+      "description": null,
+      "category": "component",
+      "calories": 170,
+      "fat_g": 19,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steamed-rice-per-serving-6-course-entr-e-header",
+      "name": "Steamed Rice",
+      "description": null,
+      "category": "component",
+      "calories": 300,
+      "fat_g": 0,
+      "protein_g": 6,
+      "carbs_g": 72,
+      "fiber_g": 1,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ice-cream-per-serving",
+      "name": "Ice cream",
+      "description": null,
+      "category": "side",
+      "calories": 100,
+      "fat_g": 5,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 25,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "rainbow-sherbet-per-serving",
+      "name": "Rainbow Sherbet",
+      "description": null,
+      "category": "side",
+      "calories": 130,
+      "fat_g": 1.5,
+      "protein_g": 1,
+      "carbs_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-serving",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-steak-per-serving",
+      "name": "Hibachi Steak",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "fat_g": 11,
+      "protein_g": 32,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-serving-6-course-entr-e-header",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-6-course-entr-e-header",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 200,
+      "fat_g": 9,
+      "protein_g": 30,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 160,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-serving-6-course-entr-e-header-137",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-serving-6-course-entr-e-header-138",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 280,
+      "fat_g": 11,
+      "protein_g": 44,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 120,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-steak-per-serving-6-course-entr-e-header",
+      "name": "Hibachi Steak",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "fat_g": 11,
+      "protein_g": 32,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-6-course-entr-e-header-140",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-6-course-entr-e-header-141",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "scallops-per-serving",
+      "name": "Scallops",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 2,
+      "protein_g": 12,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-6-course-entr-e-header-143",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chateaubriand-per-serving",
+      "name": "Chateaubriand",
+      "description": null,
+      "category": "component",
+      "calories": 370,
+      "fat_g": 18,
+      "protein_g": 48,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 400,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-serving-6-course-entr-e-header-145",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-vegetable-rice-per-serving",
+      "name": "Hibachi Vegetable Rice",
+      "description": null,
+      "category": "component",
+      "calories": 410,
+      "fat_g": 8,
+      "protein_g": 9,
+      "carbs_g": 75,
+      "fiber_g": 6,
+      "sodium_mg": 770,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-vegetables-per-serving",
+      "name": "Hibachi Vegetables",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 65,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-hibachi-chicken-per-entr-e-lunch-entrees",
+      "name": "Spicy Hibachi Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 260,
+      "fat_g": 10,
+      "protein_g": 31,
+      "carbs_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 560,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steak-julienne-per-entr-e",
+      "name": "Steak Julienne",
+      "description": null,
+      "category": "meal",
+      "calories": 160,
+      "fat_g": 6,
+      "protein_g": 19,
+      "carbs_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 295,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-scallops-per-entr-e-lunch-entrees",
+      "name": "Hibachi Scallops",
+      "description": null,
+      "category": "meal",
+      "calories": 90,
+      "fat_g": 2.5,
+      "protein_g": 15,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 520,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-per-entr-e",
+      "name": "Yakisoba",
+      "description": null,
+      "category": "meal",
+      "calories": 510,
+      "fat_g": 9,
+      "protein_g": 13,
+      "carbs_g": 94,
+      "fiber_g": 9,
+      "sodium_mg": 1490,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-for-yakisoba-per-entr-e",
+      "name": "Chicken (for Yakisoba)",
+      "description": null,
+      "category": "component",
+      "calories": 90,
+      "fat_g": 3.5,
+      "protein_g": 15,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steak-julienne-yakisoba-per-entr-e",
+      "name": "Steak (Julienne - Yakisoba)",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "fat_g": 3,
+      "protein_g": 9,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-entr-e",
+      "name": "Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "calamari-per-entr-e",
+      "name": "Calamari",
+      "description": null,
+      "category": "meal",
+      "calories": 120,
+      "fat_g": 6,
+      "protein_g": 16,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steak-julienne-per-entr-e-lunch-entrees",
+      "name": "Steak Julienne",
+      "description": null,
+      "category": "meal",
+      "calories": 110,
+      "fat_g": 4,
+      "protein_g": 13,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-per-entr-e-lunch-entrees",
+      "name": "Yakisoba",
+      "description": null,
+      "category": "meal",
+      "calories": 260,
+      "fat_g": 4.5,
+      "protein_g": 6,
+      "carbs_g": 47,
+      "fiber_g": 6,
+      "sodium_mg": 740,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "scallops-per-entr-e",
+      "name": "Scallops",
+      "description": null,
+      "category": "meal",
+      "calories": 70,
+      "fat_g": 2,
+      "protein_g": 12,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ginger-per-entr-e",
+      "name": "Ginger",
+      "description": null,
+      "category": "meal",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "wasabi-per-entr-e",
+      "name": "Wasabi",
+      "description": null,
+      "category": "meal",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sodium_mg": 48,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-entr-e-lunch-entrees",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-serving-lunch-boat-header",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-serving-lunch-boat-header",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steamed-rice-per-serving-lunch-boat-header",
+      "name": "Steamed Rice",
+      "description": null,
+      "category": "component",
+      "calories": 300,
+      "fat_g": 0,
+      "protein_g": 6,
+      "carbs_g": 72,
+      "fiber_g": 1,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "sashimi-per-serving",
+      "name": "Sashimi",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 0.5,
+      "protein_g": 17,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 32,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "california-roll-half-per-serving",
+      "name": "California Roll (half)",
+      "description": null,
+      "category": "component",
+      "calories": 140,
+      "fat_g": 3,
+      "protein_g": 6,
+      "carbs_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 340,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "edamame-per-serving-lunch-boat-header",
+      "name": "Edamame",
+      "description": null,
+      "category": "component",
+      "calories": 50,
+      "fat_g": 2.2,
+      "protein_g": 4.6,
+      "carbs_g": 4.3,
+      "fiber_g": 2.2,
+      "sodium_mg": 109,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lunch-boat-chicken-per-entr-e",
+      "name": "Lunch Boat Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lunch-boat-salmon-per-entr-e",
+      "name": "Lunch Boat Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 110,
+      "fat_g": 6.2,
+      "protein_g": 13.5,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 61.8,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lunch-boat-steak-julienne-per-entr-e",
+      "name": "Lunch Boat Steak Julienne",
+      "description": null,
+      "category": "meal",
+      "calories": 110,
+      "fat_g": 4,
+      "protein_g": 13,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lunch-boat-filet-mignon-per-entr-e",
+      "name": "Lunch Boat Filet Mignon",
+      "description": null,
+      "category": "meal",
+      "calories": 200,
+      "fat_g": 8.6,
+      "protein_g": 30,
+      "carbs_g": 1,
+      "fiber_g": 0.3,
+      "sodium_mg": 155,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "rice-per-serving",
+      "name": "Rice",
+      "description": null,
+      "category": "component",
+      "calories": 510,
+      "fat_g": 0,
+      "protein_g": 10,
+      "carbs_g": 122,
+      "fiber_g": 1,
+      "sodium_mg": 9,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "mixed-greens-per-serving",
+      "name": "Mixed Greens",
+      "description": null,
+      "category": "component",
+      "calories": 20,
+      "fat_g": 0,
+      "protein_g": 1,
+      "carbs_g": 4,
+      "fiber_g": 2,
+      "sodium_mg": 31,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ahi-tuna-poke-per-bowl",
+      "name": "Ahi Tuna Poke",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "fat_g": 11,
+      "protein_g": 30,
+      "carbs_g": 22,
+      "fiber_g": 7,
+      "sodium_mg": 1252,
+      "serving_note": "per bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-poke-per-bowl",
+      "name": "Salmon Poke",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "fat_g": 21,
+      "protein_g": 22,
+      "carbs_g": 22,
+      "fiber_g": 7,
+      "sodium_mg": 1256,
+      "serving_note": "per bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "banana-tempura-per-serving",
+      "name": "Banana Tempura",
+      "description": null,
+      "category": "side",
+      "calories": 410,
+      "fat_g": 13,
+      "protein_g": 5,
+      "carbs_g": 69,
+      "fiber_g": 3,
+      "sodium_mg": 70,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "green-tea-ice-cream-per-serving",
+      "name": "Green Tea Ice cream",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 4,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chocolate-ice-cream-per-serving",
+      "name": "Chocolate Ice Cream",
+      "description": null,
+      "category": "side",
+      "calories": 100,
+      "fat_g": 5.5,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 25,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "vanilla-ice-cream-per-serving",
+      "name": "Vanilla Ice Cream",
+      "description": null,
+      "category": "side",
+      "calories": 100,
+      "fat_g": 5.5,
+      "protein_g": 2,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "brown-rice-12-oz-per-serving",
+      "name": "Brown Rice (12 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 500,
+      "fat_g": 3,
+      "protein_g": 9,
+      "carbs_g": 108,
+      "fiber_g": 8,
+      "sodium_mg": 15,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chicken-rice-6-oz-per-serving",
+      "name": "Hibachi Chicken Rice (6 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 440,
+      "fat_g": 11,
+      "protein_g": 15,
+      "carbs_g": 70,
+      "fiber_g": 6,
+      "sodium_mg": 570,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chicken-rice-24-oz-per-serving",
+      "name": "Hibachi Chicken Rice (24 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 1760,
+      "fat_g": 44,
+      "protein_g": 60,
+      "carbs_g": 280,
+      "fiber_g": 24,
+      "sodium_mg": 2280,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-fried-rice-w-chicken-6-oz-per-serving",
+      "name": "Spicy Fried Rice w/ Chicken ( 6 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 470,
+      "fat_g": 15,
+      "protein_g": 16,
+      "carbs_g": 71,
+      "fiber_g": 6,
+      "sodium_mg": 770,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-fried-rice-w-chicken-12-oz-per-serving",
+      "name": "Spicy Fried Rice w/ Chicken (12 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 940,
+      "fat_g": 25,
+      "protein_g": 31,
+      "carbs_g": 140,
+      "fiber_g": 12,
+      "sodium_mg": 1540,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-fried-rice-w-chicken-24-oz-per-serving",
+      "name": "Spicy Fried Rice w/ Chicken (24 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 1870,
+      "fat_g": 55,
+      "protein_g": 60,
+      "carbs_g": 285,
+      "fiber_g": 25,
+      "sodium_mg": 3075,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hot-sauce-4-oz-per-serving",
+      "name": "Hot Sauce (4 oz)",
+      "description": null,
+      "category": "condiment",
+      "calories": 270,
+      "fat_g": 1.5,
+      "protein_g": 5,
+      "carbs_g": 62,
+      "fiber_g": 0,
+      "sodium_mg": 1270,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "mustard-sauce-1-pt-per-serving",
+      "name": "Mustard Sauce (1 pt)",
+      "description": null,
+      "category": "condiment",
+      "calories": 1760,
+      "fat_g": 160,
+      "protein_g": 32,
+      "carbs_g": 64,
+      "fiber_g": 0,
+      "sodium_mg": 8480,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ginger-salad-dressing-1-pt-per-serving",
+      "name": "Ginger Salad Dressing (1 pt)",
+      "description": null,
+      "category": "condiment",
+      "calories": 960,
+      "fat_g": 96,
+      "protein_g": 0,
+      "carbs_g": 32,
+      "fiber_g": 4,
+      "sodium_mg": 5440,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-original-per-serving",
+      "name": "Benihana Original",
+      "description": null,
+      "category": "side",
+      "calories": 2770,
+      "fat_g": 300,
+      "protein_g": 0,
+      "carbs_g": 32,
+      "fiber_g": 0,
+      "sodium_mg": 2450,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steamed-rice-12-oz-per-serving",
+      "name": "Steamed Rice (12 oz)",
+      "description": null,
+      "category": "side",
+      "calories": 600,
+      "fat_g": 0,
+      "protein_g": 12,
+      "carbs_g": 144,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "teriyaki-sauce-1-pt-per-serving",
+      "name": "Teriyaki Sauce (1 pt)",
+      "description": null,
+      "category": "condiment",
+      "calories": 1240,
+      "fat_g": 0,
+      "protein_g": 53,
+      "carbs_g": 256,
+      "fiber_g": 1,
+      "sodium_mg": 9810,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-original-per-serving-desserts",
+      "name": "Benihana Original",
+      "description": null,
+      "category": "side",
+      "calories": 1440,
+      "fat_g": 160,
+      "protein_g": 1,
+      "carbs_g": 40,
+      "fiber_g": 0,
+      "sodium_mg": 2000,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-item",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-item",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "vegetables-per-item",
+      "name": "Vegetables",
+      "description": null,
+      "category": "meal",
+      "calories": 40,
+      "fat_g": 1.5,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 65,
+      "serving_note": "per item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "steamed-rice-per-item",
+      "name": "Steamed Rice",
+      "description": null,
+      "category": "component",
+      "calories": 300,
+      "fat_g": 0,
+      "protein_g": 6,
+      "carbs_g": 72,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ice-cream-per-item",
+      "name": "Ice Cream",
+      "description": null,
+      "category": "side",
+      "calories": 100,
+      "fat_g": 6,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 25,
+      "serving_note": "per item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "california-roll-per-entr-e",
+      "name": "California Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 280,
+      "fat_g": 5,
+      "protein_g": 13,
+      "carbs_g": 55,
+      "fiber_g": 5,
+      "sodium_mg": 680,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-per-entr-e",
+      "name": "Chicken Tenders",
+      "description": null,
+      "category": "meal",
+      "calories": 560,
+      "fat_g": 31,
+      "protein_g": 35,
+      "carbs_g": 36,
+      "fiber_g": 1.7,
+      "sodium_mg": 1480,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chicken-per-entr-e-entr-es",
+      "name": "Hibachi Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 180,
+      "fat_g": 7,
+      "protein_g": 31,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-steak-per-entr-e-entr-es",
+      "name": "Hibachi Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 120,
+      "fat_g": 6,
+      "protein_g": 18,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-filet-mignon-per-entr-e",
+      "name": "Hibachi Filet Mignon",
+      "description": null,
+      "category": "meal",
+      "calories": 200,
+      "fat_g": 8.6,
+      "protein_g": 30,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 155,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-steak-3-5-per-combination",
+      "name": "Chicken & Steak 3.5 /",
+      "description": null,
+      "category": "meal",
+      "calories": 210,
+      "fat_g": 9,
+      "protein_g": 33,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per combination",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-chicken-per-combination",
+      "name": "Filet Mignon & Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 260,
+      "fat_g": 10.7,
+      "protein_g": 41,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 156,
+      "serving_note": "per combination",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-shrimp-per-combination",
+      "name": "Filet Mignon & Shrimp",
+      "description": null,
+      "category": "meal",
+      "calories": 200,
+      "fat_g": 7.2,
+      "protein_g": 33,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 275,
+      "serving_note": "per combination",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "white-noodle-per-side-order",
+      "name": "White Noodle",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "fat_g": 4,
+      "protein_g": 6,
+      "carbs_g": 56,
+      "fiber_g": 0,
+      "sodium_mg": 700,
+      "serving_note": "per side order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "edamame-per-side-order",
+      "name": "Edamame",
+      "description": null,
+      "category": "side",
+      "calories": 210,
+      "fat_g": 8.8,
+      "protein_g": 18.4,
+      "carbs_g": 17,
+      "fiber_g": 8.8,
+      "sodium_mg": 435,
+      "serving_note": "per side order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-onion-soup-per-serving-group-menu-header",
+      "name": "Benihana Onion Soup",
+      "description": null,
+      "category": "side",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-salad-per-serving-group-menu-header",
+      "name": "Benihana Salad",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-vegetables-onions-per-serving-group-menu-header",
+      "name": "Hibachi Vegetables Onions",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "fat_g": 1,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-vegetables-zucchini-per-serving-group-menu-header",
+      "name": "Hibachi Vegetables Zucchini",
+      "description": null,
+      "category": "component",
+      "calories": 20,
+      "fat_g": 1,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "ginger-sauce-per-serving-group-menu-header",
+      "name": "Ginger Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 750,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "mustard-sauce-per-serving-group-menu-header",
+      "name": "Mustard Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 110,
+      "fat_g": 10,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 530,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "benihana-s-original-per-serving-group-menu-header",
+      "name": "Benihana’s Original",
+      "description": null,
+      "category": "component",
+      "calories": 170,
+      "fat_g": 19,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chicken-rice-per-serving-group-menu-header",
+      "name": "Hibachi Chicken Rice",
+      "description": null,
+      "category": "component",
+      "calories": 300,
+      "fat_g": 0,
+      "protein_g": 6,
+      "carbs_g": 72,
+      "fiber_g": 1,
+      "sodium_mg": 5,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-chicken-per-serving",
+      "name": "Yakisoba Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 640,
+      "fat_g": 14,
+      "protein_g": 34,
+      "carbs_g": 94,
+      "fiber_g": 9,
+      "sodium_mg": 1540,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-steak-per-serving",
+      "name": "Yakisoba Steak",
+      "description": null,
+      "category": "component",
+      "calories": 630,
+      "fat_g": 13,
+      "protein_g": 28,
+      "carbs_g": 98,
+      "fiber_g": 9,
+      "sodium_mg": 1640,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "yakisoba-shrimp-per-serving",
+      "name": "Yakisoba Shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 610,
+      "fat_g": 12,
+      "protein_g": 30,
+      "carbs_g": 94,
+      "fiber_g": 9,
+      "sodium_mg": 1640,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-tuna-steak-per-serving",
+      "name": "Hibachi Tuna Steak",
+      "description": null,
+      "category": "component",
+      "calories": 500,
+      "fat_g": 31,
+      "protein_g": 45,
+      "carbs_g": 7,
+      "fiber_g": 1,
+      "sodium_mg": 530,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-group-menu-header",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chicken-per-serving",
+      "name": "Hibachi Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 280,
+      "fat_g": 11,
+      "protein_g": 44,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-group-menu-header-225",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-serving-group-menu-header",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-steak-per-serving-group-menu-header",
+      "name": "Hibachi Steak",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "fat_g": 11,
+      "protein_g": 32,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-group-menu-header-228",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 200,
+      "fat_g": 9,
+      "protein_g": 30,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 160,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chicken-per-serving-group-menu-header-229",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "fat_g": 5,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "hibachi-chateaubriand-per-serving",
+      "name": "Hibachi Chateaubriand",
+      "description": null,
+      "category": "component",
+      "calories": 360,
+      "fat_g": 18,
+      "protein_g": 48,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "filet-mignon-per-serving-group-menu-header-231",
+      "name": "Filet Mignon",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 11,
+      "protein_g": 36,
+      "carbs_g": 1,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "scallops-per-serving-group-menu-header",
+      "name": "Scallops",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "fat_g": 2,
+      "protein_g": 12,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "edamame-per-serving-group-menu-header",
+      "name": "Edamame",
+      "description": null,
+      "category": "component",
+      "calories": 210,
+      "fat_g": 9,
+      "protein_g": 18,
+      "carbs_g": 17,
+      "fiber_g": 9,
+      "sodium_mg": 435,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "vegetable-spring-roll-per-serving",
+      "name": "Vegetable Spring Roll",
+      "description": null,
+      "category": "component",
+      "calories": 120,
+      "fat_g": 7,
+      "protein_g": 2,
+      "carbs_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 425,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-roll-per-serving",
+      "name": "Spicy Salmon Roll",
+      "description": null,
+      "category": "component",
+      "calories": 300,
+      "fat_g": 9,
+      "protein_g": 7,
+      "carbs_g": 41,
+      "fiber_g": 14,
+      "sodium_mg": 690,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-roll-per-serving",
+      "name": "Spicy Tuna Roll",
+      "description": null,
+      "category": "component",
+      "calories": 340,
+      "fat_g": 6,
+      "protein_g": 13,
+      "carbs_g": 56,
+      "fiber_g": 1,
+      "sodium_mg": 924,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "pork-gyoza-per-serving",
+      "name": "Pork Gyoza",
+      "description": null,
+      "category": "component",
+      "calories": 250,
+      "fat_g": 12,
+      "protein_g": 10,
+      "carbs_g": 25,
+      "fiber_g": 0,
+      "sodium_mg": 990,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-tempura-per-serving-group-menu-header",
+      "name": "Shrimp Tempura",
+      "description": null,
+      "category": "component",
+      "calories": 560,
+      "fat_g": 37,
+      "protein_g": 18,
+      "carbs_g": 38,
+      "fiber_g": 1,
+      "sodium_mg": 910,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "california-roll-per-serving",
+      "name": "California Roll",
+      "description": null,
+      "category": "component",
+      "calories": 280,
+      "fat_g": 5,
+      "protein_g": 13,
+      "carbs_g": 55,
+      "fiber_g": 5,
+      "sodium_mg": 680,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "salmon-avocado-sashimi-per-serving",
+      "name": "Salmon Avocado Sashimi",
+      "description": null,
+      "category": "component",
+      "calories": 180,
+      "fat_g": 10,
+      "protein_g": 20.56,
+      "carbs_g": 2,
+      "fiber_g": 2,
+      "sodium_mg": 692,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "shrimp-crunchy-roll-per-serving-group-menu-header",
+      "name": "Shrimp Crunchy Roll",
+      "description": null,
+      "category": "component",
+      "calories": 500,
+      "fat_g": 20,
+      "protein_g": 11,
+      "carbs_g": 68,
+      "fiber_g": 1,
+      "sodium_mg": 1260,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "chili-shrimp-roll-per-serving-group-menu-header",
+      "name": "Chili Shrimp Roll",
+      "description": null,
+      "category": "component",
+      "calories": 810,
+      "fat_g": 32,
+      "protein_g": 20,
+      "carbs_g": 101,
+      "fiber_g": 3,
+      "sodium_mg": 2108,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-per-serving-group-menu-header",
+      "name": "Spicy Tuna",
+      "description": null,
+      "category": "component",
+      "calories": 220,
+      "fat_g": 3.8,
+      "protein_g": 10,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-yellowtail-per-serving-group-menu-header",
+      "name": "Spicy Yellowtail",
+      "description": null,
+      "category": "component",
+      "calories": 200,
+      "fat_g": 3.8,
+      "protein_g": 7,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-per-serving-group-menu-header",
+      "name": "Spicy Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "fat_g": 5.9,
+      "protein_g": 9,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "coconut-mojito-per-serving",
+      "name": "Coconut Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "fat_g": 2,
+      "protein_g": 0,
+      "carbs_g": 60,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "strawberry-passion-delight-per-serving",
+      "name": "Strawberry Passion Delight",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 93,
+      "fiber_g": 4,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "passion-fruit-per-serving",
+      "name": "Passion Fruit",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 37,
+      "fiber_g": 1,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "black-organic-tea-per-serving",
+      "name": "Black Organic Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "red-flower-tea-per-serving",
+      "name": "Red Flower Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 20,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "coca-cola-classic-per-serving",
+      "name": "Coca Cola Classic",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 25,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "diet-coke-per-serving",
+      "name": "Diet Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "sprite-per-serving",
+      "name": "Sprite",
+      "description": null,
+      "category": "drink",
+      "calories": 60,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 16,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "dr-pepper-per-serving",
+      "name": "Dr Pepper",
+      "description": null,
+      "category": "drink",
+      "calories": 70,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lemonade-per-serving",
+      "name": "Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 27,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "fiji-water-per-serving",
+      "name": "Fiji Water",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "sparkling-water-per-serving",
+      "name": "Sparkling Water",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "betty-buzz-lemon-lime-per-serving",
+      "name": "Betty Buzz Lemon Lime",
+      "description": null,
+      "category": "drink",
+      "calories": 30,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "lemon-lime-per-serving",
+      "name": "Lemon-Lime",
+      "description": null,
+      "category": "drink",
+      "calories": 80,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "strawberry-per-serving-beverage-77",
+      "name": "Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "grape-per-serving",
+      "name": "Grape",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "red-bull-original-per-serving",
+      "name": "Red Bull Original",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 0.9,
+      "carbs_g": 28,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "red-bull-sugar-free-per-serving",
+      "name": "Red Bull Sugar Free",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "red-bull-tropical-per-serving",
+      "name": "Red Bull - Tropical",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 0.9,
+      "carbs_g": 27,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "banana-berry-blast-per-serving",
+      "name": "Banana Berry Blast",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "fat_g": 4,
+      "protein_g": 0,
+      "carbs_g": 62,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "dragon-juice-per-serving",
+      "name": "Dragon Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 90,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 23,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "apple-juice-per-serving",
+      "name": "Apple Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 120,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "orange-juice-per-serving",
+      "name": "Orange Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 2,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "pineapple-juice-per-serving",
+      "name": "Pineapple Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "fat_g": 0,
+      "protein_g": 0,
+      "carbs_g": 32,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    },
+    {
+      "id": "milk-2-per-serving",
+      "name": "Milk 2%",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "fat_g": 5,
+      "protein_g": 10,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.benihana.com/wp-content/uploads/2025/02/ee8328ff-benihana-beverage-nutritional-info-1.2025_d.pdf"
+      }
+    }
+  ]
+}

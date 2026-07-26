@@ -1,0 +1,209 @@
+[
+  {
+    "item": {
+      "id": "big-city-pastrami-egg-sandwich-1-egg-8-3-oz",
+      "name": "Big City Pastrami Egg Sandwich 1 Egg",
+      "description": null,
+      "category": "meal",
+      "calories": 700,
+      "protein_g": 29,
+      "carbs_g": 58,
+      "fat_g": 72,
+      "fiber_g": 3,
+      "sodium_mg": 1320,
+      "serving_note": "per 8.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/big-city-pastrami-egg-sandwich-1-egg-8-3-oz: macro check failed — stated 700 kcal vs computed 996 (delta +296)"
+    ]
+  },
+  {
+    "item": {
+      "id": "big-city-pastrami-egg-sandwich-2-eggs-9-9-oz",
+      "name": "Big City Pastrami Egg Sandwich 2 Eggs",
+      "description": null,
+      "category": "meal",
+      "calories": 780,
+      "protein_g": 36,
+      "carbs_g": 59,
+      "fat_g": 78,
+      "fiber_g": 3,
+      "sodium_mg": 1470,
+      "serving_note": "per 9.9 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/big-city-pastrami-egg-sandwich-2-eggs-9-9-oz: macro check failed — stated 780 kcal vs computed 1082 (delta +302)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pastrami-3-0-3-0-oz",
+      "name": "Pastrami 3.0",
+      "description": null,
+      "category": "component",
+      "calories": 180,
+      "protein_g": 17,
+      "carbs_g": 2,
+      "fat_g": 76,
+      "fiber_g": 0,
+      "sodium_mg": 640,
+      "serving_note": "per 3.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/pastrami-3-0-3-0-oz: macro check failed — stated 180 kcal vs computed 760 (delta +580)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pastrami-4-5-4-5-oz",
+      "name": "Pastrami 4.5",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 25,
+      "carbs_g": 2,
+      "fat_g": 114,
+      "fiber_g": 0,
+      "sodium_mg": 960,
+      "serving_note": "per 4.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/pastrami-4-5-4-5-oz: macro check failed — stated 270 kcal vs computed 1134 (delta +864)"
+    ]
+  },
+  {
+    "item": {
+      "id": "turkey-3-0-3-0-oz",
+      "name": "Turkey 3.0",
+      "description": null,
+      "category": "component",
+      "calories": 90,
+      "protein_g": 15,
+      "carbs_g": 9,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 650,
+      "serving_note": "per 3.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/turkey-3-0-3-0-oz: macro check failed — stated 90 kcal vs computed 118 (delta +28)"
+    ]
+  },
+  {
+    "item": {
+      "id": "turkey-4-5-4-5-oz",
+      "name": "Turkey 4.5",
+      "description": null,
+      "category": "component",
+      "calories": 140,
+      "protein_g": 23,
+      "carbs_g": 13,
+      "fat_g": 3.5,
+      "fiber_g": 0,
+      "sodium_mg": 980,
+      "serving_note": "per 4.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/turkey-4-5-4-5-oz: macro check failed — stated 140 kcal vs computed 176 (delta +36)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pastrami-deli-on-potato-roll-11-8-oz",
+      "name": "Pastrami Deli on Potato Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 750,
+      "protein_g": 39,
+      "carbs_g": 58,
+      "fat_g": 135,
+      "fiber_g": 3,
+      "sodium_mg": 1770,
+      "serving_note": "per 11.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/pastrami-deli-on-potato-roll-11-8-oz: macro check failed — stated 750 kcal vs computed 1603 (delta +853)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hot-pastrami-on-everything-11-3-oz",
+      "name": "Hot Pastrami on Everything",
+      "description": null,
+      "category": "meal",
+      "calories": 690,
+      "protein_g": 43,
+      "carbs_g": 59,
+      "fat_g": 124,
+      "fiber_g": 1,
+      "sodium_mg": 2100,
+      "serving_note": "per 11.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/hot-pastrami-on-everything-11-3-oz: macro check failed — stated 690 kcal vs computed 1524 (delta +834)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cinnamon-roll-6-5-oz",
+      "name": "Cinnamon Roll",
+      "description": null,
+      "category": "side",
+      "calories": 610,
+      "protein_g": 11,
+      "carbs_g": 98,
+      "fat_g": 39,
+      "fiber_g": 3,
+      "sodium_mg": 760,
+      "serving_note": "per 6.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    "reasons": [
+      "noahs-ny-bagels/cinnamon-roll-6-5-oz: macro check failed — stated 610 kcal vs computed 787 (delta +177)"
+    ]
+  }
+]

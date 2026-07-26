@@ -1,0 +1,613 @@
+[
+  {
+    "item": {
+      "id": "breakfast-family-feast-with-french-toast",
+      "name": "Breakfast Family Feast with French Toast",
+      "description": "IHOP menu section: Family Feasts.",
+      "category": "component",
+      "calories": 5470,
+      "protein_g": 166,
+      "carbs_g": 424,
+      "fat_g": 346,
+      "fiber_g": 25,
+      "sodium_mg": 6790,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/breakfast-family-feast-with-french-toast: calories 5470 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "breakfast-family-feast-with-waffles",
+      "name": "Breakfast Family Feast with Waffles",
+      "description": "IHOP menu section: Family Feasts.",
+      "category": "component",
+      "calories": 5270,
+      "protein_g": 151,
+      "carbs_g": 400,
+      "fat_g": 341,
+      "fiber_g": 21,
+      "sodium_mg": 6530,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/breakfast-family-feast-with-waffles: calories 5270 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "buttermilk-crispy-chicken-family-feast",
+      "name": "Buttermilk Crispy Chicken Family Feast",
+      "description": "IHOP menu section: Family Feasts.",
+      "category": "component",
+      "calories": 3470,
+      "protein_g": 171,
+      "carbs_g": 331,
+      "fat_g": 163,
+      "fiber_g": 31,
+      "sodium_mg": 10540,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/buttermilk-crispy-chicken-family-feast: sodium_mg 10540 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "buttermilk-crispy-chicken-strips-40-pieces",
+      "name": "Buttermilk Crispy Chicken Strips (40 Pieces)",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 6720,
+      "protein_g": 341,
+      "carbs_g": 481,
+      "fat_g": 381,
+      "fiber_g": 30,
+      "sodium_mg": 19410,
+      "serving_note": "per bulk order 40 Pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/buttermilk-crispy-chicken-strips-40-pieces: sodium_mg 19410 implausibly high",
+      "ihop/buttermilk-crispy-chicken-strips-40-pieces: calories 6720 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "cinnamon-dippers-70-pieces",
+      "name": "Cinnamon Dippers (70 Pieces)",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 7140,
+      "protein_g": 96,
+      "carbs_g": 906,
+      "fat_g": 346,
+      "fiber_g": 18,
+      "sodium_mg": 4340,
+      "serving_note": "per bulk order 70 Pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/cinnamon-dippers-70-pieces: calories 7140 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "classic-egg-burritos-with-bacon-10-burritos",
+      "name": "Classic Egg Burritos with Bacon (10 Burritos)",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 11350,
+      "protein_g": 473,
+      "carbs_g": 775,
+      "fat_g": 702,
+      "fiber_g": 53,
+      "sodium_mg": 19910,
+      "serving_note": "per bulk order 10 Burritos",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/classic-egg-burritos-with-bacon-10-burritos: sodium_mg 19910 implausibly high",
+      "ihop/classic-egg-burritos-with-bacon-10-burritos: calories 11350 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "classic-egg-burritos-with-sausage-10-burritos",
+      "name": "Classic Egg Burritos with Sausage (10 Burritos)",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 11870,
+      "protein_g": 423,
+      "carbs_g": 774,
+      "fat_g": 785,
+      "fiber_g": 53,
+      "sodium_mg": 19760,
+      "serving_note": "per bulk order 10 Burritos",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/classic-egg-burritos-with-sausage-10-burritos: sodium_mg 19760 implausibly high",
+      "ihop/classic-egg-burritos-with-sausage-10-burritos: calories 11870 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-40-thick-n-fluffy-french-toast-slices",
+      "name": "Large Breakfast Combo (40) Thick N Fluffy French Toast Slices",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 23520,
+      "protein_g": 457,
+      "carbs_g": 3341,
+      "fat_g": 932,
+      "fiber_g": 109,
+      "sodium_mg": 26600,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-40-thick-n-fluffy-french-toast-slices: fiber_g 109 implausibly high",
+      "ihop/large-breakfast-combo-40-thick-n-fluffy-french-toast-slices: sodium_mg 26600 implausibly high",
+      "ihop/large-breakfast-combo-40-thick-n-fluffy-french-toast-slices: calories 23520 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-80-bacon-slices",
+      "name": "Large Breakfast Combo, (80) Bacon Slices",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 5320,
+      "protein_g": 331,
+      "carbs_g": 26,
+      "fat_g": 428,
+      "fiber_g": 4,
+      "sodium_mg": 11440,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-80-bacon-slices: sodium_mg 11440 implausibly high",
+      "ihop/large-breakfast-combo-80-bacon-slices: calories 5320 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-80-buttermilk-pancakes",
+      "name": "Large Breakfast Combo, (80) Buttermilk Pancakes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 17330,
+      "protein_g": 340,
+      "carbs_g": 2808,
+      "fat_g": 533,
+      "fiber_g": 75,
+      "sodium_mg": 41440,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-80-buttermilk-pancakes: sodium_mg 41440 implausibly high",
+      "ihop/large-breakfast-combo-80-buttermilk-pancakes: calories 17330 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-80-ham-triangles",
+      "name": "Large Breakfast Combo, (80) Ham Triangles",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 2600,
+      "protein_g": 394,
+      "carbs_g": 87,
+      "fat_g": 73,
+      "fiber_g": 2,
+      "sodium_mg": 24700,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-80-ham-triangles: sodium_mg 24700 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-80-pork-sausage-links",
+      "name": "Large Breakfast Combo, (80) Pork Sausage Links",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 8500,
+      "protein_g": 199,
+      "carbs_g": 26,
+      "fat_g": 847,
+      "fiber_g": 5,
+      "sodium_mg": 13170,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-80-pork-sausage-links: sodium_mg 13170 implausibly high",
+      "ihop/large-breakfast-combo-80-pork-sausage-links: calories 8500 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-breakfast-potatoes",
+      "name": "Large Breakfast Combo, Breakfast Potatoes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 12360,
+      "protein_g": 194,
+      "carbs_g": 1682,
+      "fat_g": 540,
+      "fiber_g": 164,
+      "sodium_mg": 40520,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-breakfast-potatoes: fiber_g 164 implausibly high",
+      "ihop/large-breakfast-combo-breakfast-potatoes: sodium_mg 40520 implausibly high",
+      "ihop/large-breakfast-combo-breakfast-potatoes: calories 12360 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-breakfast-combo-scrambled-eggs",
+      "name": "Large Breakfast Combo, Scrambled Eggs",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 8600,
+      "protein_g": 578,
+      "carbs_g": 47,
+      "fat_g": 678,
+      "fiber_g": 46,
+      "sodium_mg": 7250,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/large-breakfast-combo-scrambled-eggs: calories 8600 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "medium-breakfast-combo-20-thick-n-fluffy-french-toast-slices",
+      "name": "Medium Breakfast Combo (20) Thick N Fluffy French Toast Slices",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 11760,
+      "protein_g": 229,
+      "carbs_g": 1671,
+      "fat_g": 466,
+      "fiber_g": 54,
+      "sodium_mg": 13310,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/medium-breakfast-combo-20-thick-n-fluffy-french-toast-slices: sodium_mg 13310 implausibly high",
+      "ihop/medium-breakfast-combo-20-thick-n-fluffy-french-toast-slices: calories 11760 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "medium-breakfast-combo-40-buttermilk-pancakes",
+      "name": "Medium Breakfast Combo, (40) Buttermilk Pancakes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 8660,
+      "protein_g": 170,
+      "carbs_g": 1404,
+      "fat_g": 266,
+      "fiber_g": 37,
+      "sodium_mg": 20720,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/medium-breakfast-combo-40-buttermilk-pancakes: sodium_mg 20720 implausibly high",
+      "ihop/medium-breakfast-combo-40-buttermilk-pancakes: calories 8660 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "medium-breakfast-combo-40-ham-triangles",
+      "name": "Medium Breakfast Combo, (40) Ham Triangles",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 1300,
+      "protein_g": 197,
+      "carbs_g": 44,
+      "fat_g": 37,
+      "fiber_g": 0.5,
+      "sodium_mg": 12350,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/medium-breakfast-combo-40-ham-triangles: sodium_mg 12350 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "medium-breakfast-combo-breakfast-potatoes",
+      "name": "Medium Breakfast Combo, Breakfast Potatoes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 6180,
+      "protein_g": 97,
+      "carbs_g": 841,
+      "fat_g": 270,
+      "fiber_g": 82,
+      "sodium_mg": 20260,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/medium-breakfast-combo-breakfast-potatoes: sodium_mg 20260 implausibly high",
+      "ihop/medium-breakfast-combo-breakfast-potatoes: calories 6180 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "original-buttermilk-pancakes-20-pancakes",
+      "name": "Original Buttermilk Pancakes (20 Pancakes)",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 4330,
+      "protein_g": 85,
+      "carbs_g": 702,
+      "fat_g": 133,
+      "fiber_g": 19,
+      "sodium_mg": 10360,
+      "serving_note": "per bulk order 20 Pancakes",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/original-buttermilk-pancakes-20-pancakes: sodium_mg 10360 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "side-of-crispy-breakfast-potatoes",
+      "name": "Side of Crispy Breakfast Potatoes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 3090,
+      "protein_g": 48,
+      "carbs_g": 420,
+      "fat_g": 135,
+      "fiber_g": 41,
+      "sodium_mg": 10130,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/side-of-crispy-breakfast-potatoes: sodium_mg 10130 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "side-of-french-fries",
+      "name": "Side of French Fries",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 3200,
+      "protein_g": 50,
+      "carbs_g": 421,
+      "fat_g": 147,
+      "fiber_g": 38,
+      "sodium_mg": 11680,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/side-of-french-fries: sodium_mg 11680 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "side-of-onion-rings",
+      "name": "Side of Onion Rings",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 4670,
+      "protein_g": 58,
+      "carbs_g": 531,
+      "fat_g": 257,
+      "fiber_g": 34,
+      "sodium_mg": 10270,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/side-of-onion-rings: sodium_mg 10270 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "small-breakfast-combo-10-thick-n-fluffy-french-toast-slices",
+      "name": "Small Breakfast Combo (10) Thick N Fluffy French Toast Slices",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 5880,
+      "protein_g": 114,
+      "carbs_g": 836,
+      "fat_g": 233,
+      "fiber_g": 27,
+      "sodium_mg": 6650,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/small-breakfast-combo-10-thick-n-fluffy-french-toast-slices: calories 5880 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "small-breakfast-combo-20-buttermilk-pancakes",
+      "name": "Small Breakfast Combo, (20) Buttermilk Pancakes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 4330,
+      "protein_g": 85,
+      "carbs_g": 702,
+      "fat_g": 133,
+      "fiber_g": 19,
+      "sodium_mg": 10360,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/small-breakfast-combo-20-buttermilk-pancakes: sodium_mg 10360 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "small-breakfast-combo-breakfast-potatoes",
+      "name": "Small Breakfast Combo, Breakfast Potatoes",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 3090,
+      "protein_g": 48,
+      "carbs_g": 420,
+      "fat_g": 135,
+      "fiber_g": 41,
+      "sodium_mg": 10130,
+      "serving_note": "per bulk/catering order (multiple servings)",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/small-breakfast-combo-breakfast-potatoes: sodium_mg 10130 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "thick-n-fluffy-french-toast-10-slices",
+      "name": "Thick 'N Fluffy French Toast (10 Slices)",
+      "description": "IHOP menu section: Catering.",
+      "category": "component",
+      "calories": 5880,
+      "protein_g": 114,
+      "carbs_g": 836,
+      "fat_g": 233,
+      "fiber_g": 27,
+      "sodium_mg": 6650,
+      "serving_note": "per bulk order 10 Slices",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ihop/menu/premium"
+      }
+    },
+    "reasons": [
+      "ihop/thick-n-fluffy-french-toast-10-slices: calories 5880 implausibly high — check what the row is per"
+    ]
+  }
+]

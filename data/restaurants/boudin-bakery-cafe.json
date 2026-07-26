@@ -1,0 +1,1101 @@
+{
+  "id": "boudin-bakery-cafe",
+  "name": "Boudin Bakery Cafe",
+  "website": "https://boudinbakery.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "399 10th Avenue San Francisco, CA 94118",
+      "lat": 37.7811289,
+      "lng": -122.46882370000003,
+      "neighborhood": null
+    },
+    {
+      "address": "Pier 39 San Francisco, CA 94133",
+      "lat": 37.80867300000001,
+      "lng": -122.409821,
+      "neighborhood": null
+    },
+    {
+      "address": "160 Jefferson Street, Upper Level San Francisco, CA 94133",
+      "lat": 37.8085342,
+      "lng": -122.4147112,
+      "neighborhood": null
+    },
+    {
+      "address": "160 Jefferson Street, Lower Level San Francisco, CA 94133",
+      "lat": 37.8084728,
+      "lng": -122.41511489999999,
+      "neighborhood": null
+    },
+    {
+      "address": "170 O'Farrell Street San Francisco, CA 94102",
+      "lat": 37.7866459786,
+      "lng": -122.40727828299998,
+      "neighborhood": null
+    },
+    {
+      "address": "3251 20th Avenue San Francisco, CA 94132",
+      "lat": 37.7286594673,
+      "lng": -122.47671711999999,
+      "neighborhood": null
+    },
+    {
+      "address": "4 Embarcadero Center Justin Herman Plaza San Francisco, CA 94111",
+      "lat": 37.7949753738,
+      "lng": -122.39565667599999,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "sourdough-french-toast-per-serving",
+      "name": "Sourdough French Toast",
+      "description": null,
+      "category": "meal",
+      "calories": 930,
+      "fat_g": 18,
+      "protein_g": 26,
+      "carbs_g": 168,
+      "fiber_g": 7,
+      "sodium_mg": 860,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "classic-caesar-entr-e-size-add-for-2-oz-dressing-contains-anchovy-per-serving",
+      "name": "Classic Caesar - entrée size - - add for 2 oz. dressing (contains anchovy)",
+      "description": null,
+      "category": "component",
+      "calories": 389,
+      "fat_g": 20,
+      "protein_g": 14,
+      "carbs_g": 39,
+      "fiber_g": 7,
+      "sodium_mg": 895,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "granola-greek-yogurt-parfait-per-serving",
+      "name": "Granola & Greek Yogurt Parfait",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "fat_g": 4,
+      "protein_g": 15,
+      "carbs_g": 74,
+      "fiber_g": 6,
+      "sodium_mg": 230,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "classic-caesar-half-size-add-for-1-oz-dressing-contains-anchovy-per-serving",
+      "name": "Classic Caesar - half size - - add for 1 oz. dressing (contains anchovy)",
+      "description": null,
+      "category": "component",
+      "calories": 195,
+      "fat_g": 10,
+      "protein_g": 7,
+      "carbs_g": 20,
+      "fiber_g": 4,
+      "sodium_mg": 448,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "classic-caesar-with-chicken-entr-e-size-add-for-2-oz-dressing-contains-anchovy-per-serving",
+      "name": "Classic Caesar with Chicken - entrée size - - add for 2 oz. dressing (contains anchovy)",
+      "description": null,
+      "category": "component",
+      "calories": 529,
+      "fat_g": 25,
+      "protein_g": 37,
+      "carbs_g": 40,
+      "fiber_g": 7,
+      "sodium_mg": 1282,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-cheddar-cheese-sandwich-per-serving",
+      "name": "Bacon & Cheddar Cheese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 748,
+      "fat_g": 48,
+      "protein_g": 30,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sodium_mg": 1450,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "ham-cheddar-cheese-sandwich-per-serving",
+      "name": "Ham & Cheddar Cheese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 663,
+      "fat_g": 40,
+      "protein_g": 27,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sodium_mg": 1270,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "classic-caesar-with-chicken-half-size-add-for-1-oz-dressing-contains-anchovy-per-serving",
+      "name": "Classic Caesar with Chicken - half size - - add for 1 oz. dressing (contains anchovy)",
+      "description": null,
+      "category": "component",
+      "calories": 265,
+      "fat_g": 13,
+      "protein_g": 19,
+      "carbs_g": 20,
+      "fiber_g": 4,
+      "sodium_mg": 641,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "asian-chicken-entr-e-size-contains-nuts-add-for-2-oz-dressing-per-serving",
+      "name": "Asian Chicken - entrée size - (contains nuts) - add for 2 oz. dressing",
+      "description": null,
+      "category": "component",
+      "calories": 324,
+      "fat_g": 12,
+      "protein_g": 31,
+      "carbs_g": 26,
+      "fiber_g": 8,
+      "sodium_mg": 538,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "asian-chicken-half-size-contains-nuts-add-for-1-oz-dressing-per-serving",
+      "name": "Asian Chicken - half size - (contains nuts) - add for 1 oz. dressing",
+      "description": null,
+      "category": "component",
+      "calories": 162,
+      "fat_g": 6,
+      "protein_g": 16,
+      "carbs_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 269,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-two-medium-slices-per-serving",
+      "name": "Bacon, two medium slices",
+      "description": null,
+      "category": "side",
+      "calories": 115,
+      "fat_g": 9,
+      "protein_g": 8,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 365,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "fruit-cup-per-serving",
+      "name": "Fruit Cup",
+      "description": null,
+      "category": "side",
+      "calories": 100,
+      "fat_g": 0,
+      "protein_g": 1,
+      "carbs_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 20,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "cobb-salad-half-size-add-for-1-oz-dressing-per-entr-e-salad",
+      "name": "Cobb Salad - half size - add for 1 oz. dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 219,
+      "fat_g": 12,
+      "protein_g": 22,
+      "carbs_g": 6,
+      "fiber_g": 3,
+      "sodium_mg": 549,
+      "serving_note": "per entrée salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "potato-wedges-per-serving",
+      "name": "Potato wedges",
+      "description": null,
+      "category": "side",
+      "calories": 292,
+      "fat_g": 19,
+      "protein_g": 3,
+      "carbs_g": 28,
+      "fiber_g": 3,
+      "sodium_mg": 468,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "bbq-chicken-entr-e-size-add-for-2-oz-dressing-per-serving",
+      "name": "BBQ Chicken - entrée size - add for 2 oz. dressing",
+      "description": null,
+      "category": "component",
+      "calories": 351,
+      "fat_g": 9,
+      "protein_g": 31,
+      "carbs_g": 37,
+      "fiber_g": 11,
+      "sodium_mg": 732,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "mulitgrain-toast-per-serving",
+      "name": "*Mulitgrain Toast",
+      "description": null,
+      "category": "side",
+      "calories": 207,
+      "fat_g": 2,
+      "protein_g": 7,
+      "carbs_g": 39,
+      "fiber_g": 2,
+      "sodium_mg": 322,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "sourdough-toast-per-serving",
+      "name": "*Sourdough Toast",
+      "description": null,
+      "category": "side",
+      "calories": 110,
+      "fat_g": 0,
+      "protein_g": 3,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sodium_mg": 270,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "bbq-chicken-half-size-add-for-1-oz-dressing-per-serving",
+      "name": "BBQ Chicken - half size - add for 1 oz. dressing",
+      "description": null,
+      "category": "component",
+      "calories": 191,
+      "fat_g": 5,
+      "protein_g": 13,
+      "carbs_g": 21,
+      "fiber_g": 4,
+      "sodium_mg": 348,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "chicken-salad-contains-nuts-per-entr-e",
+      "name": "Chicken Salad - contains nuts",
+      "description": null,
+      "category": "meal",
+      "calories": 530,
+      "fat_g": 23,
+      "protein_g": 26,
+      "carbs_g": 55,
+      "fiber_g": 3,
+      "sodium_mg": 1110,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "spring-salad-half-size-contains-nuts-add-for-1-oz-dressing-per-entr-e-salad",
+      "name": "Spring Salad - half size - (contains nuts) - add for 1 oz. dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 258,
+      "fat_g": 17,
+      "protein_g": 8,
+      "carbs_g": 23,
+      "fiber_g": 5,
+      "sodium_mg": 384,
+      "serving_note": "per entrée salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "tuna-salad-per-entr-e",
+      "name": "Tuna Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "fat_g": 26,
+      "protein_g": 33,
+      "carbs_g": 52,
+      "fiber_g": 3,
+      "sodium_mg": 1200,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "spring-salad-entr-e-size-with-chicken-contains-nuts-add-for-2-oz-dressing-per-entr-e-salad",
+      "name": "Spring Salad - entrée size with Chicken - (contains nuts) - add for 2 oz. dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 655,
+      "fat_g": 37,
+      "protein_g": 39,
+      "carbs_g": 46,
+      "fiber_g": 10,
+      "sodium_mg": 1165,
+      "serving_note": "per entrée salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-havarti-per-entr-e",
+      "name": "Turkey Havarti",
+      "description": null,
+      "category": "meal",
+      "calories": 740,
+      "fat_g": 35,
+      "protein_g": 36,
+      "carbs_g": 67,
+      "fiber_g": 3,
+      "sodium_mg": 1620,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-cranberry-per-entr-e",
+      "name": "Turkey Cranberry",
+      "description": null,
+      "category": "meal",
+      "calories": 600,
+      "fat_g": 27,
+      "protein_g": 27,
+      "carbs_g": 57,
+      "fiber_g": 3,
+      "sodium_mg": 1330,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "california-veggie-vegetarian-per-entr-e",
+      "name": "California Veggie - (vegetarian)",
+      "description": null,
+      "category": "meal",
+      "calories": 590,
+      "fat_g": 27,
+      "protein_g": 21,
+      "carbs_g": 67,
+      "fiber_g": 7,
+      "sodium_mg": 940,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-per-entr-e",
+      "name": "Chicken Pesto",
+      "description": null,
+      "category": "meal",
+      "calories": 710,
+      "fat_g": 32,
+      "protein_g": 36,
+      "carbs_g": 70,
+      "fiber_g": 3,
+      "sodium_mg": 1400,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-italian-classic-per-entr-e",
+      "name": "The Italian Classic",
+      "description": null,
+      "category": "meal",
+      "calories": 970,
+      "fat_g": 53,
+      "protein_g": 44,
+      "carbs_g": 71,
+      "fiber_g": 2,
+      "sodium_mg": 2980,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-avocado-per-entr-e",
+      "name": "Turkey Avocado",
+      "description": null,
+      "category": "meal",
+      "calories": 760,
+      "fat_g": 40,
+      "protein_g": 35,
+      "carbs_g": 62,
+      "fiber_g": 6,
+      "sodium_mg": 1410,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "ham-n-brie-on-rosemary-focaccia-per-entr-e",
+      "name": "Ham ‘N Brie on Rosemary Focaccia",
+      "description": null,
+      "category": "meal",
+      "calories": 870,
+      "fat_g": 24,
+      "protein_g": 43,
+      "carbs_g": 116,
+      "fiber_g": 6,
+      "sodium_mg": 2500,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-original-baguette-burger-per-entr-e",
+      "name": "The Original Baguette Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 930,
+      "fat_g": 48,
+      "protein_g": 51,
+      "carbs_g": 70,
+      "fiber_g": 3,
+      "sodium_mg": 1260,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-california-baguette-burger-per-entr-e",
+      "name": "The California Baguette Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 1130,
+      "fat_g": 66,
+      "protein_g": 55,
+      "carbs_g": 81,
+      "fiber_g": 7,
+      "sodium_mg": 1290,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-blue-note-baguette-burger-per-entr-e",
+      "name": "The Blue Note Baguette Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 900,
+      "fat_g": 48,
+      "protein_g": 48,
+      "carbs_g": 69,
+      "fiber_g": 3,
+      "sodium_mg": 1520,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "chicken-club-per-entr-e",
+      "name": "Chicken Club",
+      "description": null,
+      "category": "meal",
+      "calories": 820,
+      "fat_g": 47,
+      "protein_g": 44,
+      "carbs_g": 54,
+      "fiber_g": 4,
+      "sodium_mg": 1450,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-great-grilled-cheese-per-entr-e",
+      "name": "The Great Grilled Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 730,
+      "fat_g": 46,
+      "protein_g": 31,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sodium_mg": 1340,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-great-with-bacon-per-entr-e",
+      "name": "The Great with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 870,
+      "fat_g": 56,
+      "protein_g": 40,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sodium_mg": 1780,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "grilled-brie-with-apples-fig-jam-vegetarian-per-entr-e",
+      "name": "Grilled Brie with Apples & Fig Jam- (vegetarian)",
+      "description": null,
+      "category": "meal",
+      "calories": 850,
+      "fat_g": 40,
+      "protein_g": 32,
+      "carbs_g": 93,
+      "fiber_g": 5,
+      "sodium_mg": 1370,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "grilled-cheese-w-ham-includes-condiments-per-entr-e",
+      "name": "Grilled Cheese w/ Ham (includes condiments)",
+      "description": null,
+      "category": "meal",
+      "calories": 930,
+      "fat_g": 61,
+      "protein_g": 41,
+      "carbs_g": 53,
+      "fiber_g": 2,
+      "sodium_mg": 2220,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "french-dip-per-entr-e",
+      "name": "French Dip",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "fat_g": 5,
+      "protein_g": 47,
+      "carbs_g": 73,
+      "fiber_g": 4,
+      "sodium_mg": 2780,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "chili-per-serving",
+      "name": "Chili",
+      "description": null,
+      "category": "component",
+      "calories": 185,
+      "fat_g": 9,
+      "protein_g": 11,
+      "carbs_g": 17,
+      "fiber_g": 6,
+      "sodium_mg": 490,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "vegetarian-chili-vegetarian-per-serving",
+      "name": "Vegetarian Chili (vegetarian)",
+      "description": null,
+      "category": "component",
+      "calories": 165,
+      "fat_g": 7,
+      "protein_g": 6,
+      "carbs_g": 23,
+      "fiber_g": 6,
+      "sodium_mg": 710,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "tuna-melt-per-entr-e",
+      "name": "Tuna Melt",
+      "description": null,
+      "category": "meal",
+      "calories": 1110,
+      "fat_g": 70,
+      "protein_g": 59,
+      "carbs_g": 61,
+      "fiber_g": 3,
+      "sodium_mg": 2000,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "broccoli-cheddar-per-serving",
+      "name": "Broccoli Cheddar",
+      "description": null,
+      "category": "component",
+      "calories": 165,
+      "fat_g": 12,
+      "protein_g": 6,
+      "carbs_g": 8,
+      "fiber_g": 1,
+      "sodium_mg": 655,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "butternut-squash-vegetarian-contains-nuts-per-serving",
+      "name": "Butternut Squash (vegetarian - contains nuts)",
+      "description": null,
+      "category": "component",
+      "calories": 155,
+      "fat_g": 9,
+      "protein_g": 2,
+      "carbs_g": 20,
+      "fiber_g": 1,
+      "sodium_mg": 475,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "cheese-vegetarian-per-entr-e",
+      "name": "Cheese - (vegetarian)",
+      "description": null,
+      "category": "meal",
+      "calories": 550,
+      "fat_g": 24,
+      "protein_g": 31,
+      "carbs_g": 52,
+      "fiber_g": 4,
+      "sodium_mg": 1250,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "clam-chowder-per-serving",
+      "name": "Clam Chowder",
+      "description": null,
+      "category": "component",
+      "calories": 145,
+      "fat_g": 7,
+      "protein_g": 7,
+      "carbs_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 570,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "garlic-tomato-per-serving",
+      "name": "Garlic Tomato",
+      "description": null,
+      "category": "component",
+      "calories": 155,
+      "fat_g": 11,
+      "protein_g": 3,
+      "carbs_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 425,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "goat-cheese-sun-dried-tomato-per-entr-e",
+      "name": "Goat Cheese & Sun-dried Tomato",
+      "description": null,
+      "category": "meal",
+      "calories": 630,
+      "fat_g": 27,
+      "protein_g": 34,
+      "carbs_g": 63,
+      "fiber_g": 7,
+      "sodium_mg": 1220,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "rustic-tomato-vegetarian-per-serving",
+      "name": "Rustic Tomato (vegetarian)",
+      "description": null,
+      "category": "component",
+      "calories": 115,
+      "fat_g": 8,
+      "protein_g": 2,
+      "carbs_g": 10,
+      "fiber_g": 1,
+      "sodium_mg": 475,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "pepperoni-per-entr-e",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "meal",
+      "calories": 570,
+      "fat_g": 27,
+      "protein_g": 28,
+      "carbs_g": 51,
+      "fiber_g": 4,
+      "sodium_mg": 1420,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "tomato-basil-garlic-vegetarian-per-entr-e",
+      "name": "Tomato Basil Garlic - (vegetarian)",
+      "description": null,
+      "category": "meal",
+      "calories": 490,
+      "fat_g": 20,
+      "protein_g": 25,
+      "carbs_g": 52,
+      "fiber_g": 5,
+      "sodium_mg": 1040,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "chicken-panzanella-salad-add-for-2-oz-dressing-per-entr-e-salad",
+      "name": "Chicken Panzanella Salad - add for 2 oz. dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 653,
+      "fat_g": 33,
+      "protein_g": 37,
+      "carbs_g": 53,
+      "fiber_g": 6,
+      "sodium_mg": 2498,
+      "serving_note": "per entrée salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "berry-farro-salad-vegetarian-add-for-2-oz-dressing-per-entr-e-salad",
+      "name": "Berry Farro Salad - (vegetarian) - add for 2 oz. dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 452,
+      "fat_g": 9,
+      "protein_g": 14,
+      "carbs_g": 86,
+      "fiber_g": 13,
+      "sodium_mg": 91,
+      "serving_note": "per entrée salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "the-roayle-per-serving",
+      "name": "The Roayle",
+      "description": null,
+      "category": "side",
+      "calories": 390,
+      "fat_g": 22,
+      "protein_g": 4,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sodium_mg": 240,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "white-chocolate-macadamia-nut-per-serving",
+      "name": "White Chocolate Macadamia Nut",
+      "description": null,
+      "category": "side",
+      "calories": 390,
+      "fat_g": 21,
+      "protein_g": 4,
+      "carbs_g": 49,
+      "fiber_g": 1,
+      "sodium_mg": 270,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-per-serving",
+      "name": "Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 360,
+      "fat_g": 17,
+      "protein_g": 3,
+      "carbs_g": 53,
+      "fiber_g": 2,
+      "sodium_mg": 270,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "mini-chocolate-chip-per-serving",
+      "name": "Mini Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 120,
+      "fat_g": 6,
+      "protein_g": 1,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-per-serving",
+      "name": "Peanut Butter",
+      "description": null,
+      "category": "side",
+      "calories": 380,
+      "fat_g": 20,
+      "protein_g": 6,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sodium_mg": 530,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    {
+      "id": "mini-oatmeal-raisin-per-serving",
+      "name": "Mini Oatmeal Raisin",
+      "description": null,
+      "category": "side",
+      "calories": 110,
+      "fat_g": 4,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 90,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    }
+  ]
+}

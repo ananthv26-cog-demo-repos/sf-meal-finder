@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "188-doomsday",
+      "name": "188. Doomsday",
+      "description": "Ike's menu section: Meat Sandwiches.",
+      "category": "meal",
+      "serving_note": "per whole sandwich on Dutch Crunch bread, with default cheese and regular Dirty Sauce",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/ikes-love-sandwiches/menu/premium"
+      },
+      "calories": 2930,
+      "protein_g": 132,
+      "carbs_g": 243,
+      "fat_g": 160,
+      "fiber_g": 10,
+      "sodium_mg": 10270
+    },
+    "reasons": [
+      "ikes-love-and-sandwiches/188-doomsday: sodium_mg 10270 implausibly high"
+    ]
+  }
+]

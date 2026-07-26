@@ -1,0 +1,48 @@
+[
+  {
+    "item": {
+      "id": "original-koja",
+      "name": "The Original KoJa",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 326.0,
+      "protein_g": 0.47,
+      "carbs_g": 29.59,
+      "fat_g": 0.29,
+      "fiber_g": 0.2,
+      "sodium_mg": 3.0,
+      "serving_note": "per 1 cocktail",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/sex-on-the-beach"
+      }
+    },
+    "reasons": [
+      "koja-kitchen/original-koja: macro check failed — stated 326.0 kcal vs computed 123 (delta -203)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beef-koja",
+      "name": "Beef KoJa",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 339.0,
+      "protein_g": 36.26,
+      "carbs_g": 10.03,
+      "fat_g": 11.66,
+      "fiber_g": 1.2,
+      "sodium_mg": 124.0,
+      "serving_note": "per 1 cup",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-burgundy-(beef-bourguignonne)"
+      }
+    },
+    "reasons": [
+      "koja-kitchen/beef-koja: macro check failed — stated 339.0 kcal vs computed 290 (delta -49)"
+    ]
+  }
+]

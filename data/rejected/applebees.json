@@ -1,0 +1,1558 @@
+[
+  {
+    "item": {
+      "id": "bacardi-blushing-dragon",
+      "name": "Bacardi Blushing Dragon",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 44,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 55,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/bacardi-blushing-dragon: macro check failed — stated 310 kcal vs computed 176 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "backflippin-blue-margarita-mucho",
+      "name": "Backflippin' Blue Margarita Mucho",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 470,
+      "protein_g": 0,
+      "carbs_g": 91,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 60,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/backflippin-blue-margarita-mucho: macro check failed — stated 470 kcal vs computed 364 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dollarita",
+      "name": "Dollarita",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 0,
+      "carbs_g": 33,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/dollarita: macro check failed — stated 220 kcal vs computed 132 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "don-julio-reposado-vibe-drop-add-on",
+      "name": "Don Julio Reposado Vibe Drop Add-On",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/don-julio-reposado-vibe-drop-add-on: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "grey-goose-vibe-drop-add-on",
+      "name": "Grey Goose Vibe Drop Add-On",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/grey-goose-vibe-drop-add-on: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "patron-silver-vibe-drop-add-on",
+      "name": "Patron Silver Vibe Drop Add-On",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/patron-silver-vibe-drop-add-on: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "prickly-plunge-margarita-mucho",
+      "name": "Prickly Plunge Margarita Mucho",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 380,
+      "protein_g": 0,
+      "carbs_g": 65,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/prickly-plunge-margarita-mucho: macro check failed — stated 380 kcal vs computed 260 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "still-g-i-n-vibe-drop-add-on",
+      "name": "Still G.I.N. Vibe Drop Add-On",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/still-g-i-n-vibe-drop-add-on: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "woodford-reserve-vibe-drop-add-on",
+      "name": "Woodford Reserve Vibe Drop Add-On",
+      "description": "Applebee's menu section: Limited Time Offers.",
+      "category": "drink",
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/woodford-reserve-vibe-drop-add-on: macro check failed — stated 60 kcal vs computed 0 (delta -60)"
+    ]
+  },
+  {
+    "item": {
+      "id": "owen-s-nitro-infused-espresso",
+      "name": "Owen's Nitro Infused Espresso",
+      "description": "Applebee's menu section: Beverages.",
+      "category": "drink",
+      "calories": 30,
+      "protein_g": 0,
+      "carbs_g": 15,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/owen-s-nitro-infused-espresso: macro check failed — stated 30 kcal vs computed 60 (delta +30)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bacardi-pina-colada",
+      "name": "Bacardi Pina Colada",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 510,
+      "protein_g": 0,
+      "carbs_g": 78,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 40,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/bacardi-pina-colada: macro check failed — stated 510 kcal vs computed 375 (delta -135)"
+    ]
+  },
+  {
+    "item": {
+      "id": "backyard-blackberry-lemonade",
+      "name": "Backyard Blackberry Lemonade",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 32,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/backyard-blackberry-lemonade: macro check failed — stated 210 kcal vs computed 128 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-aloha-mana-margarita",
+      "name": "Blue Aloha Mana Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 350,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/blue-aloha-mana-margarita: macro check failed — stated 260 kcal vs computed 152 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-hawaiian-long-island-iced-tea",
+      "name": "Blue Hawaiian Long Island Iced Tea",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 0,
+      "carbs_g": 29,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/blue-hawaiian-long-island-iced-tea: macro check failed — stated 230 kcal vs computed 116 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-tropical-bacardi-pina-colada-swirl",
+      "name": "Blue Tropical Bacardi Pina Colada Swirl",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 600,
+      "protein_g": 0,
+      "carbs_g": 101,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 45,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/blue-tropical-bacardi-pina-colada-swirl: macro check failed — stated 600 kcal vs computed 467 (delta -133)"
+    ]
+  },
+  {
+    "item": {
+      "id": "captain-bahama-mama",
+      "name": "Captain Bahama Mama",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0.5,
+      "carbs_g": 41,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/captain-bahama-mama: macro check failed — stated 280 kcal vs computed 166 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "crown-whiskey-sour",
+      "name": "Crown Whiskey Sour",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/crown-whiskey-sour: macro check failed — stated 180 kcal vs computed 80 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "don-julio-reposado-vibe-drop-add-on-2",
+      "name": "Don Julio Reposado Vibe Drop Add-On",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/don-julio-reposado-vibe-drop-add-on-2: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "don-julio-reposado-vibe-drop-add-on-utah-only",
+      "name": "Don Julio Reposado Vibe Drop Add-On (Utah Only)",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/don-julio-reposado-vibe-drop-add-on-utah-only: macro check failed — stated 35 kcal vs computed 0 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espres-so-happy-martini",
+      "name": "Espres-So Happy Martini",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 33,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/espres-so-happy-martini: macro check failed — stated 260 kcal vs computed 132 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espres-so-happy-martini-w-1800-reposado-tequila",
+      "name": "Espres-So Happy Martini w/ 1800 Reposado Tequila",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 40,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/espres-so-happy-martini-w-1800-reposado-tequila: macro check failed — stated 270 kcal vs computed 160 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "golden-goose",
+      "name": "Golden Goose",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 340,
+      "protein_g": 0,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/golden-goose: macro check failed — stated 340 kcal vs computed 216 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "grey-goose-vibe-drop-add-on-2",
+      "name": "Grey Goose Vibe Drop Add-On",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/grey-goose-vibe-drop-add-on-2: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "grey-goose-vibe-drop-add-on-utah-only",
+      "name": "Grey Goose Vibe Drop Add-On (Utah Only)",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/grey-goose-vibe-drop-add-on-utah-only: macro check failed — stated 35 kcal vs computed 0 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "henny-punch",
+      "name": "Henny Punch",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 21,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/henny-punch: macro check failed — stated 190 kcal vs computed 84 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mango-bacardi-pina-colada-swirl",
+      "name": "Mango Bacardi Pina Colada Swirl",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 550,
+      "protein_g": 0,
+      "carbs_g": 89,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 40,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/mango-bacardi-pina-colada-swirl: macro check failed — stated 550 kcal vs computed 419 (delta -131)"
+    ]
+  },
+  {
+    "item": {
+      "id": "patron-silver-vibe-drop-add-on-2",
+      "name": "Patron Silver Vibe Drop Add-On",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/patron-silver-vibe-drop-add-on-2: macro check failed — stated 50 kcal vs computed 0 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "patron-silver-vibe-drop-add-on-utah-only",
+      "name": "Patron Silver Vibe Drop Add-On (Utah Only)",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/patron-silver-vibe-drop-add-on-utah-only: macro check failed — stated 35 kcal vs computed 0 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-mango-margarita",
+      "name": "Perfect Mango Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 56,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 25,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-mango-margarita: macro check failed — stated 360 kcal vs computed 224 (delta -136)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-mango-patron-margarita",
+      "name": "Perfect Mango Patron Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 56,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 25,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-mango-patron-margarita: macro check failed — stated 370 kcal vs computed 224 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-margarita",
+      "name": "Perfect Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 30,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 320,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-margarita: macro check failed — stated 260 kcal vs computed 120 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-patron-margarita",
+      "name": "Perfect Patron Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 34,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 320,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-patron-margarita: macro check failed — stated 270 kcal vs computed 136 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-prickly-pear-margarita",
+      "name": "Perfect Prickly Pear Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 56,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 20,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-prickly-pear-margarita: macro check failed — stated 370 kcal vs computed 224 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-prickly-pear-patron-margarita",
+      "name": "Perfect Prickly Pear Patron Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 56,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 20,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-prickly-pear-patron-margarita: macro check failed — stated 370 kcal vs computed 224 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-strawberry-margarita",
+      "name": "Perfect Strawberry Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 20,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-strawberry-margarita: macro check failed — stated 360 kcal vs computed 216 (delta -144)"
+    ]
+  },
+  {
+    "item": {
+      "id": "perfect-strawberry-patron-margarita",
+      "name": "Perfect Strawberry Patron Margarita",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 20,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/perfect-strawberry-patron-margarita: macro check failed — stated 360 kcal vs computed 216 (delta -144)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-sangria",
+      "name": "Red Sangria",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 0,
+      "carbs_g": 36,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 10,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/red-sangria: macro check failed — stated 230 kcal vs computed 144 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rollin-on-the-beach",
+      "name": "Rollin on the Beach",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 0.5,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/rollin-on-the-beach: macro check failed — stated 320 kcal vs computed 218 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shark-bowl",
+      "name": "Shark Bowl",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 610,
+      "protein_g": 0.5,
+      "carbs_g": 122,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/shark-bowl: macro check failed — stated 610 kcal vs computed 490 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-bacardi-pina-colada-swirl",
+      "name": "Strawberry Bacardi Pina Colada Swirl",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 560,
+      "protein_g": 0,
+      "carbs_g": 90,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 55,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/strawberry-bacardi-pina-colada-swirl: macro check failed — stated 560 kcal vs computed 423 (delta -137)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tito-s-bay-breeze",
+      "name": "Tito's Bay Breeze",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/tito-s-bay-breeze: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "top-shelf-long-island-iced-tea",
+      "name": "Top Shelf Long Island Iced Tea",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 0,
+      "carbs_g": 23,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/top-shelf-long-island-iced-tea: macro check failed — stated 220 kcal vs computed 92 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-peach-sangria",
+      "name": "White Peach Sangria",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0.5,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 20,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/white-peach-sangria: macro check failed — stated 270 kcal vs computed 190 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "woodford-old-fashioned",
+      "name": "Woodford Old Fashioned",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 15,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/woodford-old-fashioned: macro check failed — stated 170 kcal vs computed 60 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "woodford-reserve-vibe-drop-add-on-2",
+      "name": "Woodford Reserve Vibe Drop Add-On",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/woodford-reserve-vibe-drop-add-on-2: macro check failed — stated 60 kcal vs computed 0 (delta -60)"
+    ]
+  },
+  {
+    "item": {
+      "id": "woodford-reserve-vibe-drop-add-on-utah-only",
+      "name": "Woodford Reserve Vibe Drop Add-On (Utah Only)",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/woodford-reserve-vibe-drop-add-on-utah-only: macro check failed — stated 35 kcal vs computed 0 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "young-wild-free-fruit-punch",
+      "name": "Young, Wild & Free Fruit Punch",
+      "description": "Applebee's menu section: Alcoholic Beverages.",
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 0,
+      "carbs_g": 34,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/young-wild-free-fruit-punch: macro check failed — stated 230 kcal vs computed 136 (delta -94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "applebee-s-riblets-no-sauce-serves-6-8",
+      "name": "Applebee's Riblets (no sauce) (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 7820,
+      "protein_g": 555,
+      "carbs_g": 376,
+      "fat_g": 460,
+      "fiber_g": 46,
+      "sodium_mg": 10680,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/applebee-s-riblets-no-sauce-serves-6-8: sodium_mg 10680 implausibly high",
+      "applebees/applebee-s-riblets-no-sauce-serves-6-8: calories 7820 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "applebee-s-riblets-sauce-serves-6-8-honey-bbq",
+      "name": "Applebee's Riblets Sauce (Serves 6-8) - Honey BBQ",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 2530,
+      "protein_g": 12,
+      "carbs_g": 615,
+      "fat_g": 2.5,
+      "fiber_g": 18,
+      "sodium_mg": 10850,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/applebee-s-riblets-sauce-serves-6-8-honey-bbq: sodium_mg 10850 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "applebee-s-riblets-sauce-serves-6-8-sweet-asian-chile",
+      "name": "Applebee's Riblets Sauce (Serves 6-8) - Sweet Asian Chile",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 3340,
+      "protein_g": 37,
+      "carbs_g": 701,
+      "fat_g": 34,
+      "fiber_g": 18,
+      "sodium_mg": 18260,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/applebee-s-riblets-sauce-serves-6-8-sweet-asian-chile: sodium_mg 18260 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "bacon-ranch-chicken-sandwich-serves-6-8",
+      "name": "Bacon Ranch Chicken Sandwich (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 4410,
+      "protein_g": 335,
+      "carbs_g": 238,
+      "fat_g": 239,
+      "fiber_g": 15,
+      "sodium_mg": 12690,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/bacon-ranch-chicken-sandwich-serves-6-8: sodium_mg 12690 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "bourbon-street-chicken-sausage-penne-serves-6-8",
+      "name": "Bourbon Street Chicken & Sausage Penne (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6280,
+      "protein_g": 355,
+      "carbs_g": 465,
+      "fat_g": 339,
+      "fiber_g": 38,
+      "sodium_mg": 15110,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/bourbon-street-chicken-sausage-penne-serves-6-8: sodium_mg 15110 implausibly high",
+      "applebees/bourbon-street-chicken-sausage-penne-serves-6-8: calories 6280 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "bourbon-street-shrimp-sausage-penne-serves-6-8",
+      "name": "Bourbon Street Shrimp & Sausage Penne (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 5800,
+      "protein_g": 254,
+      "carbs_g": 470,
+      "fat_g": 328,
+      "fiber_g": 38,
+      "sodium_mg": 15790,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/bourbon-street-shrimp-sausage-penne-serves-6-8: sodium_mg 15790 implausibly high",
+      "applebees/bourbon-street-shrimp-sausage-penne-serves-6-8: calories 5800 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "chicken-fajita-rollup-serves-6-8",
+      "name": "Chicken Fajita Rollup (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6440,
+      "protein_g": 335,
+      "carbs_g": 370,
+      "fat_g": 402,
+      "fiber_g": 23,
+      "sodium_mg": 15320,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/chicken-fajita-rollup-serves-6-8: sodium_mg 15320 implausibly high",
+      "applebees/chicken-fajita-rollup-serves-6-8: calories 6440 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "classic-broccoli-blackened-shrimp-alfredo-serves-6-8",
+      "name": "Classic Broccoli Blackened Shrimp Alfredo (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 7650,
+      "protein_g": 292,
+      "carbs_g": 506,
+      "fat_g": 504,
+      "fiber_g": 39,
+      "sodium_mg": 16510,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/classic-broccoli-blackened-shrimp-alfredo-serves-6-8: sodium_mg 16510 implausibly high",
+      "applebees/classic-broccoli-blackened-shrimp-alfredo-serves-6-8: calories 7650 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "classic-broccoli-chicken-alfredo-serves-6-8",
+      "name": "Classic Broccoli Chicken Alfredo (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 8130,
+      "protein_g": 392,
+      "carbs_g": 501,
+      "fat_g": 514,
+      "fiber_g": 39,
+      "sodium_mg": 16060,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/classic-broccoli-chicken-alfredo-serves-6-8: sodium_mg 16060 implausibly high",
+      "applebees/classic-broccoli-chicken-alfredo-serves-6-8: calories 8130 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "classic-fries-serves-6-8",
+      "name": "Classic Fries (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 3090,
+      "protein_g": 44,
+      "carbs_g": 472,
+      "fat_g": 111,
+      "fiber_g": 36,
+      "sodium_mg": 11830,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/classic-fries-serves-6-8: sodium_mg 11830 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "clubhouse-grille-serves-6-8",
+      "name": "Clubhouse Grille (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6280,
+      "protein_g": 299,
+      "carbs_g": 456,
+      "fat_g": 365,
+      "fiber_g": 21,
+      "sodium_mg": 16020,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/clubhouse-grille-serves-6-8: sodium_mg 16020 implausibly high",
+      "applebees/clubhouse-grille-serves-6-8: calories 6280 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "double-glazed-baby-back-ribs-no-sauce-serves-6-8",
+      "name": "Double-Glazed Baby Back Ribs (no sauce) (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6220,
+      "protein_g": 416,
+      "carbs_g": 342,
+      "fat_g": 360,
+      "fiber_g": 49,
+      "sodium_mg": 8800,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/double-glazed-baby-back-ribs-no-sauce-serves-6-8: calories 6220 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "fiesta-lime-chicken-serves-6-8",
+      "name": "Fiesta Lime Chicken (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6460,
+      "protein_g": 348,
+      "carbs_g": 487,
+      "fat_g": 350,
+      "fiber_g": 35,
+      "sodium_mg": 20800,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/fiesta-lime-chicken-serves-6-8: sodium_mg 20800 implausibly high",
+      "applebees/fiesta-lime-chicken-serves-6-8: calories 6460 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "four-cheese-mac-cheese-with-honey-pepper-chicken-tenders-serves-6-8",
+      "name": "Four-Cheese Mac & Cheese with Honey Pepper Chicken Tenders (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6810,
+      "protein_g": 301,
+      "carbs_g": 763,
+      "fat_g": 281,
+      "fiber_g": 35,
+      "sodium_mg": 17920,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/four-cheese-mac-cheese-with-honey-pepper-chicken-tenders-serves-6-8: sodium_mg 17920 implausibly high",
+      "applebees/four-cheese-mac-cheese-with-honey-pepper-chicken-tenders-serves-6-8: calories 6810 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "mozzarella-sticks-serves-6-8",
+      "name": "Mozzarella Sticks (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 5140,
+      "protein_g": 246,
+      "carbs_g": 447,
+      "fat_g": 263,
+      "fiber_g": 38,
+      "sodium_mg": 14320,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/mozzarella-sticks-serves-6-8: sodium_mg 14320 implausibly high",
+      "applebees/mozzarella-sticks-serves-6-8: calories 5140 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "oriental-chicken-salad-wrap-with-crispy-chicken-serves-6-8",
+      "name": "Oriental Chicken Salad Wrap (with Crispy Chicken) (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 7250,
+      "protein_g": 226,
+      "carbs_g": 622,
+      "fat_g": 432,
+      "fiber_g": 41,
+      "sodium_mg": 11100,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/oriental-chicken-salad-wrap-with-crispy-chicken-serves-6-8: sodium_mg 11100 implausibly high",
+      "applebees/oriental-chicken-salad-wrap-with-crispy-chicken-serves-6-8: calories 7250 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "oriental-chicken-salad-wrap-with-grilled-chicken-serves-6-8",
+      "name": "Oriental Chicken Salad Wrap (with Grilled Chicken) (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6110,
+      "protein_g": 320,
+      "carbs_g": 494,
+      "fat_g": 320,
+      "fiber_g": 34,
+      "sodium_mg": 10430,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/oriental-chicken-salad-wrap-with-grilled-chicken-serves-6-8: sodium_mg 10430 implausibly high",
+      "applebees/oriental-chicken-salad-wrap-with-grilled-chicken-serves-6-8: calories 6110 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "spinach-artichoke-serves-6-8",
+      "name": "Spinach & Artichoke (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 5490,
+      "protein_g": 111,
+      "carbs_g": 505,
+      "fat_g": 339,
+      "fiber_g": 48,
+      "sodium_mg": 11760,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/spinach-artichoke-serves-6-8: sodium_mg 11760 implausibly high",
+      "applebees/spinach-artichoke-serves-6-8: calories 5490 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "the-classic-combo-serves-6-8-no-flavor-or-dipping-sauce",
+      "name": "The Classic Combo (Serves 6-8) (no flavor or dipping sauce)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "condiment",
+      "calories": 13130,
+      "protein_g": 484,
+      "carbs_g": 1098,
+      "fat_g": 757,
+      "fiber_g": 91,
+      "sodium_mg": 30870,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/the-classic-combo-serves-6-8-no-flavor-or-dipping-sauce: sodium_mg 30870 implausibly high",
+      "applebees/the-classic-combo-serves-6-8-no-flavor-or-dipping-sauce: calories 13130 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "three-cheese-chicken-penne-serves-6-8",
+      "name": "Three-Cheese Chicken Penne (Serves 6-8)",
+      "description": "Applebee's menu section: Catering.",
+      "category": "component",
+      "calories": 6520,
+      "protein_g": 350,
+      "carbs_g": 452,
+      "fat_g": 372,
+      "fiber_g": 31,
+      "sodium_mg": 13080,
+      "serving_note": "per catering order Serves 6-8",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/applebees/menu/premium"
+      }
+    },
+    "reasons": [
+      "applebees/three-cheese-chicken-penne-serves-6-8: sodium_mg 13080 implausibly high",
+      "applebees/three-cheese-chicken-penne-serves-6-8: calories 6520 implausibly high — check what the row is per"
+    ]
+  }
+]

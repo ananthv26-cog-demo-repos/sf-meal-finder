@@ -1,0 +1,255 @@
+[
+  {
+    "item": {
+      "id": "assorted-vegetable-tempura",
+      "name": "Assorted Vegetable Tempura",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 860.0,
+      "protein_g": 3.0,
+      "carbs_g": 23.0,
+      "fat_g": 57.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/assorted-vegetable-tempura: macro check failed — stated 860.0 kcal vs computed 617 (delta -243)"
+    ]
+  },
+  {
+    "item": {
+      "id": "chicken-gyoza",
+      "name": "Chicken Gyoza",
+      "description": "Official Kura Sushi nutrition PDF; section Side Dishes.",
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 6.0,
+      "carbs_g": 14.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/chicken-gyoza: macro check failed — stated 210.0 kcal vs computed 170 (delta -40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "asahi",
+      "name": "Asahi",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/asahi: macro check failed — stated 140.0 kcal vs computed 40 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hakutsuru-draft-sake",
+      "name": "Hakutsuru Draft Sake",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/hakutsuru-draft-sake: macro check failed — stated 170.0 kcal vs computed 8 (delta -162)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hakutsuru-sayuri-nigori-sake",
+      "name": "Hakutsuru Sayuri Nigori Sake",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/hakutsuru-sayuri-nigori-sake: macro check failed — stated 290.0 kcal vs computed 32 (delta -258)"
+    ]
+  },
+  {
+    "item": {
+      "id": "house-sake-cold",
+      "name": "House Sake Cold",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/house-sake-cold: macro check failed — stated 230.0 kcal vs computed 40 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "house-sake-hot",
+      "name": "House Sake Hot",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/house-sake-hot: macro check failed — stated 390.0 kcal vs computed 64 (delta -326)"
+    ]
+  },
+  {
+    "item": {
+      "id": "plum-wine-shot",
+      "name": "Plum Wine Shot",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/plum-wine-shot: macro check failed — stated 80.0 kcal vs computed 40 (delta -40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sapporo-draft-12oz",
+      "name": "Sapporo Draft 12oz",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/sapporo-draft-12oz: macro check failed — stated 140.0 kcal vs computed 44 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sapporo-draft-16oz",
+      "name": "Sapporo Draft 16oz",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/sapporo-draft-16oz: macro check failed — stated 190.0 kcal vs computed 64 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sapporo-light-12-oz",
+      "name": "Sapporo Light 12 oz",
+      "description": "Official Kura Sushi nutrition PDF; section Alcohol.",
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed menu serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf"
+      }
+    },
+    "reasons": [
+      "kura-revolving-sushi/sapporo-light-12-oz: macro check failed — stated 110.0 kcal vs computed 40 (delta -70)"
+    ]
+  }
+]

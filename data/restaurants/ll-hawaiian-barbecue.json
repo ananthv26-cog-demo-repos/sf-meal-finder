@@ -1,0 +1,255 @@
+{
+  "id": "ll-hawaiian-barbecue",
+  "name": "L&L Hawaiian Barbecue",
+  "website": "https://www.hawaiianbarbecue.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "312 Kearny St., San Francisco, CA 94108",
+      "lat": 37.791016,
+      "lng": -122.404106,
+      "neighborhood": "Union Square"
+    }
+  ],
+  "items": [
+    {
+      "id": "bbq-mix",
+      "name": "BBQ Mix",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 820.0,
+      "protein_g": 64.0,
+      "carbs_g": 19.0,
+      "fat_g": 54.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1590.0,
+      "serving_note": "per 1 serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/ono-hawaiian-bbq/hawaiian-bbq-mix"
+      }
+    },
+    {
+      "id": "bbq-chicken",
+      "name": "BBQ Chicken",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 380.0,
+      "protein_g": 29.0,
+      "carbs_g": 22.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 order",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/76725"
+      }
+    },
+    {
+      "id": "chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 350.0,
+      "protein_g": 22.0,
+      "carbs_g": 12.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per 1 serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1684073"
+      }
+    },
+    {
+      "id": "loco-moco",
+      "name": "Loco Moco",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 810.0,
+      "protein_g": 38.0,
+      "carbs_g": 104.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 3060.0,
+      "serving_note": "per 1 serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/ihop/loco-moco"
+      }
+    },
+    {
+      "id": "lau-lau-combo",
+      "name": "Lau Lau Combo",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 620.0,
+      "protein_g": 38.0,
+      "carbs_g": 12.0,
+      "fat_g": 47.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 1530.0,
+      "serving_note": "per 1 lau lau",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/keokis/pork-lau-lau"
+      }
+    },
+    {
+      "id": "half-half-combo",
+      "name": "Half & Half Combo",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/ocharleys/create-your-combo-half-rack-ribs"
+      }
+    },
+    {
+      "id": "bbq-short-ribs",
+      "name": "BBQ Short Ribs",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 670.0,
+      "protein_g": 29.0,
+      "carbs_g": 34.0,
+      "fat_g": 45.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 890.0,
+      "serving_note": "per 1 serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/burgerville/bbq-short-rib-burger-(pdx-airport-only)"
+      }
+    },
+    {
+      "id": "bbq-cheeseburger",
+      "name": "BBQ Cheeseburger",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 1170.0,
+      "protein_g": 46.0,
+      "carbs_g": 76.0,
+      "fat_g": 73.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2180.0,
+      "serving_note": "per 1 serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/tgi-fridays/texas-bbq-bacon-cheeseburger"
+      }
+    },
+    {
+      "id": "fried-shrimp",
+      "name": "Fried Shrimp",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 27.0,
+      "protein_g": 2.28,
+      "carbs_g": 1.29,
+      "fat_g": 1.35,
+      "fiber_g": 0.1,
+      "sodium_mg": 54.0,
+      "serving_note": "per 1 medium (shelled)",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/shrimp-floured-breaded-or-battered-fried"
+      }
+    },
+    {
+      "id": "kalua-pork-with-cabbage",
+      "name": "Kalua Pork with Cabbage",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/zippys/kalua-pork-and-cabbage"
+      }
+    },
+    {
+      "id": "garlic-shrimp",
+      "name": "Garlic Shrimp",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 110.0,
+      "protein_g": 16.0,
+      "carbs_g": 4.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 8 shrimp",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/gortons/garlic-grilled-shrimp"
+      }
+    },
+    {
+      "id": "spam-musubi",
+      "name": "SPAM Musubi",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "side",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/1610668"
+      }
+    },
+    {
+      "id": "spam-saimin",
+      "name": "SPAM Saimin",
+      "description": "Crowd fallback; L&L publishes an allergen guide but no nutrition values.",
+      "category": "side",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/usda/canned-minced-pork-with-ham-luncheon-meat-hormel-spam"
+      }
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+[
+  {
+    "item": {
+      "id": "beer-light",
+      "name": "Beer, Light",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 100,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/beer-light: macro check failed — stated 100 kcal vs computed 28 (delta -72)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beer-regular",
+      "name": "Beer, Regular",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/beer-regular: macro check failed — stated 150 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bud-light",
+      "name": "Bud Light",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 110,
+      "protein_g": 1,
+      "carbs_g": 7,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/bud-light: macro check failed — stated 110 kcal vs computed 32 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "budweiser",
+      "name": "Budweiser",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 11,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/budweiser: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "busch-light",
+      "name": "Busch Light",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 100,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/busch-light: macro check failed — stated 100 kcal vs computed 16 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors",
+      "name": "Coors",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 11,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/coors: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coors-lite",
+      "name": "Coors Lite",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 100,
+      "protein_g": 1,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10
+    },
+    "reasons": [
+      "pizza-hut/coors-lite: macro check failed — stated 100 kcal vs computed 24 (delta -76)"
+    ]
+  },
+  {
+    "item": {
+      "id": "corona-extra",
+      "name": "Corona Extra",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20
+    },
+    "reasons": [
+      "pizza-hut/corona-extra: macro check failed — stated 150 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dessert-sweet-wine",
+      "name": "Dessert/Sweet Wine",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/dessert-sweet-wine: macro check failed — stated 280 kcal vs computed 96 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "domestic-beer",
+      "name": "Domestic Beer",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/domestic-beer: macro check failed — stated 150 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "dos-equis-lager",
+      "name": "Dos Equis Lager",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/dos-equis-lager: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "heineken",
+      "name": "Heineken",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/heineken: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "michelob-ultra",
+      "name": "Michelob Ultra",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 100,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/michelob-ultra: macro check failed — stated 100 kcal vs computed 16 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller",
+      "name": "Miller",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 140,
+      "protein_g": 1,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10
+    },
+    "reasons": [
+      "pizza-hut/miller: macro check failed — stated 140 kcal vs computed 56 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "miller-lite",
+      "name": "Miller Lite",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 100,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5
+    },
+    "reasons": [
+      "pizza-hut/miller-lite: macro check failed — stated 100 kcal vs computed 16 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "premium-beer",
+      "name": "Premium Beer",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/premium-beer: macro check failed — stated 150 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-wine",
+      "name": "Red Wine",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10
+    },
+    "reasons": [
+      "pizza-hut/red-wine: macro check failed — stated 150 kcal vs computed 20 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shiner",
+      "name": "Shiner",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/shiner: macro check failed — stated 150 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-wine",
+      "name": "Sparkling Wine",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5
+    },
+    "reasons": [
+      "pizza-hut/sparkling-wine: macro check failed — stated 160 kcal vs computed 20 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tecate",
+      "name": "Tecate",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/tecate: macro check failed — stated 150 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-wine",
+      "name": "White Wine",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10
+    },
+    "reasons": [
+      "pizza-hut/white-wine: macro check failed — stated 150 kcal vs computed 20 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuengling",
+      "name": "Yuengling",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 140,
+      "protein_g": 1,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/yuengling: macro check failed — stated 140 kcal vs computed 52 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ziegenbock",
+      "name": "Ziegenbock",
+      "description": "Pizza Hut menu section: Beer and Wine.",
+      "category": "drink",
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/pizza-hut/menu/premium"
+      },
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 11,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15
+    },
+    "reasons": [
+      "pizza-hut/ziegenbock: macro check failed — stated 150 kcal vs computed 48 (delta -102)"
+    ]
+  }
+]

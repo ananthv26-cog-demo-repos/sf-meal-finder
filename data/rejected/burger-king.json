@@ -1,0 +1,71 @@
+[
+  {
+    "item": {
+      "id": "value-mello-yello-zero-drinks-coffee-item-43145",
+      "name": "Value Mello Yello Zero (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0.002,
+      "fiber_g": 0,
+      "sodium_mg": 55.9088,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    "reasons": [
+      "burger-king/value-mello-yello-zero-drinks-coffee-item-43145: macro check failed — stated 190 kcal vs computed 0 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "2-pc-taco-item-867",
+      "name": "2 Pc. Taco",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 11,
+      "carbs_g": 48,
+      "fat_g": 12,
+      "fiber_g": 5,
+      "sodium_mg": 660,
+      "serving_note": "per 158.849 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    "reasons": [
+      "burger-king/2-pc-taco-item-867: macro check failed — stated 420 kcal vs computed 344 (delta -76)"
+    ]
+  },
+  {
+    "item": {
+      "id": "1-pc-taco-item-43596",
+      "name": "1 Pc. Taco",
+      "description": null,
+      "category": "meal",
+      "calories": 210,
+      "protein_g": 6,
+      "carbs_g": 24,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 330,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    "reasons": [
+      "burger-king/1-pc-taco-item-43596: macro check failed — stated 210 kcal vs computed 174 (delta -36)"
+    ]
+  }
+]

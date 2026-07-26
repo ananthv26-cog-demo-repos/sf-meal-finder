@@ -1,0 +1,3333 @@
+{
+  "id": "noahs-ny-bagels",
+  "name": "Noah's NY Bagels",
+  "website": "https://www.noahs.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "100 Bush St, San Francisco, CA 94104",
+      "lat": 37.7914629,
+      "lng": -122.3998367,
+      "neighborhood": null
+    },
+    {
+      "address": "1521 Sloat Blvd, San Francisco, CA 94132",
+      "lat": 37.7324433,
+      "lng": -122.4899402,
+      "neighborhood": null
+    },
+    {
+      "address": "2075 Chestnut St, San Francisco, CA 94123",
+      "lat": 37.800495440616324,
+      "lng": -122.43736177682877,
+      "neighborhood": null
+    },
+    {
+      "address": "2300 16th St, San Francisco, CA 94103",
+      "lat": 37.76596988162717,
+      "lng": -122.40790806706721,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "coronado-cooler-16-fl-oz",
+      "name": "Coronado Cooler",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 41,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "coronado-cooler-24-fl-oz",
+      "name": "Coronado Cooler",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 63,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "laguna-energy-spritz-16-fl-oz",
+      "name": "Laguna Energy Spritz",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 42,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "laguna-energy-spritz-24-fl-oz",
+      "name": "Laguna Energy Spritz",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 290,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "newport-nectar-16-fl-oz",
+      "name": "Newport Nectar",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 44,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "newport-nectar-24-fl-oz",
+      "name": "Newport Nectar",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "santa-monica-sunrise-16-fl-oz",
+      "name": "Santa Monica Sunrise",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 1,
+      "carbs_g": 43,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "santa-monica-sunrise-24-fl-oz",
+      "name": "Santa Monica Sunrise",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 1,
+      "carbs_g": 67,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "egg-sugar-cookie-3-0-oz",
+      "name": "Egg Sugar Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 410,
+      "protein_g": 4,
+      "carbs_g": 47,
+      "fat_g": 23,
+      "fiber_g": 1,
+      "sodium_mg": 160,
+      "serving_note": "per 3.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "double-stack-egg-sandwich-10-6-oz",
+      "name": "Double-Stack Egg Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 900,
+      "protein_g": 35,
+      "carbs_g": 65,
+      "fat_g": 56,
+      "fiber_g": 3,
+      "sodium_mg": 1920,
+      "serving_note": "per 10.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cheesy-hash-brown-bagel-1-bagel",
+      "name": "Cheesy Hash Brown Bagel",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 13,
+      "carbs_g": 59,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 650,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ancient-grain-1-bagel",
+      "name": "Ancient Grain",
+      "description": null,
+      "category": "component",
+      "calories": 280,
+      "protein_g": 13,
+      "carbs_g": 48,
+      "fat_g": 5,
+      "fiber_g": 7,
+      "sodium_mg": 450,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "asiago-1-bagel",
+      "name": "Asiago",
+      "description": null,
+      "category": "component",
+      "calories": 310,
+      "protein_g": 13,
+      "carbs_g": 54,
+      "fat_g": 4,
+      "fiber_g": 2,
+      "sodium_mg": 750,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "blueberry-1-bagel",
+      "name": "Blueberry",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 9,
+      "carbs_g": 58,
+      "fat_g": 1,
+      "fiber_g": 2,
+      "sodium_mg": 440,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-1-bagel",
+      "name": "Chocolate Chip",
+      "description": null,
+      "category": "component",
+      "calories": 280,
+      "protein_g": 10,
+      "carbs_g": 56,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sodium_mg": 470,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cinnamon-raisin-1-bagel",
+      "name": "Cinnamon Raisin",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 10,
+      "carbs_g": 57,
+      "fat_g": 1,
+      "fiber_g": 2,
+      "sodium_mg": 460,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cinnamon-sugar-1-bagel",
+      "name": "Cinnamon Sugar",
+      "description": null,
+      "category": "component",
+      "calories": 310,
+      "protein_g": 10,
+      "carbs_g": 60,
+      "fat_g": 3,
+      "fiber_g": 3,
+      "sodium_mg": 630,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "everything-1-bagel",
+      "name": "Everything",
+      "description": null,
+      "category": "component",
+      "calories": 280,
+      "protein_g": 10,
+      "carbs_g": 55,
+      "fat_g": 1.5,
+      "fiber_g": 2,
+      "sodium_mg": 670,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "honey-whole-wheat-1-bagel",
+      "name": "Honey Whole Wheat",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 12,
+      "carbs_g": 49,
+      "fat_g": 3,
+      "fiber_g": 6,
+      "sodium_mg": 440,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "onion-1-bagel",
+      "name": "Onion",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 10,
+      "carbs_g": 52,
+      "fat_g": 1.5,
+      "fiber_g": 2,
+      "sodium_mg": 490,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "plain-1-bagel",
+      "name": "Plain",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 10,
+      "carbs_g": 54,
+      "fat_g": 1,
+      "fiber_g": 2,
+      "sodium_mg": 610,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "poppyseed-1-bagel",
+      "name": "Poppyseed",
+      "description": null,
+      "category": "component",
+      "calories": 290,
+      "protein_g": 11,
+      "carbs_g": 55,
+      "fat_g": 2,
+      "fiber_g": 3,
+      "sodium_mg": 610,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pretzel-1-bagel",
+      "name": "Pretzel",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 10,
+      "carbs_g": 54,
+      "fat_g": 1,
+      "fiber_g": 2,
+      "sodium_mg": 4540,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pumpernickel-1-bagel",
+      "name": "Pumpernickel",
+      "description": null,
+      "category": "component",
+      "calories": 260,
+      "protein_g": 10,
+      "carbs_g": 53,
+      "fat_g": 1,
+      "fiber_g": 3,
+      "sodium_mg": 420,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "sesame-seed-1-bagel",
+      "name": "Sesame Seed",
+      "description": null,
+      "category": "component",
+      "calories": 290,
+      "protein_g": 11,
+      "carbs_g": 54,
+      "fat_g": 2.5,
+      "fiber_g": 2,
+      "sodium_mg": 610,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "challah-roll-braided-1-roll",
+      "name": "Challah Roll, Braided",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "protein_g": 8,
+      "carbs_g": 44,
+      "fat_g": 3.5,
+      "fiber_g": 1,
+      "sodium_mg": 320,
+      "serving_note": "per 1 roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cheddar-jalapeno-1-bagel",
+      "name": "Cheddar Jalapeno",
+      "description": null,
+      "category": "component",
+      "calories": 330,
+      "protein_g": 12,
+      "carbs_g": 51,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 660,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bagel-roll-1-roll",
+      "name": "Bagel Roll",
+      "description": null,
+      "category": "component",
+      "calories": 270,
+      "protein_g": 9,
+      "carbs_g": 50,
+      "fat_g": 3.5,
+      "fiber_g": 2,
+      "sodium_mg": 430,
+      "serving_note": "per 1 roll",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "maple-french-toast-gourmet-bagel-1-bagel",
+      "name": "Maple French Toast Gourmet Bagel",
+      "description": null,
+      "category": "component",
+      "calories": 360,
+      "protein_g": 10,
+      "carbs_g": 71,
+      "fat_g": 4.5,
+      "fiber_g": 4,
+      "sodium_mg": 480,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "protein-power-bagel-1-bagel",
+      "name": "Protein Power Bagel",
+      "description": null,
+      "category": "component",
+      "calories": 310,
+      "protein_g": 11,
+      "carbs_g": 59,
+      "fat_g": 4,
+      "fiber_g": 4,
+      "sodium_mg": 160,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "six-cheese-1-bagel",
+      "name": "Six-Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 350,
+      "protein_g": 17,
+      "carbs_g": 51,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 720,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "spinach-florentine-1-bagel",
+      "name": "Spinach Florentine",
+      "description": null,
+      "category": "component",
+      "calories": 370,
+      "protein_g": 14,
+      "carbs_g": 52,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 570,
+      "serving_note": "per 1 bagel",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "onion-and-chive-1-2-oz",
+      "name": "Onion and Chive",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "plain-1-2-oz",
+      "name": "Plain",
+      "description": null,
+      "category": "component",
+      "calories": 120,
+      "protein_g": 2,
+      "carbs_g": 2,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "garden-vegetable-reduced-fat-1-2-oz",
+      "name": "Garden Vegetable Reduced Fat",
+      "description": null,
+      "category": "component",
+      "calories": 100,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "honey-almond-reduced-fat-1-2-oz",
+      "name": "Honey Almond Reduced Fat",
+      "description": null,
+      "category": "component",
+      "calories": 120,
+      "protein_g": 2,
+      "carbs_g": 10,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "jalapeno-salsa-reduced-fat-1-2-oz",
+      "name": "Jalapeno Salsa Reduced Fat",
+      "description": null,
+      "category": "component",
+      "calories": 100,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fat_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 190,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "plain-reduced-fat-1-2-oz",
+      "name": "Plain Reduced Fat",
+      "description": null,
+      "category": "component",
+      "calories": 100,
+      "protein_g": 2,
+      "carbs_g": 5,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "strawberry-reduced-fat-1-2-oz",
+      "name": "Strawberry Reduced Fat",
+      "description": null,
+      "category": "component",
+      "calories": 120,
+      "protein_g": 1,
+      "carbs_g": 9,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "country-pepper-0-7-oz",
+      "name": "Country Pepper",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 0.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "add-syrup-0-5-oz",
+      "name": "Add Syrup",
+      "description": null,
+      "category": "condiment",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "per 0.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "butter-blend-0-5-oz",
+      "name": "Butter Blend",
+      "description": null,
+      "category": "condiment",
+      "calories": 110,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 0.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "honey-1-0-oz",
+      "name": "Honey",
+      "description": null,
+      "category": "condiment",
+      "calories": 90,
+      "protein_g": 0,
+      "carbs_g": 23,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 1.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "natural-peanut-butter-1-5-oz",
+      "name": "Natural Peanut Butter",
+      "description": null,
+      "category": "condiment",
+      "calories": 240,
+      "protein_g": 9,
+      "carbs_g": 10,
+      "fat_g": 21,
+      "fiber_g": 4,
+      "sodium_mg": 105,
+      "serving_note": "per 1.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "natural-strawberry-jelly-1-0-oz",
+      "name": "Natural Strawberry Jelly",
+      "description": null,
+      "category": "condiment",
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 1.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cheddar-1-slice-0-5-oz",
+      "name": "Cheddar 1 Slice",
+      "description": null,
+      "category": "condiment",
+      "calories": 60,
+      "protein_g": 3,
+      "carbs_g": 0,
+      "fat_g": 4.5,
+      "fiber_g": 0,
+      "sodium_mg": 95,
+      "serving_note": "per 0.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "swiss-1-slice-0-5-oz",
+      "name": "Swiss 1 Slice",
+      "description": null,
+      "category": "condiment",
+      "calories": 60,
+      "protein_g": 4,
+      "carbs_g": 0,
+      "fat_g": 4.5,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "per 0.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "egg-white-1-1-egg",
+      "name": "Egg White 1",
+      "description": null,
+      "category": "component",
+      "calories": 35,
+      "protein_g": 6,
+      "carbs_g": 0,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 1 egg",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "egg-white-2-2-egg",
+      "name": "Egg White 2",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "protein_g": 12,
+      "carbs_g": 1,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per 2 egg",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "fresh-cracked-egg-1-1-egg",
+      "name": "Fresh Cracked Egg 1",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per 1 egg",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "fresh-cracked-egg-2-2-egg",
+      "name": "Fresh Cracked Egg 2",
+      "description": null,
+      "category": "component",
+      "calories": 160,
+      "protein_g": 13,
+      "carbs_g": 2,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per 2 egg",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-4-pieces-0-5-oz",
+      "name": "Bacon 4 Pieces",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "protein_g": 5,
+      "carbs_g": 1,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "per 0.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "brisket-2-0-2-0-oz",
+      "name": "Brisket 2.0",
+      "description": null,
+      "category": "component",
+      "calories": 110,
+      "protein_g": 8,
+      "carbs_g": 1,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 430,
+      "serving_note": "per 2.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chorizo-sausage-patty-1-patty",
+      "name": "Chorizo Sausage Patty",
+      "description": null,
+      "category": "component",
+      "calories": 160,
+      "protein_g": 5,
+      "carbs_g": 1,
+      "fat_g": 16,
+      "fiber_g": 0,
+      "sodium_mg": 390,
+      "serving_note": "per 1 patty",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-1-5-1-5-oz",
+      "name": "Ham 1.5",
+      "description": null,
+      "category": "component",
+      "calories": 45,
+      "protein_g": 6,
+      "carbs_g": 2,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 480,
+      "serving_note": "per 1.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-3-0-3-0-oz",
+      "name": "Ham 3.0",
+      "description": null,
+      "category": "component",
+      "calories": 90,
+      "protein_g": 12,
+      "carbs_g": 4,
+      "fat_g": 2.5,
+      "fiber_g": 0,
+      "sodium_mg": 970,
+      "serving_note": "per 3.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-4-5-4-5-oz",
+      "name": "Ham 4.5",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "protein_g": 18,
+      "carbs_g": 6,
+      "fat_g": 3.5,
+      "fiber_g": 0,
+      "sodium_mg": 1450,
+      "serving_note": "per 4.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pepperoni-0-6-oz",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "component",
+      "calories": 90,
+      "protein_g": 3,
+      "carbs_g": 1,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 320,
+      "serving_note": "per 0.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pork-sausage-patty-1-patty",
+      "name": "Pork Sausage Patty",
+      "description": null,
+      "category": "component",
+      "calories": 180,
+      "protein_g": 6,
+      "carbs_g": 0,
+      "fat_g": 17,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per 1 patty",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "salmon-lox-2-0-oz",
+      "name": "Salmon, Lox",
+      "description": null,
+      "category": "component",
+      "calories": 100,
+      "protein_g": 12,
+      "carbs_g": 0,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 650,
+      "serving_note": "per 2.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-sausage-patty-1-patty",
+      "name": "Turkey Sausage Patty",
+      "description": null,
+      "category": "component",
+      "calories": 90,
+      "protein_g": 7,
+      "carbs_g": 0,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per 1 patty",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "roasted-tomato-salsa-1-0-oz",
+      "name": "Roasted Tomato Salsa",
+      "description": null,
+      "category": "condiment",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 260,
+      "serving_note": "per 1.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "roasted-tomato-spread-1-0-oz",
+      "name": "Roasted Tomato Spread",
+      "description": null,
+      "category": "condiment",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 16,
+      "fiber_g": 0,
+      "sodium_mg": 230,
+      "serving_note": "per 1.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "avocado-1-0-oz",
+      "name": "Avocado",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "per 1.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-cheddar-on-plain-6-1-oz",
+      "name": "Bacon & Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 23,
+      "carbs_g": 55,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 1000,
+      "serving_note": "per 6.1 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-avocado-tomato-on-plain-thin-7-7-oz",
+      "name": "Bacon Avocado Tomato, on Plain Thin",
+      "description": null,
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 18,
+      "carbs_g": 47,
+      "fat_g": 23,
+      "fiber_g": 3,
+      "sodium_mg": 890,
+      "serving_note": "per 7.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "breakfast-blt-on-challah-8-0-oz",
+      "name": "Breakfast BLT on Challah",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "protein_g": 20,
+      "carbs_g": 45,
+      "fat_g": 27,
+      "fiber_g": 1,
+      "sodium_mg": 870,
+      "serving_note": "per 8.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cheddar-on-plain-5-7-oz",
+      "name": "Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 20,
+      "carbs_g": 55,
+      "fat_g": 11,
+      "fiber_g": 2,
+      "sodium_mg": 780,
+      "serving_note": "per 5.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chorizo-avocado-sunrise-on-cheddar-jalapeno-gourmet-9-7-oz",
+      "name": "Chorizo Avocado Sunrise on Cheddar Jalapeno Gourmet",
+      "description": null,
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 30,
+      "carbs_g": 60,
+      "fat_g": 43,
+      "fiber_g": 2,
+      "sodium_mg": 1340,
+      "serving_note": "per 9.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "farmhouse-6-cheese-9-0-oz",
+      "name": "Farmhouse 6 Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 650,
+      "protein_g": 38,
+      "carbs_g": 57,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 1790,
+      "serving_note": "per 9.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "garden-avocado-on-everything-8-8-oz",
+      "name": "Garden Avocado on Everything",
+      "description": null,
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 18,
+      "carbs_g": 62,
+      "fat_g": 20,
+      "fiber_g": 3,
+      "sodium_mg": 880,
+      "serving_note": "per 8.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-swiss-on-plain-7-2-oz",
+      "name": "Ham & Swiss on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 29,
+      "carbs_g": 56,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 1300,
+      "serving_note": "per 7.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "maplehouse-sandwich-1-egg-9-3-oz",
+      "name": "Maplehouse Sandwich 1 Egg",
+      "description": null,
+      "category": "meal",
+      "calories": 860,
+      "protein_g": 31,
+      "carbs_g": 92,
+      "fat_g": 41,
+      "fiber_g": 4,
+      "sodium_mg": 1300,
+      "serving_note": "per 9.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pork-sausage-and-cheddar-1-egg-7-2-oz",
+      "name": "Pork Sausage and Cheddar 1 Egg",
+      "description": null,
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 25,
+      "carbs_g": 55,
+      "fat_g": 28,
+      "fiber_g": 2,
+      "sodium_mg": 1120,
+      "serving_note": "per 7.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "santa-fe-on-asiago-8-7-oz",
+      "name": "Santa Fe on Asiago",
+      "description": null,
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 31,
+      "carbs_g": 59,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1440,
+      "serving_note": "per 8.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "texas-brisket-on-jalapeno-cheddar-9-6-oz",
+      "name": "Texas Brisket on Jalapeno Cheddar",
+      "description": null,
+      "category": "meal",
+      "calories": 760,
+      "protein_g": 30,
+      "carbs_g": 56,
+      "fat_g": 48,
+      "fiber_g": 3,
+      "sodium_mg": 1560,
+      "serving_note": "per 9.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-sausage-cheddar-on-plain-7-2-oz",
+      "name": "Turkey Sausage & Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 27,
+      "carbs_g": 55,
+      "fat_g": 18,
+      "fiber_g": 2,
+      "sodium_mg": 1120,
+      "serving_note": "per 7.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-chedder-on-plain-7-7-oz",
+      "name": "Bacon & Chedder on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 29,
+      "carbs_g": 56,
+      "fat_g": 20,
+      "fiber_g": 2,
+      "sodium_mg": 1140,
+      "serving_note": "per 7.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-avocado-tomato-on-plain-thin-9-3-oz",
+      "name": "Bacon Avocado Tomato, on Plain Thin",
+      "description": null,
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 24,
+      "carbs_g": 48,
+      "fat_g": 29,
+      "fiber_g": 3,
+      "sodium_mg": 1030,
+      "serving_note": "per 9.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "breakfast-blt-on-challah-9-7-oz",
+      "name": "Breakfast BLT on Challah",
+      "description": null,
+      "category": "meal",
+      "calories": 600,
+      "protein_g": 26,
+      "carbs_g": 46,
+      "fat_g": 33,
+      "fiber_g": 1,
+      "sodium_mg": 1010,
+      "serving_note": "per 9.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cheddar-on-plain-7-4-oz",
+      "name": "Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 26,
+      "carbs_g": 56,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 920,
+      "serving_note": "per 7.4 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chorizo-avocado-sunrise-on-cheddar-jalapeno-gourmet-11-3-oz",
+      "name": "Chorizo Avocado Sunrise on Cheddar Jalapeno Gourmet",
+      "description": null,
+      "category": "meal",
+      "calories": 820,
+      "protein_g": 36,
+      "carbs_g": 61,
+      "fat_g": 48,
+      "fiber_g": 2,
+      "sodium_mg": 1480,
+      "serving_note": "per 11.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "garden-avocado-on-everything-10-5-oz",
+      "name": "Garden Avocado on Everything",
+      "description": null,
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 24,
+      "carbs_g": 63,
+      "fat_g": 25,
+      "fiber_g": 3,
+      "sodium_mg": 1020,
+      "serving_note": "per 10.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "farmhouse-6-cheese-10-6-oz",
+      "name": "Farmhouse, 6 Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 730,
+      "protein_g": 45,
+      "carbs_g": 58,
+      "fat_g": 36,
+      "fiber_g": 2,
+      "sodium_mg": 1930,
+      "serving_note": "per 10.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-swiss-on-plain-8-8-oz",
+      "name": "Ham & Swiss on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "protein_g": 35,
+      "carbs_g": 57,
+      "fat_g": 18,
+      "fiber_g": 2,
+      "sodium_mg": 1440,
+      "serving_note": "per 8.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "maplehouse-sandwich-2-eggs-11-3-oz",
+      "name": "Maplehouse Sandwich 2 Eggs",
+      "description": null,
+      "category": "meal",
+      "calories": 940,
+      "protein_g": 38,
+      "carbs_g": 93,
+      "fat_g": 47,
+      "fiber_g": 4,
+      "sodium_mg": 1440,
+      "serving_note": "per 11.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pork-sausage-and-cheddar-2-eggs-9-2-oz",
+      "name": "Pork Sausage and Cheddar 2 Eggs",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 32,
+      "carbs_g": 56,
+      "fat_g": 34,
+      "fiber_g": 2,
+      "sodium_mg": 1260,
+      "serving_note": "per 9.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "santa-fe-on-asiago-10-4-oz",
+      "name": "Santa Fe on Asiago",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 37,
+      "carbs_g": 60,
+      "fat_g": 31,
+      "fiber_g": 2,
+      "sodium_mg": 1580,
+      "serving_note": "per 10.4 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "texas-brisket-on-jalapeno-cheddar-11-2-oz",
+      "name": "Texas Brisket on Jalapeno Cheddar",
+      "description": null,
+      "category": "meal",
+      "calories": 840,
+      "protein_g": 36,
+      "carbs_g": 56,
+      "fat_g": 53,
+      "fiber_g": 3,
+      "sodium_mg": 1700,
+      "serving_note": "per 11.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-sausage-cheddar-on-plain-8-9-oz",
+      "name": "Turkey Sausage & Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 33,
+      "carbs_g": 56,
+      "fat_g": 24,
+      "fiber_g": 2,
+      "sodium_mg": 1260,
+      "serving_note": "per 8.9 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-cheddar-on-plain-6-5-oz",
+      "name": "Bacon & Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 23,
+      "carbs_g": 55,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 1020,
+      "serving_note": "per 6.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bacon-avocado-tomato-on-plain-thin-8-1-oz",
+      "name": "Bacon Avocado Tomato, on Plain Thin",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 18,
+      "carbs_g": 47,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 910,
+      "serving_note": "per 8.1 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "breakfast-blt-on-challah-8-4-oz",
+      "name": "Breakfast BLT on Challah",
+      "description": null,
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 20,
+      "carbs_g": 45,
+      "fat_g": 22,
+      "fiber_g": 1,
+      "sodium_mg": 900,
+      "serving_note": "per 8.4 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cheddar-plain-6-1-oz",
+      "name": "Cheddar, Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 20,
+      "carbs_g": 55,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 810,
+      "serving_note": "per 6.1 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chorizo-avocado-sunrise-on-cheddar-jalapeno-gourmet-9-6-oz",
+      "name": "Chorizo Avocado Sunrise on Cheddar Jalapeno Gourmet",
+      "description": null,
+      "category": "meal",
+      "calories": 640,
+      "protein_g": 28,
+      "carbs_g": 60,
+      "fat_g": 33,
+      "fiber_g": 2,
+      "sodium_mg": 1280,
+      "serving_note": "per 9.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "farmhouse-6-cheese-9-4-oz",
+      "name": "Farmhouse, 6 Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 38,
+      "carbs_g": 57,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1810,
+      "serving_note": "per 9.4 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "garden-avocado-on-everything-9-2-oz",
+      "name": "Garden Avocado on Everything",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 18,
+      "carbs_g": 62,
+      "fat_g": 15,
+      "fiber_g": 3,
+      "sodium_mg": 900,
+      "serving_note": "per 9.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-and-swiss-plain-7-6-oz",
+      "name": "Ham and Swiss, Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 29,
+      "carbs_g": 56,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 1330,
+      "serving_note": "per 7.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "santa-fe-on-asiago-9-1-oz",
+      "name": "Santa Fe on Asiago",
+      "description": null,
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 31,
+      "carbs_g": 59,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 1460,
+      "serving_note": "per 9.1 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "power-egg-white-1-egg-8-9-oz",
+      "name": "Power Egg White 1 Egg",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 23,
+      "carbs_g": 40,
+      "fat_g": 16,
+      "fiber_g": 7,
+      "sodium_mg": 770,
+      "serving_note": "per 8.9 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "power-egg-white-2-egg-11-0-oz",
+      "name": "Power Egg White 2 Egg",
+      "description": null,
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 30,
+      "carbs_g": 41,
+      "fat_g": 17,
+      "fiber_g": 7,
+      "sodium_mg": 930,
+      "serving_note": "per 11.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "texas-brisket-on-jalapeno-cheddar-10-1-oz",
+      "name": "Texas Brisket on Jalapeno Cheddar",
+      "description": null,
+      "category": "meal",
+      "calories": 720,
+      "protein_g": 30,
+      "carbs_g": 55,
+      "fat_g": 43,
+      "fiber_g": 3,
+      "sodium_mg": 1590,
+      "serving_note": "per 10.1 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-sausage-cheddar-on-plain-7-6-oz",
+      "name": "Turkey Sausage & Cheddar on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 26,
+      "carbs_g": 55,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 1150,
+      "serving_note": "per 7.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "avocado-veg-out-on-sesame-9-2-oz",
+      "name": "Avocado Veg Out on Sesame",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 13,
+      "carbs_g": 64,
+      "fat_g": 12,
+      "fiber_g": 3,
+      "sodium_mg": 670,
+      "serving_note": "per 9.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "ham-deli-on-potato-roll-11-8-oz",
+      "name": "Ham Deli on Potato Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 39,
+      "carbs_g": 58,
+      "fat_g": 24,
+      "fiber_g": 3,
+      "sodium_mg": 2440,
+      "serving_note": "per 11.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "nova-lox-on-plain-9-7-oz",
+      "name": "Nova Lox on Plain",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 24,
+      "carbs_g": 60,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 1410,
+      "serving_note": "per 9.7 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-avocado-club-on-potato-roll-12-3-oz",
+      "name": "Turkey Avocado Club on Potato Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 34,
+      "carbs_g": 64,
+      "fat_g": 30,
+      "fiber_g": 5,
+      "sodium_mg": 2490,
+      "serving_note": "per 12.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-bacon-and-swiss-on-challah-11-6-oz",
+      "name": "Turkey, Bacon, and Swiss on Challah",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 36,
+      "carbs_g": 51,
+      "fat_g": 29,
+      "fiber_g": 4,
+      "sodium_mg": 2420,
+      "serving_note": "per 11.6 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "turkey-deli-on-potato-roll-11-8-oz",
+      "name": "Turkey Deli on Potato Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 600,
+      "protein_g": 34,
+      "carbs_g": 64,
+      "fat_g": 22,
+      "fiber_g": 4,
+      "sodium_mg": 2330,
+      "serving_note": "per 11.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bagel-dog-asiago-7-3-oz",
+      "name": "Bagel Dog, Asiago",
+      "description": null,
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 24,
+      "carbs_g": 57,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 1510,
+      "serving_note": "per 7.3 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "bagel-dog-original-6-8-oz",
+      "name": "Bagel Dog, Original",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 20,
+      "carbs_g": 57,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 1380,
+      "serving_note": "per 6.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pizza-bagel-cheese-6-5-oz",
+      "name": "Pizza Bagel, Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 24,
+      "carbs_g": 58,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 1080,
+      "serving_note": "per 6.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pizza-bagel-pepperoni-7-1-oz",
+      "name": "Pizza Bagel, Pepperoni",
+      "description": null,
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 27,
+      "carbs_g": 59,
+      "fat_g": 22,
+      "fiber_g": 2,
+      "sodium_mg": 1390,
+      "serving_note": "per 7.1 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "twice-baked-hash-brown-3-0-oz",
+      "name": "Twice Baked Hash Brown",
+      "description": null,
+      "category": "side",
+      "calories": 170,
+      "protein_g": 7,
+      "carbs_g": 11,
+      "fat_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 260,
+      "serving_note": "per 3.0 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "nnyb-original-kettle-chips-1-2-oz",
+      "name": "NNYB Original Kettle Chips",
+      "description": null,
+      "category": "side",
+      "calories": 180,
+      "protein_g": 2,
+      "carbs_g": 21,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 170,
+      "serving_note": "per 1.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cookie-heavenly-chocolate-chip-3-5-oz",
+      "name": "Cookie, Heavenly Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 440,
+      "protein_g": 5,
+      "carbs_g": 63,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 340,
+      "serving_note": "per 3.5 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "fruity-cereal-pop-1-4-oz",
+      "name": "Fruity Cereal Pop",
+      "description": null,
+      "category": "side",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 29,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "per 1.4 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "muffin-blueberry-4-2-oz",
+      "name": "Muffin, Blueberry",
+      "description": null,
+      "category": "side",
+      "calories": 440,
+      "protein_g": 5,
+      "carbs_g": 48,
+      "fat_g": 25,
+      "fiber_g": 1,
+      "sodium_mg": 530,
+      "serving_note": "per 4.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "muffin-chocolate-chip-4-2-oz",
+      "name": "Muffin, Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 530,
+      "protein_g": 6,
+      "carbs_g": 56,
+      "fat_g": 30,
+      "fiber_g": 1,
+      "sodium_mg": 540,
+      "serving_note": "per 4.2 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "pastry-strawberry-and-cream-strudel-3-8-oz",
+      "name": "Pastry, Strawberry and Cream Strudel",
+      "description": null,
+      "category": "side",
+      "calories": 340,
+      "protein_g": 4,
+      "carbs_g": 42,
+      "fat_g": 17,
+      "fiber_g": 1,
+      "sodium_mg": 280,
+      "serving_note": "per 3.8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "americano-hot-12-fl-oz",
+      "name": "Americano, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "americano-hot-16-fl-oz",
+      "name": "Americano, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "americano-hot-20-fl-oz",
+      "name": "Americano, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 3,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cappuccino-hot-12-fl-oz",
+      "name": "Cappuccino, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "protein_g": 9,
+      "carbs_g": 10,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cappuccino-hot-16-fl-oz",
+      "name": "Cappuccino, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 11,
+      "carbs_g": 13,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "cappuccino-hot-20-fl-oz",
+      "name": "Cappuccino, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 14,
+      "carbs_g": 15,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chai-tea-latte-hot-12-fl-oz",
+      "name": "Chai Tea Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 7,
+      "carbs_g": 26,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chai-tea-latte-hot-16-fl-oz",
+      "name": "Chai Tea Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 9,
+      "carbs_g": 35,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 115,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chai-tea-latte-hot-20-fl-oz",
+      "name": "Chai Tea Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 11,
+      "carbs_g": 43,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chai-tea-latte-iced-16-fl-oz",
+      "name": "Chai Tea Latte, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 5,
+      "carbs_g": 23,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chai-tea-latte-iced-24-fl-oz",
+      "name": "Chai Tea Latte, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 9,
+      "carbs_g": 41,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 125,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "latte-hot-12-fl-oz",
+      "name": "Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "protein_g": 9,
+      "carbs_g": 10,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "latte-hot-16-fl-oz",
+      "name": "Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 11,
+      "carbs_g": 13,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "latte-hot-20-fl-oz",
+      "name": "Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 14,
+      "carbs_g": 15,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "latte-iced-16-fl-oz",
+      "name": "Latte, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 80,
+      "protein_g": 7,
+      "carbs_g": 7,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "latte-iced-24-fl-oz",
+      "name": "Latte, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 12,
+      "carbs_g": 13,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "mocha-hot-12-fl-oz",
+      "name": "Mocha, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 10,
+      "carbs_g": 46,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 135,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "mocha-hot-16-fl-oz",
+      "name": "Mocha, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 13,
+      "carbs_g": 61,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 170,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "mocha-hot-20-fl-oz",
+      "name": "Mocha, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 75,
+      "fat_g": 9,
+      "fiber_g": 3,
+      "sodium_mg": 210,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "mocha-iced-16-fl-oz",
+      "name": "Mocha, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 8,
+      "carbs_g": 44,
+      "fat_g": 5,
+      "fiber_g": 2,
+      "sodium_mg": 120,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "mocha-iced-24-fl-oz",
+      "name": "Mocha, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 390,
+      "protein_g": 14,
+      "carbs_g": 72,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 200,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-macchiato-hot-12-fl-oz",
+      "name": "Caramel Macchiato, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 290,
+      "protein_g": 11,
+      "carbs_g": 49,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-macchiato-hot-16-fl-oz",
+      "name": "Caramel Macchiato, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 14,
+      "carbs_g": 64,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 200,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-macchiato-hot-20-fl-oz",
+      "name": "Caramel Macchiato, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 450,
+      "protein_g": 17,
+      "carbs_g": 79,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 250,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-macchiato-iced-16-fl-oz",
+      "name": "Caramel Macchiato, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 10,
+      "carbs_g": 46,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-macchiato-iced-24-fl-oz",
+      "name": "Caramel Macchiato, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 420,
+      "protein_g": 15,
+      "carbs_g": 76,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-latte-hot-12-fl-oz",
+      "name": "Vanilla Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 8,
+      "carbs_g": 36,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-latte-hot-16-fl-oz",
+      "name": "Vanilla Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 290,
+      "protein_g": 10,
+      "carbs_g": 49,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-latte-hot-20-fl-oz",
+      "name": "Vanilla Latte, Hot",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 12,
+      "carbs_g": 58,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-latte-iced-16-fl-oz",
+      "name": "Vanilla Latte, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 6,
+      "carbs_g": 34,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-latte-iced-24-fl-oz",
+      "name": "Vanilla Latte, Iced",
+      "description": null,
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 11,
+      "carbs_g": 56,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 135,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "classic-cold-brew-16-fl-oz",
+      "name": "Classic Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "classic-cold-brew-24-fl-oz",
+      "name": "Classic Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 20,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-cream-cold-brew-16-fl-oz",
+      "name": "Caramel Cream Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 4,
+      "carbs_g": 38,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-cream-cold-brew-24-fl-oz",
+      "name": "Caramel Cream Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 380,
+      "protein_g": 7,
+      "carbs_g": 63,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chocolate-cream-cold-brew-16-fl-oz",
+      "name": "Chocolate Cream Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 4,
+      "carbs_g": 36,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 65,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chocolate-cream-cold-brew-24-fl-oz",
+      "name": "Chocolate Cream Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 6,
+      "carbs_g": 59,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 110,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-cream-cold-brew-16-fl-oz",
+      "name": "Vanilla Cream Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 31,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-cream-cold-brew-24-fl-oz",
+      "name": "Vanilla Cream Cold Brew",
+      "description": null,
+      "category": "drink",
+      "calories": 330,
+      "protein_g": 4,
+      "carbs_g": 51,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-cold-brew-shake-16-fl-oz",
+      "name": "Caramel Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 410,
+      "protein_g": 8,
+      "carbs_g": 80,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "caramel-cold-brew-shake-24-fl-oz",
+      "name": "Caramel Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 640,
+      "protein_g": 13,
+      "carbs_g": 125,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 370,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chocolate-cold-brew-shake-16-fl-oz",
+      "name": "Chocolate Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 7,
+      "carbs_g": 77,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 210,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "chocolate-cold-brew-shake-24-fl-oz",
+      "name": "Chocolate Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 620,
+      "protein_g": 11,
+      "carbs_g": 121,
+      "fat_g": 11,
+      "fiber_g": 4,
+      "sodium_mg": 330,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "classic-cold-brew-shake-16-fl-oz",
+      "name": "Classic Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 7,
+      "carbs_g": 49,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "classic-cold-brew-shake-24-fl-oz",
+      "name": "Classic Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 470,
+      "protein_g": 11,
+      "carbs_g": 79,
+      "fat_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 340,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-cold-brew-shake-16-fl-oz",
+      "name": "Vanilla Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 6,
+      "carbs_g": 68,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 180,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "vanilla-cold-brew-shake-24-fl-oz",
+      "name": "Vanilla Cold Brew Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 570,
+      "protein_g": 9,
+      "carbs_g": 109,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "hot-chocolate-12-fl-oz",
+      "name": "Hot Chocolate",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 11,
+      "carbs_g": 50,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 150,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "hot-chocolate-16-fl-oz",
+      "name": "Hot Chocolate",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 15,
+      "carbs_g": 67,
+      "fat_g": 10,
+      "fiber_g": 3,
+      "sodium_mg": 200,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "hot-chocolate-20-fl-oz",
+      "name": "Hot Chocolate",
+      "description": null,
+      "category": "drink",
+      "calories": 490,
+      "protein_g": 18,
+      "carbs_g": 82,
+      "fat_g": 12,
+      "fiber_g": 3,
+      "sodium_mg": 250,
+      "serving_note": "per 20 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "coffee-medium-drip-midtown-12-fl-oz",
+      "name": "Coffee Medium Drip, Midtown",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 12 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "blackberry-lemonade-16-fl-oz",
+      "name": "Blackberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "blackberry-lemonade-24-fl-oz",
+      "name": "Blackberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 74,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 20,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "lemonade-16-fl-oz",
+      "name": "Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "lemonade-24-fl-oz",
+      "name": "Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "orange-juice-16-fl-oz",
+      "name": "Orange Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 4,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 16 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "orange-juice-24-fl-oz",
+      "name": "Orange Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 340,
+      "protein_g": 5,
+      "carbs_g": 81,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per 24 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "almond-1-fl-oz",
+      "name": "Almond",
+      "description": null,
+      "category": "component",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0.5,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 1 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "half-and-half-1-fl-oz",
+      "name": "Half and Half",
+      "description": null,
+      "category": "component",
+      "calories": 40,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 3.5,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 1 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "soy-1-fl-oz",
+      "name": "Soy",
+      "description": null,
+      "category": "component",
+      "calories": 15,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 1 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "whole-milk-1-fl-oz",
+      "name": "Whole Milk",
+      "description": null,
+      "category": "component",
+      "calories": 20,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 1 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "2-milk-1-fl-oz",
+      "name": "2% Milk",
+      "description": null,
+      "category": "component",
+      "calories": 15,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 0.5,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 1 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    },
+    {
+      "id": "skim-milk-select-stores-1-fl-oz",
+      "name": "Skim Milk (Select Stores)",
+      "description": null,
+      "category": "component",
+      "calories": 10,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 1 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf"
+      }
+    }
+  ]
+}
