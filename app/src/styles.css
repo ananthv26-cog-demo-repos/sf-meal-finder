@@ -49,7 +49,7 @@ label,
   padding: var(--sp-5) var(--sp-5) var(--sp-4);
 }
 .strip-cell {
-  border: 1px solid var(--line);
+  border: 1px solid var(--line-strong);
   margin-top: var(--sp-4);
   padding: var(--sp-3) var(--sp-4);
 }
@@ -122,8 +122,8 @@ input[type="number"]:focus,
   display: flex;
   gap: var(--sp-3);
   grid-column: 2 / -1;
-  justify-self: end;
-  padding: 0 0 var(--sp-3) var(--sp-5);
+  justify-self: start;
+  padding: 0 0 var(--sp-3) var(--sp-4);
   white-space: nowrap;
 }
 .result-summary strong {
@@ -173,7 +173,7 @@ input[type="number"]:focus,
   top: calc(50% - var(--slider-track-h) / 2);
 }
 .range-track {
-  background: rgba(25, 25, 25, .16);
+  background: rgba(25, 25, 25, .14);
 }
 .range-fill {
   background: var(--accent);
@@ -201,7 +201,7 @@ input[type="number"]:focus,
 .range-input::-webkit-slider-thumb {
   appearance: none;
   background: var(--bg);
-  border: 2px solid var(--accent);
+  border: 1.5px solid var(--accent);
   border-radius: 50%;
   cursor: pointer;
   height: var(--slider-thumb);
@@ -212,7 +212,7 @@ input[type="number"]:focus,
 }
 .range-input::-moz-range-thumb {
   background: var(--bg);
-  border: 2px solid var(--accent);
+  border: 1.5px solid var(--accent);
   border-radius: 50%;
   cursor: pointer;
   height: var(--slider-thumb);
@@ -524,7 +524,7 @@ input:focus-visible {
     grid-column: 1 / -1;
   }
   .protein-field.strip-cell {
-    border-left: 1px solid var(--line);
+    border-left: 1px solid var(--line-strong);
     border-top: 0;
     margin-top: 0;
   }
