@@ -58,6 +58,6 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
         <button type="button" aria-label="Increase minimum protein by 5 grams" onClick={() => stepProtein(5)}>+</button>
       </span>
     </div>
-    <label className="check-label"><span className="field-label">Include estimates</span><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /></label>
+    <label className="check-label"><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /><span className="field-label">Include estimates</span></label>
   </header>
 }
