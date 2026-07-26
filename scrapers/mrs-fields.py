@@ -21,12 +21,28 @@ def main():
     # "other" page is the only page with labeled numeric nutrition facts.
     url = "https://www.mrsfields.com/pages/nutrition-details-other"
     soup = BeautifulSoup(requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=60).text, "lxml")
-    items = []
     # The official cookie and Nibbler pages publish ingredients and label
     # images, but no recoverable numeric cookie nutrition check is available.
-    names = ["Chocolate Covered Almonds 2oz Bag", "Chocolate Covered Pretzels 4oz Bag",
-             "Kettle Corn 2oz Bag", "Yogurt Covered Almonds 2oz Bag", "Yogurt Pretzels 4oz Bags"]
+    description = soup.find("meta", attrs={"name": "description"}).get("content", "")
+    expected_names = [
+        "Chocolate Covered Almonds 2oz Bag",
+        "Chocolate Covered Pretzels 4oz Bag",
+        "Kettle Corn 2oz Bag",
+        "Yogurt Covered Almonds 2oz Bag",
+        "Yogurt Pretzels 4oz Bags",
+    ]
+    names = []
+    cursor = 0
+    for name in expected_names:
+        idx = description.find(name, cursor)
+        if idx < 0:
+            raise SystemExit(f"mrs-fields: nutrition page missing expected item name {name!r}")
+        names.append(name)
+        cursor = idx + len(name)
     fact_rows = [r for r in soup.select("tr") if "Calories Calories from Fat" in r.get_text(" ", strip=True)]
+    if len(fact_rows) != len(names):
+        raise SystemExit(f"mrs-fields: expected {len(names)} rows, found {len(fact_rows)}")
+    items = []
     for name, row in zip(names, fact_rows):
         values = list(map(float, re.findall(r"\d+(?:\.\d+)?", row.select("td")[1].get_text(" ", strip=True))))
         cal, fat, sodium, carbs, fiber, protein = values[0], values[2], values[5], values[6], values[7], values[9]

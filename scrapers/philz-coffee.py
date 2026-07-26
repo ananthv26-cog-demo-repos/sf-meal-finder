@@ -202,6 +202,8 @@ def sf_locations():
             "lng": float(store["longitude"]),
             "neighborhood": store["name"],
         })
+    if not locations:
+        raise SystemExit("philz: no San Francisco city-proper stores in the locator")
     return locations
 
 
