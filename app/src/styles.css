@@ -311,8 +311,14 @@ input[type="number"]:focus,
   min-height: 0;
 }
 .results-panel {
+  display: flex;
+  flex-direction: column;
   min-width: 0;
-  overflow: auto;
+  overflow: hidden;
+}
+.result-list {
+  flex: 1;
+  min-height: 0;
 }
 .column-head,
 .meal-row {
@@ -325,9 +331,6 @@ input[type="number"]:focus,
   color: var(--text-faint);
   font-weight: var(--fw-regular);
   padding: var(--sp-2) var(--sp-5);
-  position: sticky;
-  top: 0;
-  z-index: 1;
 }
 .column-head > :not(:first-child),
 .number {
@@ -542,9 +545,7 @@ input:focus-visible {
     overflow: auto;
   }
   .results-panel {
-    flex: 0 0 auto;
-    max-height: 65vh;
-    overflow: auto;
+    flex: 0 0 65vh;
   }
   .map-panel {
     border-left: 0;

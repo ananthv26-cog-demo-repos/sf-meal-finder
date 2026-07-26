@@ -27,14 +27,15 @@ export function readUrlState() {
   return { filters, sortKey, sortDirection }
 }
 export function replaceUrlState(filters: Filters, sortKey: SortKey, sortDirection: SortDirection) {
-  const params = new URLSearchParams()
-  if (filters.minCalories !== defaultFilters.minCalories) params.set('min', filters.minCalories)
-  if (filters.maxCalories !== defaultFilters.maxCalories) params.set('max', filters.maxCalories)
-  if (filters.minProtein !== defaultFilters.minProtein) params.set('protein', filters.minProtein)
-  if (filters.search) params.set('q', filters.search)
-  if (filters.unofficial) params.set('est', '1')
-  if (sortKey !== 'protein_g') params.set('sort', sortKey)
-  if (sortDirection !== 'desc') params.set('dir', sortDirection)
+  const params = new URLSearchParams(window.location.search)
+  const setOrDelete = (name: string, value: string, active: boolean) => active ? params.set(name, value) : params.delete(name)
+  setOrDelete('min', filters.minCalories, filters.minCalories !== defaultFilters.minCalories)
+  setOrDelete('max', filters.maxCalories, filters.maxCalories !== defaultFilters.maxCalories)
+  setOrDelete('protein', filters.minProtein, filters.minProtein !== defaultFilters.minProtein)
+  setOrDelete('q', filters.search, filters.search !== '')
+  setOrDelete('est', '1', filters.unofficial)
+  setOrDelete('sort', sortKey, sortKey !== 'protein_g')
+  setOrDelete('dir', sortDirection, sortDirection !== 'desc')
   const query = params.toString()
   window.history.replaceState(null, '', `${window.location.pathname}${query ? `?${query}` : ''}${window.location.hash}`)
 }

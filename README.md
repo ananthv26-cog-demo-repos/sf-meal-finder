@@ -7,10 +7,9 @@ every restaurant carries all of its SF locations with lat/lng.
 
 ## Data
 
-15 restaurants, ~600 meals (plus sides/drinks/condiments/components kept as
-non-surfaced modifiers). Chains (Chipotle, sweetgreen, Shake Shack, Panda
-Express) and local spots (Souvla, Mixt, Kitava, Proper Food, Super Duper, The
-Melt, Starbird, Pokeworks, Tender Greens, Mendocino Farms, The Halal Guys).
+76 restaurants, 4,100+ meals (plus sides/drinks/condiments/components kept as
+non-surfaced modifiers) — national chains and SF locals alike. Current counts
+come from `app/public/data/restaurants.json` and `meals.json`.
 
 Guarantees, enforced in `pipeline/` (see `pipeline/README.md`):
 
@@ -37,8 +36,8 @@ everything that burned us.
 cd app && npm install && npm run dev
 ```
 
-Dense tool UI: filter bar (calorie range, protein min, search, estimate opt-in,
-presets), results table sorted by protein, map with per-location dots.
+Dense tool UI: filter bar (calorie range, protein min, search, estimate opt-in),
+results table sorted by protein, map with per-location dots.
 Security posture: all scraped text is sanitized on ingest and rendered as React
 text (never HTML); the app is fully static with no server or secrets; scraper
 credentials stay in environment variables.

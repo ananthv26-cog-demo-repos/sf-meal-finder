@@ -37,7 +37,7 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
     </div>
     <div className="result-summary" aria-live="polite">
       <strong>{filteredMealCount}</strong>
-      <span>RESULTS · {visibleRestaurantCount} RESTAURANTS</span>
+      <span>{filteredMealCount === 1 ? 'RESULT' : 'RESULTS'} · {visibleRestaurantCount} {visibleRestaurantCount === 1 ? 'RESTAURANT' : 'RESTAURANTS'}</span>
     </div>
     <div className="range-field strip-cell">
       <div className="range-heading"><span className="field-label">Calories</span><output className="range-value">{filters.minCalories}–{filters.maxCalories} kcal</output></div>
