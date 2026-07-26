@@ -71,7 +71,7 @@ function App() {
   }, [filters, sortDirection, sortKey])
 
   return <main className="app-shell">
-    <FilterBar filters={filters} setFilters={setFilters} visibleRestaurantCount={visibleRestaurantIds.size} filteredMealCount={filteredMeals.length} />
+    <FilterBar filters={filters} setFilters={setFilters} visibleRestaurantCount={visibleRestaurantIds.size} filteredMealCount={filteredMeals.length} loading={loading} />
     <section className="workspace">
       <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalEligibleMeals={totalEligibleMeals} selectedRestaurant={selectedRestaurant} onSelectRestaurant={setSelectedRestaurant} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} loading={loading} error={error} />
       <MapPanel restaurants={restaurants} restaurantById={restaurantById} selectedRestaurant={selectedRestaurant} visibleRestaurantIds={visibleRestaurantIds} estimateRestaurantIds={estimateRestaurantIds} />
