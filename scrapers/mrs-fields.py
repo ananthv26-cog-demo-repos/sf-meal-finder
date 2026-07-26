@@ -14,6 +14,10 @@ from _geo import geocode  # noqa: E402
 
 URL = "https://www.mrsfields.com/pages/nutrition-information"
 TODAY = datetime.date.today().isoformat()
+EXPECTED_HEADER = (
+    "caloriescaloriesfromfattotalfatsaturatedfatcholesterolsodium"
+    "totalcarbohydratedietaryfibersugarsprotein"
+)
 
 
 def main():
@@ -44,7 +48,16 @@ def main():
         raise SystemExit(f"mrs-fields: expected {len(names)} rows, found {len(fact_rows)}")
     items = []
     for name, row in zip(names, fact_rows):
+        header = re.sub(
+            r"[^a-z]",
+            "",
+            row.select("td")[0].get_text(" ", strip=True).casefold(),
+        )
+        if not header.startswith(EXPECTED_HEADER):
+            raise SystemExit(f"mrs-fields: unexpected nutrition header {header!r}")
         values = list(map(float, re.findall(r"\d+(?:\.\d+)?", row.select("td")[1].get_text(" ", strip=True))))
+        if len(values) < 10:
+            raise SystemExit(f"mrs-fields: expected at least 10 nutrition values, found {len(values)}")
         cal, fat, sodium, carbs, fiber, protein = values[0], values[2], values[5], values[6], values[7], values[9]
         items.append({
             "id": re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-"), "name": name,
