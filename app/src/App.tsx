@@ -27,6 +27,8 @@ type Meal = {
   source_type: string
   source_url: string
 }
+type SortKey = 'name' | 'calories' | 'protein_g' | 'carbs_g' | 'fat_g'
+type SortDirection = 'asc' | 'desc'
 
 const defaultFilters = { minCalories: '0', maxCalories: '2000', minProtein: '0', unofficial: false, search: '' }
 const presets = [
@@ -66,11 +68,40 @@ function isHttpUrl(value: string) {
   }
 }
 
+function SortHeader({
+  label,
+  sortKey,
+  activeKey,
+  direction,
+  onSort,
+}: {
+  label: string
+  sortKey: SortKey
+  activeKey: SortKey
+  direction: SortDirection
+  onSort: (key: SortKey) => void
+}) {
+  const active = sortKey === activeKey
+  return (
+    <button
+      aria-label={`Sort by ${label.toLowerCase()}`}
+      aria-sort={active ? direction === 'asc' ? 'ascending' : 'descending' : 'none'}
+      className={`sort-button ${active ? 'active' : ''}`}
+      type="button"
+      onClick={() => onSort(sortKey)}
+    >
+      {label}{active && <span aria-hidden="true">{direction === 'asc' ? '↑' : '↓'}</span>}
+    </button>
+  )
+}
+
 function App() {
   const [restaurants, setRestaurants] = useState<Restaurant[]>([])
   const [meals, setMeals] = useState<Meal[]>([])
   const [filters, setFilters] = useState(defaultFilters)
   const [selectedRestaurant, setSelectedRestaurant] = useState<string | null>(null)
+  const [sortKey, setSortKey] = useState<SortKey>('protein_g')
+  const [sortDirection, setSortDirection] = useState<SortDirection>('desc')
 
   useEffect(() => {
     Promise.all([
@@ -98,13 +129,32 @@ function App() {
         const restaurantName = restaurantById.get(meal.restaurant_id)?.name ?? meal.restaurant_id
         return `${meal.name} ${restaurantName}`.toLowerCase().includes(query)
       })
-      .sort((a, b) => b.protein_g - a.protein_g)
-  }, [filters, meals, restaurantById])
+      .sort((a, b) => {
+        const left = sortKey === 'name'
+          ? a.name
+          : a[sortKey]
+        const right = sortKey === 'name'
+          ? b.name
+          : b[sortKey]
+        const comparison = typeof left === 'string' && typeof right === 'string'
+          ? left.localeCompare(right)
+          : Number(left) - Number(right)
+        return sortDirection === 'asc' ? comparison : -comparison
+      })
+  }, [filters, meals, restaurantById, sortDirection, sortKey])
   const visibleRestaurantIds = new Set(filteredMeals.map((meal) => meal.restaurant_id))
   const totalMeals = meals.filter((meal) => meal.category === 'meal').length
 
   const updateNumber = (key: 'minCalories' | 'maxCalories' | 'minProtein', value: string) => {
     setFilters((current) => ({ ...current, [key]: value }))
+  }
+  const updateSort = (key: SortKey) => {
+    if (key === sortKey) {
+      setSortDirection((current) => current === 'asc' ? 'desc' : 'asc')
+      return
+    }
+    setSortKey(key)
+    setSortDirection('desc')
   }
 
   return (
@@ -115,7 +165,7 @@ function App() {
         <label>Calories min<input aria-label="Minimum calories" type="number" min="0" value={filters.minCalories} onChange={(event) => updateNumber('minCalories', event.target.value)} /></label>
         <label>Calories max<input aria-label="Maximum calories" type="number" min="0" value={filters.maxCalories} onChange={(event) => updateNumber('maxCalories', event.target.value)} /></label>
         <label>Protein min<input aria-label="Minimum protein in grams" type="number" min="0" value={filters.minProtein} onChange={(event) => updateNumber('minProtein', event.target.value)} /></label>
-        <label className="check-label"><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /> include estimates</label>
+        <label className="check-label"><span>Include estimates</span><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /></label>
         <div className="readout"><strong>{visibleRestaurantIds.size}</strong> restaurants <span>·</span> <strong>{filteredMeals.length}</strong> results</div>
         <div className="presets" aria-label="Filter presets">
           {presets.map((preset) => <button key={preset.label} type="button" onClick={() => setFilters((current) => ({ ...current, minCalories: preset.minCalories, maxCalories: preset.maxCalories, minProtein: preset.minProtein }))}>{preset.label}</button>)}
@@ -123,7 +173,13 @@ function App() {
       </header>
       <section className="workspace">
         <div className="results-panel">
-          <div className="column-head"><span>MEAL</span><span>CAL</span><span>PROTEIN</span><span>CARBS</span><span>FAT</span></div>
+          <div className="column-head">
+            <span>MEAL</span>
+            <SortHeader activeKey={sortKey} direction={sortDirection} label="Cal" sortKey="calories" onSort={updateSort} />
+            <SortHeader activeKey={sortKey} direction={sortDirection} label="Protein" sortKey="protein_g" onSort={updateSort} />
+            <SortHeader activeKey={sortKey} direction={sortDirection} label="Carbs" sortKey="carbs_g" onSort={updateSort} />
+            <SortHeader activeKey={sortKey} direction={sortDirection} label="Fat" sortKey="fat_g" onSort={updateSort} />
+          </div>
           <div className="result-list">
             {filteredMeals.map((meal) => {
               const restaurant = restaurantById.get(meal.restaurant_id)
@@ -156,7 +212,7 @@ function App() {
         </div>
         <div className="map-panel">
           <MapContainer center={[37.7749, -122.4194]} zoom={13} scrollWheelZoom className="map">
-            <TileLayer attribution="&copy; OpenStreetMap contributors" url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+            <TileLayer attribution="&copy; OpenStreetMap contributors &copy; CARTO" url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png" />
             <FocusRestaurant restaurantId={selectedRestaurant} restaurants={restaurants} />
             {restaurants.flatMap((restaurant) => restaurant.locations.map((location, index) => {
               const selected = restaurant.id === selectedRestaurant

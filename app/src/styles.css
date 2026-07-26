@@ -10,11 +10,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 button, input { font: inherit; }
-button, input:focus { outline: 0; }
+button:focus, input:focus { outline: 0; }
 
 .app-shell { display: flex; flex-direction: column; height: 100%; }
 .filter-bar {
-  align-items: end;
+  align-items: start;
   border-bottom: 1px solid var(--line);
   display: grid;
   gap: var(--sp-4) var(--sp-5);
@@ -22,7 +22,7 @@ button, input:focus { outline: 0; }
   padding: 22px var(--sp-5) 18px;
 }
 .brand {
-  align-self: center;
+  align-self: end;
   color: var(--text);
   font-family: var(--font-mono);
   font-size: var(--fs-xs);
@@ -30,6 +30,7 @@ button, input:focus { outline: 0; }
   letter-spacing: .08em;
   text-transform: uppercase;
   white-space: nowrap;
+  margin-bottom: 2.5px;
 }
 label {
   color: var(--text-faint);
@@ -40,6 +41,7 @@ label {
   gap: 5px;
   letter-spacing: .06em;
   line-height: 1;
+  min-height: 48px;
   text-transform: uppercase;
 }
 input[type="number"], .search-input {
@@ -64,9 +66,13 @@ input[type="number"]:focus, .search-input:focus {
 .search-input::placeholder { color: var(--text-faint); opacity: 1; }
 .check-label {
   align-items: center;
+  align-self: end;
   flex-direction: row;
   gap: 8px;
+  height: 30px;
+  margin-bottom: 2.5px;
   line-height: 1.2;
+  min-height: 30px;
   white-space: nowrap;
 }
 .check-label input {
@@ -89,11 +95,12 @@ input[type="number"]:focus, .search-input:focus {
 .check-label input:checked { border-color: var(--accent); }
 .check-label input:checked::after { opacity: 1; }
 .readout {
-  align-self: center;
+  align-self: end;
   color: var(--text-secondary);
   font-family: var(--font-mono);
   font-size: var(--fs-xs);
   letter-spacing: .04em;
+  margin-bottom: 2.5px;
   white-space: nowrap;
 }
 .readout strong { color: var(--text); font-weight: var(--fw-medium); }
@@ -120,6 +127,10 @@ input[type="number"]:focus, .search-input:focus {
   white-space: nowrap;
 }
 .presets button:hover, .presets button:focus-visible { color: var(--accent); }
+.presets button:focus-visible, .sort-button:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 4px;
+}
 
 .workspace { display: grid; flex: 1; grid-template-columns: 56% 44%; min-height: 0; }
 .results-panel { min-width: 0; overflow: auto; }
@@ -138,6 +149,20 @@ input[type="number"]:focus, .search-input:focus {
   z-index: 1;
 }
 .column-head span:not(:first-child), .number { text-align: right; }
+.sort-button {
+  background: transparent;
+  border: 0;
+  color: inherit;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+  padding: 0;
+  text-align: right;
+  text-transform: inherit;
+}
+.sort-button:hover, .sort-button.active { color: var(--accent); }
+.sort-button span { padding-left: 4px; }
 .meal-row {
   background: transparent;
   border: 0;
