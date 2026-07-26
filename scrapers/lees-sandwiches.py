@@ -45,7 +45,7 @@ def main():
     if len(links) < 100:
         raise RuntimeError(f"Lee's menu sitemap/category crawl found only {len(links)} item URLs")
     items = []
-    fetched = 0
+    parsed = 0
     for url, category in sorted(links.items()):
         response = None
         for attempt in range(4):
@@ -55,7 +55,6 @@ def main():
             sleep(2 ** attempt)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "lxml")
-        fetched += 1
         title = soup.select_one("h1")
         facts = {}
         for fact in soup.select(".nutritional-fact"):
@@ -67,6 +66,7 @@ def main():
         required = ["calories", "total fat", "carbs", "protein"]
         if not title or not all(k in facts for k in required):
             continue
+        parsed += 1
         name = title.get_text(" ", strip=True).lstrip("#").strip()
         items.append({
             "id": slug(name), "name": name, "description": None, "category": category,
@@ -76,8 +76,8 @@ def main():
             "serving_note": "per menu item", "is_estimate": False,
             "source": {"type": "published", "url": url},
         })
-    if fetched != len(links):
-        raise RuntimeError(f"Lee's crawl fetched {fetched}/{len(links)} item pages")
+    if parsed != len(links):
+        raise RuntimeError(f"Lee's crawl parsed facts for {parsed}/{len(links)} item pages")
     check = next((item for item in items if item["name"] == "1 Lee’s Combination"), None)
     if check is None or check["calories"] != 690:
         actual = check["calories"] if check else "missing"
