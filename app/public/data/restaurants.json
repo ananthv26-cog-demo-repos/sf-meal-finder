@@ -1587,6 +1587,91 @@
     ]
   },
   {
+    "id": "philz-coffee",
+    "name": "Philz Coffee",
+    "website": "https://philzcoffee.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "5 Embarcadero Center, San Francisco, CA 94111",
+        "lat": 37.7942169,
+        "lng": -122.3956663,
+        "neighborhood": "Embarcadero"
+      },
+      {
+        "address": "2234 Polk St, San Francisco, CA 94109",
+        "lat": 37.7974313,
+        "lng": -122.4218249,
+        "neighborhood": "Russian Hill"
+      },
+      {
+        "address": "1 Front St Suite 100, San Francisco, CA 94111",
+        "lat": 37.7918198,
+        "lng": -122.3989854,
+        "neighborhood": "Front St"
+      },
+      {
+        "address": "300 Folsom St, San Francisco, CA 94105",
+        "lat": 37.7887502,
+        "lng": -122.3932158,
+        "neighborhood": "Folsom & Beale"
+      },
+      {
+        "address": "425 Mission Street Suite 100, San Francisco CA 94105",
+        "lat": 37.78801,
+        "lng": -122.39871,
+        "neighborhood": "Second Street"
+      },
+      {
+        "address": "399 Golden Gate Ave, San Francisco, CA 94102",
+        "lat": 37.7813147,
+        "lng": -122.4165902,
+        "neighborhood": "Civic Center"
+      },
+      {
+        "address": "201 Berry St, San Francisco, CA 94158",
+        "lat": 37.775535,
+        "lng": -122.3934211,
+        "neighborhood": "Berry"
+      },
+      {
+        "address": "1775 17th St, San Francisco, CA 94103",
+        "lat": 37.7648653,
+        "lng": -122.4014036,
+        "neighborhood": "Potrero"
+      },
+      {
+        "address": "1 Warriors Way 16th Street Office Tower #9, San Francisco, CA 94158",
+        "lat": 37.7681201,
+        "lng": -122.3878772,
+        "neighborhood": "Chase Center"
+      },
+      {
+        "address": "4298 24th St, San Francisco, CA 94114",
+        "lat": 37.7512643,
+        "lng": -122.4383005,
+        "neighborhood": "Noe Valley"
+      },
+      {
+        "address": "1110 Ocean Ave, San Francisco, CA 94112",
+        "lat": 37.7235232,
+        "lng": -122.4536143,
+        "neighborhood": "Ocean Ave"
+      },
+      {
+        "address": "549 Castro St, San Francisco, CA 94114",
+        "lat": 37.7601095,
+        "lng": -122.4346984,
+        "neighborhood": "Castro"
+      }
+    ]
+  },
+  {
     "id": "pizza-hut",
     "name": "Pizza Hut",
     "website": "https://www.pizzahut.com",

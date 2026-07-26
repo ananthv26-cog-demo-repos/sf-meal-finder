@@ -85,3 +85,11 @@ Things that cost >15 minutes on this project. Add to this whenever you get burne
   when the menu states the build and quantities.
 - Image-only nutrition labels need independent OCR agreement and a recoverable
   product name before publication.
+- Nutrition index links can outlive their PDF assets; check every linked file
+  resolves before planning coverage.
+- For published beverage ranges, use a midpoint only when marking the row
+  `derived` and `is_estimate`; never silently choose an endpoint.
+- A store page marked “Closed” may only be closed that weekday; check locator
+  day flags and active ordering IDs before excluding it.
+- Wix locators may delegate live stores to a POWR iframe; prefer its live
+  location data over stale menu-page addresses.
