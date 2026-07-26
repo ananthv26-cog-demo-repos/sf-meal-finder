@@ -14,7 +14,7 @@ save_restaurant(doc)  # doc shape documented in pipeline/schema.py
   scraped text on ingest)
 - Output: `data/restaurants/<id>.json` (validated), `data/rejected/<id>.json`
   (quarantined rows with reasons)
-- `build_dist.py` merges everything into `data/dist/` for the app.
+- `build_dist.py` merges everything into `app/public/data/` for the app.
 
 Rules enforced in code:
 - every item tagged `meal | side | drink | condiment | component`

@@ -13,6 +13,7 @@ import { readUrlState, replaceUrlState } from './urlState'
 function App() {
   const [restaurants, setRestaurants] = useState<Restaurant[]>([])
   const [meals, setMeals] = useState<Meal[]>([])
+  const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [initialState] = useState(readUrlState)
   const [filters, setFilters] = useState(initialState.filters)
@@ -27,7 +28,7 @@ function App() {
     ]).then(([restaurantList, mealList]) => {
       setRestaurants(restaurantList)
       setMeals(mealList)
-    }).catch(() => setError('Unable to load meal data.'))
+    }).catch(() => setError('Unable to load meal data.')).finally(() => setLoading(false))
   }, [])
 
   const restaurantById = useMemo(() => new Map(restaurants.map((item) => [item.id, item])), [restaurants])
@@ -70,9 +71,9 @@ function App() {
   }, [filters, sortDirection, sortKey])
 
   return <main className="app-shell">
-    <FilterBar filters={filters} setFilters={setFilters} visibleRestaurantCount={visibleRestaurantIds.size} filteredMealCount={filteredMeals.length} />
+    <FilterBar filters={filters} setFilters={setFilters} visibleRestaurantCount={visibleRestaurantIds.size} filteredMealCount={filteredMeals.length} loading={loading} />
     <section className="workspace">
-      <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalEligibleMeals={totalEligibleMeals} selectedRestaurant={selectedRestaurant} onSelectRestaurant={setSelectedRestaurant} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} error={error} />
+      <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalEligibleMeals={totalEligibleMeals} selectedRestaurant={selectedRestaurant} onSelectRestaurant={setSelectedRestaurant} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} loading={loading} error={error} />
       <MapPanel restaurants={restaurants} restaurantById={restaurantById} selectedRestaurant={selectedRestaurant} visibleRestaurantIds={visibleRestaurantIds} estimateRestaurantIds={estimateRestaurantIds} />
     </section>
   </main>

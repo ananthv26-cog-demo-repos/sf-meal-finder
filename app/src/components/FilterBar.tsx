@@ -3,7 +3,7 @@ import type { Dispatch, SetStateAction } from 'react'
 import type { Filters } from '../types'
 import { CALORIE_MAX, CALORIE_STEP } from '../urlState'
 
-export function FilterBar({ filters, setFilters, visibleRestaurantCount, filteredMealCount }: { filters: Filters; setFilters: Dispatch<SetStateAction<Filters>>; visibleRestaurantCount: number; filteredMealCount: number }) {
+export function FilterBar({ filters, setFilters, visibleRestaurantCount, filteredMealCount, loading }: { filters: Filters; setFilters: Dispatch<SetStateAction<Filters>>; visibleRestaurantCount: number; filteredMealCount: number; loading: boolean }) {
   const searchRef = useRef<HTMLInputElement>(null)
   const shortcutLabel = typeof navigator !== 'undefined' && /Mac|iPhone|iPad/.test(navigator.platform) ? '⌘K' : 'Ctrl K'
   useEffect(() => {
@@ -36,8 +36,10 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
       <span className="search-hint">{shortcutLabel}</span>
     </div>
     <div className="result-summary" aria-live="polite">
-      <strong>{filteredMealCount}</strong>
-      <span>RESULTS · {visibleRestaurantCount} RESTAURANTS</span>
+      {loading ? <span>LOADING…</span> : <>
+        <strong>{filteredMealCount}</strong>
+        <span>{filteredMealCount === 1 ? 'RESULT' : 'RESULTS'} · {visibleRestaurantCount} {visibleRestaurantCount === 1 ? 'RESTAURANT' : 'RESTAURANTS'}</span>
+      </>}
     </div>
     <div className="range-field strip-cell">
       <div className="range-heading"><span className="field-label">Calories</span><output className="range-value">{filters.minCalories}–{filters.maxCalories} kcal</output></div>
