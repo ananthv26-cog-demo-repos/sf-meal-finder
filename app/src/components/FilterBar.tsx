@@ -53,14 +53,14 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
           <input aria-label="Maximum calories" className="range-input range-max" type="range" min="0" max={CALORIE_MAX} step={CALORIE_STEP} value={filters.maxCalories} onChange={(event) => updateCaloriesRange('maxCalories', event.target.value)} />
         </div>
       </div>
-      <label className="protein-field">
+      <div className="protein-field">
         <span className="field-label">Protein min</span>
         <span className="protein-stepper">
           <button type="button" aria-label="Decrease minimum protein by 5 grams" onClick={() => stepProtein(-5)}>−</button>
           <span className="protein-value"><input aria-label="Minimum protein in grams" type="number" min="0" step="5" value={filters.minProtein} onChange={(event) => updateProtein(event.target.value)} /><span>g</span></span>
           <button type="button" aria-label="Increase minimum protein by 5 grams" onClick={() => stepProtein(5)}>+</button>
         </span>
-      </label>
+      </div>
       <label className="check-label"><span className="field-label">Include estimates</span><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /></label>
       <div className="presets" aria-label="Filter presets">{presets.map((preset) => <button key={preset.label} type="button" onClick={() => setFilters((current) => ({ ...current, minCalories: preset.minCalories, maxCalories: preset.maxCalories, minProtein: preset.minProtein }))}>{preset.label}</button>)}</div>
     </div>
