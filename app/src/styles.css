@@ -264,7 +264,12 @@ input[type="number"]:focus,
   opacity: 1;
 }
 .protein-field {
+  color: var(--text-faint);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
   height: 54px;
+  line-height: 1;
   min-width: 150px;
 }
 .protein-stepper {
