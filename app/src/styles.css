@@ -29,7 +29,6 @@ input:focus {
 label,
 .field-label,
 .column-head,
-.readout,
 .presets button,
 .results-footer,
 .badges em,
@@ -264,11 +263,6 @@ input[type="number"]:focus,
 .check-label input:checked::after {
   opacity: 1;
 }
-.readout {
-  color: var(--text-secondary);
-  min-height: calc(var(--control-h) + var(--sp-4));
-  white-space: nowrap;
-}
 .protein-field {
   height: 54px;
   min-width: 150px;
@@ -310,17 +304,6 @@ input[type="number"]:focus,
   color: var(--text-faint);
   font-family: var(--font-mono);
   font-size: var(--fs-sm);
-}
-.readout strong {
-  color: var(--text);
-  font-weight: var(--fw-medium);
-}
-.readout > div span {
-  color: var(--text-faint);
-  padding: 0 var(--sp-1);
-}
-.readout > div {
-  line-height: var(--control-h);
 }
 .presets {
   align-items: end;
