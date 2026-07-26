@@ -149,7 +149,7 @@ input[type="number"]:focus, .search-input:focus {
   top: 0;
   z-index: 1;
 }
-.column-head > [role="columnheader"]:not(:first-child), .number { text-align: right; }
+.column-head > :not(:first-child), .number { text-align: right; }
 .sort-button {
   background: transparent;
   border: 0;
