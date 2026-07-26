@@ -53,7 +53,7 @@ def category(section, name):
     if re.match(r"^(tender|leg)\s+-", text):
         return "component"
     if section.startswith("BREAKFAST"):
-        if re.search(r"\bjuice\b", text):
+        if any(re.search(word, text) for word in DRINK_WORDS):
             return "drink"
         return "side" if re.search(r"\bhash rounds\b", text) else "meal"
     if section.startswith(("SANDWICHES", "WRAPS", "TENDERS", "WINGS", "SEAFOOD")):

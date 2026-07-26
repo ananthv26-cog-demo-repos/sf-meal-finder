@@ -91,8 +91,8 @@ def category(name, section):
     if any(word in lower for word in ("sauce", "dip", "packet", "syrup", "salt", "pepper")):
         return "condiment"
     if any(word in lower for word in (
-        "shake", "juice", "water", "milk", "coca-cola", "drink", "powerade",
-        "lemonade", "mello yello", "fanta", "sprite", "barq", "iced tea",
+        "shake", "juice", "water", "milk", "coca-cola", "coke", "drink", "powerade",
+        "lemonade", "mello yello", "fanta", "sprite", "barq", "tea",
         "freezee", "coffee",
     )):
         return "drink"
