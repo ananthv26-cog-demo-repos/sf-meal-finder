@@ -25,11 +25,9 @@ input:focus {
   outline: 0;
 }
 
-.brand,
 label,
 .field-label,
 .column-head,
-.presets button,
 .results-footer,
 .badges em,
 .source-chip {
@@ -48,11 +46,6 @@ label,
   border-bottom: 1px solid var(--line);
   padding: 0 var(--sp-5);
 }
-.brand {
-  color: var(--text);
-  font-weight: var(--fw-medium);
-  white-space: nowrap;
-}
 .filter-top,
 .filter-bottom {
   display: grid;
@@ -60,14 +53,14 @@ label,
 .filter-top {
   align-items: end;
   gap: var(--sp-5);
-  grid-template-columns: auto minmax(280px, 1fr) auto;
+  grid-template-columns: minmax(280px, 1fr) auto;
   padding: var(--sp-5) 0;
 }
 .filter-bottom {
   align-items: start;
   border-top: 1px solid var(--line);
   gap: var(--sp-5);
-  grid-template-columns: minmax(300px, 1fr) auto auto minmax(240px, auto);
+  grid-template-columns: minmax(300px, 1fr) auto auto;
   padding: var(--sp-4) 0;
 }
 label {
@@ -216,6 +209,7 @@ input[type="number"]:focus,
   border-radius: 50%;
   cursor: pointer;
   height: var(--slider-thumb);
+  margin-top: calc((var(--slider-track-h) - var(--slider-thumb)) / 2);
   pointer-events: auto;
   position: relative;
   width: var(--slider-thumb);
@@ -309,29 +303,6 @@ input[type="number"]:focus,
   color: var(--text-faint);
   font-family: var(--font-mono);
   font-size: var(--fs-sm);
-}
-.presets {
-  align-items: end;
-  align-self: end;
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--sp-2) var(--sp-4);
-  justify-content: flex-end;
-  min-width: 0;
-}
-.presets button {
-  background: transparent;
-  border: 0;
-  color: var(--text-secondary);
-  cursor: pointer;
-  padding: 0;
-  text-align: left;
-  transition: color .15s ease;
-  white-space: nowrap;
-}
-.presets button:hover,
-.presets button:focus-visible {
-  color: var(--accent);
 }
 
 .workspace {
@@ -528,15 +499,11 @@ input:focus-visible {
 @media (max-width: 1180px) and (min-width: 801px) {
   .filter-top {
     gap: var(--sp-4);
-    grid-template-columns: auto minmax(220px, 1fr) auto;
+    grid-template-columns: minmax(220px, 1fr) auto;
   }
   .filter-bottom {
     gap: var(--sp-4);
     grid-template-columns: minmax(260px, 1fr) auto auto;
-  }
-  .presets {
-    grid-column: 1 / -1;
-    justify-content: flex-start;
   }
 }
 @media (max-width: 800px) {
@@ -548,10 +515,6 @@ input:focus-visible {
     grid-template-columns: 1fr auto;
     padding: var(--sp-4) 0;
   }
-  .search-control {
-    grid-column: 1 / -1;
-    grid-row: 2;
-  }
   .result-summary {
     align-items: end;
   }
@@ -560,12 +523,8 @@ input:focus-visible {
     grid-template-columns: 1fr auto;
     padding: var(--sp-4) 0;
   }
-  .range-field,
-  .presets {
+  .range-field {
     grid-column: 1 / -1;
-  }
-  .presets {
-    justify-content: flex-start;
   }
   .protein-field {
     min-width: 150px;
@@ -597,11 +556,6 @@ input:focus-visible {
   }
 }
 @media (max-width: 480px) {
-  .presets {
-    align-items: flex-start;
-    flex-direction: column;
-    gap: var(--sp-2);
-  }
   .column-head,
   .meal-row {
     column-gap: var(--sp-2);

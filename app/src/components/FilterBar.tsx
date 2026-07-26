@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import type { Dispatch, SetStateAction } from 'react'
 import type { Filters } from '../types'
-import { CALORIE_MAX, CALORIE_STEP, presets } from '../urlState'
+import { CALORIE_MAX, CALORIE_STEP } from '../urlState'
 
 export function FilterBar({ filters, setFilters, visibleRestaurantCount, filteredMealCount }: { filters: Filters; setFilters: Dispatch<SetStateAction<Filters>>; visibleRestaurantCount: number; filteredMealCount: number }) {
   const searchRef = useRef<HTMLInputElement>(null)
@@ -32,7 +32,6 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
   }
   return <header className="filter-bar">
     <div className="filter-top">
-      <div className="brand">SF MEAL FINDER</div>
       <label className="search-control">
         <span className="field-label">Search</span>
         <div className="search-wrap">
@@ -48,7 +47,7 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
     <div className="filter-bottom">
       <div className="range-field">
         <div className="range-heading"><span className="field-label">Calories</span><output className="range-value">{filters.minCalories}–{filters.maxCalories} kcal</output></div>
-        <div className="range-slider"><div className="range-track" /><div className="range-fill" style={{ left: `${Number(filters.minCalories) / CALORIE_MAX * 100}%`, right: `${100 - Number(filters.maxCalories) / CALORIE_MAX * 100}%` }} />
+        <div className="range-slider"><div className="range-track" /><div className="range-fill" style={{ left: `calc(${Number(filters.minCalories) / CALORIE_MAX} * (100% - var(--slider-thumb)) + var(--slider-thumb) / 2)`, right: `calc(${1 - Number(filters.maxCalories) / CALORIE_MAX} * (100% - var(--slider-thumb)) + var(--slider-thumb) / 2)` }} />
           <input aria-label="Minimum calories" className={`range-input range-min ${Number(filters.maxCalories) - Number(filters.minCalories) <= CALORIE_STEP && Number(filters.maxCalories) > CALORIE_MAX / 2 ? 'range-min-front' : ''}`} type="range" min="0" max={CALORIE_MAX} step={CALORIE_STEP} value={filters.minCalories} onChange={(event) => updateCaloriesRange('minCalories', event.target.value)} />
           <input aria-label="Maximum calories" className="range-input range-max" type="range" min="0" max={CALORIE_MAX} step={CALORIE_STEP} value={filters.maxCalories} onChange={(event) => updateCaloriesRange('maxCalories', event.target.value)} />
         </div>
@@ -62,7 +61,6 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
         </span>
       </div>
       <label className="check-label"><span className="field-label">Include estimates</span><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /></label>
-      <div className="presets" aria-label="Filter presets">{presets.map((preset) => <button key={preset.label} type="button" onClick={() => setFilters((current) => ({ ...current, minCalories: preset.minCalories, maxCalories: preset.maxCalories, minProtein: preset.minProtein }))}>{preset.label}</button>)}</div>
     </div>
   </header>
 }

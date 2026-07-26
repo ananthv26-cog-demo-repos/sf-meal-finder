@@ -3,11 +3,6 @@ import type { Filters, SortDirection, SortKey } from './types'
 export const CALORIE_MAX = 2000
 export const CALORIE_STEP = 10
 export const defaultFilters: Filters = { minCalories: '0', maxCalories: String(CALORIE_MAX), minProtein: '0', unofficial: false, search: '' }
-export const presets = [
-  { label: 'Cutting 400–700 · 30g+', minCalories: '400', maxCalories: '700', minProtein: '30' },
-  { label: 'Standard 700–900 · 40g+', minCalories: '700', maxCalories: '900', minProtein: '40' },
-  { label: 'Bulking 900–1300 · 50g+', minCalories: '900', maxCalories: '1300', minProtein: '50' },
-]
 export const sortKeys: SortKey[] = ['name', 'calories', 'protein_g', 'protein_pct', 'carbs_g', 'fat_g']
 export function isSortKey(value: string | null): value is SortKey { return value !== null && sortKeys.some((key) => key === value) }
 export function readUrlState() {
