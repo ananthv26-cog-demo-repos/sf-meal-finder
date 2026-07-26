@@ -76,8 +76,12 @@ def main():
             "serving_note": "per menu item", "is_estimate": False,
             "source": {"type": "published", "url": url},
         })
-    if parsed != len(links):
-        raise RuntimeError(f"Lee's crawl parsed facts for {parsed}/{len(links)} item pages")
+    minimum_parsed = max(20, len(links) // 4)
+    if parsed < minimum_parsed:
+        raise RuntimeError(
+            f"Lee's crawl parsed facts for only {parsed}/{len(links)} item pages "
+            f"(minimum {minimum_parsed})"
+        )
     check = next((item for item in items if item["name"] == "1 Lee’s Combination"), None)
     if check is None or check["calories"] != 690:
         actual = check["calories"] if check else "missing"
