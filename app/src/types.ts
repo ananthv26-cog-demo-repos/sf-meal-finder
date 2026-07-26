@@ -20,3 +20,7 @@ export type Meal = {
 export type SortKey = 'name' | 'calories' | 'protein_g' | 'protein_pct' | 'carbs_g' | 'fat_g'
 export type SortDirection = 'asc' | 'desc'
 export type Filters = { minCalories: string; maxCalories: string; minProtein: string; unofficial: boolean; search: string }
+export const DRINK_PROTEIN_MIN = 20
+export function isEligibleResult(meal: Meal) {
+  return meal.category === 'meal' || (meal.category === 'drink' && meal.protein_g >= DRINK_PROTEIN_MIN)
+}

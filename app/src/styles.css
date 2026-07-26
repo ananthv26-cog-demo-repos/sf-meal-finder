@@ -429,6 +429,11 @@ input[type="number"]:focus,
   font-style: normal;
   line-height: 1;
 }
+.badges .drink-badge {
+  border: 1px solid var(--line);
+  color: var(--text-secondary);
+  padding: 2px 4px;
+}
 .source-chip {
   color: var(--text-faint);
   text-decoration: underline;

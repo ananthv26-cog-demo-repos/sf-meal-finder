@@ -6,6 +6,7 @@ import { FilterBar } from './components/FilterBar'
 import { MapPanel } from './components/MapPanel'
 import { ResultsPanel } from './components/ResultsPanel'
 import { parseFilterValue, sortValue } from './format'
+import { isEligibleResult } from './types'
 import type { Meal, Restaurant, SortDirection, SortKey } from './types'
 import { readUrlState, replaceUrlState } from './urlState'
 
@@ -36,7 +37,7 @@ function App() {
     const maxCalories = parseFilterValue(filters.maxCalories, Number.POSITIVE_INFINITY, Number.POSITIVE_INFINITY)
     const minProtein = parseFilterValue(filters.minProtein, 0, 0)
     return meals.filter((meal) => {
-      if (meal.category !== 'meal' || meal.calories < minCalories || meal.calories > maxCalories || meal.protein_g < minProtein || (!filters.unofficial && meal.is_estimate)) return false
+      if (!isEligibleResult(meal) || meal.calories < minCalories || meal.calories > maxCalories || meal.protein_g < minProtein || (!filters.unofficial && meal.is_estimate)) return false
       if (!query) return true
       const restaurantName = restaurantById.get(meal.restaurant_id)?.name ?? meal.restaurant_id
       return `${meal.name} ${restaurantName}`.toLowerCase().includes(query)
@@ -48,9 +49,9 @@ function App() {
     })
   }, [filters, meals, restaurantById, sortDirection, sortKey])
   const visibleRestaurantIds = useMemo(() => new Set(filteredMeals.map((meal) => meal.restaurant_id)), [filteredMeals])
-  const totalMeals = useMemo(() => meals.filter((meal) => meal.category === 'meal').length, [meals])
+  const totalEligibleMeals = useMemo(() => meals.filter(isEligibleResult).length, [meals])
   const estimateRestaurantIds = useMemo(() => {
-    const mealEntries = meals.filter((meal) => meal.category === 'meal')
+    const mealEntries = meals.filter(isEligibleResult)
     const estimated = new Set(mealEntries.filter((meal) => meal.is_estimate).map((meal) => meal.restaurant_id))
     const published = new Set(mealEntries.filter((meal) => !meal.is_estimate).map((meal) => meal.restaurant_id))
     return new Set([...estimated].filter((restaurantId) => !published.has(restaurantId)))
@@ -71,7 +72,7 @@ function App() {
   return <main className="app-shell">
     <FilterBar filters={filters} setFilters={setFilters} visibleRestaurantCount={visibleRestaurantIds.size} filteredMealCount={filteredMeals.length} />
     <section className="workspace">
-      <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalMeals={totalMeals} selectedRestaurant={selectedRestaurant} onSelectRestaurant={setSelectedRestaurant} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} error={error} />
+      <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalEligibleMeals={totalEligibleMeals} selectedRestaurant={selectedRestaurant} onSelectRestaurant={setSelectedRestaurant} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} error={error} />
       <MapPanel restaurants={restaurants} restaurantById={restaurantById} selectedRestaurant={selectedRestaurant} visibleRestaurantIds={visibleRestaurantIds} estimateRestaurantIds={estimateRestaurantIds} />
     </section>
   </main>
