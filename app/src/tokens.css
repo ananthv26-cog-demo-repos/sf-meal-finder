@@ -5,6 +5,7 @@
   --fs-sm: 12px;
   --fs-md: 14px;
   --fs-lg: 16px;
+  --fs-display: 32px;
   --fw-regular: 400;
   --fw-medium: 500;
   --fw-semibold: 600;
@@ -15,6 +16,9 @@
   --sp-5: 24px;
   --sp-6: 32px;
   --control-h: 30px;
+  --slider-track-h: 5px;
+  --slider-thumb: 18px;
+  --r-round: 999px;
   --map-bg: #ecebea;
   --bg: #f7f6f5;
   --line: rgba(0, 0, 0, .08);
