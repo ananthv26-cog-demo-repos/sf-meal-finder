@@ -20,6 +20,6 @@
   --accent: #20f;
   --estimate: #20f;
   --selection: rgba(32, 0, 255, .05);
-  --results-grid: minmax(220px, 1fr) 64px 76px 64px 52px;
+  --results-grid: minmax(220px, 1fr) 58px 72px 52px 64px 52px;
   --input-width: 74px;
 }
