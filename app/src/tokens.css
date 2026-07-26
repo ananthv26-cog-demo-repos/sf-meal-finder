@@ -8,9 +8,14 @@
   --fw-regular: 400;
   --fw-medium: 500;
   --fw-semibold: 600;
+  --sp-1: 4px;
+  --sp-2: 8px;
   --sp-3: 12px;
   --sp-4: 16px;
   --sp-5: 24px;
+  --sp-6: 32px;
+  --control-h: 30px;
+  --map-bg: #ecebea;
   --bg: #f7f6f5;
   --line: rgba(0, 0, 0, .08);
   --ink: #000;
