@@ -131,6 +131,7 @@ input[type="number"]:focus, .search-input:focus {
 }
 .range-input:focus-visible { outline: 1px solid var(--accent); outline-offset: 4px; }
 .range-max { z-index: 2; }
+.range-min-front { z-index: 3; }
 .check-label {
   gap: 0;
   min-height: 48px;

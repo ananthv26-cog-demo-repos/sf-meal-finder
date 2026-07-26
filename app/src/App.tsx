@@ -63,6 +63,19 @@ function readUrlState() {
   return { filters, sortKey, sortDirection: direction as SortDirection }
 }
 
+function replaceUrlState(filters: typeof defaultFilters, sortKey: SortKey, sortDirection: SortDirection) {
+  const params = new URLSearchParams()
+  if (filters.minCalories !== defaultFilters.minCalories) params.set('min', filters.minCalories)
+  if (filters.maxCalories !== defaultFilters.maxCalories) params.set('max', filters.maxCalories)
+  if (filters.minProtein !== defaultFilters.minProtein) params.set('protein', filters.minProtein)
+  if (filters.search) params.set('q', filters.search)
+  if (filters.unofficial) params.set('est', '1')
+  if (sortKey !== 'protein_g') params.set('sort', sortKey)
+  if (sortDirection !== 'desc') params.set('dir', sortDirection)
+  const query = params.toString()
+  window.history.replaceState(null, '', `${window.location.pathname}${query ? `?${query}` : ''}${window.location.hash}`)
+}
+
 function FocusRestaurant({ restaurantId, restaurants }: { restaurantId: string | null; restaurants: Restaurant[] }) {
   const map = useMap()
   const restaurant = restaurants.find((item) => item.id === restaurantId)
@@ -187,13 +200,12 @@ function App() {
     setFilters((current) => ({ ...current, [key]: value }))
   }
   const updateCaloriesRange = (key: 'minCalories' | 'maxCalories', value: string) => {
-    setFilters((current) => {
-      const next = Number(value)
-      const other = Number(key === 'minCalories' ? current.maxCalories : current.minCalories)
-      if (key === 'minCalories' && next > other) return { ...current, minCalories: current.maxCalories, maxCalories: value }
-      if (key === 'maxCalories' && next < other) return { ...current, minCalories: value, maxCalories: current.minCalories }
-      return { ...current, [key]: value }
-    })
+    const next = Number(value)
+    const other = Number(key === 'minCalories' ? filters.maxCalories : filters.minCalories)
+    const clamped = key === 'minCalories' ? Math.min(next, other) : Math.max(next, other)
+    const nextFilters = { ...filters, [key]: String(clamped) }
+    setFilters(nextFilters)
+    replaceUrlState(nextFilters, sortKey, sortDirection)
   }
   const updateSort = (key: SortKey) => {
     if (key === sortKey) {
@@ -204,16 +216,7 @@ function App() {
     setSortDirection('desc')
   }
   useEffect(() => {
-    const params = new URLSearchParams()
-    if (filters.minCalories !== defaultFilters.minCalories) params.set('min', filters.minCalories)
-    if (filters.maxCalories !== defaultFilters.maxCalories) params.set('max', filters.maxCalories)
-    if (filters.minProtein !== defaultFilters.minProtein) params.set('protein', filters.minProtein)
-    if (filters.search) params.set('q', filters.search)
-    if (filters.unofficial) params.set('est', '1')
-    if (sortKey !== 'protein_g') params.set('sort', sortKey)
-    if (sortDirection !== 'desc') params.set('dir', sortDirection)
-    const query = params.toString()
-    window.history.replaceState(null, '', `${window.location.pathname}${query ? `?${query}` : ''}${window.location.hash}`)
+    replaceUrlState(filters, sortKey, sortDirection)
   }, [filters, sortDirection, sortKey])
 
   return (
@@ -227,7 +230,7 @@ function App() {
           <div className="range-slider">
             <div className="range-track" />
             <div className="range-fill" style={{ left: `${Number(filters.minCalories) / 20}%`, right: `${100 - Number(filters.maxCalories) / 20}%` }} />
-            <input aria-label="Minimum calories" className="range-input range-min" type="range" min="0" max="2000" step="10" value={filters.minCalories} onChange={(event) => updateCaloriesRange('minCalories', event.target.value)} />
+            <input aria-label="Minimum calories" className={`range-input range-min ${Number(filters.maxCalories) - Number(filters.minCalories) <= 10 && Number(filters.maxCalories) > 1000 ? 'range-min-front' : ''}`} type="range" min="0" max="2000" step="10" value={filters.minCalories} onChange={(event) => updateCaloriesRange('minCalories', event.target.value)} />
             <input aria-label="Maximum calories" className="range-input range-max" type="range" min="0" max="2000" step="10" value={filters.maxCalories} onChange={(event) => updateCaloriesRange('maxCalories', event.target.value)} />
           </div>
         </div>
