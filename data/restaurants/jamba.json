@@ -1,0 +1,5241 @@
+{
+  "id": "jamba",
+  "name": "Jamba",
+  "website": "https://www.jamba.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Jamba&max_results=50&page_number=0",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "152 Kearny Street San Francisco CA 94108",
+      "lat": 37.789638409754204,
+      "lng": -122.40365563438391,
+      "neighborhood": null
+    },
+    {
+      "address": "170 O'Farrell St Food Court San Francisco CA 94102",
+      "lat": 37.787006,
+      "lng": -122.4072604,
+      "neighborhood": null
+    },
+    {
+      "address": "2300 16th St. #245 San Francisco CA 94103",
+      "lat": 37.76650010169665,
+      "lng": -122.40897547347302,
+      "neighborhood": null
+    },
+    {
+      "address": "500 Parnassus Ave Millberry Union San Francisco CA 94619",
+      "lat": 37.7634488,
+      "lng": -122.4585716,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "2-milk-8-fl-oz-69403853",
+      "name": "2% Milk, 8 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 8.0,
+      "carbs_g": 12.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/2-milk-8-fl-oz"
+      }
+    },
+    {
+      "id": "3g-energy-green-caffeine-boost-69403881",
+      "name": "3G Energy + Green Caffeine Boost",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/3g-energy-green-caffeine-boost"
+      }
+    },
+    {
+      "id": "acai-dragon-swirl-bowl-large-127589235",
+      "name": "Acai Dragon Swirl Bowl (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 615.0,
+      "protein_g": 10.0,
+      "carbs_g": 123.0,
+      "fat_g": 12.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 41.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-dragon-swirl-bowl-(large)"
+      }
+    },
+    {
+      "id": "acai-dragon-swirl-bowl-regular-127589227",
+      "name": "Acai Dragon Swirl Bowl (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 405.0,
+      "protein_g": 6.0,
+      "carbs_g": 84.0,
+      "fat_g": 6.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-dragon-swirl-bowl-(regular)"
+      }
+    },
+    {
+      "id": "acai-dream-bowl-large-127589217",
+      "name": "Acai Dream Bowl (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 675.0,
+      "protein_g": 13.0,
+      "carbs_g": 133.0,
+      "fat_g": 11.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 112.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-dream-bowl-(large)"
+      }
+    },
+    {
+      "id": "acai-dream-bowl-regular-127589213",
+      "name": "Acai Dream Bowl (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 445.0,
+      "protein_g": 8.0,
+      "carbs_g": 92.0,
+      "fat_g": 6.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 73.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-dream-bowl-(regular)"
+      }
+    },
+    {
+      "id": "acai-peanut-butter-plus-nutella-large-104521263",
+      "name": "Acai Peanut Butter Plus Nutella (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 980.0,
+      "protein_g": 18.0,
+      "carbs_g": 160.0,
+      "fat_g": 33.0,
+      "fiber_g": 21.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-peanut-butter-plus-nutella-(large)"
+      }
+    },
+    {
+      "id": "acai-peanut-butter-plus-nutella-regular-104521257",
+      "name": "Acai Peanut Butter Plus Nutella (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 685.0,
+      "protein_g": 12.0,
+      "carbs_g": 118.0,
+      "fat_g": 22.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-peanut-butter-plus-nutella-(regular)"
+      }
+    },
+    {
+      "id": "acai-primo-large-104521249",
+      "name": "Acai Primo (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 11.0,
+      "carbs_g": 141.0,
+      "fat_g": 15.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-(large)"
+      }
+    },
+    {
+      "id": "acai-primo-regular-104521248",
+      "name": "Acai Primo (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 7.0,
+      "carbs_g": 102.0,
+      "fat_g": 9.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-(regular)"
+      }
+    },
+    {
+      "id": "acai-super-antioxidant-smoothie-large-69403923",
+      "name": "Acai Super-Antioxidant Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 560.0,
+      "protein_g": 8.0,
+      "carbs_g": 118.0,
+      "fat_g": 7.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-super-antioxidant-smoothie-(large)"
+      }
+    },
+    {
+      "id": "acai-super-antioxidant-smoothie-medium-69403935",
+      "name": "Acai Super-Antioxidant Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 7.0,
+      "carbs_g": 93.0,
+      "fat_g": 6.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-super-antioxidant-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "acai-super-antioxidant-smoothie-small-69403947",
+      "name": "Acai Super-Antioxidant Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 345.0,
+      "protein_g": 5.0,
+      "carbs_g": 72.0,
+      "fat_g": 4.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-super-antioxidant-smoothie-(small)"
+      }
+    },
+    {
+      "id": "almond-milk-8-fl-oz-104930632",
+      "name": "Almond Milk, 8 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/almond-milk-8-fl-oz"
+      }
+    },
+    {
+      "id": "aloha-pineapple-smoothie-large-69403977",
+      "name": "Aloha Pineapple Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 515.0,
+      "protein_g": 8.0,
+      "carbs_g": 123.0,
+      "fat_g": 0.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/aloha-pineapple-smoothie-(large)"
+      }
+    },
+    {
+      "id": "aloha-pineapple-smoothie-medium-69403991",
+      "name": "Aloha Pineapple Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 7.0,
+      "carbs_g": 92.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/aloha-pineapple-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "aloha-pineapple-smoothie-small-69404001",
+      "name": "Aloha Pineapple Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 295.0,
+      "protein_g": 6.0,
+      "carbs_g": 68.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/aloha-pineapple-smoothie-(small)"
+      }
+    },
+    {
+      "id": "apple-cinnamon-pretzel-498633",
+      "name": "Apple Cinnamon Pretzel",
+      "description": null,
+      "category": "side",
+      "calories": 390.0,
+      "protein_g": 9.0,
+      "carbs_g": 78.0,
+      "fat_g": 5.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-cinnamon-pretzel"
+      }
+    },
+    {
+      "id": "apple-n-greens-smoothie-large-127589366",
+      "name": "Apple N Greens Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 420.0,
+      "protein_g": 7.0,
+      "carbs_g": 102.0,
+      "fat_g": 2.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 72.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-n-greens-smoothie-(large)"
+      }
+    },
+    {
+      "id": "apple-n-greens-smoothie-medium-127589361",
+      "name": "Apple N Greens Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 5.0,
+      "carbs_g": 77.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 53.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-n-greens-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "apple-n-greens-smoothie-small-127589315",
+      "name": "Apple N Greens Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 5.0,
+      "carbs_g": 60.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 49.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-n-greens-smoothie-(small)"
+      }
+    },
+    {
+      "id": "apple-n-greens-smoothie-large-69404086",
+      "name": "Apple ‘n Greens Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 6.0,
+      "carbs_g": 96.0,
+      "fat_g": 2.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-%E2%80%98n-greens-smoothie-(large)"
+      }
+    },
+    {
+      "id": "apple-n-greens-smoothie-medium-69404010",
+      "name": "Apple ‘n Greens Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 315.0,
+      "protein_g": 5.0,
+      "carbs_g": 76.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-%E2%80%98n-greens-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "apple-n-greens-smoothie-small-69404076",
+      "name": "Apple ‘n Greens Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 4.0,
+      "carbs_g": 57.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-%E2%80%98n-greens-smoothie-(small)"
+      }
+    },
+    {
+      "id": "banana-berry-smoothie-large-127589787",
+      "name": "Banana Berry Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 465.0,
+      "protein_g": 3.0,
+      "carbs_g": 113.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/banana-berry-smoothie-(large)"
+      }
+    },
+    {
+      "id": "banana-berry-smoothie-medium-127589783",
+      "name": "Banana Berry Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 3.0,
+      "carbs_g": 87.0,
+      "fat_g": 1.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/banana-berry-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "banana-berry-smoothie-small-127589776",
+      "name": "Banana Berry Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 2.0,
+      "carbs_g": 63.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/banana-berry-smoothie-(small)"
+      }
+    },
+    {
+      "id": "banana-fresh-topping-69404181",
+      "name": "Banana, Fresh, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/banana-fresh-topping"
+      }
+    },
+    {
+      "id": "belgian-style-waffle-104521531",
+      "name": "Belgian Style Waffle",
+      "description": null,
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 4.0,
+      "carbs_g": 35.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/belgian-style-waffle"
+      }
+    },
+    {
+      "id": "berry-brown-sugar-104521484",
+      "name": "Berry Brown Sugar",
+      "description": null,
+      "category": "component",
+      "calories": 370.0,
+      "protein_g": 6.0,
+      "carbs_g": 75.0,
+      "fat_g": 5.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/berry-brown-sugar"
+      }
+    },
+    {
+      "id": "berry-fresh-fruit-cup-104521901",
+      "name": "Berry Fresh Fruit Cup",
+      "description": null,
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/berry-fresh-fruit-cup"
+      }
+    },
+    {
+      "id": "berry-greek-yogurt-granola-parfait-104521906",
+      "name": "Berry Greek Yogurt Granola Parfait",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 15.0,
+      "carbs_g": 31.0,
+      "fat_g": 5.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/berry-greek-yogurt-granola-parfait"
+      }
+    },
+    {
+      "id": "blue-lava-large-104521565",
+      "name": "Blue Lava (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 1.0,
+      "carbs_g": 74.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-lava-(large)"
+      }
+    },
+    {
+      "id": "blue-lava-medium-104521572",
+      "name": "Blue Lava (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 14.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-lava-(medium)"
+      }
+    },
+    {
+      "id": "blue-lava-small-104521579",
+      "name": "Blue Lava (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 12.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-lava-(small)"
+      }
+    },
+    {
+      "id": "blue-spirulina-boost-69404222",
+      "name": "Blue Spirulina Boost",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-spirulina-boost"
+      }
+    },
+    {
+      "id": "blueberry-strawberry-blast-off-smoothie-10-fl-oz-84620211",
+      "name": "Blueberry Strawberry Blast-off Smoothie, 10 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blueberry-strawberry-blast-off-smoothie-10-fl-oz"
+      }
+    },
+    {
+      "id": "blueberry-fresh-topping-69404257",
+      "name": "Blueberry, Fresh, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blueberry-fresh-topping"
+      }
+    },
+    {
+      "id": "buzzin-mocha-moo-d-blended-coffee-large-2-milk-104521546",
+      "name": "Buzzin' Mocha Moo'd Blended Coffee (Large, 2% Milk)",
+      "description": null,
+      "category": "drink",
+      "calories": 570.0,
+      "protein_g": 16.0,
+      "carbs_g": 116.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/buzzin-mocha-mood-blended-coffee-(large-2-milk)"
+      }
+    },
+    {
+      "id": "buzzin-mocha-moo-d-blended-coffee-medium-2-milk-104521550",
+      "name": "Buzzin' Mocha Moo'd Blended Coffee (Medium, 2% Milk)",
+      "description": null,
+      "category": "drink",
+      "calories": 430.0,
+      "protein_g": 13.0,
+      "carbs_g": 88.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/buzzin-mocha-mood-blended-coffee-(medium-2-milk)"
+      }
+    },
+    {
+      "id": "buzzin-mocha-moo-d-blended-coffee-small-2-milk-104521553",
+      "name": "Buzzin' Mocha Moo'd Blended Coffee (Small, 2% Milk)",
+      "description": null,
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 10.0,
+      "carbs_g": 68.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/buzzin-mocha-mood-blended-coffee-(small-2-milk)"
+      }
+    },
+    {
+      "id": "caribbean-passion-smoothie-large-84619774",
+      "name": "Caribbean Passion Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 435.0,
+      "protein_g": 1.0,
+      "carbs_g": 107.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/caribbean-passion-smoothie-(large)"
+      }
+    },
+    {
+      "id": "caribbean-passion-smoothie-medium-84619876",
+      "name": "Caribbean Passion Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 345.0,
+      "protein_g": 1.0,
+      "carbs_g": 84.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/caribbean-passion-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "caribbean-passion-smoothie-small-84619882",
+      "name": "Caribbean Passion Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 255.0,
+      "protein_g": 1.0,
+      "carbs_g": 63.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/caribbean-passion-smoothie-(small)"
+      }
+    },
+    {
+      "id": "chicken-empanada-1-count-127589246",
+      "name": "Chicken Empanada - 1 Count",
+      "description": null,
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 21.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chicken-empanada-1-count"
+      }
+    },
+    {
+      "id": "chicken-empanada-2-count-127589249",
+      "name": "Chicken Empanada - 2 Count",
+      "description": null,
+      "category": "side",
+      "calories": 380.0,
+      "protein_g": 18.0,
+      "carbs_g": 42.0,
+      "fat_g": 14.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chicken-empanada-2-count"
+      }
+    },
+    {
+      "id": "chocolate-moo-d-powder-soy-scoop-84620081",
+      "name": "Chocolate Moo'd Powder, Soy Scoop",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chocolate-mood-powder-soy-scoop"
+      }
+    },
+    {
+      "id": "chocolate-moo-d-smoothie-large-127589802",
+      "name": "Chocolate Moo'd Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 735.0,
+      "protein_g": 21.0,
+      "carbs_g": 150.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chocolate-mood-smoothie-(large)"
+      }
+    },
+    {
+      "id": "chocolate-moo-d-smoothie-medium-127589795",
+      "name": "Chocolate Moo'd Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 570.0,
+      "protein_g": 16.0,
+      "carbs_g": 119.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 239.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chocolate-mood-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "chocolate-moo-d-smoothie-small-127589790",
+      "name": "Chocolate Moo'd Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 12.0,
+      "carbs_g": 85.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 177.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chocolate-mood-smoothie-(small)"
+      }
+    },
+    {
+      "id": "chunky-strawberry-regular-104521270",
+      "name": "Chunky Strawberry (Regular)",
+      "description": null,
+      "category": "component",
+      "calories": 600.0,
+      "protein_g": 20.0,
+      "carbs_g": 95.0,
+      "fat_g": 18.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chunky-strawberry-(regular)"
+      }
+    },
+    {
+      "id": "classic-sausage-egg-cheese-handwich-104521503",
+      "name": "Classic Sausage, Egg + Cheese Handwich",
+      "description": null,
+      "category": "meal",
+      "calories": 320.0,
+      "protein_g": 12.0,
+      "carbs_g": 14.0,
+      "fat_g": 23.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/classic-sausage-egg-cheese-handwich"
+      }
+    },
+    {
+      "id": "coconut-flakes-topping-69404360",
+      "name": "Coconut Flakes, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coconut-flakes-topping"
+      }
+    },
+    {
+      "id": "cocowhip-topping-104521740",
+      "name": "Cocowhip, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 55.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cocowhip-topping"
+      }
+    },
+    {
+      "id": "coffee-dream-machine-blended-coffee-large-2-milk-104521557",
+      "name": "Coffee Dream Machine Blended Coffee (Large, 2% Milk)",
+      "description": null,
+      "category": "drink",
+      "calories": 480.0,
+      "protein_g": 13.0,
+      "carbs_g": 97.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(large-2-milk)"
+      }
+    },
+    {
+      "id": "coffee-dream-machine-blended-coffee-medium-2-milk-104521563",
+      "name": "Coffee Dream Machine Blended Coffee (Medium, 2% Milk)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 11.0,
+      "carbs_g": 77.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(medium-2-milk)"
+      }
+    },
+    {
+      "id": "coffee-dream-machine-blended-coffee-small-2-milk-104520377",
+      "name": "Coffee Dream Machine Blended Coffee (Small, 2% Milk)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 8.0,
+      "carbs_g": 51.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(small-2-milk)"
+      }
+    },
+    {
+      "id": "coffee-buzzin-mocha-moo-d-smoothie-large-127589387",
+      "name": "Coffee, Buzzin' Mocha Moo'd Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 595.0,
+      "protein_g": 18.0,
+      "carbs_g": 119.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 278.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-buzzin-mocha-mood-smoothie-(large)"
+      }
+    },
+    {
+      "id": "coffee-buzzin-mocha-moo-d-smoothie-medium-127589380",
+      "name": "Coffee, Buzzin' Mocha Moo'd Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 455.0,
+      "protein_g": 14.0,
+      "carbs_g": 89.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 211.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-buzzin-mocha-mood-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "coffee-buzzin-mocha-moo-d-smoothie-small-127589379",
+      "name": "Coffee, Buzzin' Mocha Moo'd Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 11.0,
+      "carbs_g": 70.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 163.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-buzzin-mocha-mood-smoothie-(small)"
+      }
+    },
+    {
+      "id": "coffee-coffee-dream-machine-smoothie-large-127589428",
+      "name": "Coffee, Coffee Dream Machine Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 500.0,
+      "protein_g": 14.0,
+      "carbs_g": 99.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-coffee-dream-machine-smoothie-(large)"
+      }
+    },
+    {
+      "id": "coffee-coffee-dream-machine-smoothie-medium-127589421",
+      "name": "Coffee, Coffee Dream Machine Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 12.0,
+      "carbs_g": 79.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 189.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-coffee-dream-machine-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "coffee-coffee-dream-machine-smoothie-small-127589412",
+      "name": "Coffee, Coffee Dream Machine Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 275.0,
+      "protein_g": 9.0,
+      "carbs_g": 53.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 139.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-coffee-dream-machine-smoothie-(small)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-large-84620696",
+      "name": "Cold Brew Over Ice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-(large)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-medium-84620700",
+      "name": "Cold Brew Over Ice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-(medium)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-small-84620704",
+      "name": "Cold Brew Over Ice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-(small)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-agave-large-84620342",
+      "name": "Cold Brew Over Ice + Agave (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-agave-(large)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-agave-medium-84620347",
+      "name": "Cold Brew Over Ice + Agave (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-agave-(medium)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-agave-small-84620354",
+      "name": "Cold Brew Over Ice + Agave (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-agave-(small)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-w-sweet-cloud-whip-foam-large-84620360",
+      "name": "Cold Brew Over Ice w/Sweet Cloud Whip Foam (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-w-sweet-cloud-whip-foam-(large)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-w-sweet-cloud-whip-foam-medium-84620366",
+      "name": "Cold Brew Over Ice w/Sweet Cloud Whip Foam (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-w-sweet-cloud-whip-foam-(medium)"
+      }
+    },
+    {
+      "id": "cold-brew-over-ice-w-sweet-cloud-whip-foam-small-84620692",
+      "name": "Cold Brew Over Ice w/Sweet Cloud Whip Foam (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-w-sweet-cloud-whip-foam-(small)"
+      }
+    },
+    {
+      "id": "cucumber-orange-cooler-juice-large-104521685",
+      "name": "Cucumber Orange Cooler Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 5.0,
+      "carbs_g": 79.0,
+      "fat_g": 2.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cucumber-orange-cooler-juice-(large)"
+      }
+    },
+    {
+      "id": "cucumber-orange-cooler-juice-medium-84620769",
+      "name": "Cucumber Orange Cooler Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 4.0,
+      "carbs_g": 63.0,
+      "fat_g": 1.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cucumber-orange-cooler-juice-(medium)"
+      }
+    },
+    {
+      "id": "cucumber-orange-cooler-juice-small-84620771",
+      "name": "Cucumber Orange Cooler Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 46.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cucumber-orange-cooler-juice-(small)"
+      }
+    },
+    {
+      "id": "dragon-fruit-delight-large-104521395",
+      "name": "Dragon Fruit Delight (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 720.0,
+      "protein_g": 11.0,
+      "carbs_g": 147.0,
+      "fat_g": 12.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragon-fruit-delight-(large)"
+      }
+    },
+    {
+      "id": "dragon-fruit-delight-regular-104521287",
+      "name": "Dragon Fruit Delight (Regular)",
+      "description": null,
+      "category": "drink",
+      "calories": 460.0,
+      "protein_g": 6.0,
+      "carbs_g": 96.0,
+      "fat_g": 7.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragon-fruit-delight-(regular)"
+      }
+    },
+    {
+      "id": "dragon-fruit-dream-bowl-large-127589195",
+      "name": "Dragon Fruit Dream Bowl (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 635.0,
+      "protein_g": 12.0,
+      "carbs_g": 128.0,
+      "fat_g": 9.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragon-fruit-dream-bowl-(large)"
+      }
+    },
+    {
+      "id": "dragon-fruit-dream-bowl-regular-127589220",
+      "name": "Dragon Fruit Dream Bowl (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 420.0,
+      "protein_g": 7.0,
+      "carbs_g": 88.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 58.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragon-fruit-dream-bowl-(regular)"
+      }
+    },
+    {
+      "id": "electric-berry-lemonade-smoothie-large-84620232",
+      "name": "Electric Berry Lemonade Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 465.0,
+      "protein_g": 4.0,
+      "carbs_g": 112.0,
+      "fat_g": 0.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 61.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-berry-lemonade-smoothie-(large)"
+      }
+    },
+    {
+      "id": "electric-berry-lemonade-smoothie-medium-84620237",
+      "name": "Electric Berry Lemonade Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 3.0,
+      "carbs_g": 88.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 48.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-berry-lemonade-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "electric-berry-lemonade-smoothie-small-127589809",
+      "name": "Electric Berry Lemonade Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 235.0,
+      "protein_g": 2.0,
+      "carbs_g": 57.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 31.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-berry-lemonade-smoothie-(small)"
+      }
+    },
+    {
+      "id": "electric-ice-large-104521613",
+      "name": "Electric Ice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 62.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 18.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-ice-(large)"
+      }
+    },
+    {
+      "id": "electric-ice-medium-104521615",
+      "name": "Electric Ice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 48.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 13.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-ice-(medium)"
+      }
+    },
+    {
+      "id": "electric-ice-small-104521620",
+      "name": "Electric Ice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 11.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-ice-(small)"
+      }
+    },
+    {
+      "id": "fat-free-vanilla-frozen-yogurt-blue-scoop-84620867",
+      "name": "Fat Free Vanilla Frozen Yogurt (Blue Scoop)",
+      "description": null,
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fat-free-vanilla-frozen-yogurt-(blue-scoop)"
+      }
+    },
+    {
+      "id": "fat-free-vanilla-frozen-yogurt-green-scoop-84620875",
+      "name": "Fat Free Vanilla Frozen Yogurt (Green Scoop)",
+      "description": null,
+      "category": "side",
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fat-free-vanilla-frozen-yogurt-(green-scoop)"
+      }
+    },
+    {
+      "id": "fat-free-vanilla-frozen-yogurt-red-scoop-84620878",
+      "name": "Fat Free Vanilla Frozen Yogurt (Red Scoop)",
+      "description": null,
+      "category": "side",
+      "calories": 40.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fat-free-vanilla-frozen-yogurt-(red-scoop)"
+      }
+    },
+    {
+      "id": "fruity-rocks-smoothie-large-84621001",
+      "name": "Fruity Rocks Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 550.0,
+      "protein_g": 9.0,
+      "carbs_g": 116.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fruity-rocks-smoothie-(large)"
+      }
+    },
+    {
+      "id": "fruity-rocks-smoothie-medium-84621012",
+      "name": "Fruity Rocks Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 6.0,
+      "carbs_g": 85.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fruity-rocks-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "fruity-rocks-smoothie-small-84621020",
+      "name": "Fruity Rocks Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 4.0,
+      "carbs_g": 59.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fruity-rocks-smoothie-(small)"
+      }
+    },
+    {
+      "id": "ginger-puree-boost-69404719",
+      "name": "Ginger Puree Boost",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/ginger-puree-boost"
+      }
+    },
+    {
+      "id": "ginger-shot-rtd-69404725",
+      "name": "Ginger Shot, RTD",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/ginger-shot-rtd"
+      }
+    },
+    {
+      "id": "granola-topping-69404936",
+      "name": "Granola, Topping",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 3.0,
+      "carbs_g": 16.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/granola-topping"
+      }
+    },
+    {
+      "id": "great-greens-juice-large-84620774",
+      "name": "Great Greens Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 6.0,
+      "carbs_g": 55.0,
+      "fat_g": 2.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/great-greens-juice-(large)"
+      }
+    },
+    {
+      "id": "great-greens-juice-medium-84620777",
+      "name": "Great Greens Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 5.0,
+      "carbs_g": 44.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/great-greens-juice-(medium)"
+      }
+    },
+    {
+      "id": "great-greens-juice-small-84620782",
+      "name": "Great Greens Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/great-greens-juice-(small)"
+      }
+    },
+    {
+      "id": "greens-n-ginger-smoothie-large-127589460",
+      "name": "Greens N Ginger Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 6.0,
+      "carbs_g": 99.0,
+      "fat_g": 2.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 52.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-n-ginger-smoothie-(large)"
+      }
+    },
+    {
+      "id": "greens-n-ginger-smoothie-medium-127589441",
+      "name": "Greens N Ginger Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 4.0,
+      "carbs_g": 80.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 37.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-n-ginger-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "greens-n-ginger-smoothie-large-84619883",
+      "name": "Greens ‘n Ginger Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 6.0,
+      "carbs_g": 99.0,
+      "fat_g": 2.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-%E2%80%98n-ginger-smoothie-(large)"
+      }
+    },
+    {
+      "id": "greens-n-ginger-smoothie-medium-84619890",
+      "name": "Greens ‘n Ginger Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 4.0,
+      "carbs_g": 76.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-%E2%80%98n-ginger-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "greens-n-ginger-smoothie-small-84619891",
+      "name": "Greens ‘n Ginger Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 60.0,
+      "fat_g": 1.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-%E2%80%98n-ginger-smoothie-(small)"
+      }
+    },
+    {
+      "id": "honey-topping-69405081",
+      "name": "Honey, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/honey-topping"
+      }
+    },
+    {
+      "id": "impossible-handwich-69405101",
+      "name": "Impossible Handwich",
+      "description": null,
+      "category": "meal",
+      "calories": 220.0,
+      "protein_g": 11.0,
+      "carbs_g": 16.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/impossible-handwich"
+      }
+    },
+    {
+      "id": "kale-boost-69469584",
+      "name": "Kale Boost",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/kale-boost"
+      }
+    },
+    {
+      "id": "lemon-ginger-cayenne-shot-69469593",
+      "name": "Lemon Ginger Cayenne Shot",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lemon-ginger-cayenne-shot"
+      }
+    },
+    {
+      "id": "lime-sherbet-large-104936596",
+      "name": "Lime Sherbet (Large)",
+      "description": null,
+      "category": "side",
+      "calories": 65.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lime-sherbet-(large)"
+      }
+    },
+    {
+      "id": "lime-sherbet-medium-104936618",
+      "name": "Lime Sherbet (Medium)",
+      "description": null,
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 7.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/-lime-sherbet-(medium)"
+      }
+    },
+    {
+      "id": "lime-sherbet-small-104936645",
+      "name": "Lime Sherbet (Small)",
+      "description": null,
+      "category": "side",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lime-sherbet-(small)"
+      }
+    },
+    {
+      "id": "mango-sunshine-bowl-large-127589169",
+      "name": "Mango Sunshine Bowl (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 8.0,
+      "carbs_g": 130.0,
+      "fat_g": 9.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 34.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-sunshine-bowl-(large)"
+      }
+    },
+    {
+      "id": "mango-sunshine-bowl-regular-127589212",
+      "name": "Mango Sunshine Bowl (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 4.0,
+      "carbs_g": 92.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 22.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-sunshine-bowl-(regular)"
+      }
+    },
+    {
+      "id": "mango-a-go-go-smoothie-large-84619896",
+      "name": "Mango-A-Go-Go Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 500.0,
+      "protein_g": 1.0,
+      "carbs_g": 125.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-a-go-go-smoothie-(large)"
+      }
+    },
+    {
+      "id": "mango-a-go-go-smoothie-medium-84619904",
+      "name": "Mango-A-Go-Go Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 1.0,
+      "carbs_g": 96.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-a-go-go-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "mango-a-go-go-smoothie-small-84619906",
+      "name": "Mango-A-Go-Go Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 275.0,
+      "protein_g": 0.0,
+      "carbs_g": 69.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-a-go-go-smoothie-(small)"
+      }
+    },
+    {
+      "id": "marinara-dip-cup-127589308",
+      "name": "Marinara Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 6.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 192.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/marinara-dip-cup"
+      }
+    },
+    {
+      "id": "matcha-green-tea-blast-smoothie-large-84619909",
+      "name": "Matcha Green Tea Blast Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 480.0,
+      "protein_g": 14.0,
+      "carbs_g": 102.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-green-tea-blast-smoothie-(large)"
+      }
+    },
+    {
+      "id": "matcha-green-tea-blast-smoothie-medium-84619913",
+      "name": "Matcha Green Tea Blast Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 12.0,
+      "carbs_g": 82.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-green-tea-blast-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "matcha-green-tea-blast-smoothie-small-84619915",
+      "name": "Matcha Green Tea Blast Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 8.0,
+      "carbs_g": 56.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-green-tea-blast-smoothie-(small)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-large-84620754",
+      "name": "Matcha Over Ice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 60.0,
+      "protein_g": 5.0,
+      "carbs_g": 7.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-(large)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-medium-84620760",
+      "name": "Matcha Over Ice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 45.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.5,
+      "fiber_g": 5.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-(medium)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-agave-large-84620711",
+      "name": "Matcha Over Ice + Agave (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 90.0,
+      "protein_g": 6.0,
+      "carbs_g": 13.0,
+      "fat_g": 1.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-agave-(large)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-agave-medium-84620717",
+      "name": "Matcha Over Ice + Agave (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-agave-(medium)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-agave-small-84620726",
+      "name": "Matcha Over Ice + Agave (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 11.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-agave-(small)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-w-sweet-cloud-whip-foam-large-84620728",
+      "name": "Matcha Over Ice w/Sweet Cloud Whip Foam (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 6.0,
+      "carbs_g": 20.0,
+      "fat_g": 5.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-w-sweet-cloud-whip-foam-(large)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-w-sweet-cloud-whip-foam-medium-84620737",
+      "name": "Matcha Over Ice w/Sweet Cloud Whip Foam (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 4.0,
+      "carbs_g": 20.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-w-sweet-cloud-whip-foam-(medium)"
+      }
+    },
+    {
+      "id": "matcha-over-ice-w-sweet-cloud-whip-foam-small-84620747",
+      "name": "Matcha Over Ice w/Sweet Cloud Whip Foam (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 5.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-w-sweet-cloud-whip-foam-(small)"
+      }
+    },
+    {
+      "id": "mega-mango-smoothie-large-84619919",
+      "name": "Mega Mango Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 3.0,
+      "carbs_g": 93.0,
+      "fat_g": 1.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mega-mango-smoothie-(large)"
+      }
+    },
+    {
+      "id": "mega-mango-smoothie-medium-84619924",
+      "name": "Mega Mango Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 3.0,
+      "carbs_g": 79.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mega-mango-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "mega-mango-smoothie-small-84619935",
+      "name": "Mega Mango Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mega-mango-smoothie-(small)"
+      }
+    },
+    {
+      "id": "mozzarella-and-herb-bites-12-count-127589257",
+      "name": "Mozzarella and Herb Bites - 12 Count",
+      "description": null,
+      "category": "side",
+      "calories": 540.0,
+      "protein_g": 27.0,
+      "carbs_g": 23.0,
+      "fat_g": 39.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1053.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mozzarella-and-herb-bites-12-count"
+      }
+    },
+    {
+      "id": "mozzarella-and-herb-bites-6-count-127589250",
+      "name": "Mozzarella and Herb Bites - 6 Count",
+      "description": null,
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 13.0,
+      "carbs_g": 11.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 527.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mozzarella-and-herb-bites-6-count"
+      }
+    },
+    {
+      "id": "multivitamins-daily-vitamin-zinc-boost-104521797",
+      "name": "Multivitamins (Daily Vitamin + Zinc Boost)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/multivitamins-(daily-vitamin-zinc-boost)"
+      }
+    },
+    {
+      "id": "non-fat-greek-yogurt-boost-69469970",
+      "name": "Non-fat Greek Yogurt Boost",
+      "description": null,
+      "category": "component",
+      "calories": 40.0,
+      "protein_g": 7.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/non-fat-greek-yogurt-boost"
+      }
+    },
+    {
+      "id": "nutella-dip-cup-127589311",
+      "name": "Nutella Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 155.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/nutella-dip-cup"
+      }
+    },
+    {
+      "id": "nutella-topping-104521760",
+      "name": "Nutella, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/nutella-topping"
+      }
+    },
+    {
+      "id": "oatmeal-69469981",
+      "name": "Oatmeal",
+      "description": null,
+      "category": "side",
+      "calories": 250.0,
+      "protein_g": 6.0,
+      "carbs_g": 44.0,
+      "fat_g": 5.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmeal"
+      }
+    },
+    {
+      "id": "oatmilk-frozen-dessert-blue-scoop-84620881",
+      "name": "Oatmilk Frozen Dessert (Blue Scoop)",
+      "description": null,
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 13.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-frozen-dessert-(blue-scoop)"
+      }
+    },
+    {
+      "id": "oatmilk-frozen-dessert-green-scoop-84620884",
+      "name": "Oatmilk Frozen Dessert (Green Scoop)",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 16.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-frozen-dessert-(green-scoop)"
+      }
+    },
+    {
+      "id": "oatmilk-frozen-dessert-red-scoop-84620889",
+      "name": "Oatmilk Frozen Dessert (Red Scoop)",
+      "description": null,
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-frozen-dessert-(red-scoop)"
+      }
+    },
+    {
+      "id": "oatmilk-8-fl-oz-69470030",
+      "name": "Oatmilk, 8 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 2.0,
+      "carbs_g": 18.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-8-fl-oz"
+      }
+    },
+    {
+      "id": "orange-c-booster-smoothie-large-84619938",
+      "name": "Orange C-Booster Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 3.0,
+      "carbs_g": 96.0,
+      "fat_g": 0.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-c-booster-smoothie-(large)"
+      }
+    },
+    {
+      "id": "orange-c-booster-smoothie-medium-127590589",
+      "name": "Orange C-Booster Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 75.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-c-booster-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "orange-c-booster-smoothie-small-127590560",
+      "name": "Orange C-Booster Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 2.0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-c-booster-smoothie-(small)"
+      }
+    },
+    {
+      "id": "orange-carrot-juice-large-104521717",
+      "name": "Orange Carrot Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 7.0,
+      "carbs_g": 82.0,
+      "fat_g": 2.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-carrot-juice-(large)"
+      }
+    },
+    {
+      "id": "orange-carrot-twist-juice-medium-84620795",
+      "name": "Orange Carrot Twist Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 5.0,
+      "carbs_g": 64.0,
+      "fat_g": 1.5,
+      "fiber_g": 9.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-carrot-twist-juice-(medium)"
+      }
+    },
+    {
+      "id": "orange-carrot-twist-juice-small-84620800",
+      "name": "Orange Carrot Twist Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 4.0,
+      "carbs_g": 47.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-carrot-twist-juice-(small)"
+      }
+    },
+    {
+      "id": "orange-dream-machine-smoothie-large-84619957",
+      "name": "Orange Dream Machine Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 520.0,
+      "protein_g": 8.0,
+      "carbs_g": 118.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(large)"
+      }
+    },
+    {
+      "id": "orange-dream-machine-smoothie-medium-84619962",
+      "name": "Orange Dream Machine Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 6.0,
+      "carbs_g": 93.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "orange-dream-machine-smoothie-small-84619965",
+      "name": "Orange Dream Machine Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 5.0,
+      "carbs_g": 67.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(small)"
+      }
+    },
+    {
+      "id": "orange-ginger-cayenne-shot-69470182",
+      "name": "Orange Ginger Cayenne Shot",
+      "description": null,
+      "category": "component",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-ginger-cayenne-shot"
+      }
+    },
+    {
+      "id": "orange-sherbet-large-104936655",
+      "name": "Orange Sherbet (Large)",
+      "description": null,
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 11.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-sherbet-(large)"
+      }
+    },
+    {
+      "id": "orange-sherbet-medium-104936678",
+      "name": "Orange Sherbet (Medium)",
+      "description": null,
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 9.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-sherbet-(medium)"
+      }
+    },
+    {
+      "id": "orange-sherbet-small-104936695",
+      "name": "Orange Sherbet (Small)",
+      "description": null,
+      "category": "side",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 6.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-sherbet-(small)"
+      }
+    },
+    {
+      "id": "orange-supreme-juice-large-84620802",
+      "name": "Orange Supreme Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 5.0,
+      "carbs_g": 85.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-supreme-juice-(large)"
+      }
+    },
+    {
+      "id": "orange-supreme-juice-medium-84620808",
+      "name": "Orange Supreme Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 4.0,
+      "carbs_g": 74.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-supreme-juice-(medium)"
+      }
+    },
+    {
+      "id": "orange-supreme-juice-small-84620813",
+      "name": "Orange Supreme Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 59.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-supreme-juice-(small)"
+      }
+    },
+    {
+      "id": "organic-agave-topping-69470214",
+      "name": "Organic Agave, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/organic-agave-topping"
+      }
+    },
+    {
+      "id": "pb-banana-protein-soy-protein-smoothie-large-127589645",
+      "name": "PB & Banana Protein + Soy Protein Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 800.0,
+      "protein_g": 44.0,
+      "carbs_g": 86.0,
+      "fat_g": 34.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-protein-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-soy-protein-smoothie-medium-127589644",
+      "name": "PB & Banana Protein + Soy Protein Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 600.0,
+      "protein_g": 36.0,
+      "carbs_g": 67.0,
+      "fat_g": 23.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 398.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-protein-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-soy-protein-smoothie-small-127589638",
+      "name": "PB & Banana Protein + Soy Protein Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 520.0,
+      "protein_g": 34.0,
+      "carbs_g": 50.0,
+      "fat_g": 22.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 369.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-protein-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-whey-protein-smoothie-large-127589683",
+      "name": "PB & Banana Protein, Whey Protein Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 835.0,
+      "protein_g": 51.0,
+      "carbs_g": 87.0,
+      "fat_g": 35.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 366.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-protein-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-whey-protein-smoothie-medium-127589661",
+      "name": "PB & Banana Protein, Whey Protein Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 640.0,
+      "protein_g": 44.0,
+      "carbs_g": 67.0,
+      "fat_g": 24.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-protein-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-whey-protein-smoothie-small-127589655",
+      "name": "PB & Banana Protein, Whey Protein Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 555.0,
+      "protein_g": 41.0,
+      "carbs_g": 50.0,
+      "fat_g": 23.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 241.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-protein-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-soy-smoothie-large-84619979",
+      "name": "PB + Banana Protein Soy Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 715.0,
+      "protein_g": 41.0,
+      "carbs_g": 70.0,
+      "fat_g": 32.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 465.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-soy-smoothie-medium-84619984",
+      "name": "PB + Banana Protein Soy Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 545.0,
+      "protein_g": 35.0,
+      "carbs_g": 54.0,
+      "fat_g": 23.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 385.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-soy-smoothie-small-84619991",
+      "name": "PB + Banana Protein Soy Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 475.0,
+      "protein_g": 32.0,
+      "carbs_g": 41.0,
+      "fat_g": 21.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 355.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-whey-smoothie-large-84619995",
+      "name": "PB + Banana Protein Whey Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 785.0,
+      "protein_g": 51.0,
+      "carbs_g": 73.0,
+      "fat_g": 35.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 365.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-whey-smoothie-medium-84619997",
+      "name": "PB + Banana Protein Whey Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 615.0,
+      "protein_g": 44.0,
+      "carbs_g": 58.0,
+      "fat_g": 25.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 285.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pb-banana-protein-whey-smoothie-small-84620000",
+      "name": "PB + Banana Protein Whey Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 540.0,
+      "protein_g": 42.0,
+      "carbs_g": 44.0,
+      "fat_g": 23.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 255.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pb-chocolate-chip-protein-bites-4-bites-127589291",
+      "name": "PB + Chocolate Chip Protein Bites, 4 Bites",
+      "description": null,
+      "category": "side",
+      "calories": 625.0,
+      "protein_g": 25.0,
+      "carbs_g": 77.0,
+      "fat_g": 26.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-chip-protein-bites-4-bites"
+      }
+    },
+    {
+      "id": "pb-chocolate-love-smoothie-large-84620003",
+      "name": "PB Chocolate Love Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 860.0,
+      "protein_g": 31.0,
+      "carbs_g": 114.0,
+      "fat_g": 35.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 387.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-love-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pb-chocolate-love-smoothie-medium-84620006",
+      "name": "PB Chocolate Love Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 665.0,
+      "protein_g": 22.0,
+      "carbs_g": 98.0,
+      "fat_g": 24.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 277.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-love-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pb-chocolate-love-smoothie-small-84620012",
+      "name": "PB Chocolate Love Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 15.0,
+      "carbs_g": 68.0,
+      "fat_g": 14.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 195.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-love-smoothie-(small)"
+      }
+    },
+    {
+      "id": "peach-perfection-smoothie-large-84620015",
+      "name": "Peach Perfection Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 3.0,
+      "carbs_g": 91.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peach-perfection-smoothie-(large)"
+      }
+    },
+    {
+      "id": "peach-perfection-smoothie-medium-84620021",
+      "name": "Peach Perfection Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 315.0,
+      "protein_g": 2.0,
+      "carbs_g": 78.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peach-perfection-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "peach-perfection-smoothie-small-84620026",
+      "name": "Peach Perfection Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 205.0,
+      "protein_g": 1.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peach-perfection-smoothie-(small)"
+      }
+    },
+    {
+      "id": "peachberry-blast-large-104521647",
+      "name": "Peachberry Blast (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 1.0,
+      "carbs_g": 81.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 29.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peachberry-blast-(large)"
+      }
+    },
+    {
+      "id": "peachberry-blast-medium-104521650",
+      "name": "Peachberry Blast (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 1.0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 21.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peachberry-blast-(medium)"
+      }
+    },
+    {
+      "id": "peachberry-blast-small-104521653",
+      "name": "Peachberry Blast (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 1.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 18.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peachberry-blast-(small)"
+      }
+    },
+    {
+      "id": "peanut-butter-banana-crunch-104521490",
+      "name": "Peanut Butter Banana Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 15.0,
+      "carbs_g": 84.0,
+      "fat_g": 19.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-crunch"
+      }
+    },
+    {
+      "id": "peanut-butter-banana-nutella-greek-yogurt-large-104521476",
+      "name": "Peanut Butter Banana Nutella, Greek Yogurt (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 925.0,
+      "protein_g": 44.0,
+      "carbs_g": 113.0,
+      "fat_g": 36.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 445.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-nutella-greek-yogurt-(large)"
+      }
+    },
+    {
+      "id": "peanut-butter-banana-nutella-greek-yogurt-regular-104521471",
+      "name": "Peanut Butter Banana Nutella, Greek Yogurt (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 725.0,
+      "protein_g": 30.0,
+      "carbs_g": 87.0,
+      "fat_g": 31.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 375.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-nutella-greek-yogurt-(regular)"
+      }
+    },
+    {
+      "id": "peanut-butter-banana-plus-nutella-cocowhip-large-104521464",
+      "name": "Peanut Butter Banana Plus Nutella, Cocowhip (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 1035.0,
+      "protein_g": 14.0,
+      "carbs_g": 136.0,
+      "fat_g": 54.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-plus-nutella-cocowhip-(large)"
+      }
+    },
+    {
+      "id": "peanut-butter-banana-plus-nutella-cocowhip-regular-104521462",
+      "name": "Peanut Butter Banana Plus Nutella, Cocowhip (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 12.0,
+      "carbs_g": 101.0,
+      "fat_g": 41.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-plus-nutella-cocowhip-(regular)"
+      }
+    },
+    {
+      "id": "peanut-butter-boost-104521805",
+      "name": "Peanut Butter Boost",
+      "description": null,
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 4.0,
+      "carbs_g": 4.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-boost"
+      }
+    },
+    {
+      "id": "peanut-butter-dip-cup-127589314",
+      "name": "Peanut Butter Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 6.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-dip-cup"
+      }
+    },
+    {
+      "id": "peanut-butter-moo-d-smoothie-large-84620028",
+      "name": "Peanut Butter Moo'd Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 965.0,
+      "protein_g": 31.0,
+      "carbs_g": 146.0,
+      "fat_g": 29.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 435.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-mood-smoothie-(large)"
+      }
+    },
+    {
+      "id": "peanut-butter-moo-d-smoothie-medium-84620036",
+      "name": "Peanut Butter Moo'd Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 750.0,
+      "protein_g": 24.0,
+      "carbs_g": 120.0,
+      "fat_g": 21.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 335.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-mood-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "peanut-butter-moo-d-smoothie-small-84620042",
+      "name": "Peanut Butter Moo'd Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 455.0,
+      "protein_g": 14.0,
+      "carbs_g": 77.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 205.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-mood-smoothie-(small)"
+      }
+    },
+    {
+      "id": "peanut-butter-topping-104521941",
+      "name": "Peanut Butter, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 75.0,
+      "protein_g": 3.0,
+      "carbs_g": 3.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-topping"
+      }
+    },
+    {
+      "id": "peenya-kowlada-smoothie-large-84621024",
+      "name": "Peenya Kowlada Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 580.0,
+      "protein_g": 6.0,
+      "carbs_g": 126.0,
+      "fat_g": 6.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peenya-kowlada-smoothie-(large)"
+      }
+    },
+    {
+      "id": "peenya-kowlada-smoothie-medium-84621028",
+      "name": "Peenya Kowlada Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 5.0,
+      "carbs_g": 99.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peenya-kowlada-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "peenya-kowlada-smoothie-small-84621035",
+      "name": "Peenya Kowlada Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 3.0,
+      "carbs_g": 67.0,
+      "fat_g": 3.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peenya-kowlada-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pineapple-sherbet-large-104936719",
+      "name": "Pineapple Sherbet (Large)",
+      "description": null,
+      "category": "side",
+      "calories": 65.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pineapple-sherbet-(large)"
+      }
+    },
+    {
+      "id": "pineapple-sherbet-medium-104936739",
+      "name": "Pineapple Sherbet (Medium)",
+      "description": null,
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pineapple-sherbet-(medium)"
+      }
+    },
+    {
+      "id": "pineapple-sherbet-small-104936748",
+      "name": "Pineapple Sherbet (Small)",
+      "description": null,
+      "category": "side",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pineapple-sherbet-(small)"
+      }
+    },
+    {
+      "id": "pink-star-smoothie-large-84620961",
+      "name": "Pink Star Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 550.0,
+      "protein_g": 8.0,
+      "carbs_g": 122.0,
+      "fat_g": 2.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pink-star-smoothie-medium-84620966",
+      "name": "Pink Star Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 6.0,
+      "carbs_g": 90.0,
+      "fat_g": 1.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pink-star-smoothie-small-84620971",
+      "name": "Pink Star Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 64.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(small)"
+      }
+    },
+    {
+      "id": "plant-based-pumpkin-smash-smoothie-large-84620247",
+      "name": "Plant-Based Pumpkin Smash Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 760.0,
+      "protein_g": 6.0,
+      "carbs_g": 121.0,
+      "fat_g": 30.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-pumpkin-smash-smoothie-(large)"
+      }
+    },
+    {
+      "id": "plant-based-pumpkin-smash-smoothie-medium-84620253",
+      "name": "Plant-Based Pumpkin Smash Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 610.0,
+      "protein_g": 5.0,
+      "carbs_g": 96.0,
+      "fat_g": 25.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-pumpkin-smash-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "plant-based-pumpkin-smash-smoothie-small-84620259",
+      "name": "Plant-Based Pumpkin Smash Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 3.0,
+      "carbs_g": 59.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-pumpkin-smash-smoothie-(small)"
+      }
+    },
+    {
+      "id": "plant-based-watermelon-breeze-smoothie-large-84620326",
+      "name": "Plant-Based Watermelon Breeze Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 590.0,
+      "protein_g": 4.0,
+      "carbs_g": 120.0,
+      "fat_g": 13.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-watermelon-breeze-smoothie-(large)"
+      }
+    },
+    {
+      "id": "plant-based-watermelon-breeze-smoothie-medium-84620330",
+      "name": "Plant-Based Watermelon Breeze Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 490.0,
+      "protein_g": 3.0,
+      "carbs_g": 99.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-watermelon-breeze-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "plant-based-watermelon-breeze-smoothie-small-84620338",
+      "name": "Plant-Based Watermelon Breeze Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 69.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-watermelon-breeze-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pomegranate-paradise-smoothie-large-84620046",
+      "name": "Pomegranate Paradise Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 3.0,
+      "carbs_g": 93.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pomegranate-paradise-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pomegranate-paradise-smoothie-medium-84620051",
+      "name": "Pomegranate Paradise Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 2.0,
+      "carbs_g": 79.0,
+      "fat_g": 0.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pomegranate-paradise-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pomegranate-paradise-smoothie-small-84620053",
+      "name": "Pomegranate Paradise Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pomegranate-paradise-smoothie-(small)"
+      }
+    },
+    {
+      "id": "protein-berry-workout-soy-smoothie-large-84620093",
+      "name": "Protein Berry Workout Soy Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 500.0,
+      "protein_g": 21.0,
+      "carbs_g": 102.0,
+      "fat_g": 2.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 271.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-soy-smoothie-(large)"
+      }
+    },
+    {
+      "id": "protein-berry-workout-soy-smoothie-medium-84620094",
+      "name": "Protein Berry Workout Soy Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 19.0,
+      "carbs_g": 82.0,
+      "fat_g": 2.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 235.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-soy-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "protein-berry-workout-soy-smoothie-small-84620100",
+      "name": "Protein Berry Workout Soy Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 295.0,
+      "protein_g": 16.0,
+      "carbs_g": 57.0,
+      "fat_g": 1.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 188.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-soy-smoothie-(small)"
+      }
+    },
+    {
+      "id": "protein-berry-workout-whey-smoothie-large-84620104",
+      "name": "Protein Berry Workout Whey Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 425.0,
+      "protein_g": 23.0,
+      "carbs_g": 79.0,
+      "fat_g": 3.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 185.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-whey-smoothie-(large)"
+      }
+    },
+    {
+      "id": "protein-berry-workout-whey-smoothie-medium-84620109",
+      "name": "Protein Berry Workout Whey Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 345.0,
+      "protein_g": 21.0,
+      "carbs_g": 61.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-whey-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "protein-berry-workout-whey-smoothie-small-84620112",
+      "name": "Protein Berry Workout Whey Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 19.0,
+      "carbs_g": 44.0,
+      "fat_g": 2.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 114.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-whey-smoothie-(small)"
+      }
+    },
+    {
+      "id": "pumpkin-smash-classic-smoothie-large-84620263",
+      "name": "Pumpkin Smash Classic Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 570.0,
+      "protein_g": 17.0,
+      "carbs_g": 115.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pumpkin-smash-classic-smoothie-(large)"
+      }
+    },
+    {
+      "id": "pumpkin-smash-classic-smoothie-medium-84620268",
+      "name": "Pumpkin Smash Classic Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 13.0,
+      "carbs_g": 90.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pumpkin-smash-classic-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "pumpkin-smash-classic-smoothie-small-84620314",
+      "name": "Pumpkin Smash Classic Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 8.0,
+      "carbs_g": 59.0,
+      "fat_g": 2.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pumpkin-smash-classic-smoothie-(small)"
+      }
+    },
+    {
+      "id": "purely-carrot-juice-large-84620823",
+      "name": "Purely Carrot Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 7.0,
+      "carbs_g": 73.0,
+      "fat_g": 2.0,
+      "fiber_g": 21.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-carrot-juice-(large)"
+      }
+    },
+    {
+      "id": "purely-carrot-juice-medium-84620828",
+      "name": "Purely Carrot Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 6.0,
+      "carbs_g": 57.0,
+      "fat_g": 1.5,
+      "fiber_g": 17.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-carrot-juice-(medium)"
+      }
+    },
+    {
+      "id": "purely-carrot-juice-small-84620832",
+      "name": "Purely Carrot Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 4.0,
+      "carbs_g": 42.0,
+      "fat_g": 1.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-carrot-juice-(small)"
+      }
+    },
+    {
+      "id": "purely-orange-juice-large-84620835",
+      "name": "Purely Orange Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 6.0,
+      "carbs_g": 90.0,
+      "fat_g": 1.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-orange-juice-(large)"
+      }
+    },
+    {
+      "id": "purely-orange-juice-medium-84620839",
+      "name": "Purely Orange Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 5.0,
+      "carbs_g": 71.0,
+      "fat_g": 1.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-orange-juice-(medium)"
+      }
+    },
+    {
+      "id": "purely-orange-juice-small-84620845",
+      "name": "Purely Orange Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 52.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-orange-juice-(small)"
+      }
+    },
+    {
+      "id": "raspberry-sherbet-large-104936772",
+      "name": "Raspberry Sherbet (Large)",
+      "description": null,
+      "category": "side",
+      "calories": 65.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/raspberry-sherbet-(large)"
+      }
+    },
+    {
+      "id": "raspberry-sherbet-medium-104936785",
+      "name": "Raspberry Sherbet (Medium)",
+      "description": null,
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/raspberry-sherbet-(medium)"
+      }
+    },
+    {
+      "id": "raspberry-sherbet-small-104936803",
+      "name": "Raspberry Sherbet (Small)",
+      "description": null,
+      "category": "side",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/raspberry-sherbet-(small)"
+      }
+    },
+    {
+      "id": "razzmatazz-smoothie-large-84620114",
+      "name": "Razzmatazz Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 475.0,
+      "protein_g": 2.0,
+      "carbs_g": 117.0,
+      "fat_g": 0.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/razzmatazz-smoothie-(large)"
+      }
+    },
+    {
+      "id": "razzmatazz-smoothie-medium-84620119",
+      "name": "Razzmatazz Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 1.0,
+      "carbs_g": 88.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/razzmatazz-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "razzmatazz-smoothie-small-84620123",
+      "name": "Razzmatazz Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 265.0,
+      "protein_g": 1.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/razzmatazz-smoothie-(small)"
+      }
+    },
+    {
+      "id": "red-gummi-smoothie-large-84621038",
+      "name": "Red Gummi Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 520.0,
+      "protein_g": 5.0,
+      "carbs_g": 122.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 136.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/red-gummi-smoothie-(large)"
+      }
+    },
+    {
+      "id": "red-gummi-smoothie-medium-84621040",
+      "name": "Red Gummi Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 385.0,
+      "protein_g": 4.0,
+      "carbs_g": 91.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 99.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/red-gummi-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "red-gummi-smoothie-small-84621042",
+      "name": "Red Gummi Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 275.0,
+      "protein_g": 3.0,
+      "carbs_g": 64.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/red-gummi-smoothie-(small)"
+      }
+    },
+    {
+      "id": "smooth-talkin-mango-smoothie-large-84620132",
+      "name": "Smooth Talkin Mango Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 5.0,
+      "carbs_g": 89.0,
+      "fat_g": 10.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/smooth-talkin-mango-smoothie-(large)"
+      }
+    },
+    {
+      "id": "smooth-talkin-mango-smoothie-medium-84620134",
+      "name": "Smooth Talkin Mango Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 5.0,
+      "carbs_g": 76.0,
+      "fat_g": 8.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/smooth-talkin-mango-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "smooth-talkin-mango-smoothie-small-84620137",
+      "name": "Smooth Talkin Mango Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 49.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/smooth-talkin-mango-smoothie-(small)"
+      }
+    },
+    {
+      "id": "sour-gummi-smoothie-large-84621045",
+      "name": "Sour Gummi Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 500.0,
+      "protein_g": 1.0,
+      "carbs_g": 117.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sour-gummi-smoothie-(large)"
+      }
+    },
+    {
+      "id": "sour-gummi-smoothie-medium-84621055",
+      "name": "Sour Gummi Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 0.0,
+      "carbs_g": 86.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sour-gummi-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "sour-gummi-smoothie-small-84621056",
+      "name": "Sour Gummi Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 60.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sour-gummi-smoothie-(small)"
+      }
+    },
+    {
+      "id": "sourdough-parmesan-pretzel-708888",
+      "name": "Sourdough Parmesan Pretzel",
+      "description": null,
+      "category": "side",
+      "calories": 420.0,
+      "protein_g": 12.0,
+      "carbs_g": 69.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sourdough-parmesan-pretzel"
+      }
+    },
+    {
+      "id": "soy-protein-boost-64081",
+      "name": "Soy Protein Boost",
+      "description": null,
+      "category": "component",
+      "calories": 40.0,
+      "protein_g": 9.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/soy-protein-boost"
+      }
+    },
+    {
+      "id": "soymilk-8-fl-oz-69471353",
+      "name": "Soymilk, 8 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 5.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/soymilk-8-fl-oz"
+      }
+    },
+    {
+      "id": "spinach-boost-69471355",
+      "name": "Spinach Boost",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/spinach-boost"
+      }
+    },
+    {
+      "id": "strawberries-gone-bananas-smoothie-10-fl-oz-84620219",
+      "name": "Strawberries Gone Bananas Smoothie, 10 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 35.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-gone-bananas-smoothie-10-fl-oz"
+      }
+    },
+    {
+      "id": "strawberries-wild-smoothie-large-84620144",
+      "name": "Strawberries Wild Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 108.0,
+      "fat_g": 0.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-wild-smoothie-(large)"
+      }
+    },
+    {
+      "id": "strawberries-wild-smoothie-medium-84620148",
+      "name": "Strawberries Wild Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 82.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-wild-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "strawberries-wild-smoothie-small-84620154",
+      "name": "Strawberries Wild Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 245.0,
+      "protein_g": 3.0,
+      "carbs_g": 59.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-wild-smoothie-(small)"
+      }
+    },
+    {
+      "id": "strawberry-nutella-coconut-104521496",
+      "name": "Strawberry + Nutella & Coconut",
+      "description": null,
+      "category": "component",
+      "calories": 390.0,
+      "protein_g": 8.0,
+      "carbs_g": 58.0,
+      "fat_g": 13.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-nutella-coconut"
+      }
+    },
+    {
+      "id": "strawberry-blueberry-greek-yogurt-large-104521439",
+      "name": "Strawberry Blueberry Greek Yogurt (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 635.0,
+      "protein_g": 37.0,
+      "carbs_g": 85.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-greek-yogurt-(large)"
+      }
+    },
+    {
+      "id": "strawberry-blueberry-greek-yogurt-regular-104521438",
+      "name": "Strawberry Blueberry Greek Yogurt (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 25.0,
+      "carbs_g": 74.0,
+      "fat_g": 18.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-greek-yogurt-(regular)"
+      }
+    },
+    {
+      "id": "strawberry-blueberry-cocowhip-large-104521455",
+      "name": "Strawberry Blueberry, Cocowhip (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 695.0,
+      "protein_g": 8.0,
+      "carbs_g": 96.0,
+      "fat_g": 36.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-cocowhip-(large)"
+      }
+    },
+    {
+      "id": "strawberry-blueberry-cocowhip-regular-104521450",
+      "name": "Strawberry Blueberry, Cocowhip (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 7.0,
+      "carbs_g": 79.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-cocowhip-(regular)"
+      }
+    },
+    {
+      "id": "strawberry-lemon-twist-large-127589260",
+      "name": "Strawberry Lemon Twist (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 77.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 22.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-lemon-twist-(large)"
+      }
+    },
+    {
+      "id": "strawberry-lemon-twist-medium-127589266",
+      "name": "Strawberry Lemon Twist (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 16.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-lemon-twist-(medium)"
+      }
+    },
+    {
+      "id": "strawberry-lemon-twist-small-127589275",
+      "name": "Strawberry Lemon Twist (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 47.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 13.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-lemon-twist-(small)"
+      }
+    },
+    {
+      "id": "strawberry-surf-rider-smoothie-large-84620156",
+      "name": "Strawberry Surf Rider Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 460.0,
+      "protein_g": 1.0,
+      "carbs_g": 116.0,
+      "fat_g": 0.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-surf-rider-smoothie-(large)"
+      }
+    },
+    {
+      "id": "strawberry-surf-rider-smoothie-medium-84620162",
+      "name": "Strawberry Surf Rider Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 1.0,
+      "carbs_g": 90.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-surf-rider-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "strawberry-surf-rider-smoothie-small-84620163",
+      "name": "Strawberry Surf Rider Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 1.0,
+      "carbs_g": 64.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-surf-rider-smoothie-(small)"
+      }
+    },
+    {
+      "id": "strawberry-whirl-smoothie-large-84620166",
+      "name": "Strawberry Whirl Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 385.0,
+      "protein_g": 2.0,
+      "carbs_g": 97.0,
+      "fat_g": 1.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-whirl-smoothie-(large)"
+      }
+    },
+    {
+      "id": "strawberry-whirl-smoothie-medium-84620169",
+      "name": "Strawberry Whirl Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 315.0,
+      "protein_g": 2.0,
+      "carbs_g": 80.0,
+      "fat_g": 0.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-whirl-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "strawberry-whirl-smoothie-small-84620171",
+      "name": "Strawberry Whirl Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 215.0,
+      "protein_g": 1.0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-whirl-smoothie-(small)"
+      }
+    },
+    {
+      "id": "strawberry-fresh-topping-69471424",
+      "name": "Strawberry, Fresh, Topping",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-fresh-topping"
+      }
+    },
+    {
+      "id": "tajin-large-104521806",
+      "name": "Tajin (Large)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tajin-(large)"
+      }
+    },
+    {
+      "id": "tajin-medium-104521808",
+      "name": "Tajin (Medium)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tajin-(medium)"
+      }
+    },
+    {
+      "id": "tajin-small-104521814",
+      "name": "Tajin (Small)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tajin-(small)"
+      }
+    },
+    {
+      "id": "the-go-getter-smoothie-large-84620176",
+      "name": "The Go Getter Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 10.0,
+      "carbs_g": 85.0,
+      "fat_g": 2.5,
+      "fiber_g": 12.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/the-go-getter-smoothie-(large)"
+      }
+    },
+    {
+      "id": "the-go-getter-smoothie-medium-84620178",
+      "name": "The Go Getter Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 8.0,
+      "carbs_g": 70.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/the-go-getter-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "the-go-getter-smoothie-small-84620182",
+      "name": "The Go Getter Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 7.0,
+      "carbs_g": 57.0,
+      "fat_g": 1.5,
+      "fiber_g": 8.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/the-go-getter-smoothie-(small)"
+      }
+    },
+    {
+      "id": "tropical-greek-yogurt-granola-parfait-104521916",
+      "name": "Tropical Greek Yogurt Granola Parfait",
+      "description": null,
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 16.0,
+      "carbs_g": 43.0,
+      "fat_g": 5.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tropical-greek-yogurt-granola-parfait"
+      }
+    },
+    {
+      "id": "turkey-sausage-n-cheese-breakfast-wrap-69471500",
+      "name": "Turkey Sausage ‘n Cheese Breakfast Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 320.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/turkey-sausage-%E2%80%98n-cheese-breakfast-wrap"
+      }
+    },
+    {
+      "id": "underground-pink-star-smoothie-large-127589823",
+      "name": "Underground, Pink Star Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 570.0,
+      "protein_g": 8.0,
+      "carbs_g": 131.0,
+      "fat_g": 1.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/underground-pink-star-smoothie-(large)"
+      }
+    },
+    {
+      "id": "underground-pink-star-smoothie-medium-127589844",
+      "name": "Underground, Pink Star Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 6.0,
+      "carbs_g": 101.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 118.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/underground-pink-star-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "underground-pink-star-smoothie-small-127589811",
+      "name": "Underground, Pink Star Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 315.0,
+      "protein_g": 4.0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 83.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/underground-pink-star-smoothie-(small)"
+      }
+    },
+    {
+      "id": "vanilla-blue-sky-large-104521284",
+      "name": "Vanilla Blue Sky (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 520.0,
+      "protein_g": 9.0,
+      "carbs_g": 95.0,
+      "fat_g": 14.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-(large)"
+      }
+    },
+    {
+      "id": "vanilla-blue-sky-regular-104521278",
+      "name": "Vanilla Blue Sky (Regular)",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 5.0,
+      "carbs_g": 68.0,
+      "fat_g": 9.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-(regular)"
+      }
+    },
+    {
+      "id": "vanilla-blue-sky-smoothie-large-84620187",
+      "name": "Vanilla Blue Sky Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 3.0,
+      "carbs_g": 77.0,
+      "fat_g": 7.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-smoothie-(large)"
+      }
+    },
+    {
+      "id": "vanilla-blue-sky-smoothie-medium-84620192",
+      "name": "Vanilla Blue Sky Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 3.0,
+      "carbs_g": 59.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "vanilla-blue-sky-smoothie-small-84620196",
+      "name": "Vanilla Blue Sky Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 43.0,
+      "fat_g": 4.5,
+      "fiber_g": 5.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-smoothie-(small)"
+      }
+    },
+    {
+      "id": "vanilla-coconutmilk-8-fl-oz-69472544",
+      "name": "Vanilla Coconutmilk, 8 fl oz",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-coconutmilk-8-fl-oz"
+      }
+    },
+    {
+      "id": "veggie-vitality-juice-large-84620849",
+      "name": "Veggie Vitality Juice (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 6.0,
+      "carbs_g": 65.0,
+      "fat_g": 2.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/veggie-vitality-juice-(large)"
+      }
+    },
+    {
+      "id": "veggie-vitality-juice-medium-84620851",
+      "name": "Veggie Vitality Juice (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 5.0,
+      "carbs_g": 52.0,
+      "fat_g": 1.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/veggie-vitality-juice-(medium)"
+      }
+    },
+    {
+      "id": "veggie-vitality-juice-small-84620856",
+      "name": "Veggie Vitality Juice (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 4.0,
+      "carbs_g": 44.0,
+      "fat_g": 1.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/veggie-vitality-juice-(small)"
+      }
+    },
+    {
+      "id": "watermelon-breeze-smoothie-large-84620318",
+      "name": "Watermelon Breeze Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 510.0,
+      "protein_g": 3.0,
+      "carbs_g": 120.0,
+      "fat_g": 2.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/watermelon-breeze-smoothie-(large)"
+      }
+    },
+    {
+      "id": "watermelon-breeze-smoothie-medium-84620321",
+      "name": "Watermelon Breeze Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 2.0,
+      "carbs_g": 98.0,
+      "fat_g": 1.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/watermelon-breeze-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "watermelon-breeze-smoothie-small-84620325",
+      "name": "Watermelon Breeze Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 2.0,
+      "carbs_g": 71.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/watermelon-breeze-smoothie-(small)"
+      }
+    },
+    {
+      "id": "wheatgrass-juice-shot-69472618",
+      "name": "Wheatgrass Juice Shot",
+      "description": null,
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/wheatgrass-juice-shot"
+      }
+    },
+    {
+      "id": "whey-protein-boost-2707117",
+      "name": "Whey Protein Boost",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 13.0,
+      "carbs_g": 2.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/whey-protein-boost"
+      }
+    },
+    {
+      "id": "white-gummi-smoothie-large-84620199",
+      "name": "White Gummi Smoothie (Large)",
+      "description": null,
+      "category": "drink",
+      "calories": 565.0,
+      "protein_g": 4.0,
+      "carbs_g": 136.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/white-gummi-smoothie-(large)"
+      }
+    },
+    {
+      "id": "white-gummi-smoothie-medium-84620202",
+      "name": "White Gummi Smoothie (Medium)",
+      "description": null,
+      "category": "drink",
+      "calories": 420.0,
+      "protein_g": 2.0,
+      "carbs_g": 101.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/white-gummi-smoothie-(medium)"
+      }
+    },
+    {
+      "id": "white-gummi-smoothie-small-84620209",
+      "name": "White Gummi Smoothie (Small)",
+      "description": null,
+      "category": "drink",
+      "calories": 305.0,
+      "protein_g": 2.0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 1 serving (crowd-submitted; Jamba publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/white-gummi-smoothie-(small)"
+      }
+    }
+  ]
+}

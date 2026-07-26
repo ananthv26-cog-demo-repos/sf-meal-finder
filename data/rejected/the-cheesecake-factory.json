@@ -1,0 +1,2509 @@
+[
+  {
+    "item": {
+      "id": "big-island-paper-plane-126590478",
+      "name": "Big Island Paper Plane",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/big-island-paper-plane"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/big-island-paper-plane-126590478: macro check failed — stated 260.0 kcal vs computed 112 (delta -148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bloody-mary-84550945",
+      "name": "Bloody Mary",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 6.0,
+      "carbs_g": 51.0,
+      "fat_g": 4.0,
+      "fiber_g": 23.0,
+      "sodium_mg": 1180.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/bloody-mary"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/bloody-mary-84550945: macro check failed — stated 360.0 kcal vs computed 264 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blue-hawaiian-69471688",
+      "name": "Blue Hawaiian",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/blue-hawaiian"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/blue-hawaiian-69471688: macro check failed — stated 290.0 kcal vs computed 168 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bottled-beer-16oz-126590468",
+      "name": "Bottled Beer - 16oz",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 4.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/bottled-beer-16oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/bottled-beer-16oz-126590468: macro check failed — stated 270.0 kcal vs computed 20 (delta -250)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bottled-light-beer-12oz-126590467",
+      "name": "Bottled Light Beer - 12oz",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/bottled-light-beer-12oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/bottled-light-beer-12oz-126590467: macro check failed — stated 100.0 kcal vs computed 28 (delta -72)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cherry-licious-soda-126590475",
+      "name": "Cherry-Licious Soda",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 1.0,
+      "carbs_g": 36.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/cherry-licious-soda"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/cherry-licious-soda-126590475: macro check failed — stated 380.0 kcal vs computed 283 (delta -97)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-aperol-spritz-hi-126590482",
+      "name": "Coconut Aperol Spritz (HI)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-aperol-spritz-(hi)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-aperol-spritz-hi-126590482: macro check failed — stated 260.0 kcal vs computed 144 (delta -116)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-margarita-107358315",
+      "name": "Coconut Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 0.0,
+      "carbs_g": 35.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-margarita"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-margarita-107358315: macro check failed — stated 330.0 kcal vs computed 140 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-margarita-hi-107358491",
+      "name": "Coconut Margarita (HI)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-margarita-(hi)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-margarita-hi-107358491: macro check failed — stated 220.0 kcal vs computed 124 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-margarita-pr-107358492",
+      "name": "Coconut Margarita (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-margarita-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-margarita-pr-107358492: macro check failed — stated 300.0 kcal vs computed 132 (delta -168)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-margarita-ut-107358494",
+      "name": "Coconut Margarita (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-margarita-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-margarita-ut-107358494: macro check failed — stated 250.0 kcal vs computed 108 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-mojito-84576426",
+      "name": "Coconut Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 1.0,
+      "carbs_g": 44.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-mojito"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-mojito-84576426: macro check failed — stated 300.0 kcal vs computed 198 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-mojito-pr-107358506",
+      "name": "Coconut Mojito (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 1.0,
+      "carbs_g": 45.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-mojito-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-mojito-pr-107358506: macro check failed — stated 310.0 kcal vs computed 202 (delta -108)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-mojito-ut-69472040",
+      "name": "Coconut Mojito (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 1.0,
+      "carbs_g": 40.0,
+      "fat_g": 1.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/coconut-mojito-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/coconut-mojito-ut-69472040: macro check failed — stated 270.0 kcal vs computed 178 (delta -92)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cucumber-martini-pr-69471981",
+      "name": "Cucumber Martini (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/cucumber-martini-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/cucumber-martini-pr-69471981: macro check failed — stated 260.0 kcal vs computed 112 (delta -148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "draft-beer-glass-126590472",
+      "name": "Draft Beer - Glass",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/draft-beer-glass"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/draft-beer-glass-126590472: macro check failed — stated 250.0 kcal vs computed 20 (delta -230)"
+    ]
+  },
+  {
+    "item": {
+      "id": "draft-light-beer-glass-126590469",
+      "name": "Draft Light Beer - Glass",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/draft-light-beer-glass"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/draft-light-beer-glass-126590469: macro check failed — stated 120.0 kcal vs computed 32 (delta -88)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espresso-martini-84576371",
+      "name": "Espresso Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/espresso-martini"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/espresso-martini-84576371: macro check failed — stated 250.0 kcal vs computed 92 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espresso-martini-pr-69471972",
+      "name": "Espresso Martini (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/espresso-martini-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/espresso-martini-pr-69471972: macro check failed — stated 250.0 kcal vs computed 92 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espresso-martini-sub-69471979",
+      "name": "Espresso Martini (SUB)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/espresso-martini-(sub)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/espresso-martini-sub-69471979: macro check failed — stated 240.0 kcal vs computed 84 (delta -156)"
+    ]
+  },
+  {
+    "item": {
+      "id": "espresso-martini-ut-69471976",
+      "name": "Espresso Martini (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/espresso-martini-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/espresso-martini-ut-69471976: macro check failed — stated 210.0 kcal vs computed 76 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "factory-peach-bellini-69471918",
+      "name": "Factory Peach Bellini",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/factory-peach-bellini"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/factory-peach-bellini-69471918: macro check failed — stated 250.0 kcal vs computed 188 (delta -62)"
+    ]
+  },
+  {
+    "item": {
+      "id": "fresh-cucumber-martini-126590480",
+      "name": "Fresh Cucumber Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/fresh-cucumber-martini"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/fresh-cucumber-martini-126590480: macro check failed — stated 230.0 kcal vs computed 76 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "georgia-peach-3916479",
+      "name": "Georgia Peach",
+      "description": null,
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 1.0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/georgia-peach"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/georgia-peach-3916479: macro check failed — stated 350.0 kcal vs computed 224 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "georgia-peach-ut-69471876",
+      "name": "Georgia Peach (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 1.0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/georgia-peach-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/georgia-peach-ut-69471876: macro check failed — stated 330.0 kcal vs computed 224 (delta -106)"
+    ]
+  },
+  {
+    "item": {
+      "id": "island-time-sangria-107358353",
+      "name": "Island Time Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 1.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/island-time-sangria"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/island-time-sangria-107358353: macro check failed — stated 230.0 kcal vs computed 136 (delta -94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "j-w-s-pink-lemonade-69471880",
+      "name": "J.w.'S Pink Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 49.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/jws-pink-lemonade"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/j-w-s-pink-lemonade-69471880: macro check failed — stated 300.0 kcal vs computed 196 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "j-w-s-pink-lemonade-pr-69471883",
+      "name": "J.w.'S Pink Lemonade (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/jws-pink-lemonade-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/j-w-s-pink-lemonade-pr-69471883: macro check failed — stated 270.0 kcal vs computed 180 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "j-w-s-pink-lemonade-ut-69471882",
+      "name": "J.w.'S Pink Lemonade (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/jws-pink-lemonade-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/j-w-s-pink-lemonade-ut-69471882: macro check failed — stated 290.0 kcal vs computed 200 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "japanese-whisky-sour-107358514",
+      "name": "Japanese Whisky Sour",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/japanese-whisky-sour"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/japanese-whisky-sour-107358514: macro check failed — stated 250.0 kcal vs computed 104 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "japanese-whisky-sour-ut-107358522",
+      "name": "Japanese Whisky Sour (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/japanese-whisky-sour-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/japanese-whisky-sour-ut-107358522: macro check failed — stated 240.0 kcal vs computed 104 (delta -136)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lava-flow-69471690",
+      "name": "Lava Flow",
+      "description": null,
+      "category": "drink",
+      "calories": 490.0,
+      "protein_g": 2.0,
+      "carbs_g": 79.0,
+      "fat_g": 9.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/lava-flow"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/lava-flow-69471690: macro check failed — stated 490.0 kcal vs computed 405 (delta -85)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lava-flow-2-0-126590479",
+      "name": "Lava Flow 2.0",
+      "description": null,
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 0.0,
+      "carbs_g": 38.0,
+      "fat_g": 1.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/lava-flow-20"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/lava-flow-2-0-126590479: macro check failed — stated 350.0 kcal vs computed 166 (delta -184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lemon-drop-69471957",
+      "name": "Lemon Drop",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/lemon-drop"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/lemon-drop-69471957: macro check failed — stated 270.0 kcal vs computed 112 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lilikoi-mimosa-hi-107358194",
+      "name": "Lilikoi Mimosa (HI)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/lilikoi-mimosa-(hi)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/lilikoi-mimosa-hi-107358194: macro check failed — stated 240.0 kcal vs computed 136 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "long-island-iced-tea-69475616",
+      "name": "Long Island Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/long-island-iced-tea"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/long-island-iced-tea-69475616: macro check failed — stated 240.0 kcal vs computed 112 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "long-island-iced-tea-ut-84576749",
+      "name": "Long Island Iced Tea (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/long-island-iced-tea-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/long-island-iced-tea-ut-84576749: macro check failed — stated 240.0 kcal vs computed 112 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mai-tai-69471923",
+      "name": "Mai Tai",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/mai-tai"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/mai-tai-69471923: macro check failed — stated 310.0 kcal vs computed 124 (delta -186)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mai-tai-hi-69471927",
+      "name": "Mai Tai (HI)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 1.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/mai-tai-(hi)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/mai-tai-hi-69471927: macro check failed — stated 310.0 kcal vs computed 160 (delta -150)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mai-tai-pr-69471930",
+      "name": "Mai Tai (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/mai-tai-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/mai-tai-pr-69471930: macro check failed — stated 300.0 kcal vs computed 132 (delta -168)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mai-tai-ut-69471926",
+      "name": "Mai Tai (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/mai-tai-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/mai-tai-ut-69471926: macro check failed — stated 290.0 kcal vs computed 124 (delta -166)"
+    ]
+  },
+  {
+    "item": {
+      "id": "margarita-69475613",
+      "name": "Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/margarita"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/margarita-69475613: macro check failed — stated 210.0 kcal vs computed 100 (delta -110)"
+    ]
+  },
+  {
+    "item": {
+      "id": "margarita-ut-69475614",
+      "name": "Margarita (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/margarita-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/margarita-ut-69475614: macro check failed — stated 200.0 kcal vs computed 100 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "maui-mule-107358366",
+      "name": "Maui Mule",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 47.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/maui-mule"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/maui-mule-107358366: macro check failed — stated 310.0 kcal vs computed 188 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mojito-69472002",
+      "name": "Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/mojito"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/mojito-69472002: macro check failed — stated 240.0 kcal vs computed 120 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mojito-pr-69472005",
+      "name": "Mojito (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/mojito-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/mojito-pr-69472005: macro check failed — stated 260.0 kcal vs computed 124 (delta -136)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ohana-punch-107358394",
+      "name": "Ohana Punch",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/ohana-punch"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/ohana-punch-107358394: macro check failed — stated 290.0 kcal vs computed 168 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "paloma-rosa-84576400",
+      "name": "Paloma Rosa",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/paloma-rosa"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/paloma-rosa-84576400: macro check failed — stated 320.0 kcal vs computed 144 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "paloma-rosa-pr-84576402",
+      "name": "Paloma Rosa (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/paloma-rosa-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/paloma-rosa-pr-84576402: macro check failed — stated 320.0 kcal vs computed 144 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "passion-fruit-margarita-69472001",
+      "name": "Passion Fruit Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/passion-fruit-margarita"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/passion-fruit-margarita-69472001: macro check failed — stated 270.0 kcal vs computed 116 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "passion-fruit-mojito-69472043",
+      "name": "Passion Fruit Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/passion-fruit-mojito"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/passion-fruit-mojito-69472043: macro check failed — stated 270.0 kcal vs computed 136 (delta -134)"
+    ]
+  },
+  {
+    "item": {
+      "id": "passion-fruit-mojito-pr-69472044",
+      "name": "Passion Fruit Mojito (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/passion-fruit-mojito-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/passion-fruit-mojito-pr-69472044: macro check failed — stated 260.0 kcal vs computed 136 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pineapple-mezcal-69471885",
+      "name": "Pineapple Mezcal",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/pineapple-mezcal"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/pineapple-mezcal-69471885: macro check failed — stated 290.0 kcal vs computed 144 (delta -146)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pineapple-mezcal-pr-69475453",
+      "name": "Pineapple Mezcal (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/pineapple-mezcal-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/pineapple-mezcal-pr-69475453: macro check failed — stated 270.0 kcal vs computed 144 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pineapple-moscow-mule-69471877",
+      "name": "Pineapple Moscow Mule",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 49.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/pineapple-moscow-mule"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/pineapple-moscow-mule-69471877: macro check failed — stated 320.0 kcal vs computed 196 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pineapple-moscow-mule-ut-69471879",
+      "name": "Pineapple Moscow Mule (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/pineapple-moscow-mule-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/pineapple-moscow-mule-ut-69471879: macro check failed — stated 280.0 kcal vs computed 180 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pi-a-colada-69471691",
+      "name": "Piña Colada",
+      "description": null,
+      "category": "drink",
+      "calories": 520.0,
+      "protein_g": 1.0,
+      "carbs_g": 75.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/pi%C3%B1a-colada"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/pi-a-colada-69471691: macro check failed — stated 520.0 kcal vs computed 376 (delta -144)"
+    ]
+  },
+  {
+    "item": {
+      "id": "quesadilla-with-chicken-serves-2-4-84546895",
+      "name": "Quesadilla with Chicken - Serves 2-4",
+      "description": null,
+      "category": "side",
+      "calories": 730.0,
+      "protein_g": 310.0,
+      "carbs_g": 7.0,
+      "fat_g": 46.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 62.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/EBB29596-A306-4F13-8760-E9C13C078423"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/quesadilla-with-chicken-serves-2-4-84546895: macro check failed — stated 730.0 kcal vs computed 1682 (delta +952)"
+    ]
+  },
+  {
+    "item": {
+      "id": "raspberry-lemon-drop-69471955",
+      "name": "Raspberry Lemon Drop",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/raspberry-lemon-drop"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/raspberry-lemon-drop-69471955: macro check failed — stated 270.0 kcal vs computed 128 (delta -142)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-wine-5oz-ut-126590487",
+      "name": "Red Wine - 5oz (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/red-wine-5oz-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/red-wine-5oz-ut-126590487: macro check failed — stated 120.0 kcal vs computed 16 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-wine-6-5-oz-126590488",
+      "name": "Red Wine - 6.5 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/red-wine-65-oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/red-wine-6-5-oz-126590488: macro check failed — stated 160.0 kcal vs computed 20 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-wine-9oz-126590489",
+      "name": "Red Wine - 9oz",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/red-wine-9oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/red-wine-9oz-126590489: macro check failed — stated 220.0 kcal vs computed 28 (delta -192)"
+    ]
+  },
+  {
+    "item": {
+      "id": "red-wine-bottle-69472086",
+      "name": "Red Wine Bottle",
+      "description": null,
+      "category": "drink",
+      "calories": 630.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/red-wine-bottle"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/red-wine-bottle-69472086: macro check failed — stated 630.0 kcal vs computed 80 (delta -550)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sangria-107358293",
+      "name": "Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 1.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/sangria"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/sangria-107358293: macro check failed — stated 160.0 kcal vs computed 100 (delta -60)"
+    ]
+  },
+  {
+    "item": {
+      "id": "skinnylicious-cosmopolitan-69475075",
+      "name": "Skinnylicious Cosmopolitan",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/skinnylicious-cosmopolitan"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/skinnylicious-cosmopolitan-69475075: macro check failed — stated 110.0 kcal vs computed 36 (delta -74)"
+    ]
+  },
+  {
+    "item": {
+      "id": "skinnylicious-long-island-iced-tea-69475071",
+      "name": "Skinnylicious Long Island Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/skinnylicious-long-island-iced-tea"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/skinnylicious-long-island-iced-tea-69475071: macro check failed — stated 110.0 kcal vs computed 24 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "skinnylicious-margarita-69476880",
+      "name": "Skinnylicious Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/skinnylicious-margarita"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/skinnylicious-margarita-69476880: macro check failed — stated 150.0 kcal vs computed 68 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "skinnylicious-mojito-69472037",
+      "name": "Skinnylicious Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/skinnylicious-mojito"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/skinnylicious-mojito-69472037: macro check failed — stated 150.0 kcal vs computed 64 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "skinnylicious-sangria-107360502",
+      "name": "Skinnylicious Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/skinnylicious-sangria"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/skinnylicious-sangria-107360502: macro check failed — stated 130.0 kcal vs computed 76 (delta -54)"
+    ]
+  },
+  {
+    "item": {
+      "id": "southern-peach-lemonade-126590473",
+      "name": "Southern Peach Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 3.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/southern-peach-lemonade"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/southern-peach-lemonade-126590473: macro check failed — stated 280.0 kcal vs computed 128 (delta -152)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spanish-old-fashioned-126590486",
+      "name": "Spanish Old Fashioned",
+      "description": null,
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 0.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/spanish-old-fashioned"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/spanish-old-fashioned-126590486: macro check failed — stated 340.0 kcal vs computed 160 (delta -180)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spanish-old-fashioned-pr-126590485",
+      "name": "Spanish Old Fashioned (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/spanish-old-fashioned-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/spanish-old-fashioned-pr-126590485: macro check failed — stated 340.0 kcal vs computed 164 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "spanish-old-fashioned-ut-126590483",
+      "name": "Spanish Old Fashioned (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/spanish-old-fashioned-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/spanish-old-fashioned-ut-126590483: macro check failed — stated 260.0 kcal vs computed 116 (delta -144)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-wine-5-5oz-126590496",
+      "name": "Sparkling Wine - 5.5oz",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/sparkling-wine-55oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/sparkling-wine-5-5oz-126590496: macro check failed — stated 130.0 kcal vs computed 16 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-wine-5oz-ut-126590495",
+      "name": "Sparkling Wine - 5oz (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/sparkling-wine-5oz-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/sparkling-wine-5oz-ut-126590495: macro check failed — stated 120.0 kcal vs computed 16 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-wine-bottle-375ml-69472070",
+      "name": "Sparkling Wine Bottle - 375ml",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/sparkling-wine-bottle-375ml"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/sparkling-wine-bottle-375ml-69472070: macro check failed — stated 300.0 kcal vs computed 36 (delta -264)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sparkling-wine-bottle-750ml-69472071",
+      "name": "Sparkling Wine Bottle - 750ml",
+      "description": null,
+      "category": "drink",
+      "calories": 600.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/sparkling-wine-bottle-750ml"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/sparkling-wine-bottle-750ml-69472071: macro check failed — stated 600.0 kcal vs computed 76 (delta -524)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-infused-margarita-84576425",
+      "name": "Strawberry Infused Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/strawberry-infused-margarita"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/strawberry-infused-margarita-84576425: macro check failed — stated 270.0 kcal vs computed 88 (delta -182)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-infused-margarita-pr-69472000",
+      "name": "Strawberry Infused Margarita (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/strawberry-infused-margarita-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/strawberry-infused-margarita-pr-69472000: macro check failed — stated 270.0 kcal vs computed 88 (delta -182)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-martini-69471984",
+      "name": "Strawberry Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/strawberry-martini"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/strawberry-martini-69471984: macro check failed — stated 250.0 kcal vs computed 56 (delta -194)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-martini-ut-69471986",
+      "name": "Strawberry Martini (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/strawberry-martini-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/strawberry-martini-ut-69471986: macro check failed — stated 200.0 kcal vs computed 56 (delta -144)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-spritz-84550961",
+      "name": "Strawberry Spritz",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/strawberry-spritz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/strawberry-spritz-84550961: macro check failed — stated 300.0 kcal vs computed 84 (delta -216)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-spritz-pr-84576366",
+      "name": "Strawberry Spritz (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/strawberry-spritz-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/strawberry-spritz-pr-84576366: macro check failed — stated 280.0 kcal vs computed 84 (delta -196)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tahitian-pineapple-107358377",
+      "name": "Tahitian Pineapple",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/tahitian-pineapple"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/tahitian-pineapple-107358377: macro check failed — stated 290.0 kcal vs computed 136 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "the-old-fashioned-84576419",
+      "name": "The Old Fashioned",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/the-old-fashioned"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/the-old-fashioned-84576419: macro check failed — stated 280.0 kcal vs computed 40 (delta -240)"
+    ]
+  },
+  {
+    "item": {
+      "id": "the-old-fashioned-ut-84576420",
+      "name": "The Old Fashioned (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/the-old-fashioned-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/the-old-fashioned-ut-84576420: macro check failed — stated 230.0 kcal vs computed 40 (delta -190)"
+    ]
+  },
+  {
+    "item": {
+      "id": "the-ultimate-69471991",
+      "name": "The Ultimate",
+      "description": null,
+      "category": "component",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/the-ultimate"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/the-ultimate-69471991: macro check failed — stated 260.0 kcal vs computed 100 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "the-well-mannered-dirty-martini-69471966",
+      "name": "The Well-Mannered Dirty Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/the-well-mannered-dirty-martini"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/the-well-mannered-dirty-martini-69471966: macro check failed — stated 250.0 kcal vs computed 58 (delta -192)"
+    ]
+  },
+  {
+    "item": {
+      "id": "the-well-mannered-dirty-martini-ut-69471969",
+      "name": "The Well-Mannered Dirty Martini (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 5.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 830.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/the-well-mannered-dirty-martini-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/the-well-mannered-dirty-martini-ut-69471969: macro check failed — stated 140.0 kcal vs computed 49 (delta -91)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tropical-mimosa-107357167",
+      "name": "Tropical Mimosa",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/tropical-mimosa"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/tropical-mimosa-107357167: macro check failed — stated 250.0 kcal vs computed 136 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tropical-mimosa-pr-107358160",
+      "name": "Tropical Mimosa (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/tropical-mimosa-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/tropical-mimosa-pr-107358160: macro check failed — stated 230.0 kcal vs computed 128 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tropical-mimosa-ut-107358168",
+      "name": "Tropical Mimosa (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/tropical-mimosa-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/tropical-mimosa-ut-107358168: macro check failed — stated 240.0 kcal vs computed 136 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "well-bourbon-69475648",
+      "name": "Well Bourbon",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/well-bourbon"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/well-bourbon-69475648: macro check failed — stated 80.0 kcal vs computed 0 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "well-gin-69475650",
+      "name": "Well Gin",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/well-gin"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/well-gin-69475650: macro check failed — stated 80.0 kcal vs computed 0 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "well-rum-69475652",
+      "name": "Well Rum",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/well-rum"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/well-rum-69475652: macro check failed — stated 80.0 kcal vs computed 0 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "well-scotch-69475654",
+      "name": "Well Scotch",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/well-scotch"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/well-scotch-69475654: macro check failed — stated 80.0 kcal vs computed 0 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "well-tequila-69475656",
+      "name": "Well Tequila",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/well-tequila"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/well-tequila-69475656: macro check failed — stated 80.0 kcal vs computed 0 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "well-vodka-69475658",
+      "name": "Well Vodka",
+      "description": null,
+      "category": "drink",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/well-vodka"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/well-vodka-69475658: macro check failed — stated 90.0 kcal vs computed 8 (delta -82)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whiskey-smash-69471950",
+      "name": "Whiskey Smash",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/whiskey-smash"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/whiskey-smash-69471950: macro check failed — stated 190.0 kcal vs computed 88 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whiskey-smash-pr-69471954",
+      "name": "Whiskey Smash (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/whiskey-smash-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/whiskey-smash-pr-69471954: macro check failed — stated 220.0 kcal vs computed 124 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whisky-ginger-69471931",
+      "name": "Whisky & Ginger",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/whisky-ginger"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/whisky-ginger-69471931: macro check failed — stated 220.0 kcal vs computed 116 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whisky-ginger-pr-69471948",
+      "name": "Whisky & Ginger (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/whisky-ginger-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/whisky-ginger-pr-69471948: macro check failed — stated 230.0 kcal vs computed 116 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "whisky-ginger-ut-69471945",
+      "name": "Whisky & Ginger (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/whisky-ginger-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/whisky-ginger-ut-69471945: macro check failed — stated 200.0 kcal vs computed 116 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-wine-5oz-ut-126590491",
+      "name": "White Wine - 5oz (UT)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/white-wine-5oz-(ut)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/white-wine-5oz-ut-126590491: macro check failed — stated 120.0 kcal vs computed 16 (delta -104)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-wine-6-5oz-126590494",
+      "name": "White Wine - 6.5oz",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/white-wine-65oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/white-wine-6-5oz-126590494: macro check failed — stated 160.0 kcal vs computed 20 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-wine-9oz-126590492",
+      "name": "White Wine - 9oz",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/white-wine-9oz"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/white-wine-9oz-126590492: macro check failed — stated 220.0 kcal vs computed 28 (delta -192)"
+    ]
+  },
+  {
+    "item": {
+      "id": "white-wine-bottle-126590852",
+      "name": "White Wine - Bottle",
+      "description": null,
+      "category": "drink",
+      "calories": 630.0,
+      "protein_g": 1.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/white-wine-bottle"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/white-wine-bottle-126590852: macro check failed — stated 630.0 kcal vs computed 80 (delta -550)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuzu-lemon-drop-107358195",
+      "name": "Yuzu Lemon Drop",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/yuzu-lemon-drop"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/yuzu-lemon-drop-107358195: macro check failed — stated 260.0 kcal vs computed 120 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuzu-lemon-drop-pr-107358196",
+      "name": "Yuzu Lemon Drop (PR)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per 1 serving (crowd-submitted; The Cheesecake Factory publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/yuzu-lemon-drop-(pr)"
+      }
+    },
+    "reasons": [
+      "the-cheesecake-factory/yuzu-lemon-drop-pr-107358196: macro check failed — stated 240.0 kcal vs computed 108 (delta -132)"
+    ]
+  }
+]

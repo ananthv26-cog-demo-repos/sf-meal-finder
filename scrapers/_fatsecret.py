@@ -1,79 +1,118 @@
-"""Small FatSecret Platform REST client used for permitted crowd fallbacks."""
+"""Shared cached, paced FatSecret client for the scraper modules."""
+
 import base64
-import datetime
+import fcntl
 import hashlib
 import hmac
 import json
 import os
+import random
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
+from email.utils import parsedate_to_datetime
+from pathlib import Path
 
-URL = "https://platform.fatsecret.com/rest/server.api"
+API_URL = "https://platform.fatsecret.com/rest/server.api"
+CACHE_DIR = Path("/home/ubuntu/.fscache")
+LOCK_PATH = CACHE_DIR / ".request.lock"
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36"
+MIN_INTERVAL = 1.05
+_last_request = 0.0
+_clock_offset = 0.0
 
 
-def call(method, params):
-    oauth = {
+def _cache_path(params):
+    canonical = urllib.parse.urlencode(
+        sorted((str(key), str(value)) for key, value in params.items())
+    )
+    return CACHE_DIR / f"{hashlib.sha256(canonical.encode()).hexdigest()}.json"
+
+
+def _read(path):
+    try:
+        return json.loads(path.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return None
+
+
+def _update_clock(headers):
+    global _clock_offset
+    date = headers.get("Date")
+    if not date:
+        return
+    try:
+        _clock_offset = parsedate_to_datetime(date).timestamp() - time.time()
+    except (TypeError, ValueError, OverflowError):
+        pass
+
+
+def _request(params):
+    global _last_request
+    delay = MIN_INTERVAL - (time.monotonic() - _last_request)
+    if delay > 0:
+        time.sleep(delay)
+    secret = os.environ.get("FATSECRET_CONSUMER_SECRET") or os.environ["FAT_SECRET_CONSUMER_SECRET"]
+    signed = {
         "oauth_consumer_key": os.environ["FATSECRET_CONSUMER_KEY"],
-        "oauth_nonce": str(int(time.time() * 1000000)),
         "oauth_signature_method": "HMAC-SHA1",
-        "oauth_timestamp": str(int(time.time())),
+        "oauth_timestamp": str(int(time.time() + _clock_offset)),
+        "oauth_nonce": str(random.getrandbits(64)),
         "oauth_version": "1.0",
+        "format": "json",
+        **params,
     }
-    all_params = {**oauth, "method": method, "format": "json", **params}
-    enc = lambda value: urllib.parse.quote(str(value), safe="~-._")
-    query = "&".join(f"{enc(k)}={enc(v)}" for k, v in sorted(all_params.items()))
-    base = "&".join((enc("POST"), enc(URL), enc(query)))
-    key = enc(os.environ["FAT_SECRET_CONSUMER_SECRET"]) + "&"
-    oauth["oauth_signature"] = base64.b64encode(
-        hmac.new(key.encode(), base.encode(), hashlib.sha1).digest()
+    normalized = "&".join(
+        f"{key}={urllib.parse.quote(str(signed[key]), '')}"
+        for key in sorted(signed)
+    )
+    base = "&".join((
+        "GET",
+        urllib.parse.quote(API_URL, ""),
+        urllib.parse.quote(normalized, ""),
+    ))
+    signed["oauth_signature"] = base64.b64encode(
+        hmac.new((secret + "&").encode(), base.encode(), hashlib.sha1).digest()
     ).decode()
-    auth = "OAuth " + ", ".join(f'{enc(k)}="{enc(v)}"' for k, v in oauth.items())
-    body = urllib.parse.urlencode({"method": method, "format": "json", **params}).encode()
-    req = urllib.request.Request(URL, data=body, headers={"Authorization": auth})
-    response = json.load(urllib.request.urlopen(req, timeout=30))
-    if "error" in response:
-        raise RuntimeError(f"FatSecret API error {response['error']}")
-    return response
+    request = urllib.request.Request(
+        f"{API_URL}?{urllib.parse.urlencode(signed)}",
+        headers={"User-Agent": USER_AGENT},
+    )
+    with urllib.request.urlopen(request, timeout=60) as response:
+        _update_clock(response.headers)
+        result = json.load(response)
+    _last_request = time.monotonic()
+    return result
 
 
-def food(query=None, brand=None, food_id=None):
-    if food_id:
-        row = {"food_id": str(food_id), "food_url": f"https://foods.fatsecret.com/calories-nutrition/{food_id}"}
-    else:
-        rows = call("foods.search", {"search_expression": query, "max_results": "20"}).get(
-            "foods", {}
-        ).get("food", [])
-        if isinstance(rows, dict):
-            rows = [rows]
-        if brand:
-            branded = [r for r in rows if isinstance(r, dict) and brand.lower() in (r.get("brand_name") or "").lower()]
-            rows = branded or rows
-        if not rows:
-            raise RuntimeError(f"FatSecret returned no result for {query!r}")
-        row = rows[0]
-    detail = call("food.get", {"food_id": row["food_id"]}).get("food", {})
-    servings = detail.get(" servings", {}) or detail.get("servings", {})
-    serving_rows = servings.get("serving", [{}])
-    if isinstance(serving_rows, dict):
-        serving = serving_rows
-    else:
-        serving = serving_rows[0]
-    def number(key):
-        try:
-            return float(serving.get(key, 0))
-        except (TypeError, ValueError):
-            return 0.0
-    return {
-        "calories": number("calories"),
-        "protein_g": number("protein"),
-        "carbs_g": number("carbohydrate"),
-        "fat_g": number("fat"),
-        "fiber_g": number("fiber"),
-        "sodium_mg": number("sodium"),
-        "serving_note": f"per {serving.get('serving_description', 'listed serving')}",
-        "source": {"type": "crowd", "url": row.get("food_url", "https://platform.fatsecret.com/")},
-    }
-
-
-TODAY = datetime.date.today().isoformat()
+def fatsecret(params):
+    """Fetch a successful response, caching and retrying transient failures."""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    path = _cache_path(params)
+    cached = _read(path)
+    if cached is not None and not cached.get("error"):
+        return cached
+    with LOCK_PATH.open("a+") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        cached = _read(path)
+        if cached is not None and not cached.get("error"):
+            return cached
+        last_error = None
+        for attempt in range(7):
+            try:
+                result = _request(params)
+            except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as error:
+                result = None
+                last_error = error
+            if result is not None and not result.get("error"):
+                path.write_text(json.dumps(result, separators=(",", ":")))
+                return result
+            error = (result or {}).get("error", {})
+            last_error = error or last_error
+            code = int(error.get("code", 0) or 0)
+            if result is not None and code not in (6, 12):
+                raise RuntimeError(f"FatSecret API error for {params}: {result}")
+            if attempt < 6:
+                time.sleep(min(120, 2 ** attempt))
+        raise RuntimeError(f"FatSecret request failed after retries: {last_error}")

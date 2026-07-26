@@ -67,3 +67,11 @@ Things that cost >15 minutes on this project. Add to this whenever you get burne
   indexes.
 - Per-serving party packs can legitimately exceed the sodium plausibility cap;
   quarantine them rather than weakening the bound.
+- FatSecret brand harvesting needs pacing, exponential backoff, and a disk
+  cache; throttled responses must not be mistaken for an empty brand.
+- FatSecret brands can contain hundreds of size/milk permutations and retail
+  SKUs; classify retail products before treating names as menu meals.
+- An SFO counter may say "San Francisco" while being outside the city proper;
+  verify airport locations rather than trusting city text alone.
+- When a chain's old store routes or locator API are dead, use its current
+  sitemap/store pages and verify the resulting city-proper locations.

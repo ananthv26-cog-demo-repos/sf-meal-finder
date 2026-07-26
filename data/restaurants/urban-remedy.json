@@ -1,0 +1,687 @@
+{
+  "id": "urban-remedy",
+  "name": "Urban Remedy",
+  "website": "https://urbanremedy.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Urban+Remedy&max_results=50&page_number=0",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "399 4th St, San Francisco, CA 94107",
+      "lat": 37.7811499,
+      "lng": -122.3997789,
+      "neighborhood": null
+    },
+    {
+      "address": "1150 Ocean Ave, San Francisco, CA 94112",
+      "lat": 37.7237981,
+      "lng": -122.4546813,
+      "neighborhood": null
+    },
+    {
+      "address": "450 Rhode Island St, San Francisco, CA 94107",
+      "lat": 37.7643298,
+      "lng": -122.4027236,
+      "neighborhood": null
+    },
+    {
+      "address": "2001 Market St, San Francisco, CA 94114",
+      "lat": 37.768896,
+      "lng": -122.426891,
+      "neighborhood": null
+    },
+    {
+      "address": "1765 California St, San Francisco, CA 94109",
+      "lat": 37.7900899,
+      "lng": -122.4234142,
+      "neighborhood": null
+    },
+    {
+      "address": "3251 20th Ave, Suite 340, San Francisco, CA 94132",
+      "lat": 37.7289115,
+      "lng": -122.475687,
+      "neighborhood": null
+    },
+    {
+      "address": "1185 Market St, San Francisco, CA 94103",
+      "lat": 37.7788891,
+      "lng": -122.414112,
+      "neighborhood": null
+    },
+    {
+      "address": "2300 16th Street Unit 203, San Francisco, CA 94103",
+      "lat": 37.7669716,
+      "lng": -122.409327,
+      "neighborhood": null
+    },
+    {
+      "address": "4201 18th St, San Francisco, CA 94114",
+      "lat": 37.760582,
+      "lng": -122.4364315,
+      "neighborhood": null
+    },
+    {
+      "address": "2435 California St, San Francisco, CA 94115",
+      "lat": 37.7885533,
+      "lng": -122.4345222,
+      "neighborhood": null
+    },
+    {
+      "address": "203 Folsom St, San Francisco, CA 94105",
+      "lat": 37.7890338,
+      "lng": -122.3919796,
+      "neighborhood": null
+    },
+    {
+      "address": "1200 Irving St, San Francisco, CA 94122",
+      "lat": 37.7640893,
+      "lng": -122.4711666,
+      "neighborhood": null
+    },
+    {
+      "address": "375 32nd Ave, San Francisco, CA 94121",
+      "lat": 37.782188,
+      "lng": -122.4930572,
+      "neighborhood": null
+    },
+    {
+      "address": "300 California St. Ste 100, San Francisco, CA 94104",
+      "lat": 37.7933044,
+      "lng": -122.4003067,
+      "neighborhood": null
+    },
+    {
+      "address": "98 Post St, San Francisco, CA 94104",
+      "lat": 37.7889739,
+      "lng": -122.4030976,
+      "neighborhood": null
+    },
+    {
+      "address": "575 Market St. Ste 150, San Francisco, CA 94105",
+      "lat": 37.7895414,
+      "lng": -122.4003752,
+      "neighborhood": null
+    },
+    {
+      "address": "3 Embarcadero Center, San Francisco, CA 94111",
+      "lat": 37.7946662,
+      "lng": -122.3996548,
+      "neighborhood": null
+    },
+    {
+      "address": "550 Divisadero St, San Francisco, CA 94117",
+      "lat": 37.774509,
+      "lng": -122.4378445,
+      "neighborhood": null
+    },
+    {
+      "address": "1745 Folsom St, San Francisco, CA 94103",
+      "lat": 37.7691367,
+      "lng": -122.4150751,
+      "neighborhood": null
+    },
+    {
+      "address": "680 Mission Street, San Francisco, CA 94105",
+      "lat": 37.7865699,
+      "lng": -122.4020333,
+      "neighborhood": null
+    },
+    {
+      "address": "1957 Union St, San Francisco, CA 94123",
+      "lat": 37.7974129,
+      "lng": -122.4314868,
+      "neighborhood": null
+    },
+    {
+      "address": "181 Fremont St, San Francisco, CA 94105",
+      "lat": 37.7896303,
+      "lng": -122.3955461,
+      "neighborhood": null
+    },
+    {
+      "address": "450 Hayes St, San Francisco, CA 94117",
+      "lat": 37.777031,
+      "lng": -122.4238821,
+      "neighborhood": null
+    },
+    {
+      "address": "3870 24th St, San Francisco, CA 94114",
+      "lat": 37.7517632,
+      "lng": -122.4290685,
+      "neighborhood": null
+    },
+    {
+      "address": "1 Ferry Bldg. (across from Sur La Table), San Francisco, CA 94111",
+      "lat": 37.7955487,
+      "lng": -122.3934746,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "banana-brittle-47357309",
+      "name": "Banana Brittle",
+      "description": null,
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 10.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 oz (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/banana-brittle"
+      }
+    },
+    {
+      "id": "blue-magic-cashew-milk-40687361",
+      "name": "Blue Magic Cashew Milk",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 8 fl oz (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/blue-magic-cashew-milk"
+      }
+    },
+    {
+      "id": "booster-shot-22426837",
+      "name": "Booster Shot",
+      "description": null,
+      "category": "component",
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per 1 container (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/booster-shot"
+      }
+    },
+    {
+      "id": "burrito-bowl-77895400",
+      "name": "Burrito Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 340.0,
+      "protein_g": 12.0,
+      "carbs_g": 51.0,
+      "fat_g": 12.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per 1 bowl (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/burrito-bowl"
+      }
+    },
+    {
+      "id": "cacao-plant-protein-bar-48592652",
+      "name": "Cacao Plant Protein Bar",
+      "description": null,
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 11.0,
+      "carbs_g": 14.0,
+      "fat_g": 23.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 1 bar (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/cacao-plant-protein-bar"
+      }
+    },
+    {
+      "id": "chia-parfait-25978843",
+      "name": "Chia Parfait",
+      "description": null,
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 6.0,
+      "carbs_g": 31.0,
+      "fat_g": 13.0,
+      "fiber_g": 9.0,
+      "sodium_mg": null,
+      "serving_note": "per 1 container (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/chia-parfait"
+      }
+    },
+    {
+      "id": "chicken-breast-23255245",
+      "name": "Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 24.0,
+      "carbs_g": 1.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 1 container (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/chicken-breast"
+      }
+    },
+    {
+      "id": "chocolate-banana-meal-shake-63373710",
+      "name": "Chocolate Banana Meal Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 30.0,
+      "carbs_g": 23.0,
+      "fat_g": 15.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per 1 container (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/chocolate-banana-meal-shake"
+      }
+    },
+    {
+      "id": "deep-cleaning-juice-55062601",
+      "name": "Deep Cleaning Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 40.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 12 oz (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/deep-cleaning-juice"
+      }
+    },
+    {
+      "id": "glow-juice-40687193",
+      "name": "Glow Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 40.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 12 fl oz (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/glow-juice"
+      }
+    },
+    {
+      "id": "grain-free-superfood-cookies-double-chocolate-80436510",
+      "name": "Grain Free Superfood Cookies Double Chocolate",
+      "description": null,
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 3.0,
+      "carbs_g": 11.0,
+      "fat_g": 12.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 4 cookies (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/grain-free-superfood-cookies-double-chocolate"
+      }
+    },
+    {
+      "id": "macro-bowl-21963796",
+      "name": "Macro Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 17.0,
+      "carbs_g": 62.0,
+      "fat_g": 32.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per 1 bowl (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/macro-bowl"
+      }
+    },
+    {
+      "id": "matcha-super-greens-energy-bar-27466892",
+      "name": "Matcha Super Greens Energy Bar",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 9.0,
+      "carbs_g": 9.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 1 bar (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/matcha-super-greens-energy-bar"
+      }
+    },
+    {
+      "id": "mint-cacao-chip-meal-shake-64687899",
+      "name": "Mint Cacao Chip Meal Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 4.5,
+      "fiber_g": 3.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 1 bottle (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/mint-cacao-chip-meal-shake"
+      }
+    },
+    {
+      "id": "no-oatmeal-cookie-13457271",
+      "name": "No Oatmeal Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 7.0,
+      "carbs_g": 12.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per 1.9 oz (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/no-oatmeal-cookie"
+      }
+    },
+    {
+      "id": "organic-blueberry-chia-pudding-67271686",
+      "name": "Organic Blueberry Chia Pudding",
+      "description": null,
+      "category": "side",
+      "calories": 250.0,
+      "protein_g": 7.0,
+      "carbs_g": 23.0,
+      "fat_g": 15.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 1 container (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/organic-blueberry-chia-pudding"
+      }
+    },
+    {
+      "id": "organic-rainbow-salad-without-dressing-125455998",
+      "name": "Organic Rainbow Salad Without Dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 120.0,
+      "protein_g": 6.0,
+      "carbs_g": 10.0,
+      "fat_g": 8.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 bowl (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/organic-rainbow-salad-without-dressing"
+      }
+    },
+    {
+      "id": "organic-revitalizing-tea-tonic-60336640",
+      "name": "Organic Revitalizing Tea Tonic",
+      "description": null,
+      "category": "drink",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 container (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/organic-revitalizing-tea-tonic"
+      }
+    },
+    {
+      "id": "organic-vanilla-protein-collagen-meal-shake-102882835",
+      "name": "Organic Vanilla Protein Collagen Meal Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 28.0,
+      "carbs_g": 17.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 1 bottle (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/organic-vanilla-protein-collagen-meal-shake"
+      }
+    },
+    {
+      "id": "rainbow-salad-27640353",
+      "name": "Rainbow Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 270.0,
+      "protein_g": 7.0,
+      "carbs_g": 11.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 1 bowl (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/rainbow-salad"
+      }
+    },
+    {
+      "id": "slender-greens-23667836",
+      "name": "Slender Greens",
+      "description": null,
+      "category": "drink",
+      "calories": 50.0,
+      "protein_g": 2.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per 1 serving (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/slender-greens"
+      }
+    },
+    {
+      "id": "soba-noodles-22702792",
+      "name": "Soba Noodles",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 11.0,
+      "carbs_g": 39.0,
+      "fat_g": 41.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per 1 bowl (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/soba-noodles"
+      }
+    },
+    {
+      "id": "sour-cream-chive-zucchini-chips-40967545",
+      "name": "Sour Cream & Chive Zucchini Chips",
+      "description": null,
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 11.0,
+      "carbs_g": 16.0,
+      "fat_g": 14.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 1 bag (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/sour-cream-chive-zucchini-chips"
+      }
+    },
+    {
+      "id": "summer-rolls-23892513",
+      "name": "Summer Rolls",
+      "description": null,
+      "category": "meal",
+      "calories": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 39.0,
+      "fat_g": 1.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 830.0,
+      "serving_note": "per 2 rolls (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/summer-rolls"
+      }
+    },
+    {
+      "id": "sunsquares-46738751",
+      "name": "Sunsquares",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 4.0,
+      "carbs_g": 10.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 2 pieces (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/sunsquares"
+      }
+    },
+    {
+      "id": "superfood-cookies-chocolate-chips-87940799",
+      "name": "Superfood Cookies Chocolate Chips",
+      "description": null,
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 4.0,
+      "carbs_g": 9.0,
+      "fat_g": 12.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 3 cookies (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/superfood-cookies-chocolate-chips"
+      }
+    },
+    {
+      "id": "the-vegan-caesar-55530993",
+      "name": "The Vegan Caesar",
+      "description": null,
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 18.0,
+      "carbs_g": 31.0,
+      "fat_g": 39.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per 1 bowl (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/the-vegan-caesar"
+      }
+    },
+    {
+      "id": "time-machine-22374892",
+      "name": "Time Machine",
+      "description": null,
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/time-machine"
+      }
+    },
+    {
+      "id": "upbeet-vegan-cheeseburger-wrap-54726393",
+      "name": "Upbeet Vegan Cheeseburger Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 400.0,
+      "protein_g": 11.0,
+      "carbs_g": 62.0,
+      "fat_g": 13.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1240.0,
+      "serving_note": "per 1 wrap (crowd-submitted; Urban Remedy publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/urban-remedy/upbeet-vegan-cheeseburger-wrap"
+      }
+    }
+  ]
+}

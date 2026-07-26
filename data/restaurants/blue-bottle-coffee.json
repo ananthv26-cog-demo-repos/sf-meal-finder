@@ -1,0 +1,111 @@
+{
+  "id": "blue-bottle-coffee",
+  "name": "Blue Bottle Coffee",
+  "website": "https://bluebottlecoffee.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Blue+Bottle&max_results=50&page_number=0",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "315 Linden St, San Francisco, CA 94102",
+      "lat": 37.7763144,
+      "lng": -122.4232552,
+      "neighborhood": null
+    },
+    {
+      "address": "115 Sansome St, San Francisco, CA 94104",
+      "lat": 37.7914533,
+      "lng": -122.4010654,
+      "neighborhood": null
+    },
+    {
+      "address": "2 South Park, San Francisco, CA 94107",
+      "lat": 37.7824374,
+      "lng": -122.3932644,
+      "neighborhood": null
+    },
+    {
+      "address": "168 2nd St, San Francisco, CA 94105",
+      "lat": 37.7869867,
+      "lng": -122.3989296,
+      "neighborhood": null
+    },
+    {
+      "address": "2453 Fillmore St, San Francisco, CA 94115",
+      "lat": 37.7920384,
+      "lng": -122.4347649,
+      "neighborhood": null
+    },
+    {
+      "address": "1 Ferry Building #7, San Francisco, CA 94111",
+      "lat": 37.7960029,
+      "lng": -122.3938436,
+      "neighborhood": null
+    },
+    {
+      "address": "909 Montgomery St #105, San Francisco, CA 94133",
+      "lat": 37.7973778,
+      "lng": -122.4038543,
+      "neighborhood": null
+    },
+    {
+      "address": "55 S Van Ness Ave, San Francisco, CA 94103",
+      "lat": 37.7739546,
+      "lng": -122.4186072,
+      "neighborhood": null
+    },
+    {
+      "address": "705 Market St, San Francisco, CA 94103",
+      "lat": 37.7871903,
+      "lng": -122.403701,
+      "neighborhood": null
+    },
+    {
+      "address": "1385 4th St, San Francisco, CA 94158",
+      "lat": 37.7711067,
+      "lng": -122.391072,
+      "neighborhood": null
+    },
+    {
+      "address": "300 Toni Stone Xing #E, San Francisco, CA 94158",
+      "lat": 37.7754338,
+      "lng": -122.3887262,
+      "neighborhood": null
+    },
+    {
+      "address": "250 Howard St Suite 3A, San Francisco, CA 94105",
+      "lat": 37.7906275,
+      "lng": -122.394398,
+      "neighborhood": null
+    },
+    {
+      "address": "199 Sutter St, San Francisco, CA 94104",
+      "lat": 37.789741,
+      "lng": -122.4037025,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "new-orleans-style-iced-coffee-37332208",
+      "name": "New Orleans Style Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 6.0,
+      "carbs_g": 21.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 1 carton (crowd-submitted; Blue Bottle publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/blue-bottle-coffee/new-orleans-style-iced-coffee"
+      }
+    }
+  ]
+}
