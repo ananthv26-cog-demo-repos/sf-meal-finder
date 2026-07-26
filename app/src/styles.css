@@ -320,6 +320,13 @@ input[type="number"]:focus,
   flex: 1;
   min-height: 0;
 }
+.result-list > div {
+  scrollbar-gutter: stable;
+}
+.column-head {
+  overflow: hidden;
+  scrollbar-gutter: stable;
+}
 .column-head,
 .meal-row {
   display: grid;
