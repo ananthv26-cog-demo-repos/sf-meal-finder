@@ -75,3 +75,13 @@ Things that cost >15 minutes on this project. Add to this whenever you get burne
   verify airport locations rather than trusting city text alone.
 - When a chain's old store routes or locator API are dead, use its current
   sitemap/store pages and verify the resulting city-proper locations.
+- Nutrition PDF URLs can serve a different chain; assert the extracted brand
+  and menu names before parsing instead of trusting the hostname or filename.
+- PDF headers may be mirrored or rotated; recover labels against an expected
+  set before reading nutrition columns.
+- A Nutritionix page can render an empty menu shell for a brand without data;
+  verify rendered product rows before treating it as a vendor source.
+- “Sides not included” means an entrée row is a component; derive a meal only
+  when the menu states the build and quantities.
+- Image-only nutrition labels need independent OCR agreement and a recoverable
+  product name before publication.

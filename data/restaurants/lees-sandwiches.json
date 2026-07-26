@@ -1,0 +1,489 @@
+{
+  "id": "lees-sandwiches",
+  "name": "Lee's Sandwiches",
+  "website": "https://leesandwiches.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://leesandwiches.com/wp-sitemap-posts-menu-1.xml",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "625 Larkin St, San Francisco, CA 94109",
+      "lat": 37.7836349,
+      "lng": -122.4178775,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "1-lee-s-combination",
+      "name": "1 Lee’s Combination",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 29.0,
+      "carbs_g": 92.0,
+      "fat_g": 22.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1180.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/1-lees-combination"
+      }
+    },
+    {
+      "id": "10-cured-pork-pork-roll",
+      "name": "10 Cured Pork & Pork Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 830.0,
+      "protein_g": 25.0,
+      "carbs_g": 93.0,
+      "fat_g": 39.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/10-cured-pork-pork-roll"
+      }
+    },
+    {
+      "id": "11-special-combination",
+      "name": "11 Special Combination",
+      "description": null,
+      "category": "meal",
+      "calories": 900.0,
+      "protein_g": 32.0,
+      "carbs_g": 94.0,
+      "fat_g": 42.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/11-special-combo"
+      }
+    },
+    {
+      "id": "12-vegetarian",
+      "name": "12 Vegetarian",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 20.0,
+      "carbs_g": 108.0,
+      "fat_g": 4.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/12-vegetarian"
+      }
+    },
+    {
+      "id": "14-pork-roll-p-t",
+      "name": "14 Pork Roll & Pâté",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 28.0,
+      "carbs_g": 95.0,
+      "fat_g": 38.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1080.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/14-pork-roll-w-pate"
+      }
+    },
+    {
+      "id": "16-p-t",
+      "name": "16 Pâté",
+      "description": null,
+      "category": "meal",
+      "calories": 770.0,
+      "protein_g": 28.0,
+      "carbs_g": 94.0,
+      "fat_g": 31.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/16-pate"
+      }
+    },
+    {
+      "id": "17-jambon-pork-roll",
+      "name": "17 Jambon & Pork Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 750.0,
+      "protein_g": 29.0,
+      "carbs_g": 93.0,
+      "fat_g": 28.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1090.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/17-jambon-pork-roll"
+      }
+    },
+    {
+      "id": "18-cured-pork-and-p-t",
+      "name": "18 Cured Pork and Pâté",
+      "description": null,
+      "category": "meal",
+      "calories": 900.0,
+      "protein_g": 27.0,
+      "carbs_g": 92.0,
+      "fat_g": 45.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/18-cured-pork-and-pate"
+      }
+    },
+    {
+      "id": "2-pork-roll",
+      "name": "2 Pork Roll",
+      "description": null,
+      "category": "meal",
+      "calories": 800.0,
+      "protein_g": 26.0,
+      "carbs_g": 94.0,
+      "fat_g": 35.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/2-pork-roll"
+      }
+    },
+    {
+      "id": "3-cured-pork",
+      "name": "3 Cured Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 860.0,
+      "protein_g": 25.0,
+      "carbs_g": 92.0,
+      "fat_g": 42.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/3-cured-pork"
+      }
+    },
+    {
+      "id": "31-ham-and-cheese-croissant",
+      "name": "31 Ham and Cheese Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 35.0,
+      "carbs_g": 79.0,
+      "fat_g": 33.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2220.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/31-ham-and-cheese-croissant"
+      }
+    },
+    {
+      "id": "33-ham-turkey-cheese-croissant",
+      "name": "33 Ham, Turkey & Cheese Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 37.0,
+      "carbs_g": 76.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1880.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/33-ham-turkey-cheese-croissant"
+      }
+    },
+    {
+      "id": "35-roast-beef-cheese-croissant",
+      "name": "35 Roast Beef & Cheese Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 800.0,
+      "protein_g": 39.0,
+      "carbs_g": 75.0,
+      "fat_g": 34.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1690.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/35-roast-beef-cheese-croissant"
+      }
+    },
+    {
+      "id": "38-lee-s-club-croissant",
+      "name": "38 Lee’s Club Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 33.0,
+      "carbs_g": 52.0,
+      "fat_g": 27.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1600.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/38-lees-club-croissant"
+      }
+    },
+    {
+      "id": "39-ham-turkey-salami-cheese-croissant",
+      "name": "39 Ham, Turkey, Salami & Cheese Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 31.0,
+      "carbs_g": 52.0,
+      "fat_g": 40.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1790.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/39-ham-turkey-salami-cheese-croissant"
+      }
+    },
+    {
+      "id": "4-grilled-chicken",
+      "name": "4 Grilled Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 26.0,
+      "carbs_g": 97.0,
+      "fat_g": 17.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1090.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/4-grilled-chicken"
+      }
+    },
+    {
+      "id": "5-grilled-pork",
+      "name": "5 Grilled Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 26.0,
+      "carbs_g": 95.0,
+      "fat_g": 24.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/5-grilled-pork"
+      }
+    },
+    {
+      "id": "53-blt-bacon-lettuce-tomato-croissant",
+      "name": "53 BLT: Bacon, Lettuce, Tomato Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 31.0,
+      "carbs_g": 52.0,
+      "fat_g": 57.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/53-blt-bacon-lettuce-tomato-croissant"
+      }
+    },
+    {
+      "id": "55-turkey-roast-beef-cheese-croissant",
+      "name": "55 Turkey, Roast Beef & Cheese Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 34.0,
+      "carbs_g": 51.0,
+      "fat_g": 27.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1390.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/55-turkey-roast-beef-cheese-croissant"
+      }
+    },
+    {
+      "id": "58-tuna-almond-croissant",
+      "name": "58 Tuna Almond Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 42.0,
+      "carbs_g": 50.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/58-tuna-almond-croissant"
+      }
+    },
+    {
+      "id": "6-b-b-q-pork",
+      "name": "6 B.B.Q Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 26.0,
+      "carbs_g": 94.0,
+      "fat_g": 22.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 960.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/6-b-b-q-pork"
+      }
+    },
+    {
+      "id": "62-jambon-p-t-cheese",
+      "name": "62 Jambon, Pâté & Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 590.0,
+      "protein_g": 28.0,
+      "carbs_g": 51.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/62-jambon-pate-cheese"
+      }
+    },
+    {
+      "id": "66-veggie-avocado-croissant",
+      "name": "66 Veggie Avocado Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 970.0,
+      "protein_g": 41.0,
+      "carbs_g": 61.0,
+      "fat_g": 59.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1430.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/66-veggie-avocado-croissant"
+      }
+    },
+    {
+      "id": "7-pork-meatball",
+      "name": "7 Pork Meatball",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 32.0,
+      "carbs_g": 124.0,
+      "fat_g": 8.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/7-pork-meatball"
+      }
+    },
+    {
+      "id": "8-shredded-pork",
+      "name": "8 Shredded Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 25.0,
+      "carbs_g": 96.0,
+      "fat_g": 11.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1290.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/8-shredded-meatball"
+      }
+    },
+    {
+      "id": "9-sardine",
+      "name": "9 Sardine",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 35.0,
+      "carbs_g": 96.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/9-sardine"
+      }
+    }
+  ]
+}

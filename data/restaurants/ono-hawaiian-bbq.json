@@ -1,0 +1,2181 @@
+{
+  "id": "ono-hawaiian-bbq",
+  "name": "Ono Hawaiian BBQ",
+  "website": "https://onohawaiianbbq.com/",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "1501 Sloat Blvd. Ste #A, San Francisco, CA 94132",
+      "lat": 37.733871,
+      "lng": -122.489204,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-hawaiian-bbq-chicken",
+      "name": "Hawaiian BBQ Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 307.0,
+      "fat_g": 13.0,
+      "sodium_mg": 840.0,
+      "carbs_g": 9.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-chicken-katsu",
+      "name": "Chicken Katsu*",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 593.0,
+      "fat_g": 39.0,
+      "sodium_mg": 607.0,
+      "carbs_g": 37.0,
+      "protein_g": 25.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-teriyaki-chicken",
+      "name": "Teriyaki Chicken*",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 307.0,
+      "fat_g": 13.0,
+      "sodium_mg": 860.0,
+      "carbs_g": 9.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 165.0,
+      "fat_g": 3.0,
+      "sodium_mg": 420.0,
+      "carbs_g": 0.0,
+      "protein_g": 35.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-island-fire-chicken",
+      "name": "Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 274.0,
+      "fat_g": 11.0,
+      "sodium_mg": 1494.0,
+      "carbs_g": 18.0,
+      "protein_g": 26.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-hawaiian-bbq-beef",
+      "name": "Hawaiian BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 362.0,
+      "fat_g": 15.0,
+      "sodium_mg": 1430.0,
+      "carbs_g": 16.0,
+      "protein_g": 41.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-kalua-pork-with-cabbage",
+      "name": "Kalua Pork with Cabbage",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 480.0,
+      "fat_g": 30.0,
+      "sodium_mg": 1030.0,
+      "carbs_g": 4.0,
+      "protein_g": 50.0
+    },
+    {
+      "id": "aloha-plate-pick-one-choice-sides-not-included-island-white-fish",
+      "name": "Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 518.0,
+      "fat_g": 30.0,
+      "sodium_mg": 1275.0,
+      "carbs_g": 32.0,
+      "protein_g": 29.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-chicken-katsu",
+      "name": "BBQ Chicken + Chicken Katsu",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 450.0,
+      "fat_g": 26.0,
+      "sodium_mg": 723.0,
+      "carbs_g": 23.0,
+      "protein_g": 32.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-teriyaki-chicken",
+      "name": "BBQ Chicken + Teriyaki Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 307.0,
+      "fat_g": 13.0,
+      "sodium_mg": 850.0,
+      "carbs_g": 9.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-grilled-chicken-breast",
+      "name": "BBQ Chicken + Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 318.0,
+      "fat_g": 10.0,
+      "sodium_mg": 840.0,
+      "carbs_g": 5.0,
+      "protein_g": 54.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-island-fire-chicken",
+      "name": "BBQ Chicken + Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 336.0,
+      "fat_g": 14.0,
+      "sodium_mg": 1416.0,
+      "carbs_g": 17.0,
+      "protein_g": 36.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-bbq-beef",
+      "name": "BBQ Chicken + BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 289.0,
+      "fat_g": 12.0,
+      "sodium_mg": 956.0,
+      "carbs_g": 11.0,
+      "protein_g": 34.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-kalua-pork",
+      "name": "BBQ Chicken + Kalua Pork",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 393.0,
+      "fat_g": 22.0,
+      "sodium_mg": 935.0,
+      "carbs_g": 7.0,
+      "protein_g": 44.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-chicken-island-white-fish",
+      "name": "BBQ Chicken + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 326.0,
+      "fat_g": 17.0,
+      "sodium_mg": 845.0,
+      "carbs_g": 15.0,
+      "protein_g": 29.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-chicken-katsu-teriyaki-chicken",
+      "name": "Chicken Katsu + Teriyaki Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 450.0,
+      "fat_g": 26.0,
+      "sodium_mg": 733.0,
+      "carbs_g": 23.0,
+      "protein_g": 32.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-chicken-katsu-grilled-chicken-breast",
+      "name": "Chicken Katsu + Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 462.0,
+      "fat_g": 22.0,
+      "sodium_mg": 723.0,
+      "carbs_g": 18.0,
+      "protein_g": 48.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-chicken-katsu-island-fire-chicken",
+      "name": "Chicken Katsu + Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 479.0,
+      "fat_g": 27.0,
+      "sodium_mg": 1299.0,
+      "carbs_g": 30.0,
+      "protein_g": 30.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-chicken-katsu-bbq-beef",
+      "name": "Chicken Katsu + BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 433.0,
+      "fat_g": 25.0,
+      "sodium_mg": 839.0,
+      "carbs_g": 24.0,
+      "protein_g": 28.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-chicken-katsu-kalua-pork",
+      "name": "Chicken Katsu + Kalua Pork",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 537.0,
+      "fat_g": 34.0,
+      "sodium_mg": 818.0,
+      "carbs_g": 20.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-chicken-katsu-island-white-fish",
+      "name": "Chicken Katsu + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 469.0,
+      "fat_g": 29.0,
+      "sodium_mg": 728.0,
+      "carbs_g": 29.0,
+      "protein_g": 22.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-teriyaki-chicken-grilled-chicken-breast",
+      "name": "Teriyaki Chicken + Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 318.0,
+      "fat_g": 10.0,
+      "sodium_mg": 850.0,
+      "carbs_g": 5.0,
+      "protein_g": 54.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-teriyaki-chicken-island-fire-chicken",
+      "name": "Teriyaki Chicken + Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 336.0,
+      "fat_g": 14.0,
+      "sodium_mg": 1426.0,
+      "carbs_g": 17.0,
+      "protein_g": 36.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-teriyaki-chicken-bbq-beef",
+      "name": "Teriyaki Chicken + BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 289.0,
+      "fat_g": 12.0,
+      "sodium_mg": 966.0,
+      "carbs_g": 11.0,
+      "protein_g": 34.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-teriyaki-chicken-kalua-pork",
+      "name": "Teriyaki Chicken + Kalua Pork",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 393.0,
+      "fat_g": 22.0,
+      "sodium_mg": 945.0,
+      "carbs_g": 7.0,
+      "protein_g": 44.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-teriyaki-chicken-island-white-fish",
+      "name": "Teriyaki Chicken + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 326.0,
+      "fat_g": 17.0,
+      "sodium_mg": 855.0,
+      "carbs_g": 15.0,
+      "protein_g": 29.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-grilled-chicken-breast-island-fire-chicken",
+      "name": "Grilled Chicken Breast + Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 348.0,
+      "fat_g": 10.0,
+      "sodium_mg": 1416.0,
+      "carbs_g": 12.0,
+      "protein_g": 52.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-grilled-chicken-breast-bbq-beef",
+      "name": "Grilled Chicken Breast + BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 301.0,
+      "fat_g": 9.0,
+      "sodium_mg": 956.0,
+      "carbs_g": 6.0,
+      "protein_g": 50.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-grilled-chicken-breast-kalua-pork",
+      "name": "Grilled Chicken Breast + Kalua Pork",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 405.0,
+      "fat_g": 18.0,
+      "sodium_mg": 935.0,
+      "carbs_g": 2.0,
+      "protein_g": 60.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-grilled-chicken-breast-island-white-fish",
+      "name": "Grilled Chicken Breast + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 338.0,
+      "fat_g": 13.0,
+      "sodium_mg": 845.0,
+      "carbs_g": 11.0,
+      "protein_g": 45.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-island-fire-chicken-hawaiian-bbq-beef",
+      "name": "Island Fire Chicken + Hawaiian BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 319.0,
+      "fat_g": 13.0,
+      "sodium_mg": 1532.0,
+      "carbs_g": 18.0,
+      "protein_g": 32.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-island-fire-chicken-kalua-pork-with-cabbag",
+      "name": "Island Fire Chicken + Kalua Pork with Cabbage",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 423.0,
+      "fat_g": 22.0,
+      "sodium_mg": 1511.0,
+      "carbs_g": 14.0,
+      "protein_g": 42.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-island-fire-chicken-island-white-fish",
+      "name": "Island Fire Chicken + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 355.0,
+      "fat_g": 17.0,
+      "sodium_mg": 1421.0,
+      "carbs_g": 23.0,
+      "protein_g": 27.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-beef-kalua-pork",
+      "name": "BBQ Beef + Kalua Pork",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 376.0,
+      "fat_g": 21.0,
+      "sodium_mg": 1051.0,
+      "carbs_g": 8.0,
+      "protein_g": 40.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-bbq-beef-island-white-fish",
+      "name": "BBQ Beef + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 308.0,
+      "fat_g": 16.0,
+      "sodium_mg": 961.0,
+      "carbs_g": 17.0,
+      "protein_g": 25.0
+    },
+    {
+      "id": "aloha-plate-pick-two-choices-sides-not-included-kalua-pork-island-white-fish",
+      "name": "Kalua Pork + Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, Aloha Plate two-choice portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 413.0,
+      "fat_g": 25.0,
+      "sodium_mg": 940.0,
+      "carbs_g": 13.0,
+      "protein_g": 35.0
+    },
+    {
+      "id": "chicken-sides-not-included-hawaiian-bbq-chicken",
+      "name": "Hawaiian BBQ Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 460.0,
+      "fat_g": 20.0,
+      "sodium_mg": 1260.0,
+      "carbs_g": 14.0,
+      "protein_g": 57.0
+    },
+    {
+      "id": "chicken-sides-not-included-chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 890.0,
+      "fat_g": 58.0,
+      "sodium_mg": 910.0,
+      "carbs_g": 55.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "chicken-sides-not-included-teriyaki-chicken",
+      "name": "Teriyaki Chicken*",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 460.0,
+      "fat_g": 20.0,
+      "sodium_mg": 1290.0,
+      "carbs_g": 14.0,
+      "protein_g": 57.0
+    },
+    {
+      "id": "chicken-sides-not-included-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 330.0,
+      "fat_g": 6.0,
+      "sodium_mg": 840.0,
+      "carbs_g": 0.0,
+      "protein_g": 70.0
+    },
+    {
+      "id": "chicken-sides-not-included-island-fire-chicken",
+      "name": "Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 548.0,
+      "fat_g": 22.0,
+      "sodium_mg": 2987.0,
+      "carbs_g": 36.0,
+      "protein_g": 51.0
+    },
+    {
+      "id": "beef-pork-sides-not-included-kalbi-short-ribs",
+      "name": "Kalbi Short Ribs",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1050.0,
+      "fat_g": 87.0,
+      "sodium_mg": 1180.0,
+      "carbs_g": 16.0,
+      "protein_g": 52.0
+    },
+    {
+      "id": "beef-pork-sides-not-included-hawaiian-bbq-beef",
+      "name": "Hawaiian BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 453.0,
+      "fat_g": 19.0,
+      "sodium_mg": 1787.0,
+      "carbs_g": 20.0,
+      "protein_g": 51.0
+    },
+    {
+      "id": "beef-pork-sides-not-included-kalua-pork-with-cabbage",
+      "name": "Kalua Pork with Cabbage",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 480.0,
+      "fat_g": 30.0,
+      "sodium_mg": 1030.0,
+      "carbs_g": 4.0,
+      "protein_g": 50.0
+    },
+    {
+      "id": "seafood-sides-not-included-island-white-fish",
+      "name": "Island White Fish",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 690.0,
+      "fat_g": 40.0,
+      "sodium_mg": 1700.0,
+      "carbs_g": 43.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "seafood-sides-not-included-crispy-shrimp",
+      "name": "Crispy Shrimp",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 800.0,
+      "fat_g": 47.0,
+      "sodium_mg": 520.0,
+      "carbs_g": 55.0,
+      "protein_g": 41.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-chicken-combo",
+      "name": "Chicken Combo",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 670.0,
+      "fat_g": 39.0,
+      "sodium_mg": 1080.0,
+      "carbs_g": 35.0,
+      "protein_g": 48.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-hawaiian-bbq-mix",
+      "name": "Hawaiian BBQ Mix",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 820.0,
+      "fat_g": 54.0,
+      "sodium_mg": 1590.0,
+      "carbs_g": 19.0,
+      "protein_g": 64.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-seafood-mix",
+      "name": "Seafood Mix",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 820.0,
+      "fat_g": 44.0,
+      "sodium_mg": 1150.0,
+      "carbs_g": 45.0,
+      "protein_g": 61.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-shrimp-bbq-chicken-combo",
+      "name": "Shrimp & BBQ Chicken Combo",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 630.0,
+      "fat_g": 33.0,
+      "sodium_mg": 890.0,
+      "carbs_g": 34.0,
+      "protein_g": 49.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-island-white-fish-bbq-chicken-combo",
+      "name": "Island White Fish & BBQ Chicken Combo",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 580.0,
+      "fat_g": 31.0,
+      "sodium_mg": 1620.0,
+      "carbs_g": 28.0,
+      "protein_g": 49.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-chicken-beef-combo",
+      "name": "Chicken & Beef Combo",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 462.0,
+      "fat_g": 20.0,
+      "sodium_mg": 1524.0,
+      "carbs_g": 17.0,
+      "protein_g": 54.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-shrimp-island-white-fish-combo",
+      "name": "Shrimp & Island White Fish Combo",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 745.0,
+      "fat_g": 43.0,
+      "sodium_mg": 1110.0,
+      "carbs_g": 49.0,
+      "protein_g": 40.0
+    },
+    {
+      "id": "island-favorites-sides-not-included-grilled-spam-eggs",
+      "name": "Grilled Spam & Eggs",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, plate lunch portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 770.0,
+      "fat_g": 62.0,
+      "sodium_mg": 1880.0,
+      "carbs_g": 14.0,
+      "protein_g": 40.0
+    },
+    {
+      "id": "mini-meal-sides-not-included-hawaiian-bbq-chicken",
+      "name": "Hawaiian BBQ Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, mini meal portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 230.0,
+      "fat_g": 10.0,
+      "sodium_mg": 630.0,
+      "carbs_g": 7.0,
+      "protein_g": 29.0
+    },
+    {
+      "id": "mini-meal-sides-not-included-hawaiian-bbq-beef",
+      "name": "Hawaiian BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, mini meal portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 227.0,
+      "fat_g": 10.0,
+      "sodium_mg": 894.0,
+      "carbs_g": 10.0,
+      "protein_g": 26.0
+    },
+    {
+      "id": "mini-meal-sides-not-included-chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, mini meal portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 445.0,
+      "fat_g": 29.0,
+      "sodium_mg": 455.0,
+      "carbs_g": 28.0,
+      "protein_g": 19.0
+    },
+    {
+      "id": "mini-meal-sides-not-included-island-fire-chicken",
+      "name": "Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, mini meal portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 274.0,
+      "fat_g": 11.0,
+      "sodium_mg": 1494.0,
+      "carbs_g": 18.0,
+      "protein_g": 26.0
+    },
+    {
+      "id": "mini-meal-sides-not-included-crispy-shrimp",
+      "name": "Crispy Shrimp",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, mini meal portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 400.0,
+      "fat_g": 23.0,
+      "sodium_mg": 260.0,
+      "carbs_g": 27.0,
+      "protein_g": 21.0
+    },
+    {
+      "id": "mini-meal-sides-not-included-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "entree only, mini meal portion, sides not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 165.0,
+      "fat_g": 3.0,
+      "sodium_mg": 420.0,
+      "carbs_g": 0.0,
+      "protein_g": 35.0
+    },
+    {
+      "id": "family-meal-serves-4-people-steamed-rice-6-scoops",
+      "name": "Steamed Rice (6 Scoops)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1140.0,
+      "fat_g": 12.0,
+      "sodium_mg": 0.0,
+      "carbs_g": 240.0,
+      "protein_g": 18.0
+    },
+    {
+      "id": "family-meal-serves-4-people-macaroni-salad-4-scoops",
+      "name": "Macaroni Salad (4 Scoops)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1200.0,
+      "fat_g": 97.0,
+      "sodium_mg": 2024.0,
+      "carbs_g": 69.0,
+      "protein_g": 11.0
+    },
+    {
+      "id": "family-meal-serves-4-people-hawaiian-bbq-chicken-4-servings",
+      "name": "Hawaiian BBQ Chicken (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 613.0,
+      "fat_g": 27.0,
+      "sodium_mg": 1680.0,
+      "carbs_g": 19.0,
+      "protein_g": 76.0
+    },
+    {
+      "id": "family-meal-serves-4-people-chicken-katsu-4-servings",
+      "name": "Chicken Katsu* (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1335.0,
+      "fat_g": 87.0,
+      "sodium_mg": 1365.0,
+      "carbs_g": 83.0,
+      "protein_g": 57.0
+    },
+    {
+      "id": "family-meal-serves-4-people-teriyaki-chicken-4-servings",
+      "name": "Teriyaki Chicken* (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 627.0,
+      "fat_g": 28.0,
+      "sodium_mg": 2053.0,
+      "carbs_g": 16.0,
+      "protein_g": 79.0
+    },
+    {
+      "id": "family-meal-serves-4-people-island-fire-chicken-4-servings",
+      "name": "Island Fire Chicken (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 822.0,
+      "fat_g": 33.0,
+      "sodium_mg": 4481.0,
+      "carbs_g": 55.0,
+      "protein_g": 77.0
+    },
+    {
+      "id": "family-meal-serves-4-people-hawaiian-bbq-beef-4-servings",
+      "name": "Hawaiian BBQ Beef (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 680.0,
+      "fat_g": 28.0,
+      "sodium_mg": 2680.0,
+      "carbs_g": 30.0,
+      "protein_g": 76.0
+    },
+    {
+      "id": "family-meal-serves-4-people-island-white-fish-4-servings",
+      "name": "Island White Fish (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 690.0,
+      "fat_g": 40.0,
+      "sodium_mg": 1700.0,
+      "carbs_g": 43.0,
+      "protein_g": 38.0
+    },
+    {
+      "id": "family-meal-serves-4-people-kalua-pork-with-cabbage-4-servings",
+      "name": "Kalua Pork with Cabbage (4 Servings)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "family portion, serves 4 people",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1100.0,
+      "fat_g": 74.0,
+      "sodium_mg": 1480.0,
+      "carbs_g": 4.0,
+      "protein_g": 106.0
+    },
+    {
+      "id": "gourmet-salad-dressing-not-included-macaroni-salad-2-scoops",
+      "name": "Macaroni Salad (2 scoops)",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "per salad, dressing not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 600.0,
+      "fat_g": 49.0,
+      "sodium_mg": 1012.0,
+      "carbs_g": 35.0,
+      "protein_g": 6.0
+    },
+    {
+      "id": "gourmet-salad-dressing-not-included-macaroni-salad-4-scoops",
+      "name": "Macaroni Salad (4 scoops)",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "per salad, dressing not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1200.0,
+      "fat_g": 97.0,
+      "sodium_mg": 2024.0,
+      "carbs_g": 69.0,
+      "protein_g": 11.0
+    },
+    {
+      "id": "gourmet-salad-dressing-not-included-fresh-mix-salad-12-oz-plate",
+      "name": "Fresh Mix Salad (12 oz.) Plate",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "per salad, dressing not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 105.0,
+      "fat_g": 2.0,
+      "sodium_mg": 117.0,
+      "carbs_g": 18.0,
+      "protein_g": 4.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-hawaiian-bbq-chicken",
+      "name": "Hawaiian BBQ Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 230.0,
+      "fat_g": 10.0,
+      "sodium_mg": 630.0,
+      "carbs_g": 7.0,
+      "protein_g": 29.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 445.0,
+      "fat_g": 29.0,
+      "sodium_mg": 455.0,
+      "carbs_g": 28.0,
+      "protein_g": 19.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-island-fire-chicken",
+      "name": "Island Fire Chicken",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 274.0,
+      "fat_g": 11.0,
+      "sodium_mg": 1494.0,
+      "carbs_g": 18.0,
+      "protein_g": 26.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 165.0,
+      "fat_g": 3.0,
+      "sodium_mg": 420.0,
+      "carbs_g": 0.0,
+      "protein_g": 35.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-hawaiian-bbq-beef",
+      "name": "Hawaiian BBQ Beef",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 170.0,
+      "fat_g": 7.0,
+      "sodium_mg": 670.0,
+      "carbs_g": 8.0,
+      "protein_g": 19.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-island-white-fish-2-pcs",
+      "name": "Island White Fish (2 pcs)",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 345.0,
+      "fat_g": 20.0,
+      "sodium_mg": 850.0,
+      "carbs_g": 22.0,
+      "protein_g": 19.0
+    },
+    {
+      "id": "with-protein-choice-additional-to-fresh-mix-salad-plate-crispy-shrimp-4-pcs",
+      "name": "Crispy Shrimp (4 pcs)",
+      "description": null,
+      "category": "component",
+      "fiber_g": null,
+      "serving_note": "protein add-on to the Fresh Mix Salad Plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 400.0,
+      "fat_g": 23.0,
+      "sodium_mg": 260.0,
+      "carbs_g": 27.0,
+      "protein_g": 21.0
+    },
+    {
+      "id": "appetizers-spam-musubi-2-pcs",
+      "name": "Spam Musubi (2 pcs.)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 680.0,
+      "fat_g": 30.0,
+      "sodium_mg": 890.0,
+      "carbs_g": 88.0,
+      "protein_g": 21.0
+    },
+    {
+      "id": "appetizers-bbq-chicken-musubi-2-pcs",
+      "name": "BBQ Chicken Musubi (2 pcs.)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 530.0,
+      "fat_g": 11.0,
+      "sodium_mg": 440.0,
+      "carbs_g": 89.0,
+      "protein_g": 28.0
+    },
+    {
+      "id": "appetizers-crispy-shrimp-6-pcs",
+      "name": "Crispy Shrimp (6 pcs.)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 600.0,
+      "fat_g": 35.0,
+      "sodium_mg": 390.0,
+      "carbs_g": 41.0,
+      "protein_g": 31.0
+    },
+    {
+      "id": "appetizers-crab-rangoon-3-pcs",
+      "name": "Crab Rangoon (3 pcs.)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 260.0,
+      "fat_g": 16.0,
+      "sodium_mg": 360.0,
+      "carbs_g": 25.0,
+      "protein_g": 5.0
+    },
+    {
+      "id": "appetizers-crab-rangoon-6-pcs",
+      "name": "Crab Rangoon (6 pcs.)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 520.0,
+      "fat_g": 31.0,
+      "sodium_mg": 720.0,
+      "carbs_g": 50.0,
+      "protein_g": 9.0
+    },
+    {
+      "id": "appetizers-steam-rice-2-scoops",
+      "name": "Steam Rice (2 Scoops)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 380.0,
+      "fat_g": 4.0,
+      "sodium_mg": 0.0,
+      "carbs_g": 80.0,
+      "protein_g": 6.0
+    },
+    {
+      "id": "sides-fresh-mix-salad-4-oz-side",
+      "name": "Fresh Mix Salad (4 oz.) Side",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 35.0,
+      "fat_g": 1.0,
+      "sodium_mg": 39.0,
+      "carbs_g": 6.0,
+      "protein_g": 1.0
+    },
+    {
+      "id": "sides-fresh-mix-salad-5-oz-aloha-plate",
+      "name": "Fresh Mix Salad (5 oz.) Aloha Plate",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 60.0,
+      "fat_g": 2.0,
+      "sodium_mg": 75.0,
+      "carbs_g": 10.0,
+      "protein_g": 2.0
+    },
+    {
+      "id": "sides-cabbage-4-oz",
+      "name": "Cabbage (4 oz.)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 35.0,
+      "fat_g": 0.0,
+      "sodium_mg": 90.0,
+      "carbs_g": 6.0,
+      "protein_g": 1.0
+    },
+    {
+      "id": "sides-steamed-rice-1-scoop",
+      "name": "Steamed Rice (1 Scoop)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 190.0,
+      "fat_g": 2.0,
+      "sodium_mg": 0.0,
+      "carbs_g": 40.0,
+      "protein_g": 3.0
+    },
+    {
+      "id": "sides-macaroni-salad-1-scoop",
+      "name": "Macaroni Salad (1 Scoop)",
+      "description": null,
+      "category": "side",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 300.0,
+      "fat_g": 24.0,
+      "sodium_mg": 506.0,
+      "carbs_g": 17.0,
+      "protein_g": 3.0
+    },
+    {
+      "id": "bowls-sauce-not-included-teriyaki-chicken",
+      "name": "Teriyaki Chicken*",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "per bowl, sauce not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 645.0,
+      "fat_g": 14.0,
+      "sodium_mg": 720.0,
+      "carbs_g": 93.0,
+      "protein_g": 36.0
+    },
+    {
+      "id": "bowls-sauce-not-included-grilled-chicken-breast-6-oz",
+      "name": "Grilled Chicken Breast (6 oz.)",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "per bowl, sauce not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 580.0,
+      "fat_g": 7.0,
+      "sodium_mg": 510.0,
+      "carbs_g": 86.0,
+      "protein_g": 42.0
+    },
+    {
+      "id": "bowls-sauce-not-included-hawaiian-bbq-beef-drive-thru-only",
+      "name": "Hawaiian BBQ Beef (Drive Thru Only)",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "per bowl, sauce not included",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 642.0,
+      "fat_g": 14.0,
+      "sodium_mg": 984.0,
+      "carbs_g": 96.0,
+      "protein_g": 33.0
+    },
+    {
+      "id": "sauces-dressing-katsu-sauce-2-oz",
+      "name": "Katsu Sauce (2 oz.)",
+      "description": null,
+      "category": "condiment",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 70.0,
+      "fat_g": 0.0,
+      "sodium_mg": 180.0,
+      "carbs_g": 17.0,
+      "protein_g": 0.0
+    },
+    {
+      "id": "sauces-dressing-teriyaki-sauce-2-oz",
+      "name": "Teriyaki Sauce (2 oz.)",
+      "description": null,
+      "category": "condiment",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 70.0,
+      "fat_g": 0.0,
+      "sodium_mg": 540.0,
+      "carbs_g": 17.0,
+      "protein_g": 1.0
+    },
+    {
+      "id": "sauces-dressing-fresh-mix-salad-dressing-1-oz",
+      "name": "Fresh Mix Salad Dressing (1 oz.)",
+      "description": null,
+      "category": "condiment",
+      "fiber_g": null,
+      "serving_note": "per listed portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 63.0,
+      "fat_g": 4.0,
+      "sodium_mg": 306.0,
+      "carbs_g": 6.0,
+      "protein_g": 0.0
+    },
+    {
+      "id": "derived-plate-lunch-hawaiian-bbq-chicken",
+      "name": "Hawaiian BBQ Chicken Plate Lunch",
+      "description": "Hawaiian BBQ Chicken entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1175.0,
+      "fat_g": 48.0,
+      "sodium_mg": 1856.0,
+      "carbs_g": 117.0,
+      "protein_g": 67.0
+    },
+    {
+      "id": "derived-plate-lunch-chicken-katsu",
+      "name": "Chicken Katsu Plate Lunch",
+      "description": "Chicken Katsu entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1605.0,
+      "fat_g": 86.0,
+      "sodium_mg": 1506.0,
+      "carbs_g": 158.0,
+      "protein_g": 48.0
+    },
+    {
+      "id": "derived-plate-lunch-teriyaki-chicken",
+      "name": "Teriyaki Chicken* Plate Lunch",
+      "description": "Teriyaki Chicken* entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1175.0,
+      "fat_g": 48.0,
+      "sodium_mg": 1886.0,
+      "carbs_g": 117.0,
+      "protein_g": 67.0
+    },
+    {
+      "id": "derived-plate-lunch-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast Plate Lunch",
+      "description": "Grilled Chicken Breast entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1045.0,
+      "fat_g": 34.0,
+      "sodium_mg": 1436.0,
+      "carbs_g": 103.0,
+      "protein_g": 80.0
+    },
+    {
+      "id": "derived-plate-lunch-island-fire-chicken",
+      "name": "Island Fire Chicken Plate Lunch",
+      "description": "Island Fire Chicken entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1263.0,
+      "fat_g": 50.0,
+      "sodium_mg": 3583.0,
+      "carbs_g": 139.0,
+      "protein_g": 61.0
+    },
+    {
+      "id": "derived-plate-lunch-kalbi-short-ribs",
+      "name": "Kalbi Short Ribs Plate Lunch",
+      "description": "Kalbi Short Ribs entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1765.0,
+      "fat_g": 115.0,
+      "sodium_mg": 1776.0,
+      "carbs_g": 119.0,
+      "protein_g": 62.0
+    },
+    {
+      "id": "derived-plate-lunch-hawaiian-bbq-beef",
+      "name": "Hawaiian BBQ Beef Plate Lunch",
+      "description": "Hawaiian BBQ Beef entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1168.0,
+      "fat_g": 47.0,
+      "sodium_mg": 2383.0,
+      "carbs_g": 123.0,
+      "protein_g": 61.0
+    },
+    {
+      "id": "derived-plate-lunch-kalua-pork-with-cabbage",
+      "name": "Kalua Pork with Cabbage Plate Lunch",
+      "description": "Kalua Pork with Cabbage entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1195.0,
+      "fat_g": 58.0,
+      "sodium_mg": 1626.0,
+      "carbs_g": 107.0,
+      "protein_g": 60.0
+    },
+    {
+      "id": "derived-plate-lunch-island-white-fish",
+      "name": "Island White Fish Plate Lunch",
+      "description": "Island White Fish entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1405.0,
+      "fat_g": 68.0,
+      "sodium_mg": 2296.0,
+      "carbs_g": 146.0,
+      "protein_g": 48.0
+    },
+    {
+      "id": "derived-plate-lunch-crispy-shrimp",
+      "name": "Crispy Shrimp Plate Lunch",
+      "description": "Crispy Shrimp entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1515.0,
+      "fat_g": 75.0,
+      "sodium_mg": 1116.0,
+      "carbs_g": 158.0,
+      "protein_g": 51.0
+    },
+    {
+      "id": "derived-plate-lunch-chicken-combo",
+      "name": "Chicken Combo Plate Lunch",
+      "description": "Chicken Combo entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1385.0,
+      "fat_g": 67.0,
+      "sodium_mg": 1676.0,
+      "carbs_g": 138.0,
+      "protein_g": 58.0
+    },
+    {
+      "id": "derived-plate-lunch-hawaiian-bbq-mix",
+      "name": "Hawaiian BBQ Mix Plate Lunch",
+      "description": "Hawaiian BBQ Mix entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1535.0,
+      "fat_g": 82.0,
+      "sodium_mg": 2186.0,
+      "carbs_g": 122.0,
+      "protein_g": 74.0
+    },
+    {
+      "id": "derived-plate-lunch-seafood-mix",
+      "name": "Seafood Mix Plate Lunch",
+      "description": "Seafood Mix entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1535.0,
+      "fat_g": 72.0,
+      "sodium_mg": 1746.0,
+      "carbs_g": 148.0,
+      "protein_g": 71.0
+    },
+    {
+      "id": "derived-plate-lunch-shrimp-bbq-chicken-combo",
+      "name": "Shrimp & BBQ Chicken Combo Plate Lunch",
+      "description": "Shrimp & BBQ Chicken Combo entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1345.0,
+      "fat_g": 61.0,
+      "sodium_mg": 1486.0,
+      "carbs_g": 137.0,
+      "protein_g": 59.0
+    },
+    {
+      "id": "derived-plate-lunch-island-white-fish-bbq-chicken-combo",
+      "name": "Island White Fish & BBQ Chicken Combo Plate Lunch",
+      "description": "Island White Fish & BBQ Chicken Combo entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1295.0,
+      "fat_g": 59.0,
+      "sodium_mg": 2216.0,
+      "carbs_g": 131.0,
+      "protein_g": 59.0
+    },
+    {
+      "id": "derived-plate-lunch-chicken-beef-combo",
+      "name": "Chicken & Beef Combo Plate Lunch",
+      "description": "Chicken & Beef Combo entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1177.0,
+      "fat_g": 48.0,
+      "sodium_mg": 2120.0,
+      "carbs_g": 120.0,
+      "protein_g": 64.0
+    },
+    {
+      "id": "derived-plate-lunch-shrimp-island-white-fish-combo",
+      "name": "Shrimp & Island White Fish Combo Plate Lunch",
+      "description": "Shrimp & Island White Fish Combo entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1460.0,
+      "fat_g": 71.0,
+      "sodium_mg": 1706.0,
+      "carbs_g": 152.0,
+      "protein_g": 50.0
+    },
+    {
+      "id": "derived-plate-lunch-grilled-spam-eggs",
+      "name": "Grilled Spam & Eggs Plate Lunch",
+      "description": "Grilled Spam & Eggs entree plus 2 scoops of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one plate lunch as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 1485.0,
+      "fat_g": 90.0,
+      "sodium_mg": 2476.0,
+      "carbs_g": 117.0,
+      "protein_g": 50.0
+    },
+    {
+      "id": "derived-mini-meal-hawaiian-bbq-chicken",
+      "name": "Hawaiian BBQ Chicken Mini Meal",
+      "description": "Hawaiian BBQ Chicken entree plus 1 scoop of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one mini meal as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 755.0,
+      "fat_g": 36.0,
+      "sodium_mg": 1226.0,
+      "carbs_g": 70.0,
+      "protein_g": 36.0
+    },
+    {
+      "id": "derived-mini-meal-hawaiian-bbq-beef",
+      "name": "Hawaiian BBQ Beef Mini Meal",
+      "description": "Hawaiian BBQ Beef entree plus 1 scoop of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one mini meal as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 752.0,
+      "fat_g": 36.0,
+      "sodium_mg": 1490.0,
+      "carbs_g": 73.0,
+      "protein_g": 33.0
+    },
+    {
+      "id": "derived-mini-meal-chicken-katsu",
+      "name": "Chicken Katsu Mini Meal",
+      "description": "Chicken Katsu entree plus 1 scoop of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one mini meal as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 970.0,
+      "fat_g": 55.0,
+      "sodium_mg": 1051.0,
+      "carbs_g": 91.0,
+      "protein_g": 26.0
+    },
+    {
+      "id": "derived-mini-meal-island-fire-chicken",
+      "name": "Island Fire Chicken Mini Meal",
+      "description": "Island Fire Chicken entree plus 1 scoop of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one mini meal as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 799.0,
+      "fat_g": 37.0,
+      "sodium_mg": 2090.0,
+      "carbs_g": 81.0,
+      "protein_g": 33.0
+    },
+    {
+      "id": "derived-mini-meal-crispy-shrimp",
+      "name": "Crispy Shrimp Mini Meal",
+      "description": "Crispy Shrimp entree plus 1 scoop of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one mini meal as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 925.0,
+      "fat_g": 49.0,
+      "sodium_mg": 856.0,
+      "carbs_g": 90.0,
+      "protein_g": 28.0
+    },
+    {
+      "id": "derived-mini-meal-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast Mini Meal",
+      "description": "Grilled Chicken Breast entree plus 1 scoop of rice, 1 scoop of macaroni salad and vegetables, summed from the published parts.",
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "one mini meal as served",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 690.0,
+      "fat_g": 29.0,
+      "sodium_mg": 1016.0,
+      "carbs_g": 63.0,
+      "protein_g": 42.0
+    }
+  ]
+}

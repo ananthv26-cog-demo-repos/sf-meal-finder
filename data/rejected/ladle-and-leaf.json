@@ -1,0 +1,255 @@
+[
+  {
+    "item": {
+      "id": "five-bean-vegetarian-chili-168",
+      "name": "Five Bean Vegetarian Chili",
+      "description": "A Thick and Spicy Vegan Chili Brimming with 5 Kinds of Beans, Corn, Tomatoes, Carrots, Bell Peppers, and Smoky Chipotle Chiles for Added Zest. Suggested Garnish: Rice and Jack Cheese.",
+      "category": "side",
+      "calories": 255.0,
+      "protein_g": 21.0,
+      "carbs_g": 61.0,
+      "fat_g": 5.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 662.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/168/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/five-bean-vegetarian-chili-168: macro check failed — stated 255.0 kcal vs computed 373 (delta +118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "lamb-and-lentil-stew-238",
+      "name": "Lamb and Lentil Stew",
+      "description": "A Moroccan inspired stew of lamb shoulder, lentils, and black eyed peas seasoned with fresh ginger, cinnamon, cumin and turmeric. Garnish: Cous Cous (Garnish contains:Wheat/Gluten) & Cilantro.",
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 15.0,
+      "carbs_g": 25.0,
+      "fat_g": 4.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 600.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/238/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/lamb-and-lentil-stew-238: macro check failed — stated 240.0 kcal vs computed 196 (delta -44)"
+    ]
+  },
+  {
+    "item": {
+      "id": "egg-salad-2096",
+      "name": "Egg Salad",
+      "description": "Hard-boiled eggs blended with mayo & green onions served with romaine & tomato on rustic pain levain. Contains: Wheat/Gluten, Eggs, Soy.",
+      "category": "meal",
+      "calories": 205.0,
+      "protein_g": 9.0,
+      "carbs_g": 17.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 345.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2096/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/egg-salad-2096: macro check failed — stated 205.0 kcal vs computed 176 (delta -29)"
+    ]
+  },
+  {
+    "item": {
+      "id": "asian-chicken-or-tofu-2097",
+      "name": "Asian Chicken or Tofu",
+      "description": "Organic mixed greens, grilled chicken or organic tofu, edamame, carrots, shredded cabbage, wonton strips, miso sesame vinaigrette. Contains: Soy, Wheat/Gluten, Eggs.",
+      "category": "meal",
+      "calories": 360.0,
+      "protein_g": 31.0,
+      "carbs_g": 16.0,
+      "fat_g": 3.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2097/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/asian-chicken-or-tofu-2097: macro check failed — stated 360.0 kcal vs computed 215 (delta -145)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brussels-kale-quinoa-2099",
+      "name": "Brussels, Kale & Quinoa",
+      "description": "Tuscan kale, roasted Brussels sprouts, tri-color quinoa, carrots, Granny Smith apples, shredded cabbage, dried cranberries, feta cheese, spiced pumpkin seeds, Meyer lemon vinaigrette. Contains: Cheese/Dairy.",
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 22.0,
+      "carbs_g": 60.0,
+      "fat_g": 15.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2099/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/brussels-kale-quinoa-2099: macro check failed — stated 530.0 kcal vs computed 463 (delta -67)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ahi-tuna-salad-2126",
+      "name": "Ahi Tuna Salad",
+      "description": "Ahi tuna blended with mayo and sweet relish, served with romaine, tomato & English cucumbers & Meyer lemon spread on rustic pain levain. Contains: Wheat/Gluten, Eggs, Soy, Fish.",
+      "category": "meal",
+      "calories": 570.0,
+      "protein_g": 14.0,
+      "carbs_g": 25.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2126/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/ahi-tuna-salad-2126: macro check failed — stated 570.0 kcal vs computed 219 (delta -351)"
+    ]
+  },
+  {
+    "item": {
+      "id": "turkey-bacon-avocado-2136",
+      "name": "Turkey Bacon Avocado",
+      "description": "Roasted turkey, bacon, avocado, romaine & mayo on ciabatta. Contains: Eggs, Soy, Wheat/Gluten.",
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 31.0,
+      "carbs_g": 34.0,
+      "fat_g": 11.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2136/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/turkey-bacon-avocado-2136: macro check failed — stated 450.0 kcal vs computed 359 (delta -91)"
+    ]
+  },
+  {
+    "item": {
+      "id": "organic-steel-cut-oatmeal-berries-house-made-granola-2180",
+      "name": "Organic Steel Cut Oatmeal - Berries & House-Made Granola",
+      "description": "with Low-Fat Vanilla Yogurt.",
+      "category": "meal",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 14.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2180/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/organic-steel-cut-oatmeal-berries-house-made-granola-2180: macro check failed — stated 110.0 kcal vs computed 139 (delta +29)"
+    ]
+  },
+  {
+    "item": {
+      "id": "riced-cauliflower-hummus-2224",
+      "name": "Riced Cauliflower & Hummus",
+      "description": "Cauliflower rice, tri-color quinoa, hummus, feta, cranberry beet relish, arugula & toasted pumpkin seeds with pomegranate vinaigrette. Contains: Cheese/dairy.",
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 24.0,
+      "carbs_g": 57.0,
+      "fat_g": 12.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 950.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2224/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/riced-cauliflower-hummus-2224: macro check failed — stated 530.0 kcal vs computed 432 (delta -98)"
+    ]
+  },
+  {
+    "item": {
+      "id": "chiang-mai-chicken-soup-2254",
+      "name": "Chiang Mai Chicken Soup",
+      "description": "Our interpretation of a northern Thailand classic, with chicken, Chinese broccoli, lemongrass, galangal, and a touch of lime, scallions & cilantro.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 21.0,
+      "carbs_g": 5.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 920.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2254/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/chiang-mai-chicken-soup-2254: macro check failed — stated 140.0 kcal vs computed 113 (delta -27)"
+    ]
+  },
+  {
+    "item": {
+      "id": "carrot-ginger-soup-2290",
+      "name": "Carrot Ginger Soup",
+      "description": "A creamy, smooth blend of carrots, apples, onions, and ginger with a dash of milk. Contains: Milk",
+      "category": "side",
+      "calories": 696.0,
+      "protein_g": 5.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 768.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2290/"
+      }
+    },
+    "reasons": [
+      "ladle-and-leaf/carrot-ginger-soup-2290: macro check failed — stated 696.0 kcal vs computed 179 (delta -517)"
+    ]
+  }
+]

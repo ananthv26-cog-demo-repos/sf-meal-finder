@@ -1,0 +1,117 @@
+[
+  {
+    "item": {
+      "id": "ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-hawaiian-bbq-chick",
+      "name": "Hawaiian BBQ Chicken",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "kid's meal with rice, veggies, berry pouch and apple juice box",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 407.0,
+      "fat_g": 0.0,
+      "sodium_mg": 579.0,
+      "carbs_g": 0.0,
+      "protein_g": 0.0
+    },
+    "reasons": [
+      "ono-hawaiian-bbq/ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-hawaiian-bbq-chick: macro check failed — stated 407.0 kcal vs computed 0 (delta -407)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "kid's meal with rice, veggies, berry pouch and apple juice box",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 571.0,
+      "fat_g": 0.0,
+      "sodium_mg": 383.0,
+      "carbs_g": 0.0,
+      "protein_g": 0.0
+    },
+    "reasons": [
+      "ono-hawaiian-bbq/ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-chicken-katsu: macro check failed — stated 571.0 kcal vs computed 0 (delta -571)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-grilled-chicken-br",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "kid's meal with rice, veggies, berry pouch and apple juice box",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 382.0,
+      "fat_g": 0.0,
+      "sodium_mg": 442.0,
+      "carbs_g": 0.0,
+      "protein_g": 0.0
+    },
+    "reasons": [
+      "ono-hawaiian-bbq/ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-grilled-chicken-br: macro check failed — stated 382.0 kcal vs computed 0 (delta -382)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-island-white-fish",
+      "name": "Island White Fish",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "kid's meal with rice, veggies, berry pouch and apple juice box",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 428.0,
+      "fat_g": 0.0,
+      "sodium_mg": 396.0,
+      "carbs_g": 0.0,
+      "protein_g": 0.0
+    },
+    "reasons": [
+      "ono-hawaiian-bbq/ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-island-white-fish: macro check failed — stated 428.0 kcal vs computed 0 (delta -428)"
+    ]
+  },
+  {
+    "item": {
+      "id": "ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-crispy-shrimp",
+      "name": "Crispy Shrimp",
+      "description": null,
+      "category": "meal",
+      "fiber_g": null,
+      "serving_note": "kid's meal with rice, veggies, berry pouch and apple juice box",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf"
+      },
+      "calories": 479.0,
+      "fat_g": 0.0,
+      "sodium_mg": 529.0,
+      "carbs_g": 0.0,
+      "protein_g": 0.0
+    },
+    "reasons": [
+      "ono-hawaiian-bbq/ono-keiki-meal-kid-s-meal-with-rice-veggies-berry-pouch-apple-juice-box-crispy-shrimp: macro check failed — stated 479.0 kcal vs computed 0 (delta -479)"
+    ]
+  }
+]
