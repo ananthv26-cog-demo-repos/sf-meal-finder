@@ -44,24 +44,15 @@ label,
 }
 .filter-bar {
   border-bottom: 1px solid var(--line);
-  padding: 0 var(--sp-5);
-}
-.filter-top,
-.filter-bottom {
+  column-gap: var(--sp-5);
   display: grid;
-}
-.filter-top {
-  align-items: end;
-  gap: var(--sp-5);
-  grid-template-columns: minmax(280px, 1fr) auto;
-  padding: var(--sp-5) 0;
-}
-.filter-bottom {
-  align-items: start;
-  border-top: 1px solid var(--line);
-  gap: var(--sp-5);
   grid-template-columns: minmax(300px, 1fr) auto auto;
-  padding: var(--sp-4) 0;
+  padding: var(--sp-5) var(--sp-5) var(--sp-4);
+}
+.filter-divider {
+  border-top: 1px solid var(--line);
+  grid-column: 1 / -1;
+  margin: var(--sp-5) 0 var(--sp-4);
 }
 label {
   color: var(--text-faint);
@@ -104,6 +95,7 @@ input[type="number"]:focus,
 }
 .search-control {
   gap: var(--sp-2);
+  grid-column: 1;
 }
 .search-wrap {
   position: relative;
@@ -126,8 +118,11 @@ input[type="number"]:focus,
 }
 .result-summary {
   align-items: baseline;
+  align-self: end;
   display: flex;
   gap: var(--sp-2);
+  grid-column: 2 / -1;
+  justify-self: end;
   padding-bottom: var(--sp-3);
   white-space: nowrap;
 }
@@ -146,6 +141,7 @@ input[type="number"]:focus,
   letter-spacing: .06em;
 }
 .range-field {
+  grid-column: 1;
   min-width: 0;
 }
 .range-heading {
@@ -497,29 +493,26 @@ input:focus-visible {
 }
 
 @media (max-width: 1180px) and (min-width: 801px) {
-  .filter-top {
-    gap: var(--sp-4);
-    grid-template-columns: minmax(220px, 1fr) auto;
-  }
-  .filter-bottom {
-    gap: var(--sp-4);
+  .filter-bar {
+    column-gap: var(--sp-4);
     grid-template-columns: minmax(260px, 1fr) auto auto;
   }
 }
 @media (max-width: 800px) {
   .filter-bar {
-    padding: 0 var(--sp-4);
-  }
-  .filter-top {
-    gap: var(--sp-3);
+    column-gap: var(--sp-4);
     grid-template-columns: 1fr auto;
-    padding: var(--sp-4) 0;
+    padding: var(--sp-4) var(--sp-4) var(--sp-4);
   }
-
-  .filter-bottom {
-    gap: var(--sp-4);
-    grid-template-columns: 1fr auto;
-    padding: var(--sp-4) 0;
+  .filter-divider {
+    margin: var(--sp-4) 0;
+  }
+  .search-control {
+    grid-column: 1 / -1;
+  }
+  .result-summary {
+    grid-column: 1 / -1;
+    padding: var(--sp-3) 0 0;
   }
   .range-field {
     grid-column: 1 / -1;
