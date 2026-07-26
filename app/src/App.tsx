@@ -7,7 +7,6 @@ import './styles.css'
 
 const rootStyle = getComputedStyle(document.documentElement)
 const accentColor = rootStyle.getPropertyValue('--accent').trim() || '#2563eb'
-const proteinColor = rootStyle.getPropertyValue('--protein').trim() || '#047857'
 
 type Location = { address: string; lat: number; lng: number; neighborhood?: string | null }
 type Restaurant = { id: string; name: string; website: string; locations: Location[] }
@@ -163,7 +162,7 @@ function App() {
               const selected = restaurant.id === selectedRestaurant
               const matched = visibleRestaurantIds.has(restaurant.id)
               return (
-                <CircleMarker key={`${restaurant.id}-${index}`} center={[location.lat, location.lng]} radius={selected ? 9 : 7} pathOptions={{ color: selected ? proteinColor : accentColor, fillColor: selected ? proteinColor : accentColor, fillOpacity: matched ? 0.9 : 0.25, opacity: matched ? 1 : 0.35 }}>
+                <CircleMarker key={`${restaurant.id}-${index}`} center={[location.lat, location.lng]} radius={selected ? 6 : 3.5} pathOptions={{ color: accentColor, fillColor: accentColor, fillOpacity: selected ? 0.85 : matched ? 0.5 : 0.12, opacity: selected ? 1 : matched ? 0.7 : 0.28, weight: selected ? 2 : 1 }}>
                   <Popup><strong>{restaurant.name}</strong><br />{location.address}</Popup>
                 </CircleMarker>
               )
