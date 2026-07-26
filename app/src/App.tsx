@@ -111,11 +111,11 @@ function App() {
     <main className="app-shell">
       <header className="filter-bar">
         <div className="brand">SF MEAL FINDER</div>
-        <label>Search meals or restaurants<input className="search-input" type="search" placeholder="e.g. salad, Chipotle" value={filters.search} onChange={(event) => setFilters((current) => ({ ...current, search: event.target.value }))} /></label>
-        <label>Calories min<input type="number" min="0" value={filters.minCalories} onChange={(event) => updateNumber('minCalories', event.target.value)} /></label>
-        <label>Calories max<input type="number" min="0" value={filters.maxCalories} onChange={(event) => updateNumber('maxCalories', event.target.value)} /></label>
-        <label>Protein min (g)<input type="number" min="0" value={filters.minProtein} onChange={(event) => updateNumber('minProtein', event.target.value)} /></label>
-        <label className="check-label"><input type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /> include unofficial estimates</label>
+        <label>Search<input aria-label="Search meals or restaurants" className="search-input" type="search" placeholder="salad, Chipotle" value={filters.search} onChange={(event) => setFilters((current) => ({ ...current, search: event.target.value }))} /></label>
+        <label>Calories min<input aria-label="Minimum calories" type="number" min="0" value={filters.minCalories} onChange={(event) => updateNumber('minCalories', event.target.value)} /></label>
+        <label>Calories max<input aria-label="Maximum calories" type="number" min="0" value={filters.maxCalories} onChange={(event) => updateNumber('maxCalories', event.target.value)} /></label>
+        <label>Protein min<input aria-label="Minimum protein in grams" type="number" min="0" value={filters.minProtein} onChange={(event) => updateNumber('minProtein', event.target.value)} /></label>
+        <label className="check-label"><input aria-label="Include unofficial estimates" type="checkbox" checked={filters.unofficial} onChange={(event) => setFilters((current) => ({ ...current, unofficial: event.target.checked }))} /> include estimates</label>
         <div className="readout"><strong>{visibleRestaurantIds.size}</strong> restaurants <span>·</span> <strong>{filteredMeals.length}</strong> results</div>
         <div className="presets" aria-label="Filter presets">
           {presets.map((preset) => <button key={preset.label} type="button" onClick={() => setFilters((current) => ({ ...current, minCalories: preset.minCalories, maxCalories: preset.maxCalories, minProtein: preset.minProtein }))}>{preset.label}</button>)}
@@ -145,7 +145,7 @@ function App() {
                     }
                   }}
                 >
-                  <div className="meal-info"><strong>{meal.name}</strong><span>{restaurant?.name ?? meal.restaurant_id}{meal.serving_note ? ` · ${meal.serving_note}` : ''}</span><div className="badges">{meal.is_estimate && <em>estimate</em>}{sourceChip}</div></div>
+                  <div className="meal-info"><strong>{meal.name}</strong><span>{restaurant?.name ?? meal.restaurant_id}{meal.serving_note ? ` · ${meal.serving_note}` : ''}</span><div className="badges">{meal.is_estimate && <em>~est</em>}{sourceChip}</div></div>
                   <span className="number">{formatNumber(meal.calories, meal.is_estimate)}</span><span className="number protein">{formatNumber(meal.protein_g, meal.is_estimate)}g</span><span className="number">{formatNumber(meal.carbs_g, meal.is_estimate)}g</span><span className="number">{formatNumber(meal.fat_g, meal.is_estimate)}g</span>
                 </div>
               )

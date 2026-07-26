@@ -1,6 +1,7 @@
 :root {
-  --font-sans: Inter, system-ui, sans-serif;
-  --fs-xs: 11px;
+  --font-sans: "Inter Tight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+  --fs-xs: 10.5px;
   --fs-sm: 12px;
   --fs-md: 14px;
   --fs-lg: 16px;
@@ -14,19 +15,21 @@
   --sp-4: 16px;
   --sp-5: 24px;
   --sp-6: 32px;
-  --r-1: 4px;
-  --r-2: 8px;
-  --bg: #f5f3ef;
-  --surface: #fbfaf8;
-  --border: #dedbd4;
-  --text: #252522;
-  --text-secondary: #77746d;
-  --accent: #5f6b62;
-  --protein: #3f6655;
-  --estimate: #9a6a2a;
-  --danger: #9a5147;
-  --selection: #e9ece7;
-  --control-bg: #f8f6f2;
+  --r-1: 0;
+  --r-2: 0;
+  --bg: #f7f6f5;
+  --surface: #f7f6f5;
+  --line: rgba(0, 0, 0, .08);
+  --ink: #000;
+  --text: #191919;
+  --text-secondary: rgba(25, 25, 25, .56);
+  --text-faint: rgba(25, 25, 25, .4);
+  --accent: #20f;
+  --protein: #191919;
+  --estimate: #20f;
+  --danger: #191919;
+  --selection: rgba(32, 0, 255, .05);
+  --control-bg: transparent;
   --results-grid: minmax(220px, 1fr) 64px 76px 64px 52px;
   --input-width: 74px;
 }
