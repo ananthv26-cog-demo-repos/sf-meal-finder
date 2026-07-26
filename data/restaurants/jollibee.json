@@ -1,0 +1,1533 @@
+{
+  "id": "jollibee",
+  "name": "Jollibee",
+  "website": "https://www.jollibeefoods.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "934 Market Street, San Francisco, CA 94102",
+      "lat": 37.7838654,
+      "lng": -122.4086985,
+      "neighborhood": "Mid-Market"
+    }
+  ],
+  "items": [
+    {
+      "id": "chickenjoy-drumstick-1-pc-3-0-oz-85-g",
+      "name": "Chickenjoy Drumstick, 1 pc",
+      "description": null,
+      "category": "component",
+      "calories": 220,
+      "protein_g": 20,
+      "carbs_g": 3,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 270,
+      "serving_note": "per 3.0 oz (85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chickenjoy-thigh-1-pc-4-4-oz-125-g",
+      "name": "Chickenjoy Thigh, 1 pc",
+      "description": null,
+      "category": "component",
+      "calories": 380,
+      "protein_g": 27,
+      "carbs_g": 5,
+      "fat_g": 28,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per 4.4 oz (125 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spicy-chickenjoy-drumstick-1-pc-3-0-oz-85-g",
+      "name": "Spicy Chickenjoy Drumstick, 1 pc",
+      "description": null,
+      "category": "component",
+      "calories": 240,
+      "protein_g": 16,
+      "carbs_g": 10,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 540,
+      "serving_note": "per 3.0 oz (85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spicy-chickenjoy-thigh-1-pc-4-4-oz-126-g",
+      "name": "Spicy Chickenjoy Thigh, 1 pc",
+      "description": null,
+      "category": "component",
+      "calories": 350,
+      "protein_g": 23,
+      "carbs_g": 15,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 790,
+      "serving_note": "per 4.4 oz (126 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "gravy-small-2-7-oz-77-g",
+      "name": "Gravy, Small",
+      "description": null,
+      "category": "condiment",
+      "calories": 25,
+      "protein_g": 1,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 380,
+      "serving_note": "per 2.7 oz (77 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "gravy-medium-5-0-oz-142-g",
+      "name": "Gravy, Medium",
+      "description": null,
+      "category": "condiment",
+      "calories": 50,
+      "protein_g": 2,
+      "carbs_g": 10,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 700,
+      "serving_note": "per 5.0 oz (142 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "gravy-large-8-0-oz-198-g",
+      "name": "Gravy, Large",
+      "description": null,
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 3,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 980,
+      "serving_note": "per 8.0 oz (198 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-original-8-3-oz-249-g",
+      "name": "Chicken Sandwich Original",
+      "description": null,
+      "category": "meal",
+      "calories": 609,
+      "protein_g": 33,
+      "carbs_g": 46,
+      "fat_g": 33,
+      "fiber_g": 2,
+      "sodium_mg": 1296,
+      "serving_note": "per 8.3 oz (249 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-deluxe-9-2-oz-259-g",
+      "name": "Chicken Sandwich Deluxe",
+      "description": null,
+      "category": "meal",
+      "calories": 619,
+      "protein_g": 34,
+      "carbs_g": 47,
+      "fat_g": 33,
+      "fiber_g": 3,
+      "sodium_mg": 1296,
+      "serving_note": "per 9.2 oz (259 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-spicy-8-4-oz-238-g",
+      "name": "Chicken Sandwich Spicy",
+      "description": null,
+      "category": "meal",
+      "calories": 559,
+      "protein_g": 33,
+      "carbs_g": 46,
+      "fat_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 1366,
+      "serving_note": "per 8.4 oz (238 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-spicy-deluxe-9-3-oz-263-g",
+      "name": "Chicken Sandwich Spicy Deluxe",
+      "description": null,
+      "category": "meal",
+      "calories": 569,
+      "protein_g": 34,
+      "carbs_g": 47,
+      "fat_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 1366,
+      "serving_note": "per 9.3 oz (263 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-bacon-and-cheese-8-5-oz-236-g",
+      "name": "Chicken Sandwich Bacon and Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 709,
+      "protein_g": 39,
+      "carbs_g": 46,
+      "fat_g": 42,
+      "fiber_g": 2,
+      "sodium_mg": 1716,
+      "serving_note": "per 8.5 oz (236 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-aloha-11-2-oz-317-g",
+      "name": "Chicken Sandwich Aloha",
+      "description": null,
+      "category": "meal",
+      "calories": 639,
+      "protein_g": 40,
+      "carbs_g": 64,
+      "fat_g": 33,
+      "fiber_g": 3,
+      "sodium_mg": 1686,
+      "serving_note": "per 11.2 oz (317 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "korean-bbq-chicken-sandwich-10-3-oz-292-g",
+      "name": "Korean BBQ Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 548,
+      "protein_g": 33,
+      "carbs_g": 65,
+      "fat_g": 16,
+      "fiber_g": 3,
+      "sodium_mg": 1996,
+      "serving_note": "per 10.3 oz (292 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "korean-bbq-drumstick-1-pc-4-5-oz-128-g",
+      "name": "Korean BBQ Drumstick, 1 pc",
+      "description": null,
+      "category": "component",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 21,
+      "fiber_g": 0,
+      "sodium_mg": 680,
+      "serving_note": "per 4.5 oz (128 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "korean-bbq-thigh-1-pc-5-9-oz-168-g",
+      "name": "Korean BBQ Thigh, 1 pc",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 310,
+      "serving_note": "per 5.9 oz (168 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "chicken-tender-1-pc-no-dip-2-0-oz-57-g",
+      "name": "Chicken Tender, 1 pc (No Dip)",
+      "description": null,
+      "category": "condiment",
+      "calories": 140,
+      "protein_g": 11,
+      "carbs_g": 9,
+      "fat_g": 6,
+      "fiber_g": 4,
+      "sodium_mg": 340,
+      "serving_note": "per 2.0 oz (57 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "tender-dip-1-6-oz-47-g",
+      "name": "Tender Dip",
+      "description": null,
+      "category": "condiment",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 21,
+      "fiber_g": 0,
+      "sodium_mg": 680,
+      "serving_note": "per 1.6 oz (47 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "pineapple-bbq-dip-1-4-oz-40-g",
+      "name": "Pineapple BBQ Dip",
+      "description": null,
+      "category": "condiment",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 310,
+      "serving_note": "per 1.4 oz (40 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "ranch-dip-1-4-oz-40-g",
+      "name": "Ranch Dip",
+      "description": null,
+      "category": "condiment",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 340,
+      "serving_note": "per 1.4 oz (40 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "honey-mustard-dip-1-4-oz-40-g",
+      "name": "Honey Mustard Dip",
+      "description": null,
+      "category": "condiment",
+      "calories": 170,
+      "protein_g": 1,
+      "carbs_g": 9,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 230,
+      "serving_note": "per 1.4 oz (40 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "creamy-sriracha-dip-1-4-oz-40-g",
+      "name": "Creamy Sriracha Dip",
+      "description": null,
+      "category": "condiment",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 20,
+      "fiber_g": 0,
+      "sodium_mg": 360,
+      "serving_note": "per 1.4 oz (40 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "jollibee-spaghetti-14-5-oz-411-g",
+      "name": "Jollibee Spaghetti",
+      "description": null,
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 23,
+      "carbs_g": 76,
+      "fat_g": 23,
+      "fiber_g": 4,
+      "sodium_mg": 1340,
+      "serving_note": "per 14.5 oz (411 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-with-1-pc-chickenjoy-drumstick-and-gravy-20-2-oz-573-g",
+      "name": "Spaghetti with 1 pc Chickenjoy Drumstick and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 860,
+      "protein_g": 44,
+      "carbs_g": 84,
+      "fat_g": 37,
+      "fiber_g": 4,
+      "sodium_mg": 1990,
+      "serving_note": "per 20.2 oz (573 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-with-1-pc-chickenjoy-thigh-and-gravy-21-6-oz-612-g",
+      "name": "Spaghetti with 1 pc Chickenjoy Thigh and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 1020,
+      "protein_g": 51,
+      "carbs_g": 86,
+      "fat_g": 51,
+      "fiber_g": 4,
+      "sodium_mg": 2120,
+      "serving_note": "per 21.6 oz (612 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-with-1-pc-spicy-chickenjoy-drumstick-and-gravy-20-2-oz-573-g",
+      "name": "Spaghetti with 1 pc Spicy Chickenjoy Drumstick and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 835,
+      "protein_g": 41,
+      "carbs_g": 91,
+      "fat_g": 33,
+      "fiber_g": 7,
+      "sodium_mg": 2200,
+      "serving_note": "per 20.2 oz (573 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-with-1-pc-spicy-chickenjoy-thigh-and-gravy-21-6-oz-613-g",
+      "name": "Spaghetti with 1 pc Spicy Chickenjoy Thigh and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 1005,
+      "protein_g": 47,
+      "carbs_g": 99,
+      "fat_g": 44,
+      "fiber_g": 7,
+      "sodium_mg": 2440,
+      "serving_note": "per 21.6 oz (613 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-with-2-pcs-chickenjoy-and-gravy-24-6-oz-698-g",
+      "name": "Spaghetti with 2 pcs Chickenjoy and Gravy",
+      "description": "1 pc each Drumstick and Thigh",
+      "category": "meal",
+      "calories": 1240,
+      "protein_g": 71,
+      "carbs_g": 89,
+      "fat_g": 64,
+      "fiber_g": 4,
+      "sodium_mg": 2390,
+      "serving_note": "per 24.6 oz (698 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-with-2-pcs-spicy-chickenjoy-and-gravy-24-6-oz-698-g",
+      "name": "Spaghetti with 2 pcs Spicy Chickenjoy and Gravy",
+      "description": "1 pc each Spicy Drumstick and Thigh",
+      "category": "meal",
+      "calories": 1205,
+      "protein_g": 64,
+      "carbs_g": 109,
+      "fat_g": 54,
+      "fiber_g": 10,
+      "sodium_mg": 2920,
+      "serving_note": "per 24.6 oz (698 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "spaghetti-family-pack-serves-3-4-43-5-oz-1233-g",
+      "name": "Spaghetti Family Pack (Serves 3-4)",
+      "description": null,
+      "category": "component",
+      "calories": 1830,
+      "protein_g": 68,
+      "carbs_g": 227,
+      "fat_g": 68,
+      "fiber_g": 13,
+      "sodium_mg": 4020,
+      "serving_note": "per 43.5 oz (1233 g); serves 3-4",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-fiesta-12-3-oz-351-g",
+      "name": "Palabok Fiesta",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 20,
+      "carbs_g": 49,
+      "fat_g": 15,
+      "fiber_g": 1,
+      "sodium_mg": 950,
+      "serving_note": "per 12.3 oz (351 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-with-1-pc-chickenjoy-drumstick-and-gravy-18-1-oz-513-g",
+      "name": "Palabok with 1 pc Chickenjoy Drumstick and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 660,
+      "protein_g": 41,
+      "carbs_g": 57,
+      "fat_g": 28,
+      "fiber_g": 1,
+      "sodium_mg": 1600,
+      "serving_note": "per 18.1 oz (513 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-with-1-pc-chickenjoy-thigh-and-gravy-19-5-oz-552-g",
+      "name": "Palabok with 1 pc Chickenjoy Thigh and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 820,
+      "protein_g": 48,
+      "carbs_g": 60,
+      "fat_g": 42,
+      "fiber_g": 1,
+      "sodium_mg": 1730,
+      "serving_note": "per 19.5 oz (552 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-with-1-pc-spicy-chickenjoy-drumstick-and-gravy-18-1-oz-513-g",
+      "name": "Palabok with 1 pc Spicy Chickenjoy Drumstick and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 635,
+      "protein_g": 38,
+      "carbs_g": 64,
+      "fat_g": 25,
+      "fiber_g": 4,
+      "sodium_mg": 1810,
+      "serving_note": "per 18.1 oz (513 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-with-1-pc-spicy-chickenjoy-thigh-and-gravy-19-5-oz-552-g",
+      "name": "Palabok with 1 pc Spicy Chickenjoy Thigh and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 805,
+      "protein_g": 44,
+      "carbs_g": 72,
+      "fat_g": 36,
+      "fiber_g": 4,
+      "sodium_mg": 2050,
+      "serving_note": "per 19.5 oz (552 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-with-2-pcs-chickenjoy-and-gravy-22-5-oz-637-g",
+      "name": "Palabok with 2 pcs Chickenjoy and Gravy",
+      "description": "1 pc each Drumstick and Thigh",
+      "category": "meal",
+      "calories": 1040,
+      "protein_g": 68,
+      "carbs_g": 62,
+      "fat_g": 56,
+      "fiber_g": 1,
+      "sodium_mg": 2000,
+      "serving_note": "per 22.5 oz (637 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-with-2-pcs-spicy-chickenjoy-and-gravy-22-5-oz-637-g",
+      "name": "Palabok with 2 pcs Spicy Chickenjoy and Gravy",
+      "description": "1 pc each Spicy Drumstick and Thigh",
+      "category": "meal",
+      "calories": 1005,
+      "protein_g": 61,
+      "carbs_g": 82,
+      "fat_g": 46,
+      "fiber_g": 7,
+      "sodium_mg": 2530,
+      "serving_note": "per 22.5 oz (637 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-family-pack-serves-3-4-37-1-oz-1053-g",
+      "name": "Palabok Family Pack (Serves 3-4)",
+      "description": null,
+      "category": "component",
+      "calories": 1240,
+      "protein_g": 60,
+      "carbs_g": 148,
+      "fat_g": 44,
+      "fiber_g": 2,
+      "sodium_mg": 2860,
+      "serving_note": "per 37.1 oz (1053 g); serves 3-4",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "palabok-party-pack-serves-8-10-99-0-oz-2808-g",
+      "name": "Palabok Party Pack (Serves 8-10)",
+      "description": null,
+      "category": "component",
+      "calories": 3300,
+      "protein_g": 160,
+      "carbs_g": 394,
+      "fat_g": 116,
+      "fiber_g": 7,
+      "sodium_mg": 7610,
+      "serving_note": "per 99.0 oz (2808 g); serves 8-10",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "lemon-packet-1-packet-4-g",
+      "name": "Lemon Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 1 packet (4 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "jolly-crispy-fries-regular-4-0-oz-113-g",
+      "name": "Jolly Crispy Fries, Regular",
+      "description": null,
+      "category": "side",
+      "calories": 340,
+      "protein_g": 4,
+      "carbs_g": 41,
+      "fat_g": 18,
+      "fiber_g": 4,
+      "sodium_mg": 560,
+      "serving_note": "per 4.0 oz (113 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "jolly-crispy-fries-large-6-0-oz-170-g",
+      "name": "Jolly Crispy Fries, Large",
+      "description": null,
+      "category": "side",
+      "calories": 510,
+      "protein_g": 6,
+      "carbs_g": 62,
+      "fat_g": 27,
+      "fiber_g": 6,
+      "sodium_mg": 830,
+      "serving_note": "per 6.0 oz (170 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "mashed-potato-with-gravy-regular-6-0-oz-170-g",
+      "name": "Mashed Potato with Gravy, Regular",
+      "description": null,
+      "category": "side",
+      "calories": 170,
+      "protein_g": 3,
+      "carbs_g": 33,
+      "fat_g": 4.5,
+      "fiber_g": 3,
+      "sodium_mg": 730,
+      "serving_note": "per 6.0 oz (170 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "mashed-potato-with-gravy-large-11-9-oz-340-g",
+      "name": "Mashed Potato with Gravy, Large",
+      "description": null,
+      "category": "side",
+      "calories": 340,
+      "protein_g": 7,
+      "carbs_g": 65,
+      "fat_g": 9,
+      "fiber_g": 6,
+      "sodium_mg": 1460,
+      "serving_note": "per 11.9 oz (340 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "steamed-rice-7-0-oz-198-g",
+      "name": "Steamed Rice",
+      "description": null,
+      "category": "side",
+      "calories": 190,
+      "protein_g": 4,
+      "carbs_g": 44,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per 7.0 oz (198 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "baked-cheddar-mac-cheese-6-0-oz-170-g",
+      "name": "Baked Cheddar Mac & Cheese",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 10,
+      "carbs_g": 19,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 420,
+      "serving_note": "per 6.0 oz (170 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "salt-packet-1-packet-0-7-g",
+      "name": "Salt Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 270,
+      "serving_note": "per 1 packet (0.7 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "ketchup-packet-1-packet-9-g",
+      "name": "Ketchup Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per 1 packet (9 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "yum-4-2-oz-118-g",
+      "name": "Yum",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 13,
+      "carbs_g": 30,
+      "fat_g": 21,
+      "fiber_g": 1,
+      "sodium_mg": 630,
+      "serving_note": "per 4.2 oz (118 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "yum-w-cheese-4-7-oz-132-g",
+      "name": "Yum w/ Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 16,
+      "carbs_g": 30,
+      "fat_g": 25,
+      "fiber_g": 1,
+      "sodium_mg": 880,
+      "serving_note": "per 4.7 oz (132 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "big-yum-9-7-oz-274-g",
+      "name": "Big Yum",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 27,
+      "carbs_g": 39,
+      "fat_g": 47,
+      "fiber_g": 2,
+      "sodium_mg": 1350,
+      "serving_note": "per 9.7 oz (274 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "aloha-yum-9-5-oz-268-g",
+      "name": "Aloha Yum",
+      "description": null,
+      "category": "meal",
+      "calories": 770,
+      "protein_g": 30,
+      "carbs_g": 49,
+      "fat_g": 52,
+      "fiber_g": 2,
+      "sodium_mg": 1390,
+      "serving_note": "per 9.5 oz (268 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "2-pcs-burgersteak-with-rice-14-9-oz-422-g",
+      "name": "2 pcs Burgersteak with Rice",
+      "description": null,
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 24,
+      "carbs_g": 56,
+      "fat_g": 28,
+      "fiber_g": 1,
+      "sodium_mg": 1010,
+      "serving_note": "per 14.9 oz (422 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "3-pcs-burgersteak-with-rice-17-8-oz-505-g",
+      "name": "3 pcs Burgersteak with Rice",
+      "description": null,
+      "category": "meal",
+      "calories": 750,
+      "protein_g": 33,
+      "carbs_g": 58,
+      "fat_g": 42,
+      "fiber_g": 1,
+      "sodium_mg": 1440,
+      "serving_note": "per 17.8 oz (505 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "2-pcs-burgersteak-with-rice-and-1-pc-chickenjoy-drumstick-and-gravy-20-6-oz-583-g",
+      "name": "2 pcs Burgersteak with Rice and 1 pc Chickenjoy Drumstick and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 820,
+      "protein_g": 45,
+      "carbs_g": 64,
+      "fat_g": 42,
+      "fiber_g": 1,
+      "sodium_mg": 1660,
+      "serving_note": "per 20.6 oz (583 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "2-pcs-burgersteak-with-rice-and-1-pc-chickenjoy-thigh-and-gravy-22-0-oz-623-g",
+      "name": "2 pcs Burgersteak with Rice and 1 pc Chickenjoy Thigh and Gravy",
+      "description": null,
+      "category": "meal",
+      "calories": 980,
+      "protein_g": 52,
+      "carbs_g": 67,
+      "fat_g": 56,
+      "fiber_g": 1,
+      "sodium_mg": 1780,
+      "serving_note": "per 22.0 oz (623 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "burgersteak-family-pack-6-pcs-serves-3-4-20-6-oz-584-g",
+      "name": "Burgersteak Family Pack, 6 pcs (Serves 3-4)",
+      "description": null,
+      "category": "component",
+      "calories": 1060,
+      "protein_g": 59,
+      "carbs_g": 19,
+      "fat_g": 84,
+      "fiber_g": 1,
+      "sodium_mg": 3000,
+      "serving_note": "per 20.6 oz (584 g); serves 3-4",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "angus-cheeseburger-8-8-oz-248-g",
+      "name": "Angus Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 667,
+      "protein_g": 26,
+      "carbs_g": 33,
+      "fat_g": 47,
+      "fiber_g": 2,
+      "sodium_mg": 1700,
+      "serving_note": "per 8.8 oz (248 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "angus-cheeseburger-deluxe-11-3-oz-319-g",
+      "name": "Angus Cheeseburger Deluxe",
+      "description": null,
+      "category": "meal",
+      "calories": 679,
+      "protein_g": 27,
+      "carbs_g": 35,
+      "fat_g": 47,
+      "fiber_g": 4,
+      "sodium_mg": 1702,
+      "serving_note": "per 11.3 oz (319 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "angus-aloha-burger-11-3-oz-320-g",
+      "name": "Angus Aloha Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 787,
+      "protein_g": 30,
+      "carbs_g": 49,
+      "fat_g": 52,
+      "fiber_g": 3,
+      "sodium_mg": 1632,
+      "serving_note": "per 11.3 oz (320 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "extra-sliced-cheese-0-7-oz-19-g",
+      "name": "Extra Sliced Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "protein_g": 3,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per 0.7 oz (19 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "extra-bacon-0-4-oz-10-g",
+      "name": "Extra Bacon",
+      "description": null,
+      "category": "component",
+      "calories": 51,
+      "protein_g": 3,
+      "carbs_g": 0,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 180,
+      "serving_note": "per 0.4 oz (10 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "peach-mango-pie-3-3-oz-94-g",
+      "name": "Peach Mango Pie",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 3,
+      "carbs_g": 40,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per 3.3 oz (94 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "ube-pie-3-4-oz-97-g",
+      "name": "Ube Pie",
+      "description": null,
+      "category": "side",
+      "calories": 310,
+      "protein_g": 4,
+      "carbs_g": 45,
+      "fat_g": 15,
+      "fiber_g": 4,
+      "sodium_mg": 220,
+      "serving_note": "per 3.4 oz (97 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "pineapple-quencher-16-fl-oz-473-ml",
+      "name": "Pineapple Quencher",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "guava-quencher-16-fl-oz-473-ml",
+      "name": "Guava Quencher",
+      "description": null,
+      "category": "drink",
+      "calories": 120,
+      "protein_g": 0,
+      "carbs_g": 31,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "dragonfruit-sunset-quencher-16-fl-oz-473-ml",
+      "name": "Dragonfruit Sunset Quencher",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "mango-coconut-quencher-16-fl-oz-473-ml",
+      "name": "Mango Coconut Quencher",
+      "description": null,
+      "category": "drink",
+      "calories": 155,
+      "protein_g": 0,
+      "carbs_g": 39,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "guava-iced-tea-16-fl-oz-473-ml",
+      "name": "Guava Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 33,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "lychee-iced-tea-16-fl-oz-473-ml",
+      "name": "Lychee Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 90,
+      "protein_g": 0,
+      "carbs_g": 23,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "passionfruit-iced-tea-16-fl-oz-473-ml",
+      "name": "Passionfruit Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "coconut-dream-freeze-16-fl-oz-473-ml",
+      "name": "Coconut Dream Freeze",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "guava-freeze-16-fl-oz-473-ml",
+      "name": "Guava Freeze",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "strawberry-bliss-freeze-16-fl-oz-473-ml",
+      "name": "Strawberry Bliss Freeze",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 33,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "ube-coconut-freeze-16-fl-oz-473-ml",
+      "name": "Ube Coconut Freeze",
+      "description": null,
+      "category": "drink",
+      "calories": 368,
+      "protein_g": 0,
+      "carbs_g": 57,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 97,
+      "serving_note": "per 16 fl oz (473 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "bottled-water-aquafina-16-9-fl-oz-500-ml",
+      "name": "Bottled Water Aquafina®",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 16.9 fl oz (500 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "soda-pepsi-no-ice-22-fl-oz-650-ml",
+      "name": "Soda Pepsi® (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 76,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "soda-diet-pepsi-no-ice-22-fl-oz-650-ml",
+      "name": "Soda Diet Pepsi® (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "soda-mug-rootbeer-no-ice-22-fl-oz-650-ml",
+      "name": "Soda Mug® Rootbeer (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 105,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "soda-starry-no-ice-22-fl-oz-650-ml",
+      "name": "Soda Starry® (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 71,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "soda-mountain-dew-no-ice-22-fl-oz-650-ml",
+      "name": "Soda Mountain Dew® (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 81,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 95,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "tropicana-pink-lemonade-no-ice-22-fl-oz-650-ml",
+      "name": "Tropicana® Pink Lemonade (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 73,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 280,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "tropicana-fruit-punch-no-ice-22-fl-oz-650-ml",
+      "name": "Tropicana® Fruit Punch (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 83,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    {
+      "id": "lipton-brisk-raspberry-iced-tea-no-ice-22-fl-oz-650-ml",
+      "name": "Lipton® Brisk Raspberry Iced Tea (no ice)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 33,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 22 fl oz (650 ml)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    }
+  ]
+}

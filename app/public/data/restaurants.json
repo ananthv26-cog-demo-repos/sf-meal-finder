@@ -38,6 +38,44 @@
     ]
   },
   {
+    "id": "bens-fast-food",
+    "name": "Ben's Fast Food",
+    "website": "https://bensfastfood.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "60 Morris Street, San Francisco, CA, 94107",
+        "lat": 37.7766868,
+        "lng": -122.4024109,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "blaze-pizza",
+    "name": "Blaze Pizza",
+    "website": "https://www.blazepizza.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/blaze-pizza/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "157 Stonestown Galleria, San Francisco, CA 94132",
+        "lat": 37.72803,
+        "lng": -122.47709,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
     "id": "bonchon",
     "name": "Bonchon",
     "website": "https://www.bonchon.com/",
@@ -310,6 +348,44 @@
     ]
   },
   {
+    "id": "eriks-delicafe",
+    "name": "Erik's DeliCafé",
+    "website": "https://www.eriksdelicafe.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "425 Mission St, San Francisco, CA 94105",
+        "lat": 37.7897,
+        "lng": -122.3969,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "everbowl",
+    "name": "Everbowl",
+    "website": "https://everbowl.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "170 O'Farrell St, San Francisco, CA 94102",
+        "lat": 37.7873246,
+        "lng": -122.4075665,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
     "id": "five-guys",
     "name": "Five Guys",
     "website": "https://www.fiveguys.com",
@@ -379,6 +455,44 @@
     ]
   },
   {
+    "id": "in-n-out",
+    "name": "In-N-Out Burger",
+    "website": "https://www.in-n-out.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "333 Jefferson, San Francisco, CA 94133",
+        "lat": 37.80773,
+        "lng": -122.41858,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "insomnia-cookies",
+    "name": "Insomnia Cookies",
+    "website": "https://insomniacookies.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "362 Kearny St, San Francisco, CA 94108",
+        "lat": 37.7916227,
+        "lng": -122.404108,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
     "id": "jack-in-the-box",
     "name": "Jack in the Box",
     "website": "https://www.jackinthebox.com",
@@ -406,6 +520,50 @@
         "lat": 37.78071,
         "lng": -122.469109,
         "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "joe-and-the-juice",
+    "name": "Joe & The Juice",
+    "website": "https://joejuice.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "525 Market St, San Francisco, CA 94105",
+        "lat": 37.7897,
+        "lng": -122.4008,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "50 California St, San Francisco, CA 94111",
+        "lat": 37.7935,
+        "lng": -122.397,
+        "neighborhood": "Financial District"
+      }
+    ]
+  },
+  {
+    "id": "jollibee",
+    "name": "Jollibee",
+    "website": "https://www.jollibeefoods.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "934 Market Street, San Francisco, CA 94102",
+        "lat": 37.7838654,
+        "lng": -122.4086985,
+        "neighborhood": "Mid-Market"
       }
     ]
   },
@@ -510,6 +668,43 @@
     ]
   },
   {
+    "id": "la-boulangerie",
+    "name": "La Boulangerie de San Francisco",
+    "website": "https://laboulangeriesf.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://foods.fatsecret.com/calories-nutrition/la-boulangerie",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "2325 Pine St, San Francisco, CA 94115",
+        "lat": 37.7876,
+        "lng": -122.4344,
+        "neighborhood": "Lower Pacific Heights"
+      },
+      {
+        "address": "1000 Cole St, San Francisco, CA 94117",
+        "lat": 37.7655,
+        "lng": -122.449,
+        "neighborhood": "Cole Valley"
+      },
+      {
+        "address": "3898 24th St, San Francisco, CA 94114",
+        "lat": 37.7512,
+        "lng": -122.4301,
+        "neighborhood": "Noe Valley"
+      },
+      {
+        "address": "500 Hayes St, San Francisco, CA 94102",
+        "lat": 37.777,
+        "lng": -122.4246,
+        "neighborhood": "Hayes Valley"
+      }
+    ]
+  },
+  {
     "id": "little-caesars",
     "name": "Little Caesars",
     "website": "https://littlecaesars.com",
@@ -544,6 +739,25 @@
         "lat": 37.791016,
         "lng": -122.404106,
         "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "marugame-udon",
+    "name": "Marugame Udon",
+    "website": "https://www.marugameudon.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://www.marugameudon.com/locations/stonestown/",
+      "vendor": "mynetdiary",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "3251 20th Ave, San Francisco, CA 94132",
+        "lat": 37.7332,
+        "lng": -122.4767,
+        "neighborhood": "Stonestown"
       }
     ]
   },
@@ -738,6 +952,50 @@
     ]
   },
   {
+    "id": "next-level-burger",
+    "name": "Next Level Burger",
+    "website": "https://www.nextlevelburger.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "450 Rhode Island St, San Francisco, CA 94107",
+        "lat": 37.7643298,
+        "lng": -122.4027236,
+        "neighborhood": "Mission Bay"
+      }
+    ]
+  },
+  {
+    "id": "nick-the-greek",
+    "name": "Nick The Greek",
+    "website": "https://www.nickthegreek.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/",
+      "vendor": "simmer",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "121 Spear Streeet, San Francisco, CA 94105",
+        "lat": 37.7920283,
+        "lng": -122.3927033,
+        "neighborhood": null
+      },
+      {
+        "address": "145 4th Street, San Francisco, CA 94103",
+        "lat": 37.7841539,
+        "lng": -122.4034781,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
     "id": "noahs-ny-bagels",
     "name": "Noah's NY Bagels",
     "website": "https://www.noahs.com",
@@ -771,6 +1029,25 @@
         "lat": 37.76596988162717,
         "lng": -122.40790806706721,
         "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "orens-hummus",
+    "name": "Oren's Hummus",
+    "website": "https://orenshummus.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://orenshummus.com/locations/restaurants/san-francisco/",
+      "vendor": "mynetdiary",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "71 3rd St, San Francisco, CA 94103",
+        "lat": 37.7866,
+        "lng": -122.4024,
+        "neighborhood": "SoMa"
       }
     ]
   },
@@ -833,6 +1110,31 @@
         "lat": 37.78809,
         "lng": -122.41632,
         "neighborhood": "Lower Nob Hill"
+      }
+    ]
+  },
+  {
+    "id": "peasant-pies",
+    "name": "Peasant Pies",
+    "website": "https://www.peasantpies.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.peasantpies.com/uploads/b/9bff6be0-3cd3-11ea-a066-9bdb7dbbcf14/peasant-pies-nutritional-info.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1039 Irving St, San Francisco, CA 94122-2215",
+        "lat": 37.763775,
+        "lng": -122.469185,
+        "neighborhood": "Inner Sunset"
+      },
+      {
+        "address": "550 Gene Friend Way, San Francisco, CA 94158",
+        "lat": 37.7691,
+        "lng": -122.390121,
+        "neighborhood": "Mission Bay"
       }
     ]
   },
@@ -1580,6 +1882,31 @@
     ]
   },
   {
+    "id": "sushirrito",
+    "name": "Sushirrito",
+    "website": "https://www.sushirrito.com/",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://www.sushirrito.com/",
+      "vendor": "mynetdiary",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "59 New Montgomery St, San Francisco, CA 94105",
+        "lat": 37.7888,
+        "lng": -122.3998,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "226 Kearny St, San Francisco, CA 94108",
+        "lat": 37.7905,
+        "lng": -122.4039,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
     "id": "sweetgreen",
     "name": "sweetgreen",
     "website": "https://www.sweetgreen.com",
@@ -1751,6 +2078,56 @@
         "lat": 37.7314584,
         "lng": -122.3917507,
         "neighborhood": "Bayview"
+      }
+    ]
+  },
+  {
+    "id": "vitality-bowls",
+    "name": "Vitality Bowls",
+    "website": "https://vitalitybowls.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "270 5th St, San Francisco, CA 94103",
+        "lat": 37.7807381,
+        "lng": -122.4041191,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "wetzels-pretzels",
+    "name": "Wetzel's Pretzels",
+    "website": "https://www.wetzels.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "170 O'Farrell St, Space B1, San Francisco, CA 94102",
+        "lat": 37.787006,
+        "lng": -122.4072604,
+        "neighborhood": "San Francisco"
+      },
+      {
+        "address": "170 O'Farrell St, Space S1, San Francisco, CA 94102",
+        "lat": 37.787006,
+        "lng": -122.4072604,
+        "neighborhood": "San Francisco"
+      },
+      {
+        "address": "3251 20th Ave, #102, San Francisco, CA 94132",
+        "lat": 37.7270364,
+        "lng": -122.4776106,
+        "neighborhood": "San Francisco"
       }
     ]
   },

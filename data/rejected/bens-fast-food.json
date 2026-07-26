@@ -1,0 +1,94 @@
+[
+  {
+    "item": {
+      "id": "veggie-simple-bowl-with-chicken",
+      "name": "Veggie Simple Bowl with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 225.0,
+      "fat_g": 6.0,
+      "carbs_g": 14.0,
+      "fiber_g": 5.0,
+      "protein_g": 18.0,
+      "sodium_mg": 369.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    "reasons": [
+      "bens-fast-food/veggie-simple-bowl-with-chicken: macro check failed — stated 225.0 kcal vs computed 182 (delta -43)"
+    ]
+  },
+  {
+    "item": {
+      "id": "veggie-simple-bowl-with-pork",
+      "name": "Veggie Simple Bowl with Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 280.0,
+      "fat_g": 12.0,
+      "carbs_g": 14.0,
+      "fiber_g": 5.0,
+      "protein_g": 18.0,
+      "sodium_mg": 357.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    "reasons": [
+      "bens-fast-food/veggie-simple-bowl-with-pork: macro check failed — stated 280.0 kcal vs computed 236 (delta -44)"
+    ]
+  },
+  {
+    "item": {
+      "id": "veggie-simple-bowl-with-wagyu",
+      "name": "Veggie Simple Bowl with Wagyu",
+      "description": null,
+      "category": "meal",
+      "calories": 195.0,
+      "fat_g": 5.0,
+      "carbs_g": 14.0,
+      "fiber_g": 5.0,
+      "protein_g": 13.0,
+      "sodium_mg": 213.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    "reasons": [
+      "bens-fast-food/veggie-simple-bowl-with-wagyu: macro check failed — stated 195.0 kcal vs computed 153 (delta -42)"
+    ]
+  },
+  {
+    "item": {
+      "id": "clean-vegetables",
+      "name": "Clean Vegetables",
+      "description": null,
+      "category": "side",
+      "calories": 80.0,
+      "fat_g": 0.0,
+      "carbs_g": 10.0,
+      "fiber_g": 3.0,
+      "protein_g": 2.0,
+      "sodium_mg": 62.0,
+      "serving_note": "per 8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    "reasons": [
+      "bens-fast-food/clean-vegetables: macro check failed — stated 80.0 kcal vs computed 48 (delta -32)"
+    ]
+  }
+]

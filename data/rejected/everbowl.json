@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "vanilla-portion",
+      "name": "VANILLA (Portion)",
+      "description": null,
+      "category": "component",
+      "calories": 163.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 9.0,
+      "serving_note": "per portion serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    "reasons": [
+      "everbowl/vanilla-portion: macro check failed — stated 163.0 kcal vs computed 140 (delta -23)"
+    ]
+  }
+]

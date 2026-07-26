@@ -40,3 +40,30 @@ Things that cost >15 minutes on this project. Add to this whenever you get burne
   City store carries an SF zip). Chain-provided lat/lng beats geocoding.
 - Alcohol rows (Mendocino Farms wines/beers) fail the macro undershoot check by
   design (7 kcal/g alcohol isn't in the macros) — correct quarantine.
+- Crowd nutrition pages can expose calories without macros (MyNetDiary); skip
+  those rows rather than filling missing values with zeroes. FatSecret brand
+  names may prefix the product ("& The Juice Tunacado"), so strip the brand
+  before category matching, and expect the Platform API to rate-limit quickly.
+- Image-backed nutrition needs independent OCR agreement; never choose between
+  OCR candidates because one satisfies the macro check. Verify tables against
+  the source image, since wrong sodium or serving sizes can still pass validation.
+- A nutrition PDF may contain only image panels, and tiny embedded rasters can
+  defeat Tesseract; extract the native image and use a higher-quality OCR engine.
+  Never publish OCR rows whose product name is unrecoverable.
+- Square Online location pages may expose a placeholder address; prefer the
+  chain's store-location API. Likewise, "locations" pages can list SEO,
+  coming-soon, or stale markets—confirm city-proper stores with the official
+  locator.
+- Vendor calculators require structural checks: blank cells are not zero,
+  normalize malformed decimals explicitly, count parsed cells against headers,
+  and reject builds that depend on blank component rows.
+- Check size-series monotonicity in bowl and pizza tables, and categorize
+  smoothie/juice sections by their source section rather than row shape.
+- Nutrition locators and nutrition guides drift independently: verify current
+  locations from the chain locator, and verify the exact product variant and
+  serving unit before comparing a famous item.
+- Rotated PDF headers still provide usable x-position anchors; assert their
+  left-to-right order instead of trusting extracted header text or fixed column
+  indexes.
+- Per-serving party packs can legitimately exceed the sodium plausibility cap;
+  quarantine them rather than weakening the bound.

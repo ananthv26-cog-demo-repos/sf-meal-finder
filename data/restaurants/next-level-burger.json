@@ -1,0 +1,831 @@
+{
+  "id": "next-level-burger",
+  "name": "Next Level Burger",
+  "website": "https://www.nextlevelburger.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "450 Rhode Island St, San Francisco, CA 94107",
+      "lat": 37.7643298,
+      "lng": -122.4027236,
+      "neighborhood": "Mission Bay"
+    }
+  ],
+  "items": [
+    {
+      "id": "side-buffalo-sauce",
+      "name": "Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 67.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1202.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-orange-glaze-sauce",
+      "name": "Orange Glaze Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 96.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 542.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-truffle-mac-n-cheese",
+      "name": "Truffle Mac n Cheese",
+      "description": null,
+      "category": "side",
+      "calories": 927.0,
+      "protein_g": 15.0,
+      "carbs_g": 81.0,
+      "fat_g": 49.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 1746.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-chick-n-tenders-3",
+      "name": "Chick'n Tenders (3)",
+      "description": null,
+      "category": "side",
+      "calories": 336.0,
+      "protein_g": 21.0,
+      "carbs_g": 21.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 233.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-buffalo-sauce-with-chick-n-tenders-3",
+      "name": "Buffalo Sauce (with Chick'n Tenders (3))",
+      "description": null,
+      "category": "condiment",
+      "calories": 58.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 601.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-bbq-sauce-with-chick-n-tenders-3",
+      "name": "BBQ Sauce (with Chick'n Tenders (3))",
+      "description": null,
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-ranch-dressing-with-chick-n-tenders-3",
+      "name": "Ranch Dressing (with Chick'n Tenders (3))",
+      "description": null,
+      "category": "condiment",
+      "calories": 58.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 112.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-celery-stick-4-with-chick-n-tenders-3",
+      "name": "Celery Stick (4) (with Chick'n Tenders (3))",
+      "description": null,
+      "category": "component",
+      "calories": 6.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-chick-n-tenders-6",
+      "name": "Chick'n Tenders (6)",
+      "description": null,
+      "category": "side",
+      "calories": 672.0,
+      "protein_g": 42.0,
+      "carbs_g": 43.0,
+      "fat_g": 37.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 466.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-bbq-sauce-with-chick-n-tenders-6",
+      "name": "BBQ Sauce (with Chick'n Tenders (6))",
+      "description": null,
+      "category": "condiment",
+      "calories": 81.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-ranch-dressing-with-chick-n-tenders-6",
+      "name": "Ranch Dressing (with Chick'n Tenders (6))",
+      "description": null,
+      "category": "condiment",
+      "calories": 117.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 224.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-buffalo-tenders-3",
+      "name": "Buffalo Tenders (3)",
+      "description": null,
+      "category": "side",
+      "calories": 403.0,
+      "protein_g": 21.0,
+      "carbs_g": 23.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1435.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-buffalo-tenders-6",
+      "name": "Buffalo Tenders (6)",
+      "description": null,
+      "category": "side",
+      "calories": 739.0,
+      "protein_g": 42.0,
+      "carbs_g": 45.0,
+      "fat_g": 44.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1668.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-southwestern-nachos",
+      "name": "Southwestern Nachos",
+      "description": null,
+      "category": "meal",
+      "calories": 899.0,
+      "protein_g": 20.0,
+      "carbs_g": 79.0,
+      "fat_g": 58.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 2088.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-smokey-asada-mushroom-tacos",
+      "name": "Smokey Asada Mushroom Tacos",
+      "description": null,
+      "category": "meal",
+      "calories": 394.0,
+      "protein_g": 8.0,
+      "carbs_g": 44.0,
+      "fat_g": 23.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1113.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-steak-fajita-quesadilla",
+      "name": "Steak Fajita Quesadilla",
+      "description": null,
+      "category": "meal",
+      "calories": 960.0,
+      "protein_g": 39.0,
+      "carbs_g": 102.0,
+      "fat_g": 42.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 2393.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-baja-fish-taco",
+      "name": "Baja Fish Taco",
+      "description": null,
+      "category": "meal",
+      "calories": 490.0,
+      "protein_g": 15.0,
+      "carbs_g": 54.0,
+      "fat_g": 27.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1358.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-caesar-crunch-salad",
+      "name": "Caesar Crunch Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 385.0,
+      "protein_g": 8.0,
+      "carbs_g": 18.0,
+      "fat_g": 31.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 925.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-all-hail-kale",
+      "name": "All Hail Kale",
+      "description": null,
+      "category": "meal",
+      "calories": 502.0,
+      "protein_g": 8.0,
+      "carbs_g": 43.0,
+      "fat_g": 32.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 832.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-ranchero-bean-fiesta-bowl",
+      "name": "Ranchero Bean Fiesta Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 1058.0,
+      "protein_g": 33.0,
+      "carbs_g": 112.0,
+      "fat_g": 53.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 1989.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-add-asada-mushroom",
+      "name": "add Asada Mushroom",
+      "description": null,
+      "category": "component",
+      "calories": 101.0,
+      "protein_g": 3.0,
+      "carbs_g": 5.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 316.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-cali-power-bowl",
+      "name": "Cali Power Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 776.0,
+      "protein_g": 26.0,
+      "carbs_g": 70.0,
+      "fat_g": 41.0,
+      "fiber_g": 20.0,
+      "sodium_mg": 1203.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-steak-kimchi-bowl",
+      "name": "Steak Kimchi Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 765.0,
+      "protein_g": 34.0,
+      "carbs_g": 93.0,
+      "fat_g": 27.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 2550.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-sunrise-kimchi-burger",
+      "name": "Sunrise Kimchi Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 27.0,
+      "carbs_g": 51.0,
+      "fat_g": 41.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1581.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-steakhouse-burger",
+      "name": "Steakhouse Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 648.0,
+      "protein_g": 26.0,
+      "carbs_g": 49.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1335.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-vg-classic-burger",
+      "name": "VG Classic Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 691.0,
+      "protein_g": 40.0,
+      "carbs_g": 23.0,
+      "fat_g": 44.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1442.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-ultimate-mushroom-veggie-burger",
+      "name": "Ultimate Mushroom Veggie Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 429.0,
+      "protein_g": 11.0,
+      "carbs_g": 63.0,
+      "fat_g": 12.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 4856.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-pesto-parm-chick-n",
+      "name": "Pesto Parm Chick'n",
+      "description": null,
+      "category": "meal",
+      "calories": 753.0,
+      "protein_g": 33.0,
+      "carbs_g": 72.0,
+      "fat_g": 39.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1444.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-buffalo-bomber-sandwich",
+      "name": "Buffalo Bomber Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 674.0,
+      "protein_g": 30.0,
+      "carbs_g": 66.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2867.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-santa-fe-chick-n-sandwich",
+      "name": "Santa Fe Chick'n Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 549.0,
+      "protein_g": 28.0,
+      "carbs_g": 47.0,
+      "fat_g": 29.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1522.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-crispy-fries-large",
+      "name": "Crispy Fries Large",
+      "description": null,
+      "category": "side",
+      "calories": 487.0,
+      "protein_g": 6.0,
+      "carbs_g": 66.0,
+      "fat_g": 20.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1443.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-crispy-fries-small",
+      "name": "Crispy Fries Small",
+      "description": null,
+      "category": "side",
+      "calories": 376.0,
+      "protein_g": 5.0,
+      "carbs_g": 52.0,
+      "fat_g": 15.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1324.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-sweet-potato-fries-large",
+      "name": "Sweet Potato Fries Large",
+      "description": null,
+      "category": "side",
+      "calories": 619.0,
+      "protein_g": 4.0,
+      "carbs_g": 88.0,
+      "fat_g": 28.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 845.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-sweet-potato-fries-small",
+      "name": "Sweet Potato Fries Small",
+      "description": null,
+      "category": "side",
+      "calories": 464.0,
+      "protein_g": 3.0,
+      "carbs_g": 66.0,
+      "fat_g": 21.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 773.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "side-moroccan-lentil-soup-side",
+      "name": "Moroccan Lentil Soup Side",
+      "description": null,
+      "category": "side",
+      "calories": 136.0,
+      "protein_g": 7.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 297.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-cali-chick-n-wrap",
+      "name": "Cali Chick'n Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 699.0,
+      "protein_g": 32.0,
+      "carbs_g": 69.0,
+      "fat_g": 33.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1367.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-caesar-crunch-wrap",
+      "name": "Caesar Crunch Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 679.0,
+      "protein_g": 15.0,
+      "carbs_g": 71.0,
+      "fat_g": 38.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1243.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-with-chick-n-tenders",
+      "name": "with Chick'n Tenders",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 15.0,
+      "carbs_g": 18.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-buffalo-blitz-wrap",
+      "name": "Buffalo Blitz Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 616.0,
+      "protein_g": 23.0,
+      "carbs_g": 73.0,
+      "fat_g": 26.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1735.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-kids-burger",
+      "name": "Kids Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 611.0,
+      "protein_g": 31.0,
+      "carbs_g": 53.0,
+      "fat_g": 27.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1476.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-crispy-chick-n-tenders",
+      "name": "Crispy Chick'n Tenders",
+      "description": null,
+      "category": "meal",
+      "calories": 282.0,
+      "protein_g": 14.0,
+      "carbs_g": 30.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 267.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-kids-cheese-quesadilla",
+      "name": "Kids Cheese Quesadilla",
+      "description": null,
+      "category": "meal",
+      "calories": 451.0,
+      "protein_g": 9.0,
+      "carbs_g": 59.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1148.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-crispy-fries-kids",
+      "name": "Crispy Fries Kids",
+      "description": null,
+      "category": "side",
+      "calories": 319.0,
+      "protein_g": 4.0,
+      "carbs_g": 45.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1259.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-sweet-potato-fries-kids",
+      "name": "Sweet Potato Fries Kids",
+      "description": null,
+      "category": "side",
+      "calories": 387.0,
+      "protein_g": 3.0,
+      "carbs_g": 55.0,
+      "fat_g": 17.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 707.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    {
+      "id": "meal-diced-mangos",
+      "name": "Diced Mangos",
+      "description": null,
+      "category": "side",
+      "calories": 192.0,
+      "protein_g": 2.0,
+      "carbs_g": 48.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "id": "bens-fast-food",
+  "name": "Ben's Fast Food",
+  "website": "https://bensfastfood.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "60 Morris Street, San Francisco, CA, 94107",
+      "lat": 37.7766868,
+      "lng": -122.4024109,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "chickpea-potato-hearty-bowl",
+      "name": "Chickpea & Potato Hearty Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 750.0,
+      "fat_g": 30.0,
+      "carbs_g": 99.0,
+      "fiber_g": 15.0,
+      "protein_g": 20.0,
+      "sodium_mg": 769.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chickpea-potato-garden-bowl",
+      "name": "Chickpea & Potato Garden Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "fat_g": 18.0,
+      "carbs_g": 51.0,
+      "fiber_g": 13.0,
+      "protein_g": 14.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chickpea-potato-mixed-bowl",
+      "name": "Chickpea & Potato Mixed Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "fat_g": 24.0,
+      "carbs_g": 78.0,
+      "fiber_g": 14.0,
+      "protein_g": 17.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chicken-hearty-bowl",
+      "name": "Chicken Hearty Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "fat_g": 25.0,
+      "carbs_g": 63.0,
+      "fiber_g": 9.0,
+      "protein_g": 27.0,
+      "sodium_mg": 699.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chicken-garden-bowl",
+      "name": "Chicken Garden Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 290.0,
+      "fat_g": 14.0,
+      "carbs_g": 16.0,
+      "fiber_g": 6.0,
+      "protein_g": 21.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chicken-mixed-bowl",
+      "name": "Chicken Mixed Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 420.0,
+      "fat_g": 18.0,
+      "carbs_g": 35.0,
+      "fiber_g": 7.0,
+      "protein_g": 23.0,
+      "sodium_mg": 493.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "pork-hearty-bowl",
+      "name": "Pork Hearty Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "fat_g": 32.0,
+      "carbs_g": 63.0,
+      "fiber_g": 9.0,
+      "protein_g": 26.0,
+      "sodium_mg": 687.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "pork-garden-bowl",
+      "name": "Pork Garden Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "fat_g": 20.0,
+      "carbs_g": 16.0,
+      "fiber_g": 6.0,
+      "protein_g": 21.0,
+      "sodium_mg": 348.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "pork-mixed-bowl",
+      "name": "Pork Mixed Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 475.0,
+      "fat_g": 25.0,
+      "carbs_g": 35.0,
+      "fiber_g": 7.0,
+      "protein_g": 23.0,
+      "sodium_mg": 481.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "wagyu-hearty-bowl",
+      "name": "Wagyu Hearty Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 830.0,
+      "fat_g": 40.0,
+      "carbs_g": 63.0,
+      "fiber_g": 9.0,
+      "protein_g": 51.0,
+      "sodium_mg": 921.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "wagyu-garden-bowl",
+      "name": "Wagyu Garden Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "fat_g": 28.0,
+      "carbs_g": 16.0,
+      "fiber_g": 6.0,
+      "protein_g": 45.0,
+      "sodium_mg": 582.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "wagyu-mixed-bowl",
+      "name": "Wagyu Mixed Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 635.0,
+      "fat_g": 32.0,
+      "carbs_g": 34.0,
+      "fiber_g": 7.0,
+      "protein_g": 47.0,
+      "sodium_mg": 715.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-veggie-simple-bowl-with-chickpeas-potatoes",
+      "name": "Grain & Veggie Simple Bowl with Chickpeas & Potatoes",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "fat_g": 14.0,
+      "carbs_g": 63.0,
+      "fiber_g": 11.0,
+      "protein_g": 12.0,
+      "sodium_mg": 548.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "veggie-simple-bowl-with-chickpeas-potatoes",
+      "name": "Veggie Simple Bowl with Chickpeas & Potatoes",
+      "description": null,
+      "category": "meal",
+      "calories": 365.0,
+      "fat_g": 10.0,
+      "carbs_g": 49.0,
+      "fiber_g": 11.0,
+      "protein_g": 11.0,
+      "sodium_mg": 439.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-simple-bowl-with-chickpeas-potatoes",
+      "name": "Grain Simple Bowl with Chickpeas & Potatoes",
+      "description": null,
+      "category": "meal",
+      "calories": 585.0,
+      "fat_g": 21.0,
+      "carbs_g": 86.0,
+      "fiber_g": 11.0,
+      "protein_g": 14.0,
+      "sodium_mg": 718.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-veggie-simple-bowl-with-chicken",
+      "name": "Grain & Veggie Simple Bowl with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 310.0,
+      "fat_g": 10.0,
+      "carbs_g": 28.0,
+      "fiber_g": 4.0,
+      "protein_g": 19.0,
+      "sodium_mg": 479.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-simple-bowl-with-chicken",
+      "name": "Grain Simple Bowl with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 445.0,
+      "fat_g": 17.0,
+      "carbs_g": 51.0,
+      "fiber_g": 4.0,
+      "protein_g": 21.0,
+      "sodium_mg": 648.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-veggie-simple-bowl-with-pork",
+      "name": "Grain & Veggie Simple Bowl with Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 370.0,
+      "fat_g": 17.0,
+      "carbs_g": 28.0,
+      "fiber_g": 4.0,
+      "protein_g": 19.0,
+      "sodium_mg": 466.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-simple-bowl-with-pork",
+      "name": "Grain Simple Bowl with Pork",
+      "description": null,
+      "category": "meal",
+      "calories": 505.0,
+      "fat_g": 24.0,
+      "carbs_g": 51.0,
+      "fiber_g": 4.0,
+      "protein_g": 21.0,
+      "sodium_mg": 636.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-veggie-simple-bowl-with-wagyu",
+      "name": "Grain & Veggie Simple Bowl with Wagyu",
+      "description": null,
+      "category": "meal",
+      "calories": 280.0,
+      "fat_g": 10.0,
+      "carbs_g": 28.0,
+      "fiber_g": 4.0,
+      "protein_g": 14.0,
+      "sodium_mg": 322.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "grain-simple-bowl-with-wagyu",
+      "name": "Grain Simple Bowl with Wagyu",
+      "description": null,
+      "category": "meal",
+      "calories": 415.0,
+      "fat_g": 17.0,
+      "carbs_g": 50.0,
+      "fiber_g": 4.0,
+      "protein_g": 16.0,
+      "sodium_mg": 492.0,
+      "serving_note": "per bowl (plain without sauce)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "lemon-thyme",
+      "name": "Lemon Thyme",
+      "description": null,
+      "category": "condiment",
+      "calories": 165.0,
+      "fat_g": 17.0,
+      "carbs_g": 3.0,
+      "fiber_g": 1.0,
+      "protein_g": 1.0,
+      "sodium_mg": 231.0,
+      "serving_note": "per sauce portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "rosemary-balsamic",
+      "name": "Rosemary Balsamic",
+      "description": null,
+      "category": "condiment",
+      "calories": 170.0,
+      "fat_g": 17.0,
+      "carbs_g": 5.0,
+      "fiber_g": 1.0,
+      "protein_g": 1.0,
+      "sodium_mg": 235.0,
+      "serving_note": "per sauce portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "smoky-chipotle",
+      "name": "Smoky Chipotle",
+      "description": null,
+      "category": "condiment",
+      "calories": 165.0,
+      "fat_g": 17.0,
+      "carbs_g": 3.0,
+      "fiber_g": 1.0,
+      "protein_g": 1.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per sauce portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "ranch",
+      "name": "Ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 165.0,
+      "fat_g": 17.0,
+      "carbs_g": 4.0,
+      "fiber_g": 1.0,
+      "protein_g": 1.0,
+      "sodium_mg": 346.0,
+      "serving_note": "per sauce portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "hot-sauce",
+      "name": "Hot Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "fat_g": 0.0,
+      "carbs_g": 1.0,
+      "fiber_g": 0.0,
+      "protein_g": 0.0,
+      "sodium_mg": 81.0,
+      "serving_note": "per sauce portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "wagyu",
+      "name": "Wagyu",
+      "description": null,
+      "category": "component",
+      "calories": 165.0,
+      "fat_g": 10.0,
+      "carbs_g": 0.0,
+      "fiber_g": 0.0,
+      "protein_g": 19.0,
+      "sodium_mg": 252.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "pork",
+      "name": "Pork",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "fat_g": 12.0,
+      "carbs_g": 1.0,
+      "fiber_g": 0.0,
+      "protein_g": 14.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 115.0,
+      "fat_g": 5.0,
+      "carbs_g": 1.0,
+      "fiber_g": 0.0,
+      "protein_g": 15.0,
+      "sodium_mg": 283.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chickpea-potato",
+      "name": "Chickpea & Potato",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "fat_g": 9.0,
+      "carbs_g": 36.0,
+      "fiber_g": 6.0,
+      "protein_g": 8.0,
+      "sodium_mg": 353.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "walnuts",
+      "name": "Walnuts",
+      "description": null,
+      "category": "component",
+      "calories": 100.0,
+      "fat_g": 10.0,
+      "carbs_g": 2.0,
+      "fiber_g": 1.0,
+      "protein_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "fat_g": 6.0,
+      "carbs_g": 3.0,
+      "fiber_g": 3.0,
+      "protein_g": 1.0,
+      "sodium_mg": 3.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "slow-roasted-chicken",
+      "name": "Slow Roasted Chicken",
+      "description": null,
+      "category": "side",
+      "calories": 340.0,
+      "fat_g": 15.0,
+      "carbs_g": 2.0,
+      "fiber_g": 1.0,
+      "protein_g": 45.0,
+      "sodium_mg": 849.0,
+      "serving_note": "per 8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "slow-roasted-pork",
+      "name": "Slow Roasted Pork",
+      "description": null,
+      "category": "side",
+      "calories": 510.0,
+      "fat_g": 36.0,
+      "carbs_g": 2.0,
+      "fiber_g": 1.0,
+      "protein_g": 43.0,
+      "sodium_mg": 811.0,
+      "serving_note": "per 8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "slow-roasted-chickpeas-potatoes",
+      "name": "Slow Roasted Chickpeas & Potatoes",
+      "description": null,
+      "category": "side",
+      "calories": 335.0,
+      "fat_g": 12.0,
+      "carbs_g": 48.0,
+      "fiber_g": 9.0,
+      "protein_g": 11.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "millet-brown-rice",
+      "name": "Millet & Brown Rice",
+      "description": null,
+      "category": "side",
+      "calories": 335.0,
+      "fat_g": 12.0,
+      "carbs_g": 50.0,
+      "fiber_g": 4.0,
+      "protein_g": 6.0,
+      "sodium_mg": 365.0,
+      "serving_note": "per 8 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "chocolate-date-pudding",
+      "name": "Chocolate Date Pudding",
+      "description": null,
+      "category": "side",
+      "calories": 140.0,
+      "fat_g": 6.0,
+      "carbs_g": 23.0,
+      "fiber_g": 4.0,
+      "protein_g": 4.0,
+      "sodium_mg": 121.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    },
+    {
+      "id": "green-smoothie",
+      "name": "Green Smoothie",
+      "description": null,
+      "category": "drink",
+      "calories": 145.0,
+      "fat_g": 4.0,
+      "carbs_g": 25.0,
+      "fiber_g": 3.0,
+      "protein_g": 2.0,
+      "sodium_mg": 17.0,
+      "serving_note": "per smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w"
+      }
+    }
+  ]
+}
