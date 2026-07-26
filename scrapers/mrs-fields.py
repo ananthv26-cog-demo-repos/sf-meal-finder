@@ -9,6 +9,8 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
 from save import save_restaurant
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _geo import geocode  # noqa: E402
 
 URL = "https://www.mrsfields.com/pages/nutrition-information"
 TODAY = datetime.date.today().isoformat()
@@ -36,11 +38,12 @@ def main():
             "serving_note": "per package serving", "is_estimate": False,
             "source": {"type": "published", "url": url},
         })
+    address = "Pier 39 Bldg B-06, San Francisco, CA 94133"
+    lat, lng = geocode(address)
     save_restaurant({
         "id": "mrs-fields", "name": "Mrs. Fields", "website": "https://www.mrsfields.com",
         "nutrition_source": {"type": "published", "url": URL, "vendor": None, "retrieved": TODAY},
-        "locations": [{"address": "Pier 39 Bldg B-06, San Francisco, CA 94133",
-                       "lat": 37.8076399, "lng": -122.4157933, "neighborhood": None}],
+        "locations": [{"address": address, "lat": lat, "lng": lng, "neighborhood": "Fisherman's Wharf"}],
         "items": items,
     })
     print(f"Mrs. Fields items: {len(items)}")

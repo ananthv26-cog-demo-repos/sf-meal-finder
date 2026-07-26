@@ -1259,9 +1259,9 @@
     "locations": [
       {
         "address": "Pier 39 Bldg B-06, San Francisco, CA 94133",
-        "lat": 37.8076399,
-        "lng": -122.4157933,
-        "neighborhood": null
+        "lat": 37.808673,
+        "lng": -122.409821,
+        "neighborhood": "Fisherman's Wharf"
       }
     ]
   },
