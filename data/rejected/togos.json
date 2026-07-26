@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "gluten-free-tortilla-12",
+      "name": "Gluten Free Tortilla 12\"",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 6.0,
+      "carbs_g": 45.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    "reasons": [
+      "togos/gluten-free-tortilla-12: macro check failed — stated 220.0 kcal vs computed 285 (delta +65)"
+    ]
+  }
+]

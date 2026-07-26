@@ -1,0 +1,1101 @@
+{
+  "id": "togos",
+  "name": "TOGO'S",
+  "website": "https://togos.com/",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "2300 16th St, 275, San Francisco, CA 94103",
+      "lat": 37.76646,
+      "lng": -122.40958,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "roast-beef-mini",
+      "name": "Roast Beef Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 310.0,
+      "protein_g": 24.0,
+      "carbs_g": 28.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "roast-beef-turkey-cheddar-regular",
+      "name": "Roast Beef, Turkey & Cheddar Regular",
+      "description": null,
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 48.0,
+      "carbs_g": 57.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1950.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "hot-pastrami-mini",
+      "name": "Hot Pastrami Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 310.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "pastrami-reuben-mini",
+      "name": "Pastrami Reuben Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 21.0,
+      "carbs_g": 33.0,
+      "fat_g": 31.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1200.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "pepper-jack-melt-mini",
+      "name": "Pepper Jack Melt Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 21.0,
+      "carbs_g": 32.0,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "triple-dip-regular",
+      "name": "Triple Dip Regular",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 70.0,
+      "carbs_g": 56.0,
+      "fat_g": 41.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3560.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "french-dip-mini",
+      "name": "French Dip Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 30.0,
+      "carbs_g": 28.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2170.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "pastrami-dip-mini",
+      "name": "Pastrami Dip Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 22.0,
+      "carbs_g": 30.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2220.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "cheese-steak-mini",
+      "name": "Cheese Steak Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 470.0,
+      "protein_g": 28.0,
+      "carbs_g": 30.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1160.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "chicken-cheese-steak-mini",
+      "name": "Chicken Cheese Steak Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 23.0,
+      "carbs_g": 30.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1110.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "pastrami-cheese-steak-mini",
+      "name": "Pastrami Cheese Steak Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 20.0,
+      "carbs_g": 31.0,
+      "fat_g": 35.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "chicken-cheddar-mini",
+      "name": "Chicken & Cheddar Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 24.0,
+      "carbs_g": 30.0,
+      "fat_g": 23.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1140.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "brewpub-chicken-mini",
+      "name": "Brewpub Chicken Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 28.0,
+      "carbs_g": 33.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1380.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "buffalo-chicken-mini",
+      "name": "Buffalo Chicken Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 24.0,
+      "carbs_g": 30.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1500.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "bbq-chipotle-chicken-mini",
+      "name": "BBQ Chipotle Chicken Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 390.0,
+      "protein_g": 24.0,
+      "carbs_g": 37.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1170.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "turkey-cheddar-mini",
+      "name": "Turkey & Cheddar Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 21.0,
+      "carbs_g": 28.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 950.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "turkey-genoa-salami-cheddar-regular",
+      "name": "Turkey, Genoa Salami & Cheddar Regular",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 37.0,
+      "carbs_g": 56.0,
+      "fat_g": 50.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2300.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "turkey-cranberry-mini",
+      "name": "Turkey & Cranberry Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 300.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 840.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "turkey-avocado-mini",
+      "name": "Turkey & Avocado Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 330.0,
+      "protein_g": 17.0,
+      "carbs_g": 32.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 890.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "turkey-ham-cheddar-regular",
+      "name": "Turkey, Ham & Cheddar Regular",
+      "description": null,
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 38.0,
+      "carbs_g": 57.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2100.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "clubhouse-melt-mini",
+      "name": "Clubhouse Melt Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 24.0,
+      "carbs_g": 29.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "california-club-regular",
+      "name": "California Club Regular",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 38.0,
+      "carbs_g": 62.0,
+      "fat_g": 33.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2370.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "ham-swiss-mini",
+      "name": "Ham & Swiss Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 20.0,
+      "carbs_g": 29.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1230.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "hot-meatball-mini",
+      "name": "Hot Meatball Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 23.0,
+      "carbs_g": 35.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "the-italian-mini",
+      "name": "The Italian Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 19.0,
+      "carbs_g": 30.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1410.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "albacore-tuna-mini",
+      "name": "Albacore Tuna Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 14.0,
+      "carbs_g": 31.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 830.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "genoa-salami-provolone-mini",
+      "name": "Genoa Salami & Provolone Mini",
+      "description": null,
+      "category": "side",
+      "calories": 510.0,
+      "protein_g": 19.0,
+      "carbs_g": 28.0,
+      "fat_g": 36.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1550.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "blt-mini",
+      "name": "BLT Mini",
+      "description": null,
+      "category": "side",
+      "calories": 350.0,
+      "protein_g": 15.0,
+      "carbs_g": 28.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 890.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "blat-mini",
+      "name": "BLAT Mini",
+      "description": null,
+      "category": "side",
+      "calories": 390.0,
+      "protein_g": 15.0,
+      "carbs_g": 30.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 900.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "tuna-melt-mini",
+      "name": "Tuna Melt Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 19.0,
+      "carbs_g": 32.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "greek-veggie-mini",
+      "name": "Greek Veggie Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 11.0,
+      "carbs_g": 40.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1120.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "cali-veggie-mini",
+      "name": "Cali Veggie Mini",
+      "description": null,
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 17.0,
+      "carbs_g": 33.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 950.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "grilled-cheese-mini",
+      "name": "Grilled Cheese Mini",
+      "description": null,
+      "category": "side",
+      "calories": 470.0,
+      "protein_g": 20.0,
+      "carbs_g": 30.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 940.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "santa-fe-chicken-half",
+      "name": "Santa Fe Chicken Half",
+      "description": null,
+      "category": "meal",
+      "calories": 570.0,
+      "protein_g": 22.0,
+      "carbs_g": 20.0,
+      "fat_g": 45.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "mediterranean-chicken-half",
+      "name": "Mediterranean Chicken Half",
+      "description": null,
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 17.0,
+      "carbs_g": 19.0,
+      "fat_g": 25.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "asian-chicken-half",
+      "name": "Asian Chicken Half",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 15.0,
+      "carbs_g": 30.0,
+      "fat_g": 37.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1120.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "chicken-caesar-half",
+      "name": "Chicken Caesar Half",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 18.0,
+      "carbs_g": 17.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1280.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "farmer-s-market-half",
+      "name": "Farmer's Market Half",
+      "description": null,
+      "category": "side",
+      "calories": 390.0,
+      "protein_g": 6.0,
+      "carbs_g": 15.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "bacon-ranch-chicken-wrap",
+      "name": "Bacon Ranch Chicken Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 45.0,
+      "carbs_g": 54.0,
+      "fat_g": 39.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1980.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "greek-veggie-wrap",
+      "name": "Greek Veggie Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 770.0,
+      "protein_g": 23.0,
+      "carbs_g": 77.0,
+      "fat_g": 45.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 2280.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "cali-veggie-wrap",
+      "name": "Cali Veggie Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 800.0,
+      "protein_g": 29.0,
+      "carbs_g": 62.0,
+      "fat_g": 51.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1710.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "broccoli-cheddar-10-oz",
+      "name": "Broccoli Cheddar 10 oz.",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 9.0,
+      "carbs_g": 16.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1490.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "chicken-noodle-10-oz",
+      "name": "Chicken Noodle 10 oz.",
+      "description": null,
+      "category": "meal",
+      "calories": 120.0,
+      "protein_g": 7.0,
+      "carbs_g": 15.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 1230.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "white-mini",
+      "name": "White Mini",
+      "description": null,
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 4.0,
+      "carbs_g": 25.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "whole-wheat-mini",
+      "name": "Whole Wheat Mini",
+      "description": null,
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 7.0,
+      "carbs_g": 30.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "parmesan-mini",
+      "name": "Parmesan Mini",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 17.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "sourdough-mini",
+      "name": "Sourdough Mini",
+      "description": null,
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 7.0,
+      "carbs_g": 42.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "spinach-tortilla-12",
+      "name": "Spinach Tortilla 12\"",
+      "description": null,
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 8.0,
+      "carbs_g": 47.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "mayonnaise-mini",
+      "name": "Mayonnaise Mini",
+      "description": null,
+      "category": "condiment",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "mustard-mini",
+      "name": "Mustard Mini",
+      "description": null,
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "bbq-sauce-mini",
+      "name": "BBQ Sauce Mini",
+      "description": null,
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "chipotle-mayo-mini",
+      "name": "Chipotle Mayo Mini",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "asian-2-5-oz",
+      "name": "Asian 2.5 oz",
+      "description": null,
+      "category": "side",
+      "calories": 350.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "lite-balsamic-vinaigrette-2-5-oz",
+      "name": "Lite Balsamic Vinaigrette 2.5 oz",
+      "description": null,
+      "category": "condiment",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "ranch-2-5-oz",
+      "name": "Ranch 2.5 oz",
+      "description": null,
+      "category": "condiment",
+      "calories": 270.0,
+      "protein_g": 2.0,
+      "carbs_g": 2.0,
+      "fat_g": 29.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "caesar-2-5-oz",
+      "name": "Caesar 2.5 oz",
+      "description": null,
+      "category": "condiment",
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 7.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "zesty-pepitas-2-5-oz",
+      "name": "Zesty Pepitas 2.5 oz",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 5.0,
+      "carbs_g": 2.0,
+      "fat_g": 34.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "brownie-3-oz",
+      "name": "Brownie 3 oz",
+      "description": null,
+      "category": "side",
+      "calories": 440.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chunk-cookie-3-oz",
+      "name": "Chocolate Chunk Cookie 3 oz",
+      "description": null,
+      "category": "side",
+      "calories": 410.0,
+      "protein_g": 4.0,
+      "carbs_g": 54.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-cookie-3-oz",
+      "name": "Peanut Butter Cookie 3 oz",
+      "description": null,
+      "category": "side",
+      "calories": 440.0,
+      "protein_g": 6.0,
+      "carbs_g": 49.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf"
+      }
+    }
+  ]
+}

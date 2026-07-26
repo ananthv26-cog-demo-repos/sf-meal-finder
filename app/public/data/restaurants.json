@@ -38,6 +38,25 @@
     ]
   },
   {
+    "id": "bonchon",
+    "name": "Bonchon",
+    "website": "https://www.bonchon.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "135 4th St, San Francisco, CA 94103",
+        "lat": 37.7842713,
+        "lng": -122.4033021,
+        "neighborhood": "South of Market"
+      }
+    ]
+  },
+  {
     "id": "boudin-bakery-cafe",
     "name": "Boudin Bakery Cafe",
     "website": "https://boudinbakery.com",
@@ -136,6 +155,44 @@
     ]
   },
   {
+    "id": "california-pizza-kitchen",
+    "name": "California Pizza Kitchen",
+    "website": "https://www.cpk.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu",
+      "vendor": "Healthy Dining",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "53 Third Street, San Francisco, CA 94103",
+        "lat": 37.7869621,
+        "lng": -122.4025283,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "carls-jr",
+    "name": "Carl's Jr.",
+    "website": "https://www.carlsjr.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1 Hallidie Plaza, San Francisco, CA 94102",
+        "lat": 37.78412,
+        "lng": -122.40886,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
     "id": "cheese-steak-shop",
     "name": "The Cheese Steak Shop",
     "website": "https://www.cheesesteakshop.com",
@@ -211,6 +268,43 @@
         "address": "1523 Sloat Blvd, San Francisco, CA 94132-1222",
         "lat": 37.732506,
         "lng": -122.489986,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "dominos",
+    "name": "Domino's Pizza",
+    "website": "https://www.dominos.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://cache.dominos.com/olo/6_168_0/assets/build/market/US/_en/pdf/DominosNutritionGuide.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "3116 Noriega Street, San Francisco, CA 94116",
+        "lat": 37.7534,
+        "lng": -122.497,
+        "neighborhood": null
+      },
+      {
+        "address": "320 Bayshore Blvd., San Francisco, CA 94124",
+        "lat": 37.7429,
+        "lng": -122.406,
+        "neighborhood": null
+      },
+      {
+        "address": "5200 Geary Blvd Ste D, San Francisco, CA 94118",
+        "lat": 37.780585,
+        "lng": -122.47566,
+        "neighborhood": null
+      },
+      {
+        "address": "728 Geary St., San Francisco, CA 94109",
+        "lat": 37.786816,
+        "lng": -122.415379,
         "neighborhood": null
       }
     ]
@@ -412,6 +506,25 @@
         "lat": 37.728694,
         "lng": -122.47523,
         "neighborhood": "Stonestown"
+      }
+    ]
+  },
+  {
+    "id": "little-caesars",
+    "name": "Little Caesars",
+    "website": "https://littlecaesars.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.datocms-assets.com/95658/1779298904-cr0027232_lj_nutri-info-allergen-ingredient_flyer_mgjur_minew-page-001.jpg",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "955 Geneva Avenue, San Francisco, CA 94112",
+        "lat": 37.7160701,
+        "lng": -122.4399662,
+        "neighborhood": null
       }
     ]
   },
@@ -705,6 +818,25 @@
     ]
   },
   {
+    "id": "papa-johns",
+    "name": "Papa John's",
+    "website": "https://www.papajohns.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.papajohns.com/company/nutritional-details/",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "969 Sutter St, San Francisco, CA 94109",
+        "lat": 37.78809,
+        "lng": -122.41632,
+        "neighborhood": "Lower Nob Hill"
+      }
+    ]
+  },
+  {
     "id": "pizza-hut",
     "name": "Pizza Hut",
     "website": "https://www.pizzahut.com",
@@ -853,6 +985,43 @@
     ]
   },
   {
+    "id": "round-table-pizza",
+    "name": "Round Table Pizza",
+    "website": "https://www.roundtablepizza.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "737 Portola Dr., San Francisco CA , 94127",
+        "lat": 37.74410688,
+        "lng": -122.4534756,
+        "neighborhood": null
+      },
+      {
+        "address": "801 Van Ness Avenue, San Francisco CA , 94109",
+        "lat": 37.78288528,
+        "lng": -122.4207317,
+        "neighborhood": null
+      },
+      {
+        "address": "2660 San Bruno Avenue, San Francisco CA , 94134",
+        "lat": 37.7279338,
+        "lng": -122.4040965,
+        "neighborhood": null
+      },
+      {
+        "address": "1503 North Point St, San Francisco CA , 94123",
+        "lat": 37.80419547,
+        "lng": -122.4319468,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
     "id": "shake-shack",
     "name": "Shake Shack",
     "website": "https://shakeshack.com",
@@ -936,6 +1105,241 @@
         "lat": 37.7766868,
         "lng": -122.4024109,
         "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "website": "https://www.starbucks.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.starbucks.com/apiproxy/v1/ordering/menu",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "150 Van Ness, San Francisco",
+        "lat": 37.77723,
+        "lng": -122.41932,
+        "neighborhood": null
+      },
+      {
+        "address": "1390 Market Street, San Francisco",
+        "lat": 37.77705,
+        "lng": -122.41737,
+        "neighborhood": null
+      },
+      {
+        "address": "2020 Market St., San Francisco",
+        "lat": 37.76882,
+        "lng": -122.42868,
+        "neighborhood": null
+      },
+      {
+        "address": "1100 Van Ness Ave, San Francisco",
+        "lat": 37.78589,
+        "lng": -122.4211,
+        "neighborhood": null
+      },
+      {
+        "address": "2300 16th St. Unit 203, San Francisco",
+        "lat": 37.76658,
+        "lng": -122.40941,
+        "neighborhood": null
+      },
+      {
+        "address": "2727 Mariposa St, San Francisco",
+        "lat": 37.76291,
+        "lng": -122.41042,
+        "neighborhood": null
+      },
+      {
+        "address": "201 Powell St, San Francisco",
+        "lat": 37.78656,
+        "lng": -122.4082,
+        "neighborhood": null
+      },
+      {
+        "address": "789 Mission Street, San Francisco",
+        "lat": 37.78446,
+        "lng": -122.40384,
+        "neighborhood": null
+      },
+      {
+        "address": "170 O'Farrell St, San Francisco",
+        "lat": 37.78736,
+        "lng": -122.40732,
+        "neighborhood": null
+      },
+      {
+        "address": "390 Stockton St, San Francisco",
+        "lat": 37.78935,
+        "lng": -122.40682,
+        "neighborhood": null
+      },
+      {
+        "address": "2435 California Street, San Francisco",
+        "lat": 37.78844,
+        "lng": -122.43464,
+        "neighborhood": null
+      },
+      {
+        "address": "1750 Divisadero St, San Francisco",
+        "lat": 37.78598,
+        "lng": -122.43982,
+        "neighborhood": null
+      },
+      {
+        "address": "298 King Street, San Francisco",
+        "lat": 37.77678,
+        "lng": -122.3939,
+        "neighborhood": null
+      },
+      {
+        "address": "580 California, San Francisco",
+        "lat": 37.79284,
+        "lng": -122.40429,
+        "neighborhood": null
+      },
+      {
+        "address": "1700 Owens St, San Francisco",
+        "lat": 37.76706,
+        "lng": -122.39366,
+        "neighborhood": null
+      },
+      {
+        "address": "2165 Polk St, San Francisco",
+        "lat": 37.79676,
+        "lng": -122.42209,
+        "neighborhood": null
+      },
+      {
+        "address": "100 1st St, San Francisco",
+        "lat": 37.78961,
+        "lng": -122.39755,
+        "neighborhood": null
+      },
+      {
+        "address": "2675 Geary Blvd, San Francisco",
+        "lat": 37.78207,
+        "lng": -122.44708,
+        "neighborhood": null
+      },
+      {
+        "address": "565 Clay St, San Francisco",
+        "lat": 37.7946,
+        "lng": -122.40269,
+        "neighborhood": null
+      },
+      {
+        "address": "1375 3rd St, San Francisco",
+        "lat": 37.77123,
+        "lng": -122.38931,
+        "neighborhood": null
+      },
+      {
+        "address": "1899 Union Street, San Francisco",
+        "lat": 37.79764,
+        "lng": -122.4304,
+        "neighborhood": null
+      },
+      {
+        "address": "299 Fremont St, San Francisco",
+        "lat": 37.78823,
+        "lng": -122.39362,
+        "neighborhood": null
+      },
+      {
+        "address": "3995 24th St, San Francisco",
+        "lat": 37.75134,
+        "lng": -122.4317,
+        "neighborhood": null
+      },
+      {
+        "address": "7 Drumm St, San Francisco",
+        "lat": 37.79377,
+        "lng": -122.39662,
+        "neighborhood": null
+      },
+      {
+        "address": "3595 California St, San Francisco",
+        "lat": 37.78611,
+        "lng": -122.45323,
+        "neighborhood": null
+      },
+      {
+        "address": "2132 Chestnut St, San Francisco",
+        "lat": 37.80064,
+        "lng": -122.43854,
+        "neighborhood": null
+      },
+      {
+        "address": "499 Bay St, San Francisco",
+        "lat": 37.80534,
+        "lng": -122.41511,
+        "neighborhood": null
+      },
+      {
+        "address": "3735 Buchanan, San Francisco",
+        "lat": 37.80449,
+        "lng": -122.43375,
+        "neighborhood": null
+      },
+      {
+        "address": "1 Letterman Drive, San Francisco",
+        "lat": 37.79925,
+        "lng": -122.44935,
+        "neighborhood": null
+      },
+      {
+        "address": "5290 Diamond Heights Blvd, San Francisco",
+        "lat": 37.74374,
+        "lng": -122.43876,
+        "neighborhood": null
+      },
+      {
+        "address": "675 Portola Dr, San Francisco",
+        "lat": 37.7445,
+        "lng": -122.45271,
+        "neighborhood": null
+      },
+      {
+        "address": "3801 3rd Street, San Francisco",
+        "lat": 37.74122,
+        "lng": -122.38775,
+        "neighborhood": null
+      },
+      {
+        "address": "5455 Geary Blvd, San Francisco",
+        "lat": 37.78017,
+        "lng": -122.47814,
+        "neighborhood": null
+      },
+      {
+        "address": "1800 Irving St, San Francisco",
+        "lat": 37.76371,
+        "lng": -122.47746,
+        "neighborhood": null
+      },
+      {
+        "address": "100 West Portal, San Francisco",
+        "lat": 37.73968,
+        "lng": -122.46732,
+        "neighborhood": null
+      },
+      {
+        "address": "2350 Noriega Street, San Francisco",
+        "lat": 37.75407,
+        "lng": -122.48879,
+        "neighborhood": null
+      },
+      {
+        "address": "233 Winston Dr, San Francisco",
+        "lat": 37.72651,
+        "lng": -122.47689,
+        "neighborhood": null
       }
     ]
   },
@@ -1302,6 +1706,25 @@
         "address": "925 Market St, San Francisco, CA 94103",
         "lat": 37.7833043,
         "lng": -122.408453,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "togos",
+    "name": "TOGO'S",
+    "website": "https://togos.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "2300 16th St, 275, San Francisco, CA 94103",
+        "lat": 37.76646,
+        "lng": -122.40958,
         "neighborhood": null
       }
     ]

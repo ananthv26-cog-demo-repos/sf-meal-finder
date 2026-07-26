@@ -1,0 +1,1767 @@
+{
+  "id": "carls-jr",
+  "name": "Carl's Jr.",
+  "website": "https://www.carlsjr.com/",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "1 Hallidie Plaza, San Francisco, CA 94102",
+      "lat": 37.78412,
+      "lng": -122.40886,
+      "neighborhood": "Union Square"
+    }
+  ],
+  "items": [
+    {
+      "id": "sausage-egg-biscuit",
+      "name": "Sausage & Egg Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 19.0,
+      "carbs_g": 44.0,
+      "fat_g": 50.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1400.0,
+      "serving_note": "per 191 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "sausage-biscuit",
+      "name": "Sausage Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 13.0,
+      "carbs_g": 42.0,
+      "fat_g": 45.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per 154 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beyond-sausage-biscuit",
+      "name": "Beyond Sausage® Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 16.0,
+      "carbs_g": 44.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1140.0,
+      "serving_note": "per 142 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beyond-sausage-egg-biscuit",
+      "name": "Beyond Sausage® & Egg Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 25.0,
+      "carbs_g": 47.0,
+      "fat_g": 35.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1440.0,
+      "serving_note": "per 197 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-biscuit",
+      "name": "Bacon Egg & Cheese Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 20.0,
+      "carbs_g": 44.0,
+      "fat_g": 40.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1520.0,
+      "serving_note": "per 178 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "biscuit-n-gravy",
+      "name": "Biscuit 'N' Gravy™",
+      "description": null,
+      "category": "condiment",
+      "calories": 600.0,
+      "protein_g": 10.0,
+      "carbs_g": 54.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1580.0,
+      "serving_note": "per 255 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "monster-biscuit",
+      "name": "Monster Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 35.0,
+      "carbs_g": 45.0,
+      "fat_g": 63.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2480.0,
+      "serving_note": "per 265 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "loaded-omelet-biscuit",
+      "name": "Loaded Omelet Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 19.0,
+      "carbs_g": 46.0,
+      "fat_g": 41.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1480.0,
+      "serving_note": "per 186 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "southwest-omelet-biscuit",
+      "name": "Southwest Omelet Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 20.0,
+      "carbs_g": 42.0,
+      "fat_g": 45.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1770.0,
+      "serving_note": "per 204 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chicken-fillet-biscuit",
+      "name": "Chicken Fillet Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 19.0,
+      "carbs_g": 50.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1440.0,
+      "serving_note": "per 201 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "smoked-sausage-egg-cheese-biscuit",
+      "name": "Smoked Sausage Egg & Cheese Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 23.0,
+      "carbs_g": 45.0,
+      "fat_g": 48.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1920.0,
+      "serving_note": "per 226 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "country-fried-steak-biscuit",
+      "name": "Country Fried Steak Biscuit",
+      "description": null,
+      "category": "drink",
+      "calories": 650.0,
+      "protein_g": 14.0,
+      "carbs_g": 49.0,
+      "fat_g": 44.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per 170 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "country-ham-biscuit",
+      "name": "Country Ham Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 16.0,
+      "carbs_g": 42.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1780.0,
+      "serving_note": "per 149 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "ham-sunrise-croissant",
+      "name": "Ham Sunrise Croissant®",
+      "description": null,
+      "category": "meal",
+      "calories": 390.0,
+      "protein_g": 18.0,
+      "carbs_g": 29.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 860.0,
+      "serving_note": "per 143 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "bacon-sunrise-croissant",
+      "name": "Bacon Sunrise Croissant®",
+      "description": null,
+      "category": "meal",
+      "calories": 420.0,
+      "protein_g": 18.0,
+      "carbs_g": 29.0,
+      "fat_g": 26.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 124 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "sausage-sunrise-croissant",
+      "name": "Sausage Sunrise Croissant®",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 18.0,
+      "carbs_g": 30.0,
+      "fat_g": 40.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 870.0,
+      "serving_note": "per 150 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "loaded-breakfast-burrito",
+      "name": "Loaded Breakfast Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 30.0,
+      "carbs_g": 46.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per 212 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "southwest-omelet-burrito",
+      "name": "Southwest Omelet Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 35.0,
+      "carbs_g": 44.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1920.0,
+      "serving_note": "per 249 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "frisco-breakfast-sandwich",
+      "name": "Frisco Breakfast Sandwich®",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 24.0,
+      "carbs_g": 42.0,
+      "fat_g": 19.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1280.0,
+      "serving_note": "per 189 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "loaded-hash-round-bowl",
+      "name": "Loaded Hash Round Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 36.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per 186 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "low-carb-breakfast-bowl",
+      "name": "Low Carb Breakfast Bowl®",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 33.0,
+      "carbs_g": 0.0,
+      "fat_g": 68.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1490.0,
+      "serving_note": "per 239 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "cinnamon-n-raisin-biscuit",
+      "name": "Cinnamon 'N' Raisin™ Biscuit",
+      "description": null,
+      "category": "side",
+      "calories": 320.0,
+      "protein_g": 3.0,
+      "carbs_g": 46.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 93 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hash-rounds-small",
+      "name": "Hash Rounds® Small",
+      "description": null,
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 21.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 78 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hash-rounds-medium",
+      "name": "Hash Rounds® Medium",
+      "description": null,
+      "category": "side",
+      "calories": 370.0,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 22.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per 120 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hash-rounds-large",
+      "name": "Hash Rounds® Large",
+      "description": null,
+      "category": "side",
+      "calories": 490.0,
+      "protein_g": 4.0,
+      "carbs_g": 43.0,
+      "fat_g": 29.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per 157 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "side-of-gravy",
+      "name": "Side of Gravy",
+      "description": null,
+      "category": "condiment",
+      "calories": 160.0,
+      "protein_g": 3.0,
+      "carbs_g": 13.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 142 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "2-cinnamon-n-raisin-biscuits",
+      "name": "2 Cinnamon 'N' Raisin™ Biscuits",
+      "description": null,
+      "category": "side",
+      "calories": 640.0,
+      "protein_g": 6.0,
+      "carbs_g": 92.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per 186 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "original-thickburger",
+      "name": "Original Thickburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 39.0,
+      "carbs_g": 56.0,
+      "fat_g": 51.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1440.0,
+      "serving_note": "per 310 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "original-beyond-thickburger",
+      "name": "Original Beyond Thickburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 33.0,
+      "carbs_g": 61.0,
+      "fat_g": 46.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1450.0,
+      "serving_note": "per 326 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "double-original-beyond-thickburger",
+      "name": "Double Original Beyond Thickburger ®",
+      "description": null,
+      "category": "meal",
+      "calories": 1110.0,
+      "protein_g": 56.0,
+      "carbs_g": 66.0,
+      "fat_g": 70.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2140.0,
+      "serving_note": "per 447 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "mushroom-swiss-thickburger",
+      "name": "Mushroom & Swiss Thickburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 31.0,
+      "carbs_g": 52.0,
+      "fat_g": 33.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1310.0,
+      "serving_note": "per 220 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "bacon-cheese-thickburger",
+      "name": "Bacon Cheese Thickburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 38.0,
+      "carbs_g": 54.0,
+      "fat_g": 49.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1400.0,
+      "serving_note": "per 289 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "frisco-thickburger",
+      "name": "Frisco Thickburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 38.0,
+      "carbs_g": 43.0,
+      "fat_g": 50.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1550.0,
+      "serving_note": "per 259 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "monster-double-thickburger",
+      "name": "Monster Double Thickburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 1400.0,
+      "protein_g": 86.0,
+      "carbs_g": 53.0,
+      "fat_g": 97.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2780.0,
+      "serving_note": "per 404 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "famous-star-with-cheese",
+      "name": "Famous Star® with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 28.0,
+      "carbs_g": 55.0,
+      "fat_g": 37.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1270.0,
+      "serving_note": "per 259 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "super-star-with-cheese",
+      "name": "Super Star® with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 920.0,
+      "protein_g": 48.0,
+      "carbs_g": 59.0,
+      "fat_g": 56.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1530.0,
+      "serving_note": "per 380 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "western-bacon-cheeseburger",
+      "name": "Western Bacon Cheeseburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 38.0,
+      "carbs_g": 80.0,
+      "fat_g": 38.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1750.0,
+      "serving_note": "per 258 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "double-western-bacon-cheeseburger",
+      "name": "Double Western Bacon Cheeseburger®",
+      "description": null,
+      "category": "meal",
+      "calories": 1060.0,
+      "protein_g": 58.0,
+      "carbs_g": 81.0,
+      "fat_g": 57.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2080.0,
+      "serving_note": "per 341 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "big-cheeseburger",
+      "name": "Big Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 28.0,
+      "carbs_g": 56.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1240.0,
+      "serving_note": "per 226 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "double-cheeseburger",
+      "name": "Double Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 25.0,
+      "carbs_g": 56.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1470.0,
+      "serving_note": "per 228 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "small-hamburger",
+      "name": "Small Hamburger",
+      "description": null,
+      "category": "meal",
+      "calories": 250.0,
+      "protein_g": 11.0,
+      "carbs_g": 32.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per 115 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "single-slider",
+      "name": "Single Slider",
+      "description": null,
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 10.0,
+      "carbs_g": 21.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per 91 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "double-slider",
+      "name": "Double Slider",
+      "description": null,
+      "category": "side",
+      "calories": 360.0,
+      "protein_g": 19.0,
+      "carbs_g": 22.0,
+      "fat_g": 24.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 143 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "3-piece-hand-breaded-chicken-tenders",
+      "name": "3 Piece - Hand-Breaded Chicken Tenders™",
+      "description": null,
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 25.0,
+      "carbs_g": 13.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 128 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "5-piece-hand-breaded-chicken-tenders",
+      "name": "5 Piece - Hand-Breaded Chicken Tenders™",
+      "description": null,
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 41.0,
+      "carbs_g": 21.0,
+      "fat_g": 21.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1290.0,
+      "serving_note": "per 213 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "10-piece-hand-breaded-chicken-tenders-box",
+      "name": "10 Piece - Hand-Breaded Chicken Tenders™ Box",
+      "description": null,
+      "category": "meal",
+      "calories": 880.0,
+      "protein_g": 82.0,
+      "carbs_g": 42.0,
+      "fat_g": 42.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2580.0,
+      "serving_note": "per 426 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "15-piece-hand-breaded-chicken-tenders-box",
+      "name": "15 Piece - Hand-Breaded Chicken Tenders™ Box",
+      "description": null,
+      "category": "meal",
+      "calories": 1320.0,
+      "protein_g": 123.0,
+      "carbs_g": 63.0,
+      "fat_g": 63.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 3870.0,
+      "serving_note": "per 639 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "20-piece-hand-breaded-chicken-tenders-box",
+      "name": "20 Piece - Hand-Breaded Chicken Tenders™ Box",
+      "description": null,
+      "category": "meal",
+      "calories": 1760.0,
+      "protein_g": 164.0,
+      "carbs_g": 84.0,
+      "fat_g": 84.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 5160.0,
+      "serving_note": "per 852 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "big-chicken-fillet-sandwich",
+      "name": "Big Chicken Fillet Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 21.0,
+      "carbs_g": 61.0,
+      "fat_g": 29.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per 235 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "charbroiled-chicken-club-sandwich",
+      "name": "Charbroiled Chicken Club Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 43.0,
+      "carbs_g": 53.0,
+      "fat_g": 29.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1870.0,
+      "serving_note": "per 267 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "big-hot-ham-n-cheese",
+      "name": "Big Hot Ham 'N' Cheese™",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 34.0,
+      "carbs_g": 51.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2190.0,
+      "serving_note": "per 238 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "jumbo-chili-dog",
+      "name": "Jumbo Chili Dog",
+      "description": null,
+      "category": "side",
+      "calories": 390.0,
+      "protein_g": 15.0,
+      "carbs_g": 23.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1300.0,
+      "serving_note": "per 145 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "big-roast-beef",
+      "name": "Big Roast Beef",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 30.0,
+      "carbs_g": 49.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per 213 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "natural-cut-french-fries-kids",
+      "name": "Natural-Cut French Fries- Kids",
+      "description": null,
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 31.0,
+      "fat_g": 12.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 83 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "natural-cut-french-fries-small",
+      "name": "Natural-Cut French Fries- Small",
+      "description": null,
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 39.0,
+      "fat_g": 15.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per 104 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "natural-cut-french-fries-medium",
+      "name": "Natural-Cut French Fries- Medium",
+      "description": null,
+      "category": "side",
+      "calories": 420.0,
+      "protein_g": 5.0,
+      "carbs_g": 55.0,
+      "fat_g": 21.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per 147 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "natural-cut-french-fries-large",
+      "name": "Natural-Cut French Fries- Large",
+      "description": null,
+      "category": "side",
+      "calories": 460.0,
+      "protein_g": 5.0,
+      "carbs_g": 59.0,
+      "fat_g": 22.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per 158 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "onion-rings",
+      "name": "Onion Rings",
+      "description": null,
+      "category": "side",
+      "calories": 670.0,
+      "protein_g": 10.0,
+      "carbs_g": 77.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per 137 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "crispy-curls-small",
+      "name": "Crispy Curls® - Small",
+      "description": null,
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 4.0,
+      "carbs_g": 39.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 99 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "crispy-curls-medium",
+      "name": "Crispy Curls® - Medium",
+      "description": null,
+      "category": "side",
+      "calories": 420.0,
+      "protein_g": 5.0,
+      "carbs_g": 53.0,
+      "fat_g": 21.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1050.0,
+      "serving_note": "per 135 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "crispy-curls-large",
+      "name": "Crispy Curls® - Large",
+      "description": null,
+      "category": "side",
+      "calories": 460.0,
+      "protein_g": 6.0,
+      "carbs_g": 58.0,
+      "fat_g": 23.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per 148 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "side-salad",
+      "name": "Side Salad",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 7.0,
+      "carbs_g": 7.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 190 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hand-scooped-ice-cream-shakes-vanilla-shake",
+      "name": "Hand-Scooped Ice-Cream Shakes™- Vanilla Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 700.0,
+      "protein_g": 12.0,
+      "carbs_g": 86.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 397 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hand-scooped-ice-cream-shakes-chocolate-shake",
+      "name": "Hand-Scooped Ice-Cream Shakes™- Chocolate Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 690.0,
+      "protein_g": 12.0,
+      "carbs_g": 84.0,
+      "fat_g": 36.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 397 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hand-scooped-ice-cream-shakes-strawberry-shake",
+      "name": "Hand-Scooped Ice-Cream Shakes™- Strawberry Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 690.0,
+      "protein_g": 12.0,
+      "carbs_g": 83.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 397 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookie",
+      "name": "Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 42 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "apple-turnover",
+      "name": "Apple Turnover",
+      "description": null,
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 3.0,
+      "carbs_g": 35.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 85 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hamburger-kid-s-meal",
+      "name": "Hamburger Kid's Meal ***",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 24.0,
+      "carbs_g": 54.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per 195 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "cheeseburger-kid-s-meal",
+      "name": "Cheeseburger Kid's Meal ***",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 27.0,
+      "carbs_g": 55.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1200.0,
+      "serving_note": "per 211 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "2-piece-chicken-tender-kid-s-meal",
+      "name": "2-piece Chicken Tender™ Kid's Meal **",
+      "description": null,
+      "category": "meal",
+      "calories": 180.0,
+      "protein_g": 16.0,
+      "carbs_g": 9.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 85 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hot-dog-kids-meal",
+      "name": "Hot Dog Kids Meal ***",
+      "description": null,
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 16.0,
+      "carbs_g": 60.0,
+      "fat_g": 38.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1670.0,
+      "serving_note": "per 218 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "2-hot-ham-n-cheese-all-star-meal",
+      "name": "2 Hot Ham 'N' Cheese All Star Meal",
+      "description": null,
+      "category": "meal",
+      "calories": 1010.0,
+      "protein_g": 39.0,
+      "carbs_g": 114.0,
+      "fat_g": 44.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2930.0,
+      "serving_note": "per 382 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "3-piece-chicken-tenders-all-star-meal",
+      "name": "3 Piece Chicken Tenders™ All Star Meal",
+      "description": null,
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 29.0,
+      "carbs_g": 70.0,
+      "fat_g": 35.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1440.0,
+      "serving_note": "per 253 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "double-cheeseburger-spicy-chicken-sandwich",
+      "name": "Double Cheeseburger & Spicy Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 1280.0,
+      "protein_g": 36.0,
+      "carbs_g": 131.0,
+      "fat_g": 71.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2710.0,
+      "serving_note": "per 447 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "double-cheeseburger-jumbo-hot-dog",
+      "name": "Double Cheeseburger & Jumbo Hot Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 1160.0,
+      "protein_g": 36.0,
+      "carbs_g": 111.0,
+      "fat_g": 64.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2510.0,
+      "serving_note": "per 405 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beef-grilled-burrito",
+      "name": "Beef Grilled Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 850.0,
+      "protein_g": 41.0,
+      "carbs_g": 90.0,
+      "fat_g": 35.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per 487 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "bean-rice-cheese-burrito",
+      "name": "Bean, Rice & Cheese Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 21.0,
+      "carbs_g": 67.0,
+      "fat_g": 21.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1360.0,
+      "serving_note": "per 296 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hard-shell-beef-taco",
+      "name": "Hard Shell Beef Taco",
+      "description": null,
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 11.0,
+      "carbs_g": 13.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 95 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "hard-shell-chicken-taco",
+      "name": "Hard Shell Chicken Taco",
+      "description": null,
+      "category": "meal",
+      "calories": 210.0,
+      "protein_g": 16.0,
+      "carbs_g": 14.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 81 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chicken-soft-taco",
+      "name": "Chicken Soft Taco",
+      "description": null,
+      "category": "meal",
+      "calories": 200.0,
+      "protein_g": 16.0,
+      "carbs_g": 17.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per 124 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beef-soft-taco",
+      "name": "Beef Soft Taco",
+      "description": null,
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 11.0,
+      "carbs_g": 17.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 108 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chicken-bowl",
+      "name": "Chicken Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 27.0,
+      "carbs_g": 55.0,
+      "fat_g": 11.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1370.0,
+      "serving_note": "per 332 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beef-bowl",
+      "name": "Beef Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 27.0,
+      "carbs_g": 55.0,
+      "fat_g": 19.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1500.0,
+      "serving_note": "per 363 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beef-super-nachos",
+      "name": "Beef Super Nachos",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 17.0,
+      "carbs_g": 57.0,
+      "fat_g": 29.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1390.0,
+      "serving_note": "per 274 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chicken-super-nachos",
+      "name": "Chicken Super Nachos",
+      "description": null,
+      "category": "meal",
+      "calories": 570.0,
+      "protein_g": 25.0,
+      "carbs_g": 57.0,
+      "fat_g": 27.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1490.0,
+      "serving_note": "per 293 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "cheese-quesadilla",
+      "name": "Cheese Quesadilla",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 25.0,
+      "carbs_g": 40.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1110.0,
+      "serving_note": "per 157 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chicken-quesadilla",
+      "name": "Chicken Quesadilla",
+      "description": null,
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 39.0,
+      "carbs_g": 43.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1410.0,
+      "serving_note": "per 214 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beef-taco-salad",
+      "name": "Beef Taco Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 920.0,
+      "protein_g": 35.0,
+      "carbs_g": 72.0,
+      "fat_g": 56.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1920.0,
+      "serving_note": "per 506 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chicken-taco-salad",
+      "name": "Chicken Taco Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 940.0,
+      "protein_g": 49.0,
+      "carbs_g": 73.0,
+      "fat_g": 49.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2060.0,
+      "serving_note": "per 548 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "rice",
+      "name": "Rice",
+      "description": null,
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 4.0,
+      "carbs_g": 40.0,
+      "fat_g": 2.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per 143 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "beans",
+      "name": "Beans",
+      "description": null,
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 8.0,
+      "carbs_g": 24.0,
+      "fat_g": 1.5,
+      "fiber_g": 8.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per 117 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "chips-salsa",
+      "name": "Chips & Salsa",
+      "description": null,
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 4.0,
+      "carbs_g": 37.0,
+      "fat_g": 17.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 95 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "sour-cream",
+      "name": "Sour Cream",
+      "description": null,
+      "category": "side",
+      "calories": 50.0,
+      "protein_g": 2.0,
+      "carbs_g": 3.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 40 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "8-pc-4-biscuits",
+      "name": "8 pc. & 4 Biscuits",
+      "description": null,
+      "category": "meal",
+      "calories": 4330.0,
+      "protein_g": 216.0,
+      "carbs_g": 323.0,
+      "fat_g": 243.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 7550.0,
+      "serving_note": "per 1425 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "2-pc-snack",
+      "name": "2 pc. Snack",
+      "description": null,
+      "category": "meal",
+      "calories": 1080.0,
+      "protein_g": 54.0,
+      "carbs_g": 81.0,
+      "fat_g": 61.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1890.0,
+      "serving_note": "per 356 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "3-pc-snack",
+      "name": "3 pc. Snack",
+      "description": null,
+      "category": "meal",
+      "calories": 1530.0,
+      "protein_g": 91.0,
+      "carbs_g": 98.0,
+      "fat_g": 86.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2760.0,
+      "serving_note": "per 533 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    {
+      "id": "mashed-potatoes",
+      "name": "Mashed Potatoes",
+      "description": null,
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 164 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    }
+  ]
+}

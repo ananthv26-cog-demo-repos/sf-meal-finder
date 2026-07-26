@@ -1,0 +1,72 @@
+[
+  {
+    "item": {
+      "id": "monster-roast-beef",
+      "name": "Monster Roast Beef",
+      "description": null,
+      "category": "meal",
+      "calories": 870.0,
+      "protein_g": 54.0,
+      "carbs_g": 52.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3150.0,
+      "serving_note": "per 309 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    "reasons": [
+      "carls-jr/monster-roast-beef: macro check failed — stated 870.0 kcal vs computed 721 (delta -149)"
+    ]
+  },
+  {
+    "item": {
+      "id": "10-pc-5-biscuits",
+      "name": "10 pc. & 5 Biscuits",
+      "description": null,
+      "category": "side",
+      "calories": 5410.0,
+      "protein_g": 270.0,
+      "carbs_g": 404.0,
+      "fat_g": 303.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 9430.0,
+      "serving_note": "per 1781 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    "reasons": [
+      "carls-jr/10-pc-5-biscuits: calories 5410.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "12-pc-6-biscuits",
+      "name": "12 pc. & 6 Biscuits",
+      "description": null,
+      "category": "side",
+      "calories": 6490.0,
+      "protein_g": 323.0,
+      "carbs_g": 485.0,
+      "fat_g": 364.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 11320.0,
+      "serving_note": "per 2137 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf"
+      }
+    },
+    "reasons": [
+      "carls-jr/12-pc-6-biscuits: sodium_mg 11320.0 implausibly high",
+      "carls-jr/12-pc-6-biscuits: calories 6490.0 implausibly high — check what the row is per"
+    ]
+  }
+]
