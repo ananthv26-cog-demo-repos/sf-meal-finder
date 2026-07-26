@@ -1,12 +1,30 @@
 :root {
   --font-sans: "Inter Tight", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
-  --fs-xs: 10.5px; --fs-sm: 12px; --fs-md: 14px; --fs-lg: 16px;
-  --fw-regular: 400; --fw-medium: 500; --fw-semibold: 600;
-  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px; --sp-5: 24px; --sp-6: 32px;
-  --control-h: 30px; --map-bg: #ecebea;
-  --bg: #f7f6f5; --line: rgba(0, 0, 0, .08); --ink: #000; --text: #191919;
-  --text-secondary: rgba(25, 25, 25, .56); --text-faint: rgba(25, 25, 25, .4);
-  --accent: #20f; --estimate: #20f; --selection: rgba(32, 0, 255, .05);
-  --results-grid: minmax(220px, 1fr) 58px 72px 52px 64px 52px; --input-width: 74px;
+  --fs-xs: 10.5px;
+  --fs-sm: 12px;
+  --fs-md: 14px;
+  --fs-lg: 16px;
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --control-h: 30px;
+  --map-bg: #ecebea;
+  --bg: #f7f6f5;
+  --line: rgba(0, 0, 0, .08);
+  --ink: #000;
+  --text: #191919;
+  --text-secondary: rgba(25, 25, 25, .56);
+  --text-faint: rgba(25, 25, 25, .4);
+  --accent: #20f;
+  --estimate: #20f;
+  --selection: rgba(32, 0, 255, .05);
+  --results-grid: minmax(220px, 1fr) 58px 72px 52px 64px 52px;
+  --input-width: 74px;
 }
