@@ -1,0 +1,1267 @@
+[
+  {
+    "item": {
+      "id": "vendor-spicy-buffalo-chicken-bites",
+      "name": "Spicy Buffalo Chicken Bites",
+      "description": null,
+      "category": "side",
+      "calories": 792.4,
+      "protein_g": 34.5,
+      "carbs_g": 37.0,
+      "fat_g": 5.8,
+      "fiber_g": 2.4,
+      "sodium_mg": 3568.7,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-spicy-buffalo-chicken-bites: macro check failed — stated 792.4 kcal vs computed 338 (delta -454)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-blueberry-lemon-drop-martini",
+      "name": "Blueberry Lemon Drop Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 235.9,
+      "protein_g": 0.2,
+      "carbs_g": 26.0,
+      "fat_g": 0.1,
+      "fiber_g": 0.4,
+      "sodium_mg": 3.4,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-blueberry-lemon-drop-martini: macro check failed — stated 235.9 kcal vs computed 106 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-bourbon-peach-smash",
+      "name": "Bourbon Peach Smash",
+      "description": null,
+      "category": "drink",
+      "calories": 212.8,
+      "protein_g": 0.3,
+      "carbs_g": 25.7,
+      "fat_g": 0.0,
+      "fiber_g": 0.4,
+      "sodium_mg": 5.3,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-bourbon-peach-smash: macro check failed — stated 212.8 kcal vs computed 104 (delta -109)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-california-colada",
+      "name": "California Colada",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-california-colada: macro check failed — stated 200.0 kcal vs computed 132 (delta -68)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-cosmopolitan-martini",
+      "name": "Cosmopolitan Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.1,
+      "carbs_g": 8.2,
+      "fat_g": 0.0,
+      "fiber_g": 0.3,
+      "sodium_mg": 1.1,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-cosmopolitan-martini: macro check failed — stated 160.0 kcal vs computed 33 (delta -127)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-endless-sunshine",
+      "name": "Endless Sunshine",
+      "description": null,
+      "category": "drink",
+      "calories": 208.4,
+      "protein_g": 0.5,
+      "carbs_g": 28.6,
+      "fat_g": 0.1,
+      "fiber_g": 1.2,
+      "sodium_mg": 1373.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-endless-sunshine: macro check failed — stated 208.4 kcal vs computed 117 (delta -91)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-espresso-martini",
+      "name": "Espresso Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 239.1,
+      "protein_g": 0.2,
+      "carbs_g": 19.3,
+      "fat_g": 0.1,
+      "fiber_g": 0.0,
+      "sodium_mg": 21.2,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-espresso-martini: macro check failed — stated 239.1 kcal vs computed 79 (delta -160)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-french-martini",
+      "name": "French Martini",
+      "description": null,
+      "category": "drink",
+      "calories": 192.5,
+      "protein_g": 0.4,
+      "carbs_g": 16.2,
+      "fat_g": 0.3,
+      "fiber_g": 0.5,
+      "sodium_mg": 2.4,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-french-martini: macro check failed — stated 192.5 kcal vs computed 69 (delta -123)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-fresh-agave-lime-margarita",
+      "name": "Fresh Agave Lime Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-fresh-agave-lime-margarita: macro check failed — stated 170.0 kcal vs computed 80 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-golden-cadillac-rita",
+      "name": "Golden Cadillac 'Rita",
+      "description": null,
+      "category": "drink",
+      "calories": 223.9,
+      "protein_g": 0.1,
+      "carbs_g": 25.8,
+      "fat_g": 0.1,
+      "fiber_g": 0.1,
+      "sodium_mg": 911.6,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-golden-cadillac-rita: macro check failed — stated 223.9 kcal vs computed 105 (delta -119)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-platinum-margarita",
+      "name": "Platinum Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-platinum-margarita: macro check failed — stated 170.0 kcal vs computed 76 (delta -94)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-skinny-spicy-rita",
+      "name": "Skinny & Spicy 'Rita",
+      "description": null,
+      "category": "drink",
+      "calories": 128.2,
+      "protein_g": 0.2,
+      "carbs_g": 9.1,
+      "fat_g": 0.0,
+      "fiber_g": 0.3,
+      "sodium_mg": 432.9,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-skinny-spicy-rita: macro check failed — stated 128.2 kcal vs computed 37 (delta -91)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-sparkling-mojito",
+      "name": "Sparkling Mojito",
+      "description": null,
+      "category": "drink",
+      "calories": 154.8,
+      "protein_g": 0.2,
+      "carbs_g": 10.4,
+      "fat_g": 0.0,
+      "fiber_g": 0.2,
+      "sodium_mg": 7.4,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-sparkling-mojito: macro check failed — stated 154.8 kcal vs computed 42 (delta -112)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-strawberry-lime-margarita",
+      "name": "Strawberry Lime Margarita",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-strawberry-lime-margarita: macro check failed — stated 190.0 kcal vs computed 104 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-tropical-mule",
+      "name": "Tropical Mule",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-tropical-mule: macro check failed — stated 200.0 kcal vs computed 136 (delta -64)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-red-berry",
+      "name": "Red-Berry",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-red-berry: macro check failed — stated 270.0 kcal vs computed 156 (delta -114)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-sangria-flight",
+      "name": "Sangria Flight",
+      "description": null,
+      "category": "drink",
+      "calories": 149.2,
+      "protein_g": 0.4,
+      "carbs_g": 21.9,
+      "fat_g": 0.1,
+      "fiber_g": 1.4,
+      "sodium_mg": 10.8,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-sangria-flight: macro check failed — stated 149.2 kcal vs computed 90 (delta -59)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-sparkling-mango",
+      "name": "Sparkling Mango",
+      "description": null,
+      "category": "drink",
+      "calories": 205.5,
+      "protein_g": 0.3,
+      "carbs_g": 25.5,
+      "fat_g": 0.1,
+      "fiber_g": 0.7,
+      "sodium_mg": 25.3,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-sparkling-mango: macro check failed — stated 205.5 kcal vs computed 104 (delta -101)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-strawberry-ros-sangria",
+      "name": "Strawberry Rosé Sangria",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 38.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-strawberry-ros-sangria: macro check failed — stated 270.0 kcal vs computed 152 (delta -118)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-red-wine-flight",
+      "name": "Red Wine Flight",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-red-wine-flight: macro check failed — stated 220.0 kcal vs computed 32 (delta -188)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-white-wine-flight",
+      "name": "White Wine Flight",
+      "description": null,
+      "category": "drink",
+      "calories": 225.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-white-wine-flight: macro check failed — stated 225.0 kcal vs computed 28 (delta -197)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-bonanza-cabernet-sauvignon-california",
+      "name": "Bonanza Cabernet Sauvignon // California",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.1,
+      "carbs_g": 4.6,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0,
+      "serving_note": "per 6 ounce-weight",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-bonanza-cabernet-sauvignon-california: macro check failed — stated 150.0 kcal vs computed 19 (delta -131)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-pessimist-red-blend",
+      "name": "Pessimist Red Blend",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-pessimist-red-blend: macro check failed — stated 150.0 kcal vs computed 20 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-francis-ford-coppola-diamond-collection-merlot-california",
+      "name": "Francis Ford Coppola \"Diamond Collection\" Merlot // California",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-francis-ford-coppola-diamond-collection-merlot-california: macro check failed — stated 140.0 kcal vs computed 20 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-josh-cabernet-sauvignon",
+      "name": "Josh Cabernet Sauvignon",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-josh-cabernet-sauvignon: macro check failed — stated 140.0 kcal vs computed 20 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-la-crema-pinot-noir-monterey",
+      "name": "La Crema Pinot Noir // Monterey",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-la-crema-pinot-noir-monterey: macro check failed — stated 140.0 kcal vs computed 16 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-meiomi-pinot-noir-monterey-sonoma-santa-barbara",
+      "name": "Meiomi Pinot Noir // Monterey / Sonoma / Santa Barbara",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-meiomi-pinot-noir-monterey-sonoma-santa-barbara: macro check failed — stated 140.0 kcal vs computed 4 (delta -136)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-oberon-cabernet-sauvignon-napa-county",
+      "name": "Oberon Cabernet Sauvignon // Napa County",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.1,
+      "carbs_g": 4.6,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0,
+      "serving_note": "per 6 ounce-weight",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-oberon-cabernet-sauvignon-napa-county: macro check failed — stated 170.0 kcal vs computed 19 (delta -151)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-emmolo-sauvignon-blanc-california",
+      "name": "Emmolo Sauvignon Blanc // California",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.1,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 ounce-weight",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-emmolo-sauvignon-blanc-california: macro check failed — stated 130.0 kcal vs computed 4 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-francis-ford-coppola-bianco-pinot-grigio-california",
+      "name": "Francis Ford Coppola, Bianco Pinot Grigio // California",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-francis-ford-coppola-bianco-pinot-grigio-california: macro check failed — stated 140.0 kcal vs computed 12 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-harvey-harriet-white-blend-central-coast",
+      "name": "Harvey & Harriet White Blend // Central Coast",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.1,
+      "carbs_g": 4.6,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8.8,
+      "serving_note": "per 6 ounce-weight",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-harvey-harriet-white-blend-central-coast: macro check failed — stated 170.0 kcal vs computed 19 (delta -151)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-j-lohr-riverstone-chardonnay-monterey",
+      "name": "J. Lohr Riverstone Chardonnay // Monterey",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 ounce-weight",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-j-lohr-riverstone-chardonnay-monterey: macro check failed — stated 150.0 kcal vs computed 12 (delta -138)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-kendall-jackson-vintner-s-reserve-chardonnay-california",
+      "name": "Kendall-Jackson Vintner's Reserve Chardonnay // California",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-kendall-jackson-vintner-s-reserve-chardonnay-california: macro check failed — stated 160.0 kcal vs computed 20 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-kim-crawford-sauvignon-blanc-marlborough-new-zealand",
+      "name": "Kim Crawford Sauvignon Blanc // Marlborough, New Zealand",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-kim-crawford-sauvignon-blanc-marlborough-new-zealand: macro check failed — stated 130.0 kcal vs computed 4 (delta -126)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-m-chapoutier-belleruche-rose-cotes-du-rhone-france",
+      "name": "M. Chapoutier Belleruche Rose // Cotes Du Rhone, France",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-m-chapoutier-belleruche-rose-cotes-du-rhone-france: macro check failed — stated 140.0 kcal vs computed 12 (delta -128)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-sonoma-cutrer-russian-river-ranches-chardonnay-sonoma-coast",
+      "name": "Sonoma-Cutrer, Russian River Ranches Chardonnay // Sonoma Coast",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 oz.",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-sonoma-cutrer-russian-river-ranches-chardonnay-sonoma-coast: macro check failed — stated 150.0 kcal vs computed 12 (delta -138)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-la-marca-prosecco-veneto-italy",
+      "name": "La Marca Prosecco // Veneto, Italy",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 split",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-la-marca-prosecco-veneto-italy: macro check failed — stated 160.0 kcal vs computed 36 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-unshackled-sparkling-ros-california",
+      "name": "Unshackled Sparkling Rosé // California",
+      "description": null,
+      "category": "drink",
+      "calories": 150.6,
+      "protein_g": 0.7,
+      "carbs_g": 6.9,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 9.1,
+      "serving_note": "per 6 ounce-weight",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-unshackled-sparkling-ros-california: macro check failed — stated 150.6 kcal vs computed 30 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-blue-moon",
+      "name": "Blue Moon",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-blue-moon: macro check failed — stated 260.0 kcal vs computed 84 (delta -176)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-samuel-adams-boston-lager",
+      "name": "Samuel Adams Boston Lager",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 2.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-samuel-adams-boston-lager: macro check failed — stated 270.0 kcal vs computed 120 (delta -150)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-samuel-adams-cold-snap",
+      "name": "Samuel Adams Cold Snap",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-samuel-adams-cold-snap: macro check failed — stated 250.0 kcal vs computed 96 (delta -154)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-samuel-adams-octoberfest",
+      "name": "Samuel Adams Octoberfest",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-samuel-adams-octoberfest: macro check failed — stated 280.0 kcal vs computed 124 (delta -156)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-samuel-adams-rebel-ipa",
+      "name": "Samuel Adams Rebel Ipa",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 3.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-samuel-adams-rebel-ipa: macro check failed — stated 290.0 kcal vs computed 108 (delta -182)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-samuel-adams-summer-ale",
+      "name": "Samuel Adams Summer Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-samuel-adams-summer-ale: macro check failed — stated 250.0 kcal vs computed 92 (delta -158)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-samuel-adams-winter-lager",
+      "name": "Samuel Adams Winter Lager",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 4.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-samuel-adams-winter-lager: macro check failed — stated 290.0 kcal vs computed 128 (delta -162)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-angry-orchard-crisp-apple-cider",
+      "name": "Angry Orchard Crisp Apple Cider",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-angry-orchard-crisp-apple-cider: macro check failed — stated 190.0 kcal vs computed 100 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-blue-moon-belgian-white-ale",
+      "name": "Blue Moon Belgian White Ale",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 3.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-blue-moon-belgian-white-ale: macro check failed — stated 170.0 kcal vs computed 68 (delta -102)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-bud-light",
+      "name": "Bud Light",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 draft",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-bud-light: macro check failed — stated 110.0 kcal vs computed 32 (delta -78)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-coors-light",
+      "name": "Coors Light",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-coors-light: macro check failed — stated 100.0 kcal vs computed 24 (delta -76)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-corona-extra",
+      "name": "Corona Extra",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-corona-extra: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-dos-equis-lager",
+      "name": "Dos Equis Lager",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-dos-equis-lager: macro check failed — stated 130.0 kcal vs computed 44 (delta -86)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-lagunitas-ipa",
+      "name": "Lagunitas IPA",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-lagunitas-ipa: macro check failed — stated 190.0 kcal vs computed 68 (delta -122)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-miller-lite",
+      "name": "Miller Lite",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-miller-lite: macro check failed — stated 100.0 kcal vs computed 16 (delta -84)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-modelo-especial",
+      "name": "Modelo Especial",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-modelo-especial: macro check failed — stated 150.0 kcal vs computed 20 (delta -130)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vendor-stella-artois",
+      "name": "Stella Artois",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    "reasons": [
+      "california-pizza-kitchen/vendor-stella-artois: macro check failed — stated 140.0 kcal vs computed 48 (delta -92)"
+    ]
+  }
+]

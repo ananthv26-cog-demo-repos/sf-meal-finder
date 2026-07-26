@@ -1,0 +1,93 @@
+{
+  "id": "marugame-udon",
+  "name": "Marugame Udon",
+  "website": "https://www.marugameudon.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://www.marugameudon.com/locations/stonestown/",
+    "vendor": "mynetdiary",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "3251 20th Ave, San Francisco, CA 94132",
+      "lat": 37.7332,
+      "lng": -122.4767,
+      "neighborhood": "Stonestown"
+    }
+  ],
+  "items": [
+    {
+      "id": "curry-nikutama",
+      "name": "Curry Nikutama",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 33.0,
+      "carbs_g": 67.0,
+      "fat_g": 13.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-curry-nikutama-by-marugame-bowl-42694639-0.html"
+      }
+    },
+    {
+      "id": "beer-curry",
+      "name": "Beer Curry",
+      "description": null,
+      "category": "component",
+      "calories": 354.0,
+      "protein_g": 22.0,
+      "carbs_g": 7.0,
+      "fat_g": 26.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-beer-curry-by-marugame-udon-portion-40460048-0.html"
+      }
+    },
+    {
+      "id": "chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": null,
+      "category": "side",
+      "calories": 332.0,
+      "protein_g": 32.0,
+      "carbs_g": 23.0,
+      "fat_g": 11.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-chicken-katsu-by-marugame-piece-46897017-0.html"
+      }
+    },
+    {
+      "id": "regular-sukiyaki-ninja-udon",
+      "name": "Regular Sukiyaki Ninja Udon",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 25.0,
+      "carbs_g": 70.0,
+      "fat_g": 20.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-regular-sukiyaki-ninja-udon-by-marugame-serving-50623950-0.html"
+      }
+    }
+  ]
+}

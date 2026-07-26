@@ -1,0 +1,94 @@
+[
+  {
+    "item": {
+      "id": "other-drinks-milk",
+      "name": "Milk",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 8.0,
+      "carbs_g": 22.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0
+    },
+    "reasons": [
+      "blaze-pizza/other-drinks-milk: macro check failed — stated 110.0 kcal vs computed 142 (delta +32)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beer-wine-bottled-beer",
+      "name": "Bottled Beer",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    "reasons": [
+      "blaze-pizza/beer-wine-bottled-beer: macro check failed — stated 150.0 kcal vs computed 60 (delta -90)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beer-wine-red-wine",
+      "name": "Red Wine",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "blaze-pizza/beer-wine-red-wine: macro check failed — stated 160.0 kcal vs computed 20 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "beer-wine-white-wine",
+      "name": "White Wine",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    "reasons": [
+      "blaze-pizza/beer-wine-white-wine: macro check failed — stated 150.0 kcal vs computed 20 (delta -130)"
+    ]
+  }
+]

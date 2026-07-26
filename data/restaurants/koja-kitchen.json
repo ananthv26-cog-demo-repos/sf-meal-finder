@@ -1,0 +1,273 @@
+{
+  "id": "koja-kitchen",
+  "name": "KoJa Kitchen",
+  "website": "https://www.kojakitchen.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "601 Mission Bay Boulevard North, San Francisco, CA 94158",
+      "lat": 37.7707779,
+      "lng": -122.3914399,
+      "neighborhood": "Mission Bay"
+    }
+  ],
+  "items": [
+    {
+      "id": "teriyaki-zen-koja",
+      "name": "Teriyaki Zen KoJa",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 214.0,
+      "protein_g": 15.12,
+      "carbs_g": 40.67,
+      "fat_g": 0.0,
+      "fiber_g": 0.3,
+      "sodium_mg": 9774.0,
+      "serving_note": "per 1 cup",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/teriyaki-sauce"
+      }
+    },
+    {
+      "id": "chicken-koja",
+      "name": "Chicken KoJa",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 237.0,
+      "protein_g": 27.07,
+      "carbs_g": 0.0,
+      "fat_g": 13.49,
+      "fiber_g": 0.0,
+      "sodium_mg": 404.0,
+      "serving_note": "per 100 g",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-ns-as-to-skin-eaten"
+      }
+    },
+    {
+      "id": "braised-pork-koja",
+      "name": "Braised Pork KoJa",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 40.0,
+      "protein_g": 5.67,
+      "carbs_g": 0.0,
+      "fat_g": 1.81,
+      "fiber_g": 0.0,
+      "sodium_mg": 74.0,
+      "serving_note": "per 1 oz boneless (yield after cooking)",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/pork-tenderloin-braised"
+      }
+    },
+    {
+      "id": "short-rib-bowl",
+      "name": "Short Rib Bowl",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 543.0,
+      "protein_g": 45.41,
+      "carbs_g": 36.5,
+      "fat_g": 24.82,
+      "fiber_g": 7.0,
+      "sodium_mg": 593.0,
+      "serving_note": "per 1 bowl",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/burrito-bowl"
+      }
+    },
+    {
+      "id": "teriyaki-zen-bowl",
+      "name": "Teriyaki Zen Bowl",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 543.0,
+      "protein_g": 45.41,
+      "carbs_g": 36.5,
+      "fat_g": 24.82,
+      "fiber_g": 7.0,
+      "sodium_mg": 593.0,
+      "serving_note": "per 1 bowl",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/burrito-bowl"
+      }
+    },
+    {
+      "id": "beef-bowl",
+      "name": "Beef Bowl",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 690.0,
+      "protein_g": 38.0,
+      "carbs_g": 102.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2560.0,
+      "serving_note": "per 1 bowl",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/teriyaki-stix/beef-bowl"
+      }
+    },
+    {
+      "id": "chicken-taco",
+      "name": "Chicken Taco",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/soft-taco-with-chicken-cheese-and-lettuce"
+      }
+    },
+    {
+      "id": "braised-pork-taco",
+      "name": "Braised Pork Taco",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 40.0,
+      "protein_g": 5.67,
+      "carbs_g": 0.0,
+      "fat_g": 1.81,
+      "fiber_g": 0.0,
+      "sodium_mg": 74.0,
+      "serving_note": "per 1 oz boneless (yield after cooking)",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/pork-tenderloin-braised"
+      }
+    },
+    {
+      "id": "crispy-chicken-bowl",
+      "name": "Crispy Chicken Bowl",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 300.0,
+      "protein_g": 23.0,
+      "carbs_g": 30.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1670.0,
+      "serving_note": "per 1 serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/cousins-subs/crispy-chicken-sub-bowl"
+      }
+    },
+    {
+      "id": "signature-musubi",
+      "name": "Signature Musubi",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "side",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/l-l-hawaiian-barbecue/spa-musubi"
+      }
+    },
+    {
+      "id": "umami-fries",
+      "name": "Umami Fries",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "side",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/umami-burger/truffle-fries"
+      }
+    },
+    {
+      "id": "korean-buffalo-wings",
+      "name": "Korean Buffalo Wings",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "side",
+      "is_estimate": true,
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/pastry-angel-wings"
+      }
+    },
+    {
+      "id": "soy-garlic-wings",
+      "name": "Soy Garlic Wings",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "side",
+      "is_estimate": true,
+      "calories": 85.0,
+      "protein_g": 5.6,
+      "carbs_g": 1.8,
+      "fat_g": 5.4,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 1 wing",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/bonchon/soy-garlic-wing"
+      }
+    },
+    {
+      "id": "strawberry-mango-mint-lemonade",
+      "name": "Strawberry Mango Mint Lemonade",
+      "description": "Crowd fallback from FatSecret; KoJa does not publish nutrition values.",
+      "category": "drink",
+      "is_estimate": true,
+      "calories": 16.0,
+      "protein_g": 0.51,
+      "carbs_g": 2.25,
+      "fat_g": 0.8,
+      "fiber_g": 0.8,
+      "sodium_mg": 34.0,
+      "serving_note": "per 1 tbsp",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/generic/mint-chutney"
+      }
+    }
+  ]
+}

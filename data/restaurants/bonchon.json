@@ -1,0 +1,2523 @@
+{
+  "id": "bonchon",
+  "name": "Bonchon",
+  "website": "https://www.bonchon.com/",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "135 4th St, San Francisco, CA 94103",
+      "lat": 37.7842713,
+      "lng": -122.4033021,
+      "neighborhood": "South of Market"
+    }
+  ],
+  "items": [
+    {
+      "id": "small-wings-spicy",
+      "name": "Small Wings SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 800.0,
+      "protein_g": 56.0,
+      "carbs_g": 18.0,
+      "fat_g": 54.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1028.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-wings-spicy",
+      "name": "Medium Wings SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 1600.0,
+      "protein_g": 112.0,
+      "carbs_g": 36.0,
+      "fat_g": 108.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2056.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-wings-spicy",
+      "name": "Large Wings SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 2400.0,
+      "protein_g": 168.0,
+      "carbs_g": 54.0,
+      "fat_g": 162.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3084.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-drumsticks-spicy",
+      "name": "Small Drumsticks SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 957.0,
+      "protein_g": 70.0,
+      "carbs_g": 15.0,
+      "fat_g": 74.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 957.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-drumsticks-spicy",
+      "name": "Medium Drumsticks SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 1914.0,
+      "protein_g": 140.0,
+      "carbs_g": 30.0,
+      "fat_g": 148.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1914.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-drumsticks-spicy",
+      "name": "Large Drumsticks SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 2871.0,
+      "protein_g": 210.0,
+      "carbs_g": 45.0,
+      "fat_g": 222.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2871.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-strips-spicy",
+      "name": "Small Strips SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 1156.0,
+      "protein_g": 91.0,
+      "carbs_g": 51.0,
+      "fat_g": 68.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1318.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-strips-spicy",
+      "name": "Medium Strips SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 2312.0,
+      "protein_g": 182.0,
+      "carbs_g": 102.0,
+      "fat_g": 136.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2636.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-strips-spicy",
+      "name": "Large Strips SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 3468.0,
+      "protein_g": 273.0,
+      "carbs_g": 153.0,
+      "fat_g": 204.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3954.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-boneless-spicy",
+      "name": "Small Boneless SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 1768.0,
+      "protein_g": 204.0,
+      "carbs_g": 117.0,
+      "fat_g": 101.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4147.0,
+      "serving_note": "per 12 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-boneless-spicy",
+      "name": "Medium Boneless SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 3537.0,
+      "protein_g": 409.0,
+      "carbs_g": 235.0,
+      "fat_g": 203.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8294.0,
+      "serving_note": "per 24 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-combo-spicy",
+      "name": "Small Combo SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 767.0,
+      "protein_g": 55.0,
+      "carbs_g": 11.0,
+      "fat_g": 55.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 904.0,
+      "serving_note": "per 9 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-combo-spicy",
+      "name": "Medium Combo SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 1279.0,
+      "protein_g": 91.0,
+      "carbs_g": 18.0,
+      "fat_g": 91.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1506.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-combo-spicy",
+      "name": "Large Combo SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 2157.0,
+      "protein_g": 154.0,
+      "carbs_g": 27.0,
+      "fat_g": 155.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2499.0,
+      "serving_note": "per 23 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-wings-soy-garlic",
+      "name": "Small Wings SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 850.0,
+      "protein_g": 56.0,
+      "carbs_g": 18.0,
+      "fat_g": 54.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1045.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-wings-soy-garlic",
+      "name": "Medium Wings SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 1700.0,
+      "protein_g": 112.0,
+      "carbs_g": 36.0,
+      "fat_g": 108.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2090.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-wings-soy-garlic",
+      "name": "Large Wings SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 2550.0,
+      "protein_g": 168.0,
+      "carbs_g": 54.0,
+      "fat_g": 162.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3135.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-drumsticks-soy-garlic",
+      "name": "Small Drumsticks SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 806.0,
+      "protein_g": 56.0,
+      "carbs_g": 12.0,
+      "fat_g": 59.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 782.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-drumsticks-soy-garlic",
+      "name": "Medium Drumsticks SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 2014.0,
+      "protein_g": 140.0,
+      "carbs_g": 30.0,
+      "fat_g": 148.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1954.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-drumsticks-soy-garlic",
+      "name": "Large Drumsticks SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 3021.0,
+      "protein_g": 210.0,
+      "carbs_g": 45.0,
+      "fat_g": 222.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2931.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-strips-soy-garlic",
+      "name": "Small Strips SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 1179.0,
+      "protein_g": 91.0,
+      "carbs_g": 51.0,
+      "fat_g": 68.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1347.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-strips-soy-garlic",
+      "name": "Medium Strips SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 2358.0,
+      "protein_g": 182.0,
+      "carbs_g": 102.0,
+      "fat_g": 136.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2694.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-strips-soy-garlic",
+      "name": "Large Strips SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 3537.0,
+      "protein_g": 273.0,
+      "carbs_g": 153.0,
+      "fat_g": 204.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4041.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-boneless-soy-garlic",
+      "name": "Small Boneless SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 1776.0,
+      "protein_g": 204.0,
+      "carbs_g": 117.0,
+      "fat_g": 101.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4223.0,
+      "serving_note": "per 12 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-boneless-soy-garlic",
+      "name": "Medium Boneless SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 3552.0,
+      "protein_g": 409.0,
+      "carbs_g": 234.0,
+      "fat_g": 203.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8447.0,
+      "serving_note": "per 24 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-combo-soy-garlic",
+      "name": "Small Combo SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 812.0,
+      "protein_g": 55.0,
+      "carbs_g": 11.0,
+      "fat_g": 54.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per 9 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-combo-soy-garlic",
+      "name": "Medium Combo SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 1354.0,
+      "protein_g": 91.0,
+      "carbs_g": 18.0,
+      "fat_g": 91.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1534.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-wings-korean-bbq",
+      "name": "Small Wings Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 902.0,
+      "protein_g": 59.0,
+      "carbs_g": 30.0,
+      "fat_g": 59.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 954.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-wings-korean-bbq",
+      "name": "Medium Wings Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 1804.0,
+      "protein_g": 119.0,
+      "carbs_g": 60.0,
+      "fat_g": 117.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1907.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-wings-korean-bbq",
+      "name": "Large Wings Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 2706.0,
+      "protein_g": 178.0,
+      "carbs_g": 90.0,
+      "fat_g": 176.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2861.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-drumsticks-korean-bbq",
+      "name": "Small Drumsticks Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 676.0,
+      "protein_g": 61.0,
+      "carbs_g": 21.0,
+      "fat_g": 36.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 984.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-drumsticks-korean-bbq",
+      "name": "Medium Drumsticks Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 1353.0,
+      "protein_g": 122.0,
+      "carbs_g": 43.0,
+      "fat_g": 73.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1967.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-drumsticks-korean-bbq",
+      "name": "Large Drumsticks Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 2029.0,
+      "protein_g": 183.0,
+      "carbs_g": 64.0,
+      "fat_g": 109.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2951.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-strips-korean-bbq",
+      "name": "Small Strips Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 899.0,
+      "protein_g": 81.0,
+      "carbs_g": 103.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2930.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-strips-korean-bbq",
+      "name": "Medium Strips Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 1799.0,
+      "protein_g": 164.0,
+      "carbs_g": 206.0,
+      "fat_g": 41.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 5860.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-strips-korean-bbq",
+      "name": "Large Strips Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 2698.0,
+      "protein_g": 243.0,
+      "carbs_g": 309.0,
+      "fat_g": 61.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 8790.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-boneless-korean-bbq",
+      "name": "Small Boneless Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 879.0,
+      "protein_g": 46.0,
+      "carbs_g": 59.0,
+      "fat_g": 52.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2238.0,
+      "serving_note": "per 12 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-boneless-korean-bbq",
+      "name": "Medium Boneless Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 1759.0,
+      "protein_g": 91.0,
+      "carbs_g": 118.0,
+      "fat_g": 105.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 4476.0,
+      "serving_note": "per 24 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-boneless-korean-bbq",
+      "name": "Large Boneless Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 2638.0,
+      "protein_g": 137.0,
+      "carbs_g": 176.0,
+      "fat_g": 157.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 6714.0,
+      "serving_note": "per 36 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-combo-korean-bbq",
+      "name": "Small Combo Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 929.0,
+      "protein_g": 72.0,
+      "carbs_g": 27.0,
+      "fat_g": 57.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 942.0,
+      "serving_note": "per 9 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-combo-korean-bbq",
+      "name": "Medium Combo Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 1548.0,
+      "protein_g": 120.0,
+      "carbs_g": 45.0,
+      "fat_g": 95.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1572.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-combo-korean-bbq",
+      "name": "Large Combo Korean BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 2406.0,
+      "protein_g": 187.0,
+      "carbs_g": 69.0,
+      "fat_g": 147.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2426.0,
+      "serving_note": "per 23 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-wings-yangnyeom",
+      "name": "Small Wings Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 942.0,
+      "protein_g": 58.0,
+      "carbs_g": 41.0,
+      "fat_g": 58.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 624.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-wings-yangnyeom",
+      "name": "Medium Wings Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 1884.0,
+      "protein_g": 117.0,
+      "carbs_g": 82.0,
+      "fat_g": 116.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1247.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-wings-yangnyeom",
+      "name": "Large Wings Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 2826.0,
+      "protein_g": 175.0,
+      "carbs_g": 123.0,
+      "fat_g": 174.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1871.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-drumsticks-yangnyeom",
+      "name": "Small Drumsticks Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 716.0,
+      "protein_g": 60.0,
+      "carbs_g": 32.0,
+      "fat_g": 36.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 654.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-drumsticks-yangnyeom",
+      "name": "Medium Drumsticks Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 1433.0,
+      "protein_g": 120.0,
+      "carbs_g": 65.0,
+      "fat_g": 72.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1307.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-drumsticks-yangnyeom",
+      "name": "Large Drumsticks Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 2149.0,
+      "protein_g": 180.0,
+      "carbs_g": 97.0,
+      "fat_g": 108.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1961.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-strips-yangnyeom",
+      "name": "Small Strips Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 939.0,
+      "protein_g": 80.0,
+      "carbs_g": 114.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2600.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-strips-yangnyeom",
+      "name": "Medium Strips Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 1879.0,
+      "protein_g": 160.0,
+      "carbs_g": 228.0,
+      "fat_g": 40.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 5200.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-strips-yangnyeom",
+      "name": "Large Strips Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 2818.0,
+      "protein_g": 240.0,
+      "carbs_g": 342.0,
+      "fat_g": 60.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 7800.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-boneless-yangnyeom",
+      "name": "Small Boneless Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 903.0,
+      "protein_g": 45.0,
+      "carbs_g": 65.0,
+      "fat_g": 52.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2040.0,
+      "serving_note": "per 12 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-boneless-yangnyeom",
+      "name": "Medium Boneless Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 1807.0,
+      "protein_g": 90.0,
+      "carbs_g": 131.0,
+      "fat_g": 104.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 4080.0,
+      "serving_note": "per 24 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-boneless-yangnyeom",
+      "name": "Large Boneless Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 2710.0,
+      "protein_g": 135.0,
+      "carbs_g": 196.0,
+      "fat_g": 156.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 6120.0,
+      "serving_note": "per 36 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-combo-yangnyeom",
+      "name": "Small Combo Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 965.0,
+      "protein_g": 71.0,
+      "carbs_g": 37.0,
+      "fat_g": 56.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 644.0,
+      "serving_note": "per 9 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-combo-yangnyeom",
+      "name": "Medium Combo Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 1608.0,
+      "protein_g": 118.0,
+      "carbs_g": 61.0,
+      "fat_g": 94.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1077.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-combo-yangnyeom",
+      "name": "Large Combo Yangnyeom",
+      "description": null,
+      "category": "meal",
+      "calories": 2498.0,
+      "protein_g": 185.0,
+      "carbs_g": 94.0,
+      "fat_g": 146.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1667.0,
+      "serving_note": "per 23 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-wings-classic-crunch",
+      "name": "Small Wings Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 882.0,
+      "protein_g": 60.0,
+      "carbs_g": 25.0,
+      "fat_g": 58.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1695.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-wings-classic-crunch",
+      "name": "Medium Wings Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 1764.0,
+      "protein_g": 120.0,
+      "carbs_g": 49.0,
+      "fat_g": 116.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3390.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-wings-classic-crunch",
+      "name": "Large Wings Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 2646.0,
+      "protein_g": 180.0,
+      "carbs_g": 74.0,
+      "fat_g": 174.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 5084.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-drumsticks-classic-crunch",
+      "name": "Small Drumsticks Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 656.0,
+      "protein_g": 62.0,
+      "carbs_g": 16.0,
+      "fat_g": 36.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1725.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-drumsticks-classic-crunch",
+      "name": "Medium Drumsticks Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 1313.0,
+      "protein_g": 123.0,
+      "carbs_g": 32.0,
+      "fat_g": 72.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 3450.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-drumsticks-classic-crunch",
+      "name": "Large Drumsticks Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 1969.0,
+      "protein_g": 185.0,
+      "carbs_g": 49.0,
+      "fat_g": 108.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5175.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-strips-classic-crunch",
+      "name": "Small Strips Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 879.0,
+      "protein_g": 82.0,
+      "carbs_g": 98.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 3671.0,
+      "serving_note": "per 10 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-strips-classic-crunch",
+      "name": "Medium Strips Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 1759.0,
+      "protein_g": 163.0,
+      "carbs_g": 196.0,
+      "fat_g": 40.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 7343.0,
+      "serving_note": "per 20 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-boneless-classic-crunch",
+      "name": "Small Boneless Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 867.0,
+      "protein_g": 46.0,
+      "carbs_g": 56.0,
+      "fat_g": 52.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2683.0,
+      "serving_note": "per 12 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-boneless-classic-crunch",
+      "name": "Medium Boneless Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 1735.0,
+      "protein_g": 92.0,
+      "carbs_g": 111.0,
+      "fat_g": 104.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 5366.0,
+      "serving_note": "per 24 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "large-boneless-classic-crunch",
+      "name": "Large Boneless Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 2602.0,
+      "protein_g": 138.0,
+      "carbs_g": 167.0,
+      "fat_g": 156.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 8048.0,
+      "serving_note": "per 36 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "small-combo-classic-crunch",
+      "name": "Small Combo Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 911.0,
+      "protein_g": 72.0,
+      "carbs_g": 22.0,
+      "fat_g": 56.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1610.0,
+      "serving_note": "per 9 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "medium-combo-classic-crunch",
+      "name": "Medium Combo Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 1518.0,
+      "protein_g": 121.0,
+      "carbs_g": 37.0,
+      "fat_g": 94.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2684.0,
+      "serving_note": "per 15 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "bibimbap",
+      "name": "Bibimbap",
+      "description": null,
+      "category": "meal",
+      "calories": 785.0,
+      "protein_g": 14.0,
+      "carbs_g": 107.0,
+      "fat_g": 31.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 1903.0,
+      "serving_note": "per 21.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "soy-garlic-chicken",
+      "name": "-Soy Garlic Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 667.0,
+      "protein_g": 29.0,
+      "carbs_g": 51.0,
+      "fat_g": 37.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 3166.0,
+      "serving_note": "per 20 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "spicy-chicken",
+      "name": "-Spicy Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 683.0,
+      "protein_g": 28.0,
+      "carbs_g": 53.0,
+      "fat_g": 38.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2464.0,
+      "serving_note": "per 20 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "tofu",
+      "name": "-Tofu",
+      "description": null,
+      "category": "component",
+      "calories": 593.0,
+      "protein_g": 15.0,
+      "carbs_g": 40.0,
+      "fat_g": 41.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1571.0,
+      "serving_note": "per 20 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "bulgogi",
+      "name": "-Bulgogi",
+      "description": null,
+      "category": "meal",
+      "calories": 728.0,
+      "protein_g": 27.0,
+      "carbs_g": 37.0,
+      "fat_g": 51.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1828.0,
+      "serving_note": "per 20 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "seafood",
+      "name": "+ Seafood",
+      "description": null,
+      "category": "component",
+      "calories": 595.0,
+      "protein_g": 44.0,
+      "carbs_g": 95.0,
+      "fat_g": 3.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4326.0,
+      "serving_note": "per 36 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "house-fried-rice",
+      "name": "House Fried Rice",
+      "description": null,
+      "category": "side",
+      "calories": 1168.0,
+      "protein_g": 24.0,
+      "carbs_g": 102.0,
+      "fat_g": 75.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2126.0,
+      "serving_note": "per 21.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "chicken",
+      "name": "+ Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 1030.0,
+      "protein_g": 44.0,
+      "carbs_g": 60.0,
+      "fat_g": 67.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per 14.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "kimchi-pork-belly",
+      "name": "+ Kimchi Pork Belly",
+      "description": null,
+      "category": "component",
+      "calories": 977.0,
+      "protein_g": 22.0,
+      "carbs_g": 96.0,
+      "fat_g": 55.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1988.0,
+      "serving_note": "per 21.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "kimchi-bacon",
+      "name": "+Kimchi Bacon",
+      "description": null,
+      "category": "component",
+      "calories": 1480.0,
+      "protein_g": 44.0,
+      "carbs_g": 108.0,
+      "fat_g": 96.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3369.0,
+      "serving_note": "per 25.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "japchae",
+      "name": "Japchae",
+      "description": null,
+      "category": "meal",
+      "calories": 887.0,
+      "protein_g": 22.0,
+      "carbs_g": 115.0,
+      "fat_g": 39.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2322.0,
+      "serving_note": "per 15.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "tteokbokki",
+      "name": "Tteokbokki",
+      "description": null,
+      "category": "side",
+      "calories": 980.0,
+      "protein_g": 32.0,
+      "carbs_g": 174.0,
+      "fat_g": 18.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2780.0,
+      "serving_note": "per 30.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "salmon-avocado-ball",
+      "name": "Salmon Avocado Ball",
+      "description": null,
+      "category": "side",
+      "calories": 970.0,
+      "protein_g": 26.0,
+      "carbs_g": 56.0,
+      "fat_g": 67.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2020.0,
+      "serving_note": "per 13 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": null,
+      "category": "meal",
+      "calories": 1319.0,
+      "protein_g": 65.0,
+      "carbs_g": 115.0,
+      "fat_g": 67.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 672.0,
+      "serving_note": "per 20.6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "potstickers-soy-garlic",
+      "name": "Potstickers Soy Garlic",
+      "description": null,
+      "category": "meal",
+      "calories": 558.0,
+      "protein_g": 13.0,
+      "carbs_g": 62.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1407.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "potsickers-spicy",
+      "name": "Potsickers Spicy",
+      "description": null,
+      "category": "side",
+      "calories": 544.0,
+      "protein_g": 13.0,
+      "carbs_g": 62.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1339.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "vegetable-potstickers-soy-garlic",
+      "name": "Vegetable Potstickers Soy Garlic",
+      "description": null,
+      "category": "meal",
+      "calories": 298.0,
+      "protein_g": 8.0,
+      "carbs_g": 46.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 727.0,
+      "serving_note": "per 5.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "vegetable-potsickers-spicy",
+      "name": "Vegetable Potsickers Spicy",
+      "description": null,
+      "category": "side",
+      "calories": 276.0,
+      "protein_g": 8.0,
+      "carbs_g": 46.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 685.0,
+      "serving_note": "per 5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "buldak",
+      "name": "Buldak",
+      "description": null,
+      "category": "meal",
+      "calories": 2610.0,
+      "protein_g": 99.0,
+      "carbs_g": 215.0,
+      "fat_g": 149.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 3780.0,
+      "serving_note": "per 46 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "takoyaki",
+      "name": "Takoyaki",
+      "description": null,
+      "category": "side",
+      "calories": 342.0,
+      "protein_g": 10.0,
+      "carbs_g": 35.0,
+      "fat_g": 23.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 588.0,
+      "serving_note": "per 8.1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "popcorn-shrimp",
+      "name": "Popcorn Shrimp",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 38.0,
+      "carbs_g": 76.0,
+      "fat_g": 47.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2130.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "shrimp-shumai-steamed",
+      "name": "Shrimp Shumai (Steamed)",
+      "description": null,
+      "category": "side",
+      "calories": 470.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per 7 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "udon-noodle-soup",
+      "name": "Udon Noodle Soup",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 24.0,
+      "carbs_g": 94.0,
+      "fat_g": 2.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4300.0,
+      "serving_note": "per 33.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "egg",
+      "name": "+ Egg",
+      "description": null,
+      "category": "component",
+      "calories": 580.0,
+      "protein_g": 32.0,
+      "carbs_g": 95.0,
+      "fat_g": 10.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4323.0,
+      "serving_note": "per 35 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "bulgogi-fries",
+      "name": "Bulgogi Fries",
+      "description": null,
+      "category": "meal",
+      "calories": 1003.0,
+      "protein_g": 43.0,
+      "carbs_g": 56.0,
+      "fat_g": 68.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1719.0,
+      "serving_note": "per 16.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "sotteok-sotteok",
+      "name": "Sotteok Sotteok",
+      "description": null,
+      "category": "side",
+      "calories": 219.0,
+      "protein_g": 7.0,
+      "carbs_g": 17.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 485.0,
+      "serving_note": "per 1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "mopo-corn-dog",
+      "name": "Mopo Corn Dog",
+      "description": null,
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 7.0,
+      "carbs_g": 34.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "korean-taco-spicy-chicken",
+      "name": "Korean Taco (Spicy Chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 960.0,
+      "protein_g": 37.0,
+      "carbs_g": 70.0,
+      "fat_g": 56.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2520.0,
+      "serving_note": "per 16.6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "korean-taco-bul-gogi",
+      "name": "Korean Taco (Bul- gogi)",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 31.0,
+      "carbs_g": 57.0,
+      "fat_g": 64.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2020.0,
+      "serving_note": "per 14.7 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "bonchon-wrap-chicken",
+      "name": "Bonchon Wrap (Chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 1080.0,
+      "protein_g": 49.0,
+      "carbs_g": 82.0,
+      "fat_g": 64.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1650.0,
+      "serving_note": "per 14.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "bonchon-wrap-bulgogi",
+      "name": "Bonchon Wrap (Bulgogi)",
+      "description": null,
+      "category": "meal",
+      "calories": 770.0,
+      "protein_g": 43.0,
+      "carbs_g": 60.0,
+      "fat_g": 40.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1120.0,
+      "serving_note": "per 13 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "pork-buns",
+      "name": "Pork Buns",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 12.0,
+      "carbs_g": 25.0,
+      "fat_g": 69.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "chicken-sandwich",
+      "name": "Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 964.0,
+      "protein_g": 51.0,
+      "carbs_g": 80.0,
+      "fat_g": 46.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 859.0,
+      "serving_note": "per 1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "soy-garlic",
+      "name": "-Soy Garlic",
+      "description": null,
+      "category": "component",
+      "calories": 1024.0,
+      "protein_g": 53.0,
+      "carbs_g": 94.0,
+      "fat_g": 46.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2199.0,
+      "serving_note": "per 1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "spicy",
+      "name": "-Spicy",
+      "description": null,
+      "category": "component",
+      "calories": 1044.0,
+      "protein_g": 52.0,
+      "carbs_g": 97.0,
+      "fat_g": 46.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1689.0,
+      "serving_note": "per 1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "salmon",
+      "name": "+ Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 820.0,
+      "protein_g": 36.0,
+      "carbs_g": 45.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1380.0,
+      "serving_note": "per 13.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "miso-soup",
+      "name": "Miso Soup",
+      "description": null,
+      "category": "side",
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "signature-sesame-salad",
+      "name": "Signature Sesame Salad",
+      "description": null,
+      "category": "side",
+      "calories": 501.0,
+      "protein_g": 7.0,
+      "carbs_g": 34.0,
+      "fat_g": 36.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1571.0,
+      "serving_note": "per 17 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "fried-chicken",
+      "name": "-Fried Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 753.0,
+      "protein_g": 31.0,
+      "carbs_g": 61.0,
+      "fat_g": 42.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2231.0,
+      "serving_note": "per 20 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "black-sesame",
+      "name": "Black Sesame",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "cinnamon-eggnog",
+      "name": "Cinnamon Eggnog",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "double-chocolate-chip",
+      "name": "Double Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "frothy-chocolate",
+      "name": "Frothy Chocolate",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "ginger-zing",
+      "name": "Ginger Zing",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "hazelnut-crunch",
+      "name": "Hazelnut Crunch",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "lychee-colada",
+      "name": "Lychee Colada",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "mandarin-orange-cream",
+      "name": "Mandarin Orange Cream",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "mango-thai-basil",
+      "name": "Mango Thai Basil",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "matcha-green-tea",
+      "name": "Matcha Green Tea",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "meyer-lemon-poppy-seed",
+      "name": "Meyer Lemon Poppy Seed",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "passion-fruit",
+      "name": "Passion-fruit",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "pumpkin-cheesecake",
+      "name": "Pumpkin Cheesecake",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "salted-caramel",
+      "name": "Salted Caramel",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "thai-ice-tea",
+      "name": "Thai Ice Tea",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "toasted-coconut",
+      "name": "Toasted Coconut",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "korean-donuts",
+      "name": "Korean Donuts",
+      "description": null,
+      "category": "side",
+      "calories": 379.0,
+      "protein_g": 6.0,
+      "carbs_g": 67.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 2 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "seasoned-fries",
+      "name": "Seasoned Fries",
+      "description": null,
+      "category": "side",
+      "calories": 430.0,
+      "protein_g": 10.0,
+      "carbs_g": 66.0,
+      "fat_g": 14.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "french-fries",
+      "name": "French Fries",
+      "description": null,
+      "category": "side",
+      "calories": 360.0,
+      "protein_g": 9.0,
+      "carbs_g": 64.0,
+      "fat_g": 12.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 865.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "seasoned-zucchini-fries",
+      "name": "Seasoned Zucchini Fries",
+      "description": null,
+      "category": "side",
+      "calories": 532.0,
+      "protein_g": 13.0,
+      "carbs_g": 63.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1333.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "zucchini-fries",
+      "name": "Zucchini Fries",
+      "description": null,
+      "category": "side",
+      "calories": 474.0,
+      "protein_g": 8.0,
+      "carbs_g": 63.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1133.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "onion-rings",
+      "name": "Onion Rings",
+      "description": null,
+      "category": "side",
+      "calories": 680.0,
+      "protein_g": 10.0,
+      "carbs_g": 92.0,
+      "fat_g": 32.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "fried-pickles",
+      "name": "Fried Pickles",
+      "description": null,
+      "category": "side",
+      "calories": 599.0,
+      "protein_g": 9.0,
+      "carbs_g": 63.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2885.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "kimchi",
+      "name": "Kimchi",
+      "description": null,
+      "category": "side",
+      "calories": 67.0,
+      "protein_g": 4.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 624.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "coleslaw",
+      "name": "Coleslaw",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "kimchi-coleslaw",
+      "name": "Kimchi Coleslaw",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 2.0,
+      "carbs_g": 10.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 990.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "steamed-rice",
+      "name": "Steamed Rice",
+      "description": null,
+      "category": "side",
+      "calories": 398.0,
+      "protein_g": 8.0,
+      "carbs_g": 90.0,
+      "fat_g": 1.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 7.0,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "pickled-radish",
+      "name": "Pickled Radish",
+      "description": null,
+      "category": "side",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "edamame",
+      "name": "Edamame",
+      "description": null,
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 27.0,
+      "carbs_g": 20.0,
+      "fat_g": 12.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per 4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    {
+      "id": "korean-street-corn",
+      "name": "Korean Street Corn",
+      "description": null,
+      "category": "side",
+      "calories": 345.0,
+      "protein_g": 9.0,
+      "carbs_g": 21.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 711.0,
+      "serving_note": "per 7 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    }
+  ]
+}

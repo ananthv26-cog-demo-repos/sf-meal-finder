@@ -1,0 +1,3933 @@
+{
+  "id": "subway",
+  "name": "Subway",
+  "website": "https://www.subway.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "1400 Mission Street Suite 131, San Francisco, CA 94103",
+      "lat": 37.77542377223663,
+      "lng": -122.41634484707566,
+      "neighborhood": null
+    },
+    {
+      "address": "147 Mason Street, San Francisco, CA 94102",
+      "lat": 37.78498403388505,
+      "lng": -122.40965027761024,
+      "neighborhood": null
+    },
+    {
+      "address": "1500 Fillmore St, San Francisco, CA 94115",
+      "lat": 37.78356232235174,
+      "lng": -122.43249886871718,
+      "neighborhood": null
+    },
+    {
+      "address": "160 Broadway Street, San Francisco, CA 94111",
+      "lat": 37.79879726852369,
+      "lng": -122.40077906994054,
+      "neighborhood": null
+    },
+    {
+      "address": "170 O'Farrell St #428 - Lower Level Food Court, San Francisco, CA 94102",
+      "lat": 37.786803,
+      "lng": -122.407399,
+      "neighborhood": null
+    },
+    {
+      "address": "177 Townsend Street Aka 170 King Street, Unit 131, San Francisco, CA 94107",
+      "lat": 37.77912498044691,
+      "lng": -122.39208539247699,
+      "neighborhood": null
+    },
+    {
+      "address": "195-197 Sixth Street, San Francisco, CA 94103",
+      "lat": 37.77999424844727,
+      "lng": -122.40718352414228,
+      "neighborhood": null
+    },
+    {
+      "address": "200 Pine St Suite 140, San Francisco, CA 94104",
+      "lat": 37.79241138509421,
+      "lng": -122.40005890114605,
+      "neighborhood": null
+    },
+    {
+      "address": "2599 San Bruno Ave, San Francisco, CA 94134",
+      "lat": 37.72902263581295,
+      "lng": -122.40395699999999,
+      "neighborhood": null
+    },
+    {
+      "address": "2675 Geary Blvd E-103, San Francisco, CA 94118",
+      "lat": 37.7818542,
+      "lng": -122.4458642,
+      "neighborhood": null
+    },
+    {
+      "address": "350 Bay Street Store #14 Unit 1, San Francisco, CA 94133",
+      "lat": 37.806207,
+      "lng": -122.4129139,
+      "neighborhood": null
+    },
+    {
+      "address": "3801 3rd St Suite 310, San Francisco, CA 94124",
+      "lat": 37.74166279787644,
+      "lng": -122.38725896282187,
+      "neighborhood": null
+    },
+    {
+      "address": "388 Market Street Store #102, San Francisco, CA 94111",
+      "lat": 37.79219338872099,
+      "lng": -122.3981807876064,
+      "neighborhood": null
+    },
+    {
+      "address": "3911 Alemany Blvd Suite 1004, San Francisco, CA 94132",
+      "lat": 37.71097616922514,
+      "lng": -122.46695868717433,
+      "neighborhood": null
+    },
+    {
+      "address": "397 Golden Gate Avenue, San Francisco, CA 94102",
+      "lat": 37.781324104069185,
+      "lng": -122.4168283054704,
+      "neighborhood": null
+    },
+    {
+      "address": "408 Montgomery Street, San Francisco, CA 94104",
+      "lat": 37.79325818429401,
+      "lng": -122.4026574030164,
+      "neighborhood": null
+    },
+    {
+      "address": "425 Bush St, San Francisco, CA 94108",
+      "lat": 37.79058427256573,
+      "lng": -122.40453065054328,
+      "neighborhood": null
+    },
+    {
+      "address": "425-D Battery Street, San Francisco, CA 94111",
+      "lat": 37.795251,
+      "lng": -122.4006037,
+      "neighborhood": null
+    },
+    {
+      "address": "4841 Mission Street, San Francisco, CA 94110",
+      "lat": 37.72087367317092,
+      "lng": -122.437469132209,
+      "neighborhood": null
+    },
+    {
+      "address": "500 Parnassus Ave Level B1, Plaza Area, San Francisco, CA 94143",
+      "lat": 37.763465693323035,
+      "lng": -122.45869174818425,
+      "neighborhood": null
+    },
+    {
+      "address": "550B Gene Friend Way, San Francisco, CA 94158",
+      "lat": 37.76910884759844,
+      "lng": -122.39032373577834,
+      "neighborhood": null
+    },
+    {
+      "address": "5650 Geary Blvd, San Francisco, CA 94121",
+      "lat": 37.780518294981235,
+      "lng": -122.4802608808589,
+      "neighborhood": null
+    },
+    {
+      "address": "595 Buckingham Way Suite 587, San Francisco, CA 94132",
+      "lat": 37.7302649,
+      "lng": -122.4765469,
+      "neighborhood": null
+    },
+    {
+      "address": "700 4th St #111, San Francisco, CA 94107",
+      "lat": 37.7766624,
+      "lng": -122.3948466,
+      "neighborhood": null
+    },
+    {
+      "address": "750 Font Blvd Village At Centennial Square, San Francisco, CA 94132",
+      "lat": 37.72322285455099,
+      "lng": -122.48217672101589,
+      "neighborhood": null
+    },
+    {
+      "address": "795 Folsom Street, San Francisco, CA 94107",
+      "lat": 37.78217545160578,
+      "lng": -122.4007055239897,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "6in-steak-philly",
+      "name": "6\" Steak Philly",
+      "description": "Sandwiches — Cheesesteaks",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 28,
+      "carbs_g": 43,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1320,
+      "serving_note": "per 6\" sandwich (double for footlong) (192 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-chipotle-philly",
+      "name": "6\" Chipotle Philly",
+      "description": "Sandwiches — Cheesesteaks",
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 30,
+      "carbs_g": 44,
+      "fat_g": 22,
+      "fiber_g": 2,
+      "sodium_mg": 1440,
+      "serving_note": "per 6\" sandwich (double for footlong) (198 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-cheesy-garlic-steak",
+      "name": "6\" Cheesy Garlic Steak",
+      "description": "Sandwiches — Cheesesteaks",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 26,
+      "carbs_g": 49,
+      "fat_g": 23,
+      "fiber_g": 3,
+      "sodium_mg": 1190,
+      "serving_note": "per 6\" sandwich (double for footlong) (199 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-grilled-chicken",
+      "name": "6\" Grilled Chicken",
+      "description": "Sandwiches — Chicken",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 31,
+      "carbs_g": 43,
+      "fat_g": 24,
+      "fiber_g": 3,
+      "sodium_mg": 830,
+      "serving_note": "per 6\" sandwich (double for footlong) (247 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-chicken-and-bacon-ranch",
+      "name": "6\" Chicken & Bacon Ranch",
+      "description": "Sandwiches — Chicken",
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 35,
+      "carbs_g": 44,
+      "fat_g": 29,
+      "fiber_g": 3,
+      "sodium_mg": 1230,
+      "serving_note": "per 6\" sandwich (double for footlong) (262 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-spicy-nacho-chicken",
+      "name": "6\" Spicy Nacho Chicken",
+      "description": "Sandwiches — Chicken",
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 24,
+      "carbs_g": 49,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 1280,
+      "serving_note": "per 6\" sandwich (double for footlong) (203 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-honey-mustard-bbq-chicken",
+      "name": "6\" Honey Mustard BBQ Chicken",
+      "description": "Sandwiches — Chicken",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 30,
+      "carbs_g": 53,
+      "fat_g": 20,
+      "fiber_g": 3,
+      "sodium_mg": 1350,
+      "serving_note": "per 6\" sandwich (double for footlong) (273 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-sweet-onion-teriyaki-chicken",
+      "name": "6\" Sweet Onion Teriyaki Chicken®",
+      "description": "Sandwiches — Chicken",
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 29,
+      "carbs_g": 55,
+      "fat_g": 11,
+      "fiber_g": 4,
+      "sodium_mg": 1250,
+      "serving_note": "per 6\" sandwich (double for footlong) (256 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-b-m-t",
+      "name": "6\" B.M.T.®",
+      "description": "Sandwiches — Italians",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 27,
+      "carbs_g": 44,
+      "fat_g": 36,
+      "fiber_g": 2,
+      "sodium_mg": 1500,
+      "serving_note": "per 6\" sandwich (double for footlong) (240 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-spicy-italian",
+      "name": "6\" Spicy Italian",
+      "description": "Sandwiches — Italians",
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 27,
+      "carbs_g": 44,
+      "fat_g": 44,
+      "fiber_g": 3,
+      "sodium_mg": 1690,
+      "serving_note": "per 6\" sandwich (double for footlong) (239 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-5-meat-italian",
+      "name": "6\" 5 Meat Italian",
+      "description": "Sandwiches — Italians",
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 40,
+      "carbs_g": 46,
+      "fat_g": 37,
+      "fiber_g": 3,
+      "sodium_mg": 1940,
+      "serving_note": "per 6\" sandwich (double for footlong) (303 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-meatball-marinara",
+      "name": "6\" Meatball Marinara",
+      "description": "Sandwiches — Italians",
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 27,
+      "carbs_g": 53,
+      "fat_g": 28,
+      "fiber_g": 4,
+      "sodium_mg": 1370,
+      "serving_note": "per 6\" sandwich (double for footlong) (239 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-meatball-pepperoni",
+      "name": "6\" Meatball Pepperoni",
+      "description": "Sandwiches — Italians",
+      "category": "meal",
+      "calories": 690,
+      "protein_g": 33,
+      "carbs_g": 56,
+      "fat_g": 38,
+      "fiber_g": 4,
+      "sodium_mg": 1860,
+      "serving_note": "per 6\" sandwich (double for footlong) (268 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-oven-roasted-turkey",
+      "name": "6\" Oven-Roasted Turkey",
+      "description": "Sandwiches — Deli Classics",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 26,
+      "carbs_g": 42,
+      "fat_g": 23,
+      "fiber_g": 3,
+      "sodium_mg": 1150,
+      "serving_note": "per 6\" sandwich (double for footlong) (233 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-black-forest-ham",
+      "name": "6\" Black Forest Ham",
+      "description": "Sandwiches — Deli Classics",
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 25,
+      "carbs_g": 44,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 1190,
+      "serving_note": "per 6\" sandwich (double for footlong) (233 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-roast-beef",
+      "name": "6\" Roast Beef",
+      "description": "Sandwiches — Deli Classics",
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 31,
+      "carbs_g": 44,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 1120,
+      "serving_note": "per 6\" sandwich (double for footlong) (247 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-cold-cut-combo",
+      "name": "6\" Cold Cut Combo®",
+      "description": "Sandwiches — Deli Classics",
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 25,
+      "carbs_g": 43,
+      "fat_g": 29,
+      "fiber_g": 2,
+      "sodium_mg": 1320,
+      "serving_note": "per 6\" sandwich (double for footlong) (240 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-tuna",
+      "name": "6\" Tuna",
+      "description": "Sandwiches — Deli Classics",
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 27,
+      "carbs_g": 42,
+      "fat_g": 33,
+      "fiber_g": 2,
+      "sodium_mg": 950,
+      "serving_note": "per 6\" sandwich (double for footlong) (236 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-veggie-delite",
+      "name": "6\" Veggie Delite ®",
+      "description": "Sandwiches — Deli Classics",
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 17,
+      "carbs_g": 41,
+      "fat_g": 10,
+      "fiber_g": 4,
+      "sodium_mg": 600,
+      "serving_note": "per 6\" sandwich (double for footlong) (191 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-all-american-club",
+      "name": "6\" All American Club®",
+      "description": "Sandwiches — Clubs",
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 27,
+      "carbs_g": 45,
+      "fat_g": 28,
+      "fiber_g": 3,
+      "sodium_mg": 1520,
+      "serving_note": "per 6\" sandwich (double for footlong) (242 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-subway-club",
+      "name": "6\" Subway Club®",
+      "description": "Sandwiches — Clubs",
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 31,
+      "carbs_g": 43,
+      "fat_g": 24,
+      "fiber_g": 4,
+      "sodium_mg": 1520,
+      "serving_note": "per 6\" sandwich (double for footlong) (263 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-big-hot-pastrami",
+      "name": "6\" Big Hot Pastrami **",
+      "description": "Sandwiches — Local Favorites",
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 30,
+      "carbs_g": 44,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 2070,
+      "serving_note": "per 6\" sandwich (double for footlong) (232 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-b-l-t",
+      "name": "6\" B.L.T. **",
+      "description": "Sandwiches — Local Favorites",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 18,
+      "carbs_g": 42,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 800,
+      "serving_note": "per 6\" sandwich (double for footlong) (171 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-buffalo-chicken",
+      "name": "6\" Buffalo Chicken",
+      "description": "Sandwiches — Local Favorites",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 31,
+      "carbs_g": 55,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 1780,
+      "serving_note": "per 6\" sandwich (double for footlong) (288 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-oven-roasted-turkey-and-ham",
+      "name": "6\" Oven-Roasted Turkey & Ham **",
+      "description": "Sandwiches — Local Favorites",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 27,
+      "carbs_g": 41,
+      "fat_g": 23,
+      "fiber_g": 4,
+      "sodium_mg": 1140,
+      "serving_note": "per 6\" sandwich (double for footlong) (233 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-pizza-sub",
+      "name": "6\" Pizza Sub **",
+      "description": "Sandwiches — Local Favorites",
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 22,
+      "carbs_g": 45,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1340,
+      "serving_note": "per 6\" sandwich (double for footlong) (177 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-veggie-patty",
+      "name": "6\" Veggie Patty **",
+      "description": "Sandwiches — Local Favorites",
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 19,
+      "carbs_g": 58,
+      "fat_g": 19,
+      "fiber_g": 12,
+      "sodium_mg": 1100,
+      "serving_note": "per 6\" sandwich (double for footlong) (263 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-grilled-chicken-and-smashed-avocado",
+      "name": "6\" Grilled Chicken & Smashed Avocado",
+      "description": "Sandwiches — Fresh Fit®",
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 35,
+      "carbs_g": 44,
+      "fat_g": 19,
+      "fiber_g": 6,
+      "sodium_mg": 930,
+      "serving_note": "per 6\" sandwich (double for footlong) (311 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-grilled-chicken-and-fresh-avocado",
+      "name": "6\" Grilled Chicken & Fresh Avocado",
+      "description": "Sandwiches — Fresh Fit®",
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 35,
+      "carbs_g": 44,
+      "fat_g": 16,
+      "fiber_g": 6,
+      "sodium_mg": 800,
+      "serving_note": "per 6\" sandwich (double for footlong) (304 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-ham-and-turkey-stacker",
+      "name": "6\" Ham & Turkey Stacker",
+      "description": "Sandwiches — Fresh Fit®",
+      "category": "meal",
+      "calories": 290,
+      "protein_g": 20,
+      "carbs_g": 42,
+      "fat_g": 5,
+      "fiber_g": 4,
+      "sodium_mg": 1000,
+      "serving_note": "per 6\" sandwich (double for footlong) (226 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-turkey-and-ranch-delite",
+      "name": "6\" Turkey & Ranch Delite",
+      "description": "Sandwiches — Fresh Fit®",
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 26,
+      "carbs_g": 41,
+      "fat_g": 13,
+      "fiber_g": 5,
+      "sodium_mg": 1140,
+      "serving_note": "per 6\" sandwich (double for footlong) (254 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-seasoned-steak-and-smashed-avocado",
+      "name": "6\" Seasoned Steak & Smashed Avocado",
+      "description": "Sandwiches — Fresh Fit®",
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 35,
+      "carbs_g": 45,
+      "fat_g": 16,
+      "fiber_g": 6,
+      "sodium_mg": 1170,
+      "serving_note": "per 6\" sandwich (double for footlong) (297 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-seasoned-steak-and-fresh-avocado",
+      "name": "6\" Seasoned Steak & Fresh Avocado",
+      "description": "Sandwiches — Fresh Fit®",
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 35,
+      "carbs_g": 45,
+      "fat_g": 14,
+      "fiber_g": 6,
+      "sodium_mg": 1040,
+      "serving_note": "per 6\" sandwich (double for footlong) (290 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-delite",
+      "name": "Veggie Delite®",
+      "description": "Sandwiches — Kids' Mini Sub",
+      "category": "meal",
+      "calories": 140,
+      "protein_g": 6,
+      "carbs_g": 27,
+      "fat_g": 2,
+      "fiber_g": 3,
+      "sodium_mg": 240,
+      "serving_note": "per mini sub (108 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "black-forest-ham",
+      "name": "Black Forest Ham",
+      "description": "Sandwiches — Kids' Mini Sub",
+      "category": "meal",
+      "calories": 180,
+      "protein_g": 11,
+      "carbs_g": 28,
+      "fat_g": 3,
+      "fiber_g": 3,
+      "sodium_mg": 480,
+      "serving_note": "per mini sub (137 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oven-roasted-turkey",
+      "name": "Oven Roasted Turkey",
+      "description": "Sandwiches — Kids' Mini Sub",
+      "category": "meal",
+      "calories": 170,
+      "protein_g": 12,
+      "carbs_g": 27,
+      "fat_g": 3,
+      "fiber_g": 3,
+      "sodium_mg": 470,
+      "serving_note": "per mini sub (137 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "steak-philly",
+      "name": "Steak Philly",
+      "description": "Wraps — Cheesesteaks",
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 46,
+      "carbs_g": 56,
+      "fat_g": 35,
+      "fiber_g": 3,
+      "sodium_mg": 1970,
+      "serving_note": "per wrap (295 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chipotle-philly",
+      "name": "Chipotle Philly",
+      "description": "Wraps — Cheesesteaks",
+      "category": "meal",
+      "calories": 700,
+      "protein_g": 47,
+      "carbs_g": 56,
+      "fat_g": 32,
+      "fiber_g": 3,
+      "sodium_mg": 2090,
+      "serving_note": "per wrap (300 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cheesy-garlic-steak",
+      "name": "Cheesy Garlic Steak",
+      "description": "Wraps — Cheesesteaks",
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 43,
+      "carbs_g": 62,
+      "fat_g": 33,
+      "fiber_g": 3,
+      "sodium_mg": 1840,
+      "serving_note": "per wrap (302 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken",
+      "name": "Grilled Chicken",
+      "description": "Wraps — Chicken",
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 48,
+      "carbs_g": 55,
+      "fat_g": 31,
+      "fiber_g": 3,
+      "sodium_mg": 1240,
+      "serving_note": "per wrap (349 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chicken-and-bacon-ranch",
+      "name": "Chicken & Bacon Ranch",
+      "description": "Wraps — Chicken",
+      "category": "meal",
+      "calories": 830,
+      "protein_g": 56,
+      "carbs_g": 56,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1850,
+      "serving_note": "per wrap (367 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spicy-nacho-chicken",
+      "name": "Spicy Nacho Chicken",
+      "description": "Wraps — Chicken",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 40,
+      "carbs_g": 59,
+      "fat_g": 24,
+      "fiber_g": 3,
+      "sodium_mg": 1730,
+      "serving_note": "per wrap (294 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "honey-mustard-bbq-chicken",
+      "name": "Honey Mustard BBQ Chicken",
+      "description": "Wraps — Chicken",
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 46,
+      "carbs_g": 63,
+      "fat_g": 27,
+      "fiber_g": 4,
+      "sodium_mg": 1800,
+      "serving_note": "per wrap (363 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "sweet-onion-teriyaki-chicken",
+      "name": "Sweet Onion Teriyaki Chicken®",
+      "description": "Wraps — Chicken",
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 45,
+      "carbs_g": 76,
+      "fat_g": 16,
+      "fiber_g": 3,
+      "sodium_mg": 1690,
+      "serving_note": "per wrap (360 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "b-m-t",
+      "name": "B.M.T.®",
+      "description": "Wraps — Italians",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 27,
+      "carbs_g": 44,
+      "fat_g": 36,
+      "fiber_g": 2,
+      "sodium_mg": 1500,
+      "serving_note": "per wrap (240 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spicy-italian",
+      "name": "Spicy Italian",
+      "description": "Wraps — Italians",
+      "category": "meal",
+      "calories": 1010,
+      "protein_g": 39,
+      "carbs_g": 57,
+      "fat_g": 69,
+      "fiber_g": 3,
+      "sodium_mg": 2670,
+      "serving_note": "per wrap (318 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "5-meat-italian",
+      "name": "5 Meat Italian",
+      "description": "Wraps — Italians",
+      "category": "meal",
+      "calories": 1000,
+      "protein_g": 66,
+      "carbs_g": 60,
+      "fat_g": 56,
+      "fiber_g": 3,
+      "sodium_mg": 3230,
+      "serving_note": "per wrap (450 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball-marinara",
+      "name": "Meatball Marinara",
+      "description": "Wraps — Italians",
+      "category": "meal",
+      "calories": 890,
+      "protein_g": 40,
+      "carbs_g": 76,
+      "fat_g": 49,
+      "fiber_g": 7,
+      "sodium_mg": 2140,
+      "serving_note": "per wrap (397 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball-pepperoni",
+      "name": "Meatball Pepperoni",
+      "description": "Wraps — Italians",
+      "category": "meal",
+      "calories": 1050,
+      "protein_g": 47,
+      "carbs_g": 77,
+      "fat_g": 63,
+      "fiber_g": 7,
+      "sodium_mg": 2730,
+      "serving_note": "per wrap (433 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oven-roasted-turkey-wraps",
+      "name": "Oven-Roasted Turkey",
+      "description": "Wraps — Deli Classics",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 38,
+      "carbs_g": 53,
+      "fat_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 1660,
+      "serving_note": "per wrap (309 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "black-forest-ham-wraps",
+      "name": "Black Forest Ham",
+      "description": "Wraps — Deli Classics",
+      "category": "meal",
+      "calories": 630,
+      "protein_g": 36,
+      "carbs_g": 57,
+      "fat_g": 28,
+      "fiber_g": 3,
+      "sodium_mg": 1740,
+      "serving_note": "per wrap (309 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "roast-beef",
+      "name": "Roast Beef",
+      "description": "Wraps — Deli Classics",
+      "category": "meal",
+      "calories": 660,
+      "protein_g": 48,
+      "carbs_g": 57,
+      "fat_g": 27,
+      "fiber_g": 3,
+      "sodium_mg": 1600,
+      "serving_note": "per wrap (337 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cold-cut-combo",
+      "name": "Cold Cut Combo®",
+      "description": "Wraps — Deli Classics",
+      "category": "meal",
+      "calories": 720,
+      "protein_g": 35,
+      "carbs_g": 54,
+      "fat_g": 40,
+      "fiber_g": 3,
+      "sodium_mg": 1990,
+      "serving_note": "per wrap (323 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "tuna",
+      "name": "Tuna",
+      "description": "Wraps — Deli Classics",
+      "category": "meal",
+      "calories": 900,
+      "protein_g": 41,
+      "carbs_g": 52,
+      "fat_g": 59,
+      "fiber_g": 3,
+      "sodium_mg": 1310,
+      "serving_note": "per wrap (330 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-delite-wraps",
+      "name": "Veggie Delite ®",
+      "description": "Wraps — Deli Classics",
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 17,
+      "carbs_g": 53,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 690,
+      "serving_note": "per wrap (210 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "all-american-club",
+      "name": "All American Club®",
+      "description": "Wraps — Clubs",
+      "category": "meal",
+      "calories": 760,
+      "protein_g": 44,
+      "carbs_g": 57,
+      "fat_g": 39,
+      "fiber_g": 3,
+      "sodium_mg": 2220,
+      "serving_note": "per wrap (333 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "subway-club",
+      "name": "Subway Club®",
+      "description": "Wraps — Clubs",
+      "category": "meal",
+      "calories": 690,
+      "protein_g": 48,
+      "carbs_g": 58,
+      "fat_g": 30,
+      "fiber_g": 3,
+      "sodium_mg": 2300,
+      "serving_note": "per wrap (374 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "big-hot-pastrami",
+      "name": "Big Hot Pastrami **",
+      "description": "Wraps — Local Favorites",
+      "category": "meal",
+      "calories": 890,
+      "protein_g": 49,
+      "carbs_g": 56,
+      "fat_g": 54,
+      "fiber_g": 3,
+      "sodium_mg": 3050,
+      "serving_note": "per wrap (365 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "b-l-t",
+      "name": "B.L.T. **",
+      "description": "Wraps — Local Favorites",
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 30,
+      "carbs_g": 53,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1200,
+      "serving_note": "per wrap (220 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "turkey-and-ham",
+      "name": "Turkey & Ham **",
+      "description": "Wraps — Local Favorites",
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 37,
+      "carbs_g": 55,
+      "fat_g": 28,
+      "fiber_g": 3,
+      "sodium_mg": 1700,
+      "serving_note": "per wrap (309 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pizza-sub",
+      "name": "Pizza Sub **",
+      "description": "Wraps — Local Favorites",
+      "category": "meal",
+      "calories": 730,
+      "protein_g": 30,
+      "carbs_g": 56,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1980,
+      "serving_note": "per wrap (232 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-patty",
+      "name": "Veggie Patty **",
+      "description": "Wraps — Local Favorites",
+      "category": "meal",
+      "calories": 720,
+      "protein_g": 25,
+      "carbs_g": 87,
+      "fat_g": 30,
+      "fiber_g": 19,
+      "sodium_mg": 1500,
+      "serving_note": "per wrap (367 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "baja-chicken",
+      "name": "Baja Chicken",
+      "description": "Wraps — Protein Pockets",
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 24,
+      "carbs_g": 30,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 750,
+      "serving_note": "per 9\" protein pocket (184 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "italian-trio",
+      "name": "Italian Trio",
+      "description": "Wraps — Protein Pockets",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 22,
+      "carbs_g": 32,
+      "fat_g": 29,
+      "fiber_g": 2,
+      "sodium_mg": 1580,
+      "serving_note": "per 9\" protein pocket (192 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "peppercorn-ranch-chicken",
+      "name": "Peppercorn Ranch Chicken",
+      "description": "Wraps — Protein Pockets",
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 24,
+      "carbs_g": 30,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 800,
+      "serving_note": "per 9\" protein pocket (190 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "turkey-and-ham-wraps",
+      "name": "Turkey & Ham",
+      "description": "Wraps — Protein Pockets",
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 21,
+      "carbs_g": 32,
+      "fat_g": 11,
+      "fiber_g": 2,
+      "sodium_mg": 1260,
+      "serving_note": "per 9\" protein pocket (193 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "steak-philly-salads",
+      "name": "Steak Philly",
+      "description": "Salads — Cheesesteaks",
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 24,
+      "carbs_g": 13,
+      "fat_g": 35,
+      "fiber_g": 4,
+      "sodium_mg": 1080,
+      "serving_note": "per salad, no dressing unless noted (409 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chipotle-philly-salads",
+      "name": "Chipotle Philly",
+      "description": "Salads — Cheesesteaks",
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 25,
+      "carbs_g": 15,
+      "fat_g": 28,
+      "fiber_g": 5,
+      "sodium_mg": 1260,
+      "serving_note": "per salad, no dressing unless noted (415 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cheesy-garlic-steak-salads",
+      "name": "Cheesy Garlic Steak",
+      "description": "Salads — Cheesesteaks",
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 23,
+      "carbs_g": 21,
+      "fat_g": 32,
+      "fiber_g": 5,
+      "sodium_mg": 1180,
+      "serving_note": "per salad, no dressing unless noted (434 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-salads",
+      "name": "Grilled Chicken",
+      "description": "Salads — Chicken",
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 26,
+      "carbs_g": 12,
+      "fat_g": 34,
+      "fiber_g": 4,
+      "sodium_mg": 590,
+      "serving_note": "per salad, no dressing unless noted (415 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chicken-and-bacon-ranch-salads",
+      "name": "Chicken & Bacon Ranch",
+      "description": "Salads — Chicken",
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 30,
+      "carbs_g": 14,
+      "fat_g": 36,
+      "fiber_g": 5,
+      "sodium_mg": 1020,
+      "serving_note": "per salad, no dressing unless noted (430 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spicy-nacho-chicken-salads",
+      "name": "Spicy Nacho Chicken",
+      "description": "Salads — Chicken",
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 20,
+      "carbs_g": 20,
+      "fat_g": 19,
+      "fiber_g": 5,
+      "sodium_mg": 1220,
+      "serving_note": "per salad, no dressing unless noted (420 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "honey-mustard-bbq-chicken-salads",
+      "name": "Honey Mustard BBQ Chicken",
+      "description": "Salads — Chicken",
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 25,
+      "carbs_g": 31,
+      "fat_g": 24,
+      "fiber_g": 5,
+      "sodium_mg": 1280,
+      "serving_note": "per salad, no dressing unless noted (454 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "sweet-onion-teriyaki-chicken-salads",
+      "name": "Sweet Onion Teriyaki Chicken®",
+      "description": "Salads — Chicken",
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 23,
+      "carbs_g": 33,
+      "fat_g": 10,
+      "fiber_g": 4,
+      "sodium_mg": 1100,
+      "serving_note": "per salad, no dressing unless noted (423 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "b-m-t-salads",
+      "name": "B.M.T.®",
+      "description": "Salads — Italians",
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 22,
+      "carbs_g": 13,
+      "fat_g": 46,
+      "fiber_g": 4,
+      "sodium_mg": 1250,
+      "serving_note": "per salad, no dressing unless noted (407 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spicy-italian-salads",
+      "name": "Spicy Italian",
+      "description": "Salads — Italians",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 22,
+      "carbs_g": 13,
+      "fat_g": 54,
+      "fiber_g": 4,
+      "sodium_mg": 1450,
+      "serving_note": "per salad, no dressing unless noted (407 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "5-meat-italian-salads",
+      "name": "5 Meat Italian",
+      "description": "Salads — Italians",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 35,
+      "carbs_g": 14,
+      "fat_g": 47,
+      "fiber_g": 4,
+      "sodium_mg": 1690,
+      "serving_note": "per salad, no dressing unless noted (471 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball-marinara-with-mvp-parmesan-vinaigrette",
+      "name": "Meatball Marinara with MVP Parmesan Vinaigrette®",
+      "description": "Salads — Italians",
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 23,
+      "carbs_g": 25,
+      "fat_g": 39,
+      "fiber_g": 7,
+      "sodium_mg": 1360,
+      "serving_note": "per salad, no dressing unless noted (484 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-with-mvp-parmesan-vinaigrette",
+      "name": "Meatball Pepperoni with MVP Parmesan Vinaigrette®",
+      "description": "Salads — Italians",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 26,
+      "carbs_g": 26,
+      "fat_g": 47,
+      "fiber_g": 7,
+      "sodium_mg": 1650,
+      "serving_note": "per salad, no dressing unless noted (502 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oven-roasted-turkey-salads",
+      "name": "Oven-Roasted Turkey",
+      "description": "Salads — Deli Classics",
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 21,
+      "carbs_g": 11,
+      "fat_g": 33,
+      "fiber_g": 4,
+      "sodium_mg": 910,
+      "serving_note": "per salad, no dressing unless noted (400 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "black-forest-ham-salads",
+      "name": "Black Forest Ham",
+      "description": "Salads — Deli Classics",
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 20,
+      "carbs_g": 13,
+      "fat_g": 33,
+      "fiber_g": 4,
+      "sodium_mg": 950,
+      "serving_note": "per salad, no dressing unless noted (400 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "roast-beef-salads",
+      "name": "Roast Beef",
+      "description": "Salads — Deli Classics",
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 26,
+      "carbs_g": 13,
+      "fat_g": 33,
+      "fiber_g": 4,
+      "sodium_mg": 880,
+      "serving_note": "per salad, no dressing unless noted (415 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cold-cut-combo-salads",
+      "name": "Cold Cut Combo®",
+      "description": "Salads — Deli Classics",
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 20,
+      "carbs_g": 11,
+      "fat_g": 39,
+      "fiber_g": 4,
+      "sodium_mg": 1080,
+      "serving_note": "per salad, no dressing unless noted (408 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "tuna-salads",
+      "name": "Tuna",
+      "description": "Salads — Deli Classics",
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 22,
+      "carbs_g": 10,
+      "fat_g": 32,
+      "fiber_g": 4,
+      "sodium_mg": 640,
+      "serving_note": "per salad, no dressing unless noted (390 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-delite-salads",
+      "name": "Veggie Delite ®",
+      "description": "Salads — Deli Classics",
+      "category": "meal",
+      "calories": 150,
+      "protein_g": 10,
+      "carbs_g": 10,
+      "fat_g": 9,
+      "fiber_g": 4,
+      "sodium_mg": 320,
+      "serving_note": "per salad, no dressing unless noted (316 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "all-american-club-salads",
+      "name": "All American Club®",
+      "description": "Salads — Clubs",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 22,
+      "carbs_g": 13,
+      "fat_g": 39,
+      "fiber_g": 4,
+      "sodium_mg": 1270,
+      "serving_note": "per salad, no dressing unless noted (410 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "subway-club-salads",
+      "name": "Subway Club®",
+      "description": "Salads — Clubs",
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 24,
+      "carbs_g": 14,
+      "fat_g": 34,
+      "fiber_g": 4,
+      "sodium_mg": 1310,
+      "serving_note": "per salad, no dressing unless noted (430 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "big-hot-pastrami-salads",
+      "name": "Big Hot Pastrami **",
+      "description": "Salads — Local Favorites",
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 26,
+      "carbs_g": 15,
+      "fat_g": 30,
+      "fiber_g": 5,
+      "sodium_mg": 1930,
+      "serving_note": "per salad, no dressing unless noted (463 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "b-l-t-salads",
+      "name": "B.L.T. **",
+      "description": "Salads — Local Favorites",
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 13,
+      "carbs_g": 11,
+      "fat_g": 36,
+      "fiber_g": 4,
+      "sodium_mg": 550,
+      "serving_note": "per salad, no dressing unless noted (345 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "turkey-and-ham-salads",
+      "name": "Turkey & Ham **",
+      "description": "Salads — Local Favorites",
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 21,
+      "carbs_g": 12,
+      "fat_g": 33,
+      "fiber_g": 4,
+      "sodium_mg": 930,
+      "serving_note": "per salad, no dressing unless noted (400 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pizza-sub-salads",
+      "name": "Pizza Sub **",
+      "description": "Salads — Local Favorites",
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 17,
+      "carbs_g": 15,
+      "fat_g": 24,
+      "fiber_g": 5,
+      "sodium_mg": 1030,
+      "serving_note": "per salad, no dressing unless noted (380 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-patty-salads",
+      "name": "Veggie Patty **",
+      "description": "Salads — Local Favorites",
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 13,
+      "carbs_g": 28,
+      "fat_g": 17,
+      "fiber_g": 12,
+      "sodium_mg": 820,
+      "serving_note": "per salad, no dressing unless noted (395 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "steak-philly-protein-bowls",
+      "name": "Steak Philly",
+      "description": "Protein Bowls — Cheesesteaks",
+      "category": "meal",
+      "calories": 630,
+      "protein_g": 43,
+      "carbs_g": 14,
+      "fat_g": 46,
+      "fiber_g": 3,
+      "sodium_mg": 1950,
+      "serving_note": "per bowl, no dressing or cheese unless noted (403 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chipotle-philly-protein-bowls",
+      "name": "Chipotle Philly",
+      "description": "Protein Bowls — Cheesesteaks",
+      "category": "meal",
+      "calories": 600,
+      "protein_g": 46,
+      "carbs_g": 16,
+      "fat_g": 41,
+      "fiber_g": 4,
+      "sodium_mg": 2180,
+      "serving_note": "per bowl, no dressing or cheese unless noted (415 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cheesy-garlic-steak-protein-bowls",
+      "name": "Cheesy Garlic Steak",
+      "description": "Protein Bowls — Cheesesteaks",
+      "category": "meal",
+      "calories": 630,
+      "protein_g": 39,
+      "carbs_g": 27,
+      "fat_g": 42,
+      "fiber_g": 4,
+      "sodium_mg": 1670,
+      "serving_note": "per bowl, no dressing or cheese unless noted (417 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-protein-bowls",
+      "name": "Grilled Chicken",
+      "description": "Protein Bowls — Chicken",
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 48,
+      "carbs_g": 12,
+      "fat_g": 44,
+      "fiber_g": 3,
+      "sodium_mg": 960,
+      "serving_note": "per bowl, no dressing or cheese unless noted (415 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chicken-and-bacon-ranch-protein-bowls",
+      "name": "Chicken & Bacon Ranch",
+      "description": "Protein Bowls — Chicken",
+      "category": "meal",
+      "calories": 760,
+      "protein_g": 55,
+      "carbs_g": 14,
+      "fat_g": 55,
+      "fiber_g": 4,
+      "sodium_mg": 1750,
+      "serving_note": "per bowl, no dressing or cheese unless noted (445 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spicy-nacho-chicken-protein-bowls",
+      "name": "Spicy Nacho Chicken",
+      "description": "Protein Bowls — Chicken",
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 35,
+      "carbs_g": 26,
+      "fat_g": 30,
+      "fiber_g": 5,
+      "sodium_mg": 1870,
+      "serving_note": "per bowl, no dressing or cheese unless noted (425 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "honey-mustard-bbq-chicken-protein-bowls",
+      "name": "Honey Mustard BBQ Chicken",
+      "description": "Protein Bowls — Chicken",
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 45,
+      "carbs_g": 31,
+      "fat_g": 36,
+      "fiber_g": 4,
+      "sodium_mg": 2010,
+      "serving_note": "per bowl, no dressing or cheese unless noted (466 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "sweet-onion-teriyaki-chicken-protein-bowls",
+      "name": "Sweet Onion Teriyaki Chicken®",
+      "description": "Protein Bowls — Chicken",
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 42,
+      "carbs_g": 41,
+      "fat_g": 18,
+      "fiber_g": 3,
+      "sodium_mg": 1860,
+      "serving_note": "per bowl, no dressing or cheese unless noted (432 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "b-m-t-protein-bowls",
+      "name": "B.M.T.®",
+      "description": "Protein Bowls — Italians",
+      "category": "meal",
+      "calories": 820,
+      "protein_g": 40,
+      "carbs_g": 14,
+      "fat_g": 68,
+      "fiber_g": 3,
+      "sodium_mg": 2290,
+      "serving_note": "per bowl, no dressing or cheese unless noted (401 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spicy-italian-protein-bowls",
+      "name": "Spicy Italian",
+      "description": "Protein Bowls — Italians",
+      "category": "meal",
+      "calories": 960,
+      "protein_g": 39,
+      "carbs_g": 14,
+      "fat_g": 84,
+      "fiber_g": 3,
+      "sodium_mg": 2610,
+      "serving_note": "per bowl, no dressing or cheese unless noted (396 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "5-meat-italian-protein-bowls",
+      "name": "5 Meat Italian",
+      "description": "Protein Bowls — Italians",
+      "category": "meal",
+      "calories": 960,
+      "protein_g": 66,
+      "carbs_g": 17,
+      "fat_g": 70,
+      "fiber_g": 3,
+      "sodium_mg": 3170,
+      "serving_note": "per bowl, no dressing or cheese unless noted (528 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball-marinara-with-mvp-parmesan-vinaigrette-protein-bowls",
+      "name": "Meatball Marinara with MVP Parmesan Vinaigrette®",
+      "description": "Protein Bowls — Italians",
+      "category": "meal",
+      "calories": 880,
+      "protein_g": 42,
+      "carbs_g": 37,
+      "fat_g": 65,
+      "fiber_g": 8,
+      "sodium_mg": 2340,
+      "serving_note": "per bowl, no dressing or cheese unless noted (553 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-with-mvp-parmesan-vinaigrette-protein-bowls",
+      "name": "Meatball Pepperoni with MVP Parmesan Vinaigrette®",
+      "description": "Protein Bowls — Italians",
+      "category": "meal",
+      "calories": 1040,
+      "protein_g": 48,
+      "carbs_g": 38,
+      "fat_g": 79,
+      "fiber_g": 8,
+      "sodium_mg": 2930,
+      "serving_note": "per bowl, no dressing or cheese unless noted (589 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oven-roasted-turkey-protein-bowls",
+      "name": "Oven-Roasted Turkey",
+      "description": "Protein Bowls — Deli Classics",
+      "category": "meal",
+      "calories": 560,
+      "protein_g": 38,
+      "carbs_g": 10,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1600,
+      "serving_note": "per bowl, no dressing or cheese unless noted (386 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "black-forest-ham-protein-bowls",
+      "name": "Black Forest Ham",
+      "description": "Protein Bowls — Deli Classics",
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 36,
+      "carbs_g": 14,
+      "fat_g": 43,
+      "fiber_g": 3,
+      "sodium_mg": 1680,
+      "serving_note": "per bowl, no dressing or cheese unless noted (386 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "roast-beef-protein-bowls",
+      "name": "Roast Beef",
+      "description": "Protein Bowls — Deli Classics",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 48,
+      "carbs_g": 14,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1540,
+      "serving_note": "per bowl, no dressing or cheese unless noted (415 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cold-cut-combo-protein-bowls",
+      "name": "Cold Cut Combo®",
+      "description": "Protein Bowls — Deli Classics",
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 35,
+      "carbs_g": 11,
+      "fat_g": 55,
+      "fiber_g": 3,
+      "sodium_mg": 1930,
+      "serving_note": "per bowl, no dressing or cheese unless noted (401 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "tuna-protein-bowls",
+      "name": "Tuna",
+      "description": "Protein Bowls — Deli Classics",
+      "category": "meal",
+      "calories": 750,
+      "protein_g": 41,
+      "carbs_g": 9,
+      "fat_g": 62,
+      "fiber_g": 3,
+      "sodium_mg": 1190,
+      "serving_note": "per bowl, no dressing or cheese unless noted (394 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "all-american-club-protein-bowls",
+      "name": "All American Club®",
+      "description": "Protein Bowls — Clubs",
+      "category": "meal",
+      "calories": 690,
+      "protein_g": 40,
+      "carbs_g": 15,
+      "fat_g": 53,
+      "fiber_g": 3,
+      "sodium_mg": 2330,
+      "serving_note": "per bowl, no dressing or cheese unless noted (405 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "subway-club-protein-bowls",
+      "name": "Subway Club®",
+      "description": "Protein Bowls — Clubs",
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 44,
+      "carbs_g": 16,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 2280,
+      "serving_note": "per bowl, no dressing or cheese unless noted (418 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "big-hot-pastrami-protein-bowls",
+      "name": "Big Hot Pastrami **",
+      "description": "Protein Bowls — Local Favorites",
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 46,
+      "carbs_g": 17,
+      "fat_g": 57,
+      "fiber_g": 4,
+      "sodium_mg": 3430,
+      "serving_note": "per bowl, no dressing or cheese unless noted (512 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "b-l-t-protein-bowls",
+      "name": "B.L.T. **",
+      "description": "Protein Bowls — Local Favorites",
+      "category": "meal",
+      "calories": 560,
+      "protein_g": 22,
+      "carbs_g": 10,
+      "fat_g": 49,
+      "fiber_g": 3,
+      "sodium_mg": 890,
+      "serving_note": "per bowl, no dressing or cheese unless noted (276 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "turkey-and-ham-protein-bowls",
+      "name": "Turkey & Ham **",
+      "description": "Protein Bowls — Local Favorites",
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 37,
+      "carbs_g": 12,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1640,
+      "serving_note": "per bowl, no dressing or cheese unless noted (386 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pizza-sub-protein-bowls",
+      "name": "Pizza Sub **",
+      "description": "Protein Bowls — Local Favorites",
+      "category": "meal",
+      "calories": 600,
+      "protein_g": 31,
+      "carbs_g": 18,
+      "fat_g": 46,
+      "fiber_g": 4,
+      "sodium_mg": 1980,
+      "serving_note": "per bowl, no dressing or cheese unless noted (372 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-patty-protein-bowls",
+      "name": "Veggie Patty **",
+      "description": "Protein Bowls — Local Favorites",
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 22,
+      "carbs_g": 44,
+      "fat_g": 33,
+      "fiber_g": 19,
+      "sodium_mg": 1550,
+      "serving_note": "per bowl, no dressing or cheese unless noted (404 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-bacon-egg-and-cheese",
+      "name": "6\" Bacon, Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 6\" Artisan Italian",
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 26,
+      "carbs_g": 43,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 1200,
+      "serving_note": "per 6\" breakfast sandwich (193 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-black-forest-ham-egg-and-cheese",
+      "name": "6\" Black Forest Ham, Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 6\" Artisan Italian",
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 26,
+      "carbs_g": 43,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1270,
+      "serving_note": "per 6\" breakfast sandwich (207 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-egg-and-cheese",
+      "name": "6\" Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 6\" Artisan Italian",
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 21,
+      "carbs_g": 42,
+      "fat_g": 24,
+      "fiber_g": 2,
+      "sodium_mg": 1020,
+      "serving_note": "per 6\" breakfast sandwich (178 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-steak-egg-and-cheese",
+      "name": "6\" Steak, Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 6\" Artisan Italian",
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 31,
+      "carbs_g": 43,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 1300,
+      "serving_note": "per 6\" breakfast sandwich (221 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "bacon-egg-and-cheese",
+      "name": "Bacon, Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 12\" Wrap",
+      "category": "meal",
+      "calories": 900,
+      "protein_g": 42,
+      "carbs_g": 57,
+      "fat_g": 56,
+      "fiber_g": 2,
+      "sodium_mg": 1790,
+      "serving_note": "per 12\" breakfast wrap (325 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "black-forest-ham-egg-and-cheese",
+      "name": "Black Forest Ham, Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 12\" Wrap",
+      "category": "meal",
+      "calories": 810,
+      "protein_g": 42,
+      "carbs_g": 58,
+      "fat_g": 46,
+      "fiber_g": 2,
+      "sodium_mg": 1930,
+      "serving_note": "per 12\" breakfast wrap (351 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "egg-and-cheese",
+      "name": "Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 12\" Wrap",
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 32,
+      "carbs_g": 55,
+      "fat_g": 44,
+      "fiber_g": 2,
+      "sodium_mg": 1440,
+      "serving_note": "per 12\" breakfast wrap (295 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "steak-egg-and-cheese",
+      "name": "Steak, Egg & Cheese",
+      "description": "Breakfast & Pizza & Sliders — Egg Patty On 12\" Wrap",
+      "category": "meal",
+      "calories": 860,
+      "protein_g": 48,
+      "carbs_g": 57,
+      "fat_g": 48,
+      "fiber_g": 2,
+      "sodium_mg": 1890,
+      "serving_note": "per 12\" breakfast wrap (366 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cheese",
+      "name": "Cheese",
+      "description": "Breakfast & Pizza & Sliders — 8\" Pizza",
+      "category": "meal",
+      "calories": 700,
+      "protein_g": 29,
+      "carbs_g": 95,
+      "fat_g": 22,
+      "fiber_g": 4,
+      "sodium_mg": 1370,
+      "serving_note": "per whole 8\" pizza (293 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "bacon",
+      "name": "Bacon**",
+      "description": "Breakfast & Pizza & Sliders — 8\" Pizza",
+      "category": "meal",
+      "calories": 780,
+      "protein_g": 34,
+      "carbs_g": 96,
+      "fat_g": 28,
+      "fiber_g": 4,
+      "sodium_mg": 1540,
+      "serving_note": "per whole 8\" pizza (308 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatball",
+      "name": "Meatball**",
+      "description": "Breakfast & Pizza & Sliders — 8\" Pizza",
+      "category": "meal",
+      "calories": 810,
+      "protein_g": 35,
+      "carbs_g": 98,
+      "fat_g": 31,
+      "fiber_g": 5,
+      "sodium_mg": 1590,
+      "serving_note": "per whole 8\" pizza (330 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pepperoni",
+      "name": "Pepperoni",
+      "description": "Breakfast & Pizza & Sliders — 8\" Pizza",
+      "category": "meal",
+      "calories": 780,
+      "protein_g": 33,
+      "carbs_g": 96,
+      "fat_g": 29,
+      "fiber_g": 5,
+      "sodium_mg": 1660,
+      "serving_note": "per whole 8\" pizza (311 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "ham-and-jack-includes-pepper-jack-cheese",
+      "name": "Ham & Jack (includes Pepper Jack Cheese)**",
+      "description": "Breakfast & Pizza & Sliders — Sliders",
+      "category": "meal",
+      "calories": 160,
+      "protein_g": 10,
+      "carbs_g": 21,
+      "fat_g": 4,
+      "fiber_g": 0.5,
+      "sodium_mg": 550,
+      "serving_note": "per slider (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "italian-spice-includes-american-cheese-and-mvp-parmesan-vinaigrette",
+      "name": "Italian Spice (includes American Cheese and MVP Parmesan Vinaigrette®)**",
+      "description": "Breakfast & Pizza & Sliders — Sliders",
+      "category": "meal",
+      "calories": 250,
+      "protein_g": 9,
+      "carbs_g": 21,
+      "fat_g": 15,
+      "fiber_g": 0.5,
+      "sodium_mg": 740,
+      "serving_note": "per slider (72 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "little-cheesesteak-includes-american-cheese-and-baja-chipotle-sauce",
+      "name": "Little Cheesesteak (includes American Cheese and Baja Chipotle Sauce)**",
+      "description": "Breakfast & Pizza & Sliders — Sliders",
+      "category": "meal",
+      "calories": 180,
+      "protein_g": 8,
+      "carbs_g": 21,
+      "fat_g": 7,
+      "fiber_g": 1,
+      "sodium_mg": 450,
+      "serving_note": "per slider (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "turkey-includes-pepper-jack-cheese-and-mayonnaise",
+      "name": "Turkey (includes Pepper Jack Cheese and Mayonnaise)**",
+      "description": "Breakfast & Pizza & Sliders — Sliders",
+      "category": "meal",
+      "calories": 230,
+      "protein_g": 12,
+      "carbs_g": 20,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 690,
+      "serving_note": "per slider (88 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-artisan-italian-bread",
+      "name": "6\" Artisan Italian Bread",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 210,
+      "protein_g": 8,
+      "carbs_g": 39,
+      "fat_g": 2,
+      "fiber_g": 1,
+      "sodium_mg": 380,
+      "serving_note": "per 6\" bread (double for footlong) (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-hearty-multigrain-bread",
+      "name": "6\" Hearty Multigrain Bread",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 200,
+      "protein_g": 9,
+      "carbs_g": 36,
+      "fat_g": 3,
+      "fiber_g": 3,
+      "sodium_mg": 350,
+      "serving_note": "per 6\" bread (double for footlong) (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-jalape-o-cheddar-bread",
+      "name": "6\" Jalapeño Cheddar Bread**",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 240,
+      "protein_g": 9,
+      "carbs_g": 39,
+      "fat_g": 5,
+      "fiber_g": 2,
+      "sodium_mg": 500,
+      "serving_note": "per 6\" bread (double for footlong) (82 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "6in-artisan-flatbread",
+      "name": "6\" Artisan Flatbread",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 220,
+      "protein_g": 7,
+      "carbs_g": 40,
+      "fat_g": 4,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per 6\" bread (double for footlong) (78 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "12in-wrap",
+      "name": "12\" Wrap",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 300,
+      "protein_g": 8,
+      "carbs_g": 50,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 580,
+      "serving_note": "per 6\" bread (double for footlong) (102 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "9in-wrap-pocket",
+      "name": "9\" Wrap (Pocket)",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 150,
+      "protein_g": 4,
+      "carbs_g": 26,
+      "fat_g": 3,
+      "fiber_g": 0.5,
+      "sodium_mg": 340,
+      "serving_note": "per 6\" bread (double for footlong) (52 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "mini-artisan-italian-bread",
+      "name": "Mini Artisan Italian Bread",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 140,
+      "protein_g": 5,
+      "carbs_g": 26,
+      "fat_g": 2,
+      "fiber_g": 0.5,
+      "sodium_mg": 250,
+      "serving_note": "per 6\" bread (double for footlong) (47 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "mini-hearty-multigrain-bread",
+      "name": "Mini Hearty Multigrain Bread",
+      "description": "Breads & Ingredients — Breads",
+      "category": "component",
+      "calories": 130,
+      "protein_g": 6,
+      "carbs_g": 24,
+      "fat_g": 2,
+      "fiber_g": 2,
+      "sodium_mg": 230,
+      "serving_note": "per 6\" bread (double for footlong) (47 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "baja-chipotle",
+      "name": "Baja Chipotle",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 125,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "bbq-sauce",
+      "name": "BBQ Sauce",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 25,
+      "protein_g": 0,
+      "carbs_g": 6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 115,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cheddar-cheese-sauce",
+      "name": "Cheddar Cheese Sauce",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 30,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "amount on a 6\" sandwich or wrap (18 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "creamy-sriracha",
+      "name": "Creamy Sriracha",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 40,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "buffalo-sauce",
+      "name": "Buffalo Sauce **",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 390,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "giardiniera",
+      "name": "Giardiniera**",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 340,
+      "serving_note": "amount on a 6\" sandwich or wrap (28 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "honey-mustard",
+      "name": "Honey Mustard",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 125,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "hot-honey-sauce",
+      "name": "Hot Honey Sauce",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 30,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 100,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "mustard-yellow",
+      "name": "Mustard, Yellow",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "olive-oil-blend",
+      "name": "Olive Oil Blend",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 45,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (5 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "olive-oil-blend-and-vinegar",
+      "name": "Olive Oil Blend & Vinegar",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 45,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (9 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "mvp-parmesan-vinaigrette",
+      "name": "MVP Parmesan Vinaigrette®",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "peppercorn-ranch",
+      "name": "Peppercorn Ranch",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "red-wine-vinegar",
+      "name": "Red Wine Vinegar",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (4 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "roasted-garlic-aioli",
+      "name": "Roasted Garlic Aioli",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "subkrunch",
+      "name": "Subkrunch™",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "amount on a 6\" sandwich or wrap (11 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "sweet-onion-teriyaki",
+      "name": "Sweet Onion Teriyaki",
+      "description": "Breads & Ingredients — Sandwich Condiments And Toppings",
+      "category": "condiment",
+      "calories": 30,
+      "protein_g": 0,
+      "carbs_g": 7,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pepper-black",
+      "name": "Pepper, Black",
+      "description": "Breads & Ingredients — Seasonings And Spices",
+      "category": "condiment",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (0 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oregano",
+      "name": "Oregano",
+      "description": "Breads & Ingredients — Seasonings And Spices",
+      "category": "condiment",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (0 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "description": "Breads & Ingredients — Seasonings And Spices",
+      "category": "condiment",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "amount on a 6\" sandwich or wrap (0 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "avocado-sliced",
+      "name": "Avocado, Sliced **",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 45,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 4,
+      "fiber_g": 2,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (28 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "avocado-smashed",
+      "name": "Avocado, Smashed **",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 70,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 130,
+      "serving_note": "amount on a 6\" sandwich or wrap (35 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "banana-peppers-3-rings",
+      "name": "Banana Peppers (3 rings)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "amount on a 6\" sandwich or wrap (4 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cucumbers-3-slices",
+      "name": "Cucumbers (3 slices)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "green-chiles",
+      "name": "Green Chiles**",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0.5,
+      "sodium_mg": 95,
+      "serving_note": "amount on a 6\" sandwich or wrap (14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "green-peppers-3-strips",
+      "name": "Green Peppers (3 strips)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (7 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "jalapeno-peppers-3-rings",
+      "name": "Jalapeno Peppers (3 rings)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "amount on a 6\" sandwich or wrap (4 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (21 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "olives-black-3-rings",
+      "name": "Olives, Black (3 rings)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "amount on a 6\" sandwich or wrap (3 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "onions",
+      "name": "Onions",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (7 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pickles-crinkle-3-chips",
+      "name": "Pickles, Crinkle (3 chips)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "amount on a 6\" sandwich or wrap (12 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "spinach-baby",
+      "name": "Spinach, Baby",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "amount on a 6\" sandwich or wrap (7 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "tomatoes-3-wheels",
+      "name": "Tomatoes (3 wheels)",
+      "description": "Breads & Ingredients — Vegetables",
+      "category": "component",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "amount on a 6\" sandwich or wrap (35 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "american",
+      "name": "American",
+      "description": "Breads & Ingredients — Cheese",
+      "category": "component",
+      "calories": 80,
+      "protein_g": 4,
+      "carbs_g": 1,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 420,
+      "serving_note": "amount on a 6\" sandwich, salad or wrap (23 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "monterey-cheddar-shredded",
+      "name": "Monterey Cheddar, Shredded",
+      "description": "Breads & Ingredients — Cheese",
+      "category": "component",
+      "calories": 110,
+      "protein_g": 7,
+      "carbs_g": 1,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "amount on a 6\" sandwich, salad or wrap (28 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "parmesan-grated",
+      "name": "Parmesan Grated",
+      "description": "Breads & Ingredients — Cheese",
+      "category": "component",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "amount on a 6\" sandwich, salad or wrap (1 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pepper-jack",
+      "name": "Pepper Jack",
+      "description": "Breads & Ingredients — Cheese",
+      "category": "component",
+      "calories": 100,
+      "protein_g": 5,
+      "carbs_g": 1,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 480,
+      "serving_note": "amount on a 6\" sandwich, salad or wrap (28 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "provolone",
+      "name": "Provolone",
+      "description": "Breads & Ingredients — Cheese",
+      "category": "component",
+      "calories": 90,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 220,
+      "serving_note": "amount on a 6\" sandwich, salad or wrap (25 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "all-american-club-meats-ham-turkey-bacon",
+      "name": "All-American Club Meats (Ham, Turkey, Bacon)",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 140,
+      "protein_g": 15,
+      "carbs_g": 2,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 650,
+      "serving_note": "amount on a 6\" sub or salad (72 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "bacon-2-strips",
+      "name": "Bacon (2 strips)",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 80,
+      "protein_g": 5,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "amount on a 6\" sub or salad (15 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "black-forest-ham-breads-and-ingredients",
+      "name": "Black Forest Ham",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 70,
+      "protein_g": 10,
+      "carbs_g": 2,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 490,
+      "serving_note": "amount on a 6\" sub or salad (57 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cold-cut-combo-meats",
+      "name": "Cold Cut Combo® Meats",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 110,
+      "protein_g": 9,
+      "carbs_g": 1,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 620,
+      "serving_note": "amount on a 6\" sub or salad (64 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "egg-patty",
+      "name": "Egg Patty",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 180,
+      "protein_g": 10,
+      "carbs_g": 2,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 220,
+      "serving_note": "amount on a 6\" sub or salad (85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "genoa-salami-3-slices",
+      "name": "Genoa Salami (3 slices*)",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 70,
+      "protein_g": 3,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 260,
+      "serving_note": "amount on a 6\" sub or salad (18 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-breads-and-ingredients",
+      "name": "Grilled Chicken",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 80,
+      "protein_g": 16,
+      "carbs_g": 1,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "amount on a 6\" sub or salad (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-sweet-onion-teriyaki-glazed",
+      "name": "Grilled Chicken, Sweet Onion Teriyaki Glazed",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 110,
+      "protein_g": 16,
+      "carbs_g": 9,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 350,
+      "serving_note": "amount on a 6\" sub or salad (85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "meatballs",
+      "name": "Meatballs",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 250,
+      "protein_g": 12,
+      "carbs_g": 13,
+      "fat_g": 18,
+      "fiber_g": 2,
+      "sodium_mg": 720,
+      "serving_note": "amount on a 6\" sub or salad (139 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oven-roasted-turkey-breads-and-ingredients",
+      "name": "Oven-Roasted Turkey",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 60,
+      "protein_g": 11,
+      "carbs_g": 0,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 450,
+      "serving_note": "amount on a 6\" sub or salad (57 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pastrami",
+      "name": "Pastrami**",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 130,
+      "protein_g": 9,
+      "carbs_g": 1,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 470,
+      "serving_note": "amount on a 6\" sub or salad (57 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "pepperoni-3-slices",
+      "name": "Pepperoni, (3 slices)",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 80,
+      "protein_g": 3,
+      "carbs_g": 1,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 290,
+      "serving_note": "amount on a 6\" sub or salad (18 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "roast-beef-breads-and-ingredients",
+      "name": "Roast Beef",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 80,
+      "protein_g": 15,
+      "carbs_g": 2,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 420,
+      "serving_note": "amount on a 6\" sub or salad (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "rotisserie-style-chicken",
+      "name": "Rotisserie-Style Chicken",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 90,
+      "protein_g": 15,
+      "carbs_g": 0,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "amount on a 6\" sub or salad (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "steak-no-cheese",
+      "name": "Steak (no cheese)",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 110,
+      "protein_g": 17,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 450,
+      "serving_note": "amount on a 6\" sub or salad (71 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "subway-club-meats-turkey-ham-roast-beef",
+      "name": "Subway Club® Meats (Turkey, Ham, Roast Beef)",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 110,
+      "protein_g": 17,
+      "carbs_g": 3,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 690,
+      "serving_note": "amount on a 6\" sub or salad (92 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "tuna-breads-and-ingredients",
+      "name": "Tuna",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 250,
+      "protein_g": 12,
+      "carbs_g": 0,
+      "fat_g": 23,
+      "fiber_g": 0,
+      "sodium_mg": 310,
+      "serving_note": "amount on a 6\" sub or salad (74 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "veggie-patty-breads-and-ingredients",
+      "name": "Veggie Patty**",
+      "description": "Breads & Ingredients — Individual Proteins",
+      "category": "component",
+      "calories": 170,
+      "protein_g": 6,
+      "carbs_g": 17,
+      "fat_g": 9,
+      "fiber_g": 8,
+      "sodium_mg": 320,
+      "serving_note": "amount on a 6\" sub or salad (85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookie",
+      "name": "Chocolate Chip Cookie",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 30,
+      "fat_g": 10,
+      "fiber_g": 0.5,
+      "sodium_mg": 120,
+      "serving_note": "per serving (45 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "double-chocolate-cookie",
+      "name": "Double Chocolate Cookie",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 29,
+      "fat_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 125,
+      "serving_note": "per serving (45 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "oatmeal-raisin-cookie",
+      "name": "Oatmeal Raisin Cookie",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 200,
+      "protein_g": 3,
+      "carbs_g": 30,
+      "fat_g": 8,
+      "fiber_g": 1,
+      "sodium_mg": 110,
+      "serving_note": "per serving (45 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "naturally-flavored-raspberry-cheesecake-cookie",
+      "name": "Naturally Flavored Raspberry Cheesecake Cookie",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 29,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 115,
+      "serving_note": "per serving (45 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "white-chip-macadamia-nut-cookie",
+      "name": "White Chip Macadamia Nut Cookie",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 28,
+      "fat_g": 10,
+      "fiber_g": 0.5,
+      "sodium_mg": 125,
+      "serving_note": "per serving (45 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "applesauce",
+      "name": "Applesauce**",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 70,
+      "protein_g": 0,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 3,
+      "sodium_mg": 0,
+      "serving_note": "per serving (90 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "hash-browns",
+      "name": "Hash Browns**",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 190,
+      "protein_g": 3,
+      "carbs_g": 24,
+      "fat_g": 9,
+      "fiber_g": 3,
+      "sodium_mg": 600,
+      "serving_note": "per serving (108 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "cookie-footlong-chocolate-chip",
+      "name": "Cookie, Footlong Chocolate Chip",
+      "description": "Desserts & Sides — Cookies & Sides",
+      "category": "side",
+      "calories": 1330,
+      "protein_g": 14,
+      "carbs_g": 181,
+      "fat_g": 61,
+      "fiber_g": 8,
+      "sodium_mg": 690,
+      "serving_note": "per serving (285 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "broccoli-cheddar",
+      "name": "Broccoli Cheddar**",
+      "description": "Desserts & Sides — Soup",
+      "category": "side",
+      "calories": 200,
+      "protein_g": 9,
+      "carbs_g": 16,
+      "fat_g": 13,
+      "fiber_g": 0.5,
+      "sodium_mg": 960,
+      "serving_note": "per 8 oz. bowl (227 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "chicken-noodle",
+      "name": "Chicken Noodle**",
+      "description": "Desserts & Sides — Soup",
+      "category": "side",
+      "calories": 70,
+      "protein_g": 7,
+      "carbs_g": 6,
+      "fat_g": 3,
+      "fiber_g": 0.5,
+      "sodium_mg": 1160,
+      "serving_note": "per 8 oz. bowl (227 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    },
+    {
+      "id": "loaded-baked-potato-with-bacon",
+      "name": "Loaded Baked Potato with Bacon**",
+      "description": "Desserts & Sides — Soup",
+      "category": "side",
+      "calories": 200,
+      "protein_g": 9,
+      "carbs_g": 17,
+      "fat_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 910,
+      "serving_note": "per 8 oz. bowl (227 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf"
+      }
+    }
+  ]
+}

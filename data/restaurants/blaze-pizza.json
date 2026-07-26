@@ -1,0 +1,4053 @@
+{
+  "id": "blaze-pizza",
+  "name": "Blaze Pizza",
+  "website": "https://www.blazepizza.com",
+  "nutrition_source": {
+    "type": "vendor",
+    "url": "https://www.nutritionix.com/blaze-pizza/menu/premium",
+    "vendor": "nutritionix",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "157 Stonestown Galleria, San Francisco, CA 94132",
+      "lat": 37.72803,
+      "lng": -122.47709,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "pizza-11-inch-blazed-bbq-1-of-6-slices",
+      "name": "Blazed BBQ (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 7.0,
+      "carbs_g": 17.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 390.0
+    },
+    {
+      "id": "pizza-11-inch-carnivore-1-of-6-slices",
+      "name": "Carnivore (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 10.0,
+      "carbs_g": 18.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 550.0
+    },
+    {
+      "id": "pizza-11-inch-four-cheese-1-of-6-slices",
+      "name": "Four Cheese (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 7.0,
+      "carbs_g": 15.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 280.0
+    },
+    {
+      "id": "pizza-11-inch-herbivore-1-of-6-slices",
+      "name": "Herbivore (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 5.0,
+      "carbs_g": 18.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 290.0
+    },
+    {
+      "id": "pizza-11-inch-meatball-pie-1-of-6-slices",
+      "name": "Meatball Pie (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 16.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 360.0
+    },
+    {
+      "id": "pizza-11-inch-red-vine-1-of-6-slices",
+      "name": "Red Vine (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 15.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0
+    },
+    {
+      "id": "pizza-11-inch-simple-pie-1-of-6-slices",
+      "name": "Simple Pie (1 of 6 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 15.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 240.0
+    },
+    {
+      "id": "pizza-11-inch-spicy-double-pepperoni-w-spicy-chili-oil-drizzle-1-of-6-slices",
+      "name": "Spicy Double Pepperoni w/ Spicy Chili Oil Drizzle (1 of 6 Slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 190.0,
+      "protein_g": 7.0,
+      "carbs_g": 16.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0
+    },
+    {
+      "id": "pizza-11-inch-spicy-double-pepperoni-w-spicy-sweet-drizzle-1-of-6-slices",
+      "name": "Spicy Double Pepperoni w/ Spicy Sweet Drizzle (1 of 6 Slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 6) of a 11-inch pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 7.0,
+      "carbs_g": 20.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 450.0
+    },
+    {
+      "id": "pizza-large-1-top-2-top-3-top-1-of-8-slices",
+      "name": "1 Top / 2 Top / 3 Top (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 5.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 270.0
+    },
+    {
+      "id": "pizza-large-blazed-bbq-1-of-8-slices",
+      "name": "Blazed BBQ (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 260.0,
+      "protein_g": 12.0,
+      "carbs_g": 32.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 640.0
+    },
+    {
+      "id": "pizza-large-build-your-own-1-of-8-slices",
+      "name": "Build Your Own (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 5.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 270.0
+    },
+    {
+      "id": "pizza-large-carnivore-1-of-8-slices",
+      "name": "Carnivore (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 15.0,
+      "carbs_g": 34.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 800.0
+    },
+    {
+      "id": "pizza-large-four-cheese-1-of-8-slices",
+      "name": "Four Cheese (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 12.0,
+      "carbs_g": 31.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 510.0
+    },
+    {
+      "id": "pizza-large-herbivore-1-of-8-slices",
+      "name": "Herbivore (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 270.0,
+      "protein_g": 10.0,
+      "carbs_g": 35.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 530.0
+    },
+    {
+      "id": "pizza-large-meatball-pie-1-of-8-slices",
+      "name": "Meatball Pie (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 290.0,
+      "protein_g": 14.0,
+      "carbs_g": 31.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 610.0
+    },
+    {
+      "id": "pizza-large-red-vine-1-of-8-slices",
+      "name": "Red Vine (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 200.0,
+      "protein_g": 8.0,
+      "carbs_g": 30.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "pizza-large-simple-pie-1-of-8-slices",
+      "name": "Simple Pie (1 of 8 slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 30.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0
+    },
+    {
+      "id": "pizza-large-spicy-double-pepperoni-w-spicy-chili-oil-drizzle-1-of-8-slices",
+      "name": "Spicy Double Pepperoni w/ Spicy Chili Oil Drizzle (1 of 8 Slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 310.0,
+      "protein_g": 13.0,
+      "carbs_g": 32.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0
+    },
+    {
+      "id": "pizza-large-spicy-double-pepperoni-w-spicy-sweet-drizzle-1-of-8-slices",
+      "name": "Spicy Double Pepperoni w/ Spicy Sweet Drizzle (1 of 8 Slices)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per slice (1 of 8) of a large pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 13.0,
+      "carbs_g": 35.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0
+    },
+    {
+      "id": "take-two-half-pizza-blazed-bbq-half-pizza",
+      "name": "Blazed BBQ (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 430.0,
+      "protein_g": 21.0,
+      "carbs_g": 51.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "take-two-half-pizza-carnivore-half-pizza",
+      "name": "Carnivore (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 570.0,
+      "protein_g": 29.0,
+      "carbs_g": 54.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "take-two-half-pizza-four-cheese-half-pizza",
+      "name": "Four Cheese (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 500.0,
+      "protein_g": 20.0,
+      "carbs_g": 46.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 830.0
+    },
+    {
+      "id": "take-two-half-pizza-herbivore-half-pizza",
+      "name": "Herbivore (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 440.0,
+      "protein_g": 16.0,
+      "carbs_g": 55.0,
+      "fat_g": 17.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 860.0
+    },
+    {
+      "id": "take-two-half-pizza-meatball-pie-half-pizza",
+      "name": "Meatball Pie (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 550.0,
+      "protein_g": 26.0,
+      "carbs_g": 49.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "take-two-half-pizza-red-vine-half-pizza",
+      "name": "Red Vine (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 330.0,
+      "protein_g": 14.0,
+      "carbs_g": 45.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 610.0
+    },
+    {
+      "id": "take-two-half-pizza-simple-pie-half-pizza",
+      "name": "Simple Pie (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 320.0,
+      "protein_g": 14.0,
+      "carbs_g": 44.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 720.0
+    },
+    {
+      "id": "take-two-half-pizza-spicy-double-pepperoni-w-spicy-chili-oil-drizzle-half-pizza",
+      "name": "Spicy Double Pepperoni w/ Spicy Chili Oil Drizzle (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 570.0,
+      "protein_g": 23.0,
+      "carbs_g": 49.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "take-two-half-pizza-spicy-double-pepperoni-w-spicy-sweet-drizzle-half-pizza",
+      "name": "Spicy Double Pepperoni w/ Spicy Sweet Drizzle (Half Pizza)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per half pizza",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 550.0,
+      "protein_g": 23.0,
+      "carbs_g": 60.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-bacon-pesto-bliss-salad-entr-e",
+      "name": "Bacon Pesto Bliss Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 560.0,
+      "protein_g": 24.0,
+      "carbs_g": 20.0,
+      "fat_g": 40.0,
+      "fiber_g": 3.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-blt-cobb-entr-e",
+      "name": "BLT Cobb (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 440.0,
+      "protein_g": 18.0,
+      "carbs_g": 12.0,
+      "fat_g": 37.0,
+      "fiber_g": 5.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-blt-cobb-side",
+      "name": "BLT Cobb (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 10.0,
+      "carbs_g": 7.0,
+      "fat_g": 20.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 660.0
+    },
+    {
+      "id": "simple-salads-blt-wedge-entr-e",
+      "name": "BLT Wedge (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 320.0,
+      "protein_g": 15.0,
+      "carbs_g": 11.0,
+      "fat_g": 25.0,
+      "fiber_g": 5.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-blt-wedge-side",
+      "name": "BLT Wedge (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 8.0,
+      "carbs_g": 6.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 550.0
+    },
+    {
+      "id": "simple-salads-buffalo-blue-salad-entr-e",
+      "name": "Buffalo Blue Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 330.0,
+      "protein_g": 14.0,
+      "carbs_g": 12.0,
+      "fat_g": 25.0,
+      "fiber_g": 6.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-buffalo-blue-salad-side",
+      "name": "Buffalo Blue Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 180.0,
+      "protein_g": 8.0,
+      "carbs_g": 7.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 890.0
+    },
+    {
+      "id": "simple-salads-caprese-salad-entr-e",
+      "name": "Caprese Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 770.0,
+      "protein_g": 21.0,
+      "carbs_g": 42.0,
+      "fat_g": 60.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 880.0
+    },
+    {
+      "id": "simple-salads-caprese-salad-side",
+      "name": "Caprese Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 560.0,
+      "protein_g": 11.0,
+      "carbs_g": 21.0,
+      "fat_g": 50.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 570.0
+    },
+    {
+      "id": "simple-salads-chicken-chickpea-salad-entr-e",
+      "name": "Chicken Chickpea Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 590.0,
+      "protein_g": 29.0,
+      "carbs_g": 65.0,
+      "fat_g": 22.0,
+      "fiber_g": 10.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-classic-caesar-salad-entr-e",
+      "name": "Classic Caesar Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 500.0,
+      "protein_g": 20.0,
+      "carbs_g": 27.0,
+      "fat_g": 37.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 990.0
+    },
+    {
+      "id": "simple-salads-classic-caesar-salad-side",
+      "name": "Classic Caesar Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 280.0,
+      "protein_g": 11.0,
+      "carbs_g": 15.0,
+      "fat_g": 20.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 550.0
+    },
+    {
+      "id": "simple-salads-classic-greek-salad-entr-e",
+      "name": "Classic Greek Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 310.0,
+      "protein_g": 6.0,
+      "carbs_g": 13.0,
+      "fat_g": 28.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 910.0
+    },
+    {
+      "id": "simple-salads-classic-greek-salad-side",
+      "name": "Classic Greek Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 3.0,
+      "carbs_g": 7.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 510.0
+    },
+    {
+      "id": "simple-salads-fresh-berry-salad-entr-e",
+      "name": "Fresh Berry Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 300.0,
+      "protein_g": 10.0,
+      "carbs_g": 21.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 550.0
+    },
+    {
+      "id": "simple-salads-fresh-berry-salad-side",
+      "name": "Fresh Berry Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 240.0,
+      "protein_g": 6.0,
+      "carbs_g": 17.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "simple-salads-green-goddess-chop-salad-entr-e",
+      "name": "Green Goddess Chop Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 780.0,
+      "protein_g": 26.0,
+      "carbs_g": 29.0,
+      "fat_g": 59.0,
+      "fiber_g": 7.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "simple-salads-green-goddess-chop-salad-side",
+      "name": "Green Goddess Chop Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 410.0,
+      "protein_g": 14.0,
+      "carbs_g": 15.0,
+      "fat_g": 31.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 890.0
+    },
+    {
+      "id": "simple-salads-spring-green-salad-side",
+      "name": "Spring Green Salad (Side)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per side salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 6.0,
+      "carbs_g": 14.0,
+      "fat_g": 2.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 230.0
+    },
+    {
+      "id": "simple-salads-the-chop-salad-entr-e",
+      "name": "The Chop Salad (Entrée)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 620.0,
+      "protein_g": 19.0,
+      "carbs_g": 37.0,
+      "fat_g": 42.0,
+      "fiber_g": 8.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "sides-cheesy-bread",
+      "name": "Cheesy Bread",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 790.0,
+      "protein_g": 30.0,
+      "carbs_g": 100.0,
+      "fat_g": 28.0,
+      "fiber_g": 5.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "sides-cheesy-pesto-garlic-bread",
+      "name": "Cheesy Pesto Garlic Bread",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 750.0,
+      "protein_g": 32.0,
+      "carbs_g": 101.0,
+      "fat_g": 21.0,
+      "fiber_g": 6.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "sides-spicy-cheesy-bread",
+      "name": "Spicy Cheesy Bread",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 730.0,
+      "protein_g": 30.0,
+      "carbs_g": 100.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "sodium_mg": null
+    },
+    {
+      "id": "drinks-16-oz-barqs-rootbeer",
+      "name": "Barqs Rootbeer",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "drinks-16-oz-blackberry-basil-agua-fresca",
+      "name": "Blackberry Basil Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-16-oz-black-cherry-blue-sky",
+      "name": "Black Cherry Blue Sky",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-16-oz-blood-orange-lemonade",
+      "name": "Blood Orange Lemonade",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-16-oz-coke",
+      "name": "Coke",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "drinks-16-oz-coke-zero",
+      "name": "Coke Zero",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "drinks-16-oz-diet-coke",
+      "name": "Diet Coke",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-16-oz-lemonade",
+      "name": "Lemonade",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 38.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-16-oz-mango-agua-fresca",
+      "name": "Mango Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-16-oz-mango-blue-sky",
+      "name": "Mango Blue Sky",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-16-oz-pear-cucumber-agua-fresca",
+      "name": "Pear Cucumber Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-16-oz-pomegranate-limeade-agua-fresca",
+      "name": "Pomegranate Limeade Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-16-oz-root-beer-blue-sky",
+      "name": "Root Beer Blue Sky",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-16-oz-sprite",
+      "name": "Sprite",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "drinks-16-oz-strawberry-agua-fresca",
+      "name": "Strawberry Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-16-oz-tangerine-passionfruit-agua-fresca",
+      "name": "Tangerine Passionfruit Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-16-oz-unsweetened-iced-tea",
+      "name": "Unsweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 16 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "drinks-24-oz-barqs-rootbeer",
+      "name": "Barqs Rootbeer",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "drinks-24-oz-blackberry-basil-agua-fresca",
+      "name": "Blackberry Basil Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-black-cherry-blue-sky",
+      "name": "Black Cherry Blue Sky",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-blood-orange-lemonade",
+      "name": "Blood Orange Lemonade",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 210.0,
+      "protein_g": 3.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "drinks-24-oz-coke",
+      "name": "Coke",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 37.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "drinks-24-oz-coke-zero",
+      "name": "Coke Zero",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "drinks-24-oz-diet-coke",
+      "name": "Diet Coke",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-lemonade",
+      "name": "Lemonade",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 57.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-mango-agua-fresca",
+      "name": "Mango Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-mango-blue-sky",
+      "name": "Mango Blue Sky",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-pear-cucumber-agua-fresca",
+      "name": "Pear Cucumber Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-pomegranate-limeade-agua-fresca",
+      "name": "Pomegranate Limeade Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-root-beer-blue-sky",
+      "name": "Root Beer Blue Sky",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-sprite",
+      "name": "Sprite",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 38.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "drinks-24-oz-strawberry-agua-fresca",
+      "name": "Strawberry Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 27.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-tangerine-passionfruit-agua-fresca",
+      "name": "Tangerine Passionfruit Agua Fresca",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "drinks-24-oz-unsweetened-iced-tea",
+      "name": "Unsweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 24 oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "dessert-chocolate-brownie",
+      "name": "Chocolate Brownie",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 380.0,
+      "protein_g": 4.0,
+      "carbs_g": 46.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 150.0
+    },
+    {
+      "id": "dessert-chocolate-chunk-cookie",
+      "name": "Chocolate Chunk Cookie",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 34.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "dessert-cinnamon-bread",
+      "name": "Cinnamon Bread",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 730.0,
+      "protein_g": 18.0,
+      "carbs_g": 130.0,
+      "fat_g": 16.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 910.0
+    },
+    {
+      "id": "dessert-s-more-pie",
+      "name": "S'more Pie",
+      "description": null,
+      "category": "side",
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 170.0
+    },
+    {
+      "id": "dough-11-inch-pizzas-cauliflower-crust-gf",
+      "name": "Cauliflower Crust (GF)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 15.0,
+      "fat_g": 2.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0
+    },
+    {
+      "id": "dough-11-inch-pizzas-classic-dough",
+      "name": "Classic Dough",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 130.0
+    },
+    {
+      "id": "dough-11-inch-pizzas-gluten-free-dough",
+      "name": "Gluten Free Dough",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 1.0,
+      "carbs_g": 16.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 180.0
+    },
+    {
+      "id": "dough-11-inch-pizzas-high-rise-dough",
+      "name": "High Rise Dough",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 100.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0
+    },
+    {
+      "id": "dough-11-inch-pizzas-keto-crust-gf",
+      "name": "Keto Crust (GF)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 9.0,
+      "carbs_g": 2.0,
+      "fat_g": 2.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "dough-large-pizzas-classic-dough",
+      "name": "Classic Dough",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 140.0,
+      "protein_g": 5.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 270.0
+    },
+    {
+      "id": "sauce-11-inch-pizzas-garlic-pesto-sauce",
+      "name": "Garlic Pesto Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "sauce-11-inch-pizzas-red-sauce",
+      "name": "Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "sauce-11-inch-pizzas-spicy-red-sauce",
+      "name": "Spicy Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "sauce-11-inch-pizzas-white-cream-sauce",
+      "name": "White Cream Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "sauce-large-pizzas-red-sauce",
+      "name": "Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "sauce-large-pizzas-spicy-red-sauce",
+      "name": "Spicy Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "sauce-large-pizzas-white-cream-sauce",
+      "name": "White Cream Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-feta",
+      "name": "Feta",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-goat-cheese",
+      "name": "Goat Cheese",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-gorgonzola",
+      "name": "Gorgonzola",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-grated-parmesan",
+      "name": "Grated Parmesan",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-ovalini-mozzarella",
+      "name": "Ovalini Mozzarella",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 25.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-ricotta",
+      "name": "Ricotta",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-shaved-parmesan",
+      "name": "Shaved Parmesan",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-shredded-mozzarella",
+      "name": "Shredded Mozzarella",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "cheese-11-inch-pizzas-vegan-cheese",
+      "name": "Vegan Cheese",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "cheese-large-pizzas-feta",
+      "name": "Feta",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "cheese-large-pizzas-goat-cheese",
+      "name": "Goat Cheese",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "cheese-large-pizzas-gorgonzola",
+      "name": "Gorgonzola",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0
+    },
+    {
+      "id": "cheese-large-pizzas-grated-parmesan",
+      "name": "Grated Parmesan",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "cheese-large-pizzas-ovalini-mozzarella",
+      "name": "Ovalini Mozzarella",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 35.0,
+      "protein_g": 3.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "cheese-large-pizzas-ricotta",
+      "name": "Ricotta",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "cheese-large-pizzas-shredded-mozzarella",
+      "name": "Shredded Mozzarella",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 1.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0
+    },
+    {
+      "id": "cheese-large-pizzas-vegan-cheese",
+      "name": "Vegan Cheese",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 45.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 130.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-applewood-bacon",
+      "name": "Applewood Bacon",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-artichokes",
+      "name": "Artichokes",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-banana-peppers",
+      "name": "Banana Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-basil",
+      "name": "Basil",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-black-olives",
+      "name": "Black Olives",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-cherry-tomatoes",
+      "name": "Cherry Tomatoes",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-chicken",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-chopped-garlic",
+      "name": "Chopped Garlic",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-green-bell-peppers",
+      "name": "Green Bell Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-italian-sausage",
+      "name": "Italian Sausage",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-jalapenos",
+      "name": "Jalapenos",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-kalamata-olives",
+      "name": "Kalamata Olives",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-meatballs",
+      "name": "Meatballs",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 25.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-mushrooms",
+      "name": "Mushrooms",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-pepperoni",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-pineapple",
+      "name": "Pineapple",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-red-onions",
+      "name": "Red Onions",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-red-peppers",
+      "name": "Red Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-roasted-broccoli",
+      "name": "Roasted Broccoli",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-roasted-brussel-sprouts",
+      "name": "Roasted Brussel Sprouts",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-roasted-butternut-squash",
+      "name": "Roasted Butternut Squash",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-roasted-garlic",
+      "name": "Roasted Garlic",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-salame",
+      "name": "Salame",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-sauteed-onion",
+      "name": "Sauteed Onion",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-scorpion-slaw",
+      "name": "Scorpion Slaw",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-smoked-ham",
+      "name": "Smoked Ham",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-spicy-chorizo-vegan",
+      "name": "Spicy Chorizo (Vegan)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-spicy-hot-chicken",
+      "name": "Spicy Hot Chicken",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-spinach",
+      "name": "Spinach",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-11-inch-pizzas-zucchini",
+      "name": "Zucchini",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-applewood-bacon",
+      "name": "Applewood Bacon",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-artichokes",
+      "name": "Artichokes",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-banana-peppers",
+      "name": "Banana Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-basil",
+      "name": "Basil",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-black-olives",
+      "name": "Black Olives",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-cherry-tomatoes",
+      "name": "Cherry Tomatoes",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-chicken",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-chopped-garlic",
+      "name": "Chopped Garlic",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-green-bell-peppers",
+      "name": "Green Bell Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-italian-sausage",
+      "name": "Italian Sausage",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-jalapenos",
+      "name": "Jalapenos",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-kalamata-olives",
+      "name": "Kalamata Olives",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-meatballs",
+      "name": "Meatballs",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-mushrooms",
+      "name": "Mushrooms",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-pepperoni",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 25.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-pineapple",
+      "name": "Pineapple",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-red-onions",
+      "name": "Red Onions",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-red-peppers",
+      "name": "Red Peppers",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-roasted-broccoli",
+      "name": "Roasted Broccoli",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-roasted-butternut-squash",
+      "name": "Roasted Butternut Squash",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-roasted-garlic",
+      "name": "Roasted Garlic",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-salame",
+      "name": "Salame",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 35.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-sauteed-onion",
+      "name": "Sauteed Onion",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-scorpion-slaw",
+      "name": "Scorpion Slaw",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-smoked-ham",
+      "name": "Smoked Ham",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-spicy-chorizo-vegan",
+      "name": "Spicy Chorizo (Vegan)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-spicy-hot-chicken",
+      "name": "Spicy Hot Chicken",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-spinach",
+      "name": "Spinach",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "meats-and-veggies-large-pizzas-zucchini",
+      "name": "Zucchini",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-arugula",
+      "name": "Arugula",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-balsamic-glaze",
+      "name": "Balsamic Glaze",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-bbq-drizzle",
+      "name": "BBQ Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-buffalo-sauce",
+      "name": "Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-chipotle-ranch-drizzle",
+      "name": "Chipotle Ranch Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-franks-red-hot-drizzle",
+      "name": "Franks Red Hot Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-olive-oil-drizzle",
+      "name": "Olive Oil Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-oregano",
+      "name": "Oregano",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-ranch",
+      "name": "Ranch",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-sea-salt",
+      "name": "Sea Salt",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-spicy-chili-oil-drizzle",
+      "name": "Spicy Chili Oil Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "finishes-11-inch-pizzas-spicy-sweet-drizzle",
+      "name": "Spicy Sweet Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-large-pizzas-arugula",
+      "name": "Arugula",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-large-pizzas-balsamic-glaze",
+      "name": "Balsamic Glaze",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "finishes-large-pizzas-bbq-drizzle",
+      "name": "BBQ Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "finishes-large-pizzas-buffalo-sauce",
+      "name": "Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0
+    },
+    {
+      "id": "finishes-large-pizzas-chipotle-ranch-drizzle",
+      "name": "Chipotle Ranch Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0
+    },
+    {
+      "id": "finishes-large-pizzas-franks-red-hot-drizzle",
+      "name": "Franks Red Hot Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0
+    },
+    {
+      "id": "finishes-large-pizzas-olive-oil-drizzle",
+      "name": "Olive Oil Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-large-pizzas-oregano",
+      "name": "Oregano",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "finishes-large-pizzas-pesto-drizzle",
+      "name": "Pesto Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "finishes-large-pizzas-ranch",
+      "name": "Ranch",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "finishes-large-pizzas-sea-salt",
+      "name": "Sea Salt",
+      "description": null,
+      "category": "component",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0
+    },
+    {
+      "id": "finishes-large-pizzas-spicy-chili-oil-drizzle",
+      "name": "Spicy Chili Oil Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "finishes-large-pizzas-spicy-sweet-drizzle",
+      "name": "Spicy Sweet Drizzle",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per pizza portion of this ingredient",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "blazed-bbq-whole-11-inch-pizza",
+      "name": "Blazed BBQ (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 840.0,
+      "protein_g": 42.0,
+      "carbs_g": 102.0,
+      "fat_g": 30.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2340.0
+    },
+    {
+      "id": "carnivore-whole-11-inch-pizza",
+      "name": "Carnivore (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1140.0,
+      "protein_g": 60.0,
+      "carbs_g": 108.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3300.0
+    },
+    {
+      "id": "four-cheese-whole-11-inch-pizza",
+      "name": "Four Cheese (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1020.0,
+      "protein_g": 42.0,
+      "carbs_g": 90.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1680.0
+    },
+    {
+      "id": "herbivore-whole-11-inch-pizza",
+      "name": "Herbivore (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 900.0,
+      "protein_g": 30.0,
+      "carbs_g": 108.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1740.0
+    },
+    {
+      "id": "meatball-pie-whole-11-inch-pizza",
+      "name": "Meatball Pie (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1020.0,
+      "protein_g": 48.0,
+      "carbs_g": 96.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2160.0
+    },
+    {
+      "id": "red-vine-whole-11-inch-pizza",
+      "name": "Red Vine (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 660.0,
+      "protein_g": 30.0,
+      "carbs_g": 90.0,
+      "fat_g": 18.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1200.0
+    },
+    {
+      "id": "simple-pie-whole-11-inch-pizza",
+      "name": "Simple Pie (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 660.0,
+      "protein_g": 30.0,
+      "carbs_g": 90.0,
+      "fat_g": 18.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1440.0
+    },
+    {
+      "id": "spicy-double-pepperoni-w-spicy-chili-oil-drizzle-whole-11-inch-pizza",
+      "name": "Spicy Double Pepperoni w/ Spicy Chili Oil Drizzle (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1140.0,
+      "protein_g": 42.0,
+      "carbs_g": 96.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2760.0
+    },
+    {
+      "id": "spicy-double-pepperoni-w-spicy-sweet-drizzle-whole-11-inch-pizza",
+      "name": "Spicy Double Pepperoni w/ Spicy Sweet Drizzle (11-Inch Pizza, whole)",
+      "description": "Whole 11-inch pizza: Blaze publishes this pizza per slice; this row is 6 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole 11-inch pizza (6 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1080.0,
+      "protein_g": 42.0,
+      "carbs_g": 120.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2700.0
+    },
+    {
+      "id": "1-top-2-top-3-top-whole-large-pizza",
+      "name": "1 Top / 2 Top / 3 Top (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1120.0,
+      "protein_g": 40.0,
+      "carbs_g": 224.0,
+      "fat_g": 4.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2160.0
+    },
+    {
+      "id": "blazed-bbq-whole-large-pizza",
+      "name": "Blazed BBQ (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2080.0,
+      "protein_g": 96.0,
+      "carbs_g": 256.0,
+      "fat_g": 64.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5120.0
+    },
+    {
+      "id": "build-your-own-whole-large-pizza",
+      "name": "Build Your Own (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1120.0,
+      "protein_g": 40.0,
+      "carbs_g": 224.0,
+      "fat_g": 4.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2160.0
+    },
+    {
+      "id": "carnivore-whole-large-pizza",
+      "name": "Carnivore (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2400.0,
+      "protein_g": 120.0,
+      "carbs_g": 272.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6400.0
+    },
+    {
+      "id": "four-cheese-whole-large-pizza",
+      "name": "Four Cheese (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2320.0,
+      "protein_g": 96.0,
+      "carbs_g": 248.0,
+      "fat_g": 104.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4080.0
+    },
+    {
+      "id": "herbivore-whole-large-pizza",
+      "name": "Herbivore (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2160.0,
+      "protein_g": 80.0,
+      "carbs_g": 280.0,
+      "fat_g": 80.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 4240.0
+    },
+    {
+      "id": "meatball-pie-whole-large-pizza",
+      "name": "Meatball Pie (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2320.0,
+      "protein_g": 112.0,
+      "carbs_g": 248.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 4880.0
+    },
+    {
+      "id": "red-vine-whole-large-pizza",
+      "name": "Red Vine (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1600.0,
+      "protein_g": 64.0,
+      "carbs_g": 240.0,
+      "fat_g": 40.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 2960.0
+    },
+    {
+      "id": "simple-pie-whole-large-pizza",
+      "name": "Simple Pie (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 1760.0,
+      "protein_g": 80.0,
+      "carbs_g": 240.0,
+      "fat_g": 56.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 3760.0
+    },
+    {
+      "id": "spicy-double-pepperoni-w-spicy-chili-oil-drizzle-whole-large-pizza",
+      "name": "Spicy Double Pepperoni w/ Spicy Chili Oil Drizzle (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2480.0,
+      "protein_g": 104.0,
+      "carbs_g": 256.0,
+      "fat_g": 112.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6160.0
+    },
+    {
+      "id": "spicy-double-pepperoni-w-spicy-sweet-drizzle-whole-large-pizza",
+      "name": "Spicy Double Pepperoni w/ Spicy Sweet Drizzle (Large Pizza, whole)",
+      "description": "Whole large pizza: Blaze publishes this pizza per slice; this row is 8 x the published slice.",
+      "category": "meal",
+      "serving_note": "per whole large pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.nutritionix.com/blaze-pizza/menu/premium"
+      },
+      "calories": 2400.0,
+      "protein_g": 104.0,
+      "carbs_g": 280.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6160.0
+    }
+  ]
+}

@@ -1,0 +1,2091 @@
+{
+  "id": "california-pizza-kitchen",
+  "name": "California Pizza Kitchen",
+  "website": "https://www.cpk.com",
+  "nutrition_source": {
+    "type": "vendor",
+    "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu",
+    "vendor": "Healthy Dining",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "53 Third Street, San Francisco, CA 94103",
+      "lat": 37.7869621,
+      "lng": -122.4025283,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "vendor-chicken-tequila-zucchini-fettuccine",
+      "name": "Chicken Tequila Zucchini Fettuccine",
+      "description": null,
+      "category": "meal",
+      "calories": 815.5,
+      "protein_g": 32.8,
+      "carbs_g": 39.3,
+      "fat_g": 60.6,
+      "fiber_g": 5.7,
+      "sodium_mg": 1452.8,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-garlic-cream-zucchini-fettuccine",
+      "name": "Garlic Cream Zucchini Fettuccine",
+      "description": null,
+      "category": "meal",
+      "calories": 875.3,
+      "protein_g": 20.5,
+      "carbs_g": 34.8,
+      "fat_g": 74.8,
+      "fiber_g": 4.1,
+      "sodium_mg": 996.8,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-kung-pao-zucchini-fettuccine",
+      "name": "Kung Pao Zucchini Fettuccine",
+      "description": null,
+      "category": "meal",
+      "calories": 517.9,
+      "protein_g": 17.4,
+      "carbs_g": 50.0,
+      "fat_g": 28.8,
+      "fiber_g": 7.5,
+      "sodium_mg": 1319.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-avocado-club-egg-rolls",
+      "name": "Avocado Club Egg Rolls",
+      "description": null,
+      "category": "side",
+      "calories": 1239.2,
+      "protein_g": 63.1,
+      "carbs_g": 61.5,
+      "fat_g": 82.0,
+      "fiber_g": 5.6,
+      "sodium_mg": 1962.9,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-california-olive-oil-with-mediterranean-herbs-fl-oz",
+      "name": "California Olive Oil with Mediterranean Herbs (½ fl oz)",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1/2 fl oz",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-ciabatta-baguette-2-slices",
+      "name": "Ciabatta Baguette (2 Slices)",
+      "description": null,
+      "category": "side",
+      "calories": 74.7,
+      "protein_g": 2.5,
+      "carbs_g": 14.9,
+      "fat_g": 0.3,
+      "fiber_g": 0.6,
+      "sodium_mg": 168.0,
+      "serving_note": "per 2 slices",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-dynamite-shrimp",
+      "name": "Dynamite Shrimp",
+      "description": null,
+      "category": "side",
+      "calories": 680.0,
+      "protein_g": 21.0,
+      "carbs_g": 41.0,
+      "fat_g": 48.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1750.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-lettuce-wraps",
+      "name": "Lettuce Wraps",
+      "description": null,
+      "category": "side",
+      "calories": 381.5,
+      "protein_g": 10.6,
+      "carbs_g": 52.2,
+      "fat_g": 16.8,
+      "fiber_g": 11.1,
+      "sodium_mg": 3173.5,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-mexican-street-corn",
+      "name": "Mexican Street Corn",
+      "description": null,
+      "category": "side",
+      "calories": 440.0,
+      "protein_g": 13.0,
+      "carbs_g": 53.0,
+      "fat_g": 21.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-spicy-buffalo-cauliflower",
+      "name": "Spicy Buffalo Cauliflower",
+      "description": null,
+      "category": "side",
+      "calories": 720.0,
+      "protein_g": 11.0,
+      "carbs_g": 49.0,
+      "fat_g": 54.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2010.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-spinach-artichoke-dip",
+      "name": "Spinach Artichoke Dip",
+      "description": null,
+      "category": "side",
+      "calories": 1060.0,
+      "protein_g": 24.0,
+      "carbs_g": 108.0,
+      "fat_g": 58.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 1240.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-szechwan-chicken-dumplings",
+      "name": "Szechwan Chicken Dumplings",
+      "description": null,
+      "category": "side",
+      "calories": 340.0,
+      "protein_g": 19.0,
+      "carbs_g": 45.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1340.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-the-wedge",
+      "name": "The Wedge",
+      "description": null,
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 6.0,
+      "carbs_g": 8.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-white-corn-guacamole-chips",
+      "name": "White Corn Guacamole + Chips",
+      "description": null,
+      "category": "side",
+      "calories": 770.0,
+      "protein_g": 10.0,
+      "carbs_g": 79.0,
+      "fat_g": 51.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-dakota-smashed-pea-barley",
+      "name": "Dakota Smashed Pea + Barley",
+      "description": null,
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 11.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-sedona-tortilla",
+      "name": "Sedona Tortilla",
+      "description": null,
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 3.0,
+      "carbs_g": 25.0,
+      "fat_g": 17.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-tomato-basil-bisque",
+      "name": "Tomato Basil Bisque",
+      "description": null,
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-two-in-a-bowl",
+      "name": "Two in a Bowl",
+      "description": null,
+      "category": "side",
+      "calories": 430.0,
+      "protein_g": 15.0,
+      "carbs_g": 58.0,
+      "fat_g": 17.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-classic-caesar",
+      "name": "Classic Caesar",
+      "description": null,
+      "category": "meal",
+      "calories": 330.0,
+      "protein_g": 9.0,
+      "carbs_g": 16.0,
+      "fat_g": 26.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per 1 half",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-california-cobb",
+      "name": "California Cobb",
+      "description": null,
+      "category": "meal",
+      "calories": 513.0,
+      "protein_g": 26.6,
+      "carbs_g": 12.3,
+      "fat_g": 39.5,
+      "fiber_g": 5.0,
+      "sodium_mg": 956.8,
+      "serving_note": "per 1 half",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-charcuterie",
+      "name": "Charcuterie",
+      "description": null,
+      "category": "meal",
+      "calories": 1270.2,
+      "protein_g": 41.7,
+      "carbs_g": 44.4,
+      "fat_g": 101.2,
+      "fiber_g": 8.2,
+      "sodium_mg": 1501.9,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-italian-chopped",
+      "name": "Italian Chopped",
+      "description": null,
+      "category": "meal",
+      "calories": 504.9,
+      "protein_g": 24.1,
+      "carbs_g": 12.3,
+      "fat_g": 41.0,
+      "fiber_g": 2.6,
+      "sodium_mg": 968.5,
+      "serving_note": "per 1 half",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-korean-crispy-dumpling",
+      "name": "Korean Crispy Dumpling",
+      "description": null,
+      "category": "meal",
+      "calories": 416.4,
+      "protein_g": 12.9,
+      "carbs_g": 48.1,
+      "fat_g": 20.4,
+      "fiber_g": 3.6,
+      "sodium_mg": 1075.1,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-steakhouse",
+      "name": "Steakhouse",
+      "description": null,
+      "category": "drink",
+      "calories": 721.5,
+      "protein_g": 33.2,
+      "carbs_g": 28.7,
+      "fat_g": 52.8,
+      "fiber_g": 4.8,
+      "sodium_mg": 1002.6,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-thai-crunch",
+      "name": "Thai Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 27.0,
+      "carbs_g": 40.0,
+      "fat_g": 34.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 800.0,
+      "serving_note": "per 1 half",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-the-original-bbq-chicken-chopped-salad",
+      "name": "The Original BBQ Chicken Chopped Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 29.0,
+      "carbs_g": 47.0,
+      "fat_g": 42.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per 1 half",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-cedar-plank-salmon",
+      "name": "Cedar Plank Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 651.3,
+      "protein_g": 51.8,
+      "carbs_g": 35.4,
+      "fat_g": 34.4,
+      "fiber_g": 4.1,
+      "sodium_mg": 641.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-chicken-piccata",
+      "name": "Chicken Piccata",
+      "description": null,
+      "category": "meal",
+      "calories": 1030.4,
+      "protein_g": 54.9,
+      "carbs_g": 73.0,
+      "fat_g": 55.8,
+      "fiber_g": 4.1,
+      "sodium_mg": 2077.8,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-bolognese-spaghetti",
+      "name": "Bolognese Spaghetti",
+      "description": null,
+      "category": "meal",
+      "calories": 900.0,
+      "protein_g": 27.0,
+      "carbs_g": 88.0,
+      "fat_g": 48.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2050.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-chicken-tequila-fettuccine",
+      "name": "Chicken Tequila Fettuccine",
+      "description": null,
+      "category": "meal",
+      "calories": 1240.0,
+      "protein_g": 45.0,
+      "carbs_g": 116.0,
+      "fat_g": 68.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1810.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-garlic-cream-fettuccine",
+      "name": "Garlic Cream Fettuccine",
+      "description": null,
+      "category": "meal",
+      "calories": 1260.0,
+      "protein_g": 30.0,
+      "carbs_g": 97.0,
+      "fat_g": 84.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1280.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-kung-pao-spaghetti",
+      "name": "Kung Pao Spaghetti",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 28.0,
+      "carbs_g": 112.0,
+      "fat_g": 37.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1600.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-shrimp-scampi-zucchini",
+      "name": "Shrimp Scampi Zucchini",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 27.0,
+      "carbs_g": 30.0,
+      "fat_g": 26.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1030.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-tomato-basil-spaghetti",
+      "name": "Tomato Basil Spaghetti",
+      "description": null,
+      "category": "meal",
+      "calories": 954.0,
+      "protein_g": 19.9,
+      "carbs_g": 103.5,
+      "fat_g": 51.5,
+      "fiber_g": 9.5,
+      "sodium_mg": 1637.9,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-california-club",
+      "name": "California Club",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 12.0,
+      "carbs_g": 24.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-california-veggie",
+      "name": "California Veggie",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 25.0,
+      "fat_g": 4.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-the-original-bbq-chicken-pizza",
+      "name": "The Original BBQ Chicken Pizza",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 11.0,
+      "carbs_g": 25.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-wild-mushroom",
+      "name": "Wild Mushroom",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 7.0,
+      "carbs_g": 22.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-five-cheese-fresh-tomato",
+      "name": "Five Cheese + Fresh Tomato",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 22.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-hawaiian",
+      "name": "Hawaiian",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-margherita",
+      "name": "Margherita",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 9.0,
+      "carbs_g": 22.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-mushroom-pepperoni-sausage",
+      "name": "Mushroom Pepperoni Sausage",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 9.0,
+      "carbs_g": 23.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-neapolitan-burrata",
+      "name": "Neapolitan Burrata",
+      "description": null,
+      "category": "component",
+      "calories": 216.0,
+      "protein_g": 6.4,
+      "carbs_g": 23.9,
+      "fat_g": 11.0,
+      "fiber_g": 1.3,
+      "sodium_mg": 393.3,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-pepperoni",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 22.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-the-works",
+      "name": "The Works",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 9.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-burnt-ends-bbq-pizza",
+      "name": "Burnt Ends BBQ Pizza",
+      "description": null,
+      "category": "component",
+      "calories": 198.0,
+      "protein_g": 9.7,
+      "carbs_g": 24.4,
+      "fat_g": 7.2,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.3,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-carne-asada",
+      "name": "Carne Asada",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 12.0,
+      "carbs_g": 23.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-sicilian",
+      "name": "Sicilian",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 13.0,
+      "carbs_g": 24.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-spicy-chipotle-chicken",
+      "name": "Spicy Chipotle Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-thai-chicken",
+      "name": "Thai Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 11.0,
+      "carbs_g": 26.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-tostada",
+      "name": "Tostada",
+      "description": null,
+      "category": "component",
+      "calories": 187.0,
+      "protein_g": 7.0,
+      "carbs_g": 27.0,
+      "fat_g": 6.5,
+      "fiber_g": 2.4,
+      "sodium_mg": 375.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-gf-margherita",
+      "name": "GF Margherita",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 9.0,
+      "carbs_g": 15.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-gf-mushroom-pepperoni-sausage",
+      "name": "GF Mushroom Pepperoni Sausage",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 9.0,
+      "carbs_g": 15.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-gf-original-bbq-chicken-pizza",
+      "name": "GF Original BBQ Chicken Pizza",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 10.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-gf-pepperoni",
+      "name": "GF Pepperoni",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 8.0,
+      "carbs_g": 15.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-gf-traditional-cheese",
+      "name": "GF Traditional Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 9.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 1 slice",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-original-bbq-chicken-pizza",
+      "name": "Original BBQ Chicken Pizza",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 34.0,
+      "carbs_g": 92.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-cpk-salad",
+      "name": "CPK Salad",
+      "description": null,
+      "category": "side",
+      "calories": 197.8,
+      "protein_g": 2.4,
+      "carbs_g": 5.7,
+      "fat_g": 18.9,
+      "fiber_g": 3.0,
+      "sodium_mg": 185.7,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-curly-mac-n-cheese",
+      "name": "Curly Mac N' Cheese",
+      "description": null,
+      "category": "side",
+      "calories": 820.0,
+      "protein_g": 21.0,
+      "carbs_g": 66.0,
+      "fat_g": 53.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-fusilli-pasta",
+      "name": "Fusilli Pasta",
+      "description": null,
+      "category": "side",
+      "calories": 460.0,
+      "protein_g": 13.0,
+      "carbs_g": 66.0,
+      "fat_g": 15.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-crispy-chicken",
+      "name": "Crispy Chicken",
+      "description": null,
+      "category": "side",
+      "calories": 548.2,
+      "protein_g": 24.8,
+      "carbs_g": 38.7,
+      "fat_g": 32.7,
+      "fiber_g": 2.5,
+      "sodium_mg": 1958.1,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-grilled-chicken-breast",
+      "name": "Grilled Chicken Breast",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 30.0,
+      "carbs_g": 1.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-fresh-fruit",
+      "name": "Fresh Fruit",
+      "description": null,
+      "category": "side",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-kids-brownie",
+      "name": "Kids Brownie",
+      "description": null,
+      "category": "side",
+      "calories": 470.0,
+      "protein_g": 5.0,
+      "carbs_g": 75.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-kids-sundae",
+      "name": "Kids Sundae",
+      "description": null,
+      "category": "side",
+      "calories": 590.0,
+      "protein_g": 7.0,
+      "carbs_g": 54.0,
+      "fat_g": 39.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-belgian-chocolate-souffle-cake",
+      "name": "Belgian Chocolate Souffle Cake",
+      "description": null,
+      "category": "side",
+      "calories": 680.0,
+      "protein_g": 8.0,
+      "carbs_g": 64.0,
+      "fat_g": 48.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-butter-cake",
+      "name": "Butter Cake",
+      "description": null,
+      "category": "side",
+      "calories": 1090.0,
+      "protein_g": 7.0,
+      "carbs_g": 122.0,
+      "fat_g": 66.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-key-lime-pie",
+      "name": "Key Lime Pie",
+      "description": null,
+      "category": "side",
+      "calories": 790.0,
+      "protein_g": 10.0,
+      "carbs_g": 94.0,
+      "fat_g": 44.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-mini-butter-cake-flight",
+      "name": "Mini Butter Cake Flight",
+      "description": null,
+      "category": "side",
+      "calories": 2094.0,
+      "protein_g": 30.7,
+      "carbs_g": 361.6,
+      "fat_g": 61.2,
+      "fiber_g": 3.6,
+      "sodium_mg": 2086.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "description": null,
+      "category": "side",
+      "calories": 960.0,
+      "protein_g": 8.0,
+      "carbs_g": 120.0,
+      "fat_g": 54.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-coffee",
+      "name": "Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-tazo-hot-teas",
+      "name": "Tazo Hot Teas",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-pasta-soup-or-salad",
+      "name": "Pasta + Soup or Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 15.0,
+      "carbs_g": 60.0,
+      "fat_g": 40.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1080.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-pizza-soup-or-salad",
+      "name": "Pizza + Soup or Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 31.0,
+      "carbs_g": 102.0,
+      "fat_g": 30.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1680.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-sandwich-soup-or-salad",
+      "name": "Sandwich + Soup or Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 33.0,
+      "carbs_g": 70.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-soup-salad",
+      "name": "Soup + Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 16.0,
+      "carbs_g": 41.0,
+      "fat_g": 14.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-burnt-ends-bbq-pizza",
+      "name": "7\" Burnt Ends BBQ Pizza",
+      "description": null,
+      "category": "meal",
+      "calories": 720.2,
+      "protein_g": 32.1,
+      "carbs_g": 94.3,
+      "fat_g": 21.8,
+      "fiber_g": 3.3,
+      "sodium_mg": 1864.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-california-club",
+      "name": "7\" California Club",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 40.0,
+      "carbs_g": 87.0,
+      "fat_g": 32.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1830.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-california-veggie-pizza",
+      "name": "7\" California Veggie Pizza",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 26.0,
+      "carbs_g": 92.0,
+      "fat_g": 14.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-carne-asada",
+      "name": "7\" Carne Asada",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 40.0,
+      "carbs_g": 86.0,
+      "fat_g": 30.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1460.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-five-cheese-fresh-tomato",
+      "name": "7\" Five Cheese + Fresh Tomato",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 34.0,
+      "carbs_g": 82.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1610.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-hawaiian",
+      "name": "7\" Hawaiian",
+      "description": null,
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 35.0,
+      "carbs_g": 89.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1530.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-mushroom-pepperoni-sausage-pizza",
+      "name": "7\" Mushroom Pepperoni Sausage Pizza",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 30.0,
+      "carbs_g": 85.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-nashville-style-hot-honey",
+      "name": "7\" Nashville-Style Hot Honey",
+      "description": null,
+      "category": "meal",
+      "calories": 969.3,
+      "protein_g": 40.2,
+      "carbs_g": 111.3,
+      "fat_g": 36.2,
+      "fiber_g": 3.5,
+      "sodium_mg": 2355.3,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-pepperoni-pizza",
+      "name": "7\" Pepperoni Pizza",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 27.0,
+      "carbs_g": 84.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1600.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-sicilian",
+      "name": "7\" Sicilian",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 40.0,
+      "carbs_g": 84.0,
+      "fat_g": 34.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1970.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-spicy-chipotle-chicken",
+      "name": "7\" Spicy Chipotle Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 35.0,
+      "carbs_g": 88.0,
+      "fat_g": 29.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1570.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-thai-chicken",
+      "name": "7\" Thai Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 36.0,
+      "carbs_g": 100.0,
+      "fat_g": 26.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1800.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-the-original-bbq-chicken-pizza",
+      "name": "7\" The Original BBQ Chicken Pizza",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 35.0,
+      "carbs_g": 93.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-the-works",
+      "name": "7\" The Works",
+      "description": null,
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 31.0,
+      "carbs_g": 87.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1860.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-7-wild-mushroom",
+      "name": "7\" Wild Mushroom",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 24.0,
+      "carbs_g": 82.0,
+      "fat_g": 19.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1310.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-spaghetti-bolognese",
+      "name": "Spaghetti Bolognese",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 15.0,
+      "carbs_g": 52.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-banh-mi",
+      "name": "Banh Mi",
+      "description": null,
+      "category": "meal",
+      "calories": 464.5,
+      "protein_g": 16.8,
+      "carbs_g": 50.2,
+      "fat_g": 21.3,
+      "fiber_g": 3.0,
+      "sodium_mg": 941.5,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-bblt",
+      "name": "BBLT",
+      "description": null,
+      "category": "meal",
+      "calories": 521.7,
+      "protein_g": 17.6,
+      "carbs_g": 52.2,
+      "fat_g": 25.6,
+      "fiber_g": 3.0,
+      "sodium_mg": 1024.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-mediterranean-hummus",
+      "name": "Mediterranean Hummus",
+      "description": null,
+      "category": "meal",
+      "calories": 628.4,
+      "protein_g": 18.5,
+      "carbs_g": 58.9,
+      "fat_g": 35.7,
+      "fiber_g": 5.8,
+      "sodium_mg": 2154.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-muffaletta",
+      "name": "Muffaletta",
+      "description": null,
+      "category": "meal",
+      "calories": 655.3,
+      "protein_g": 29.8,
+      "carbs_g": 50.1,
+      "fat_g": 34.1,
+      "fiber_g": 3.1,
+      "sodium_mg": 1532.9,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-acqua-panna",
+      "name": "Acqua Panna",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-barq-s-root-beer",
+      "name": "Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 38.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-cherry-coke",
+      "name": "Cherry Coke",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 35.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-coca-cola",
+      "name": "Coca-Cola",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-coke-zero",
+      "name": "Coke Zero",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-pacific-thyme",
+      "name": "Pacific Thyme",
+      "description": null,
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-cpk-lemonade",
+      "name": "CPK Lemonade",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-cucumber-reviver",
+      "name": "Cucumber Reviver",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-diet-coke",
+      "name": "Diet Coke",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-dr-pepper",
+      "name": "Dr Pepper",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-fresca",
+      "name": "Fresca",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-fresh-strawberry-mango-cooler",
+      "name": "Fresh Strawberry Mango Cooler",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-freshly-brewed-iced-tea",
+      "name": "Freshly Brewed Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-frozen-lemonade",
+      "name": "Frozen Lemonade",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 13.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-passion-fruit-mango-iced-tea",
+      "name": "Passion Fruit Mango Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-seagram-s-ginger-ale",
+      "name": "Seagram's Ginger Ale",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-sparkling-berry-lemon",
+      "name": "Sparkling Berry-Lemon",
+      "description": null,
+      "category": "component",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-sprite",
+      "name": "Sprite",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    },
+    {
+      "id": "vendor-athletic-brewing-company-upside-dawn",
+      "name": "Athletic Brewing Company - Upside Dawn",
+      "description": null,
+      "category": "drink",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu"
+      }
+    }
+  ]
+}

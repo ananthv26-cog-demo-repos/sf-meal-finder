@@ -1,0 +1,347 @@
+[
+  {
+    "item": {
+      "id": "vitalitybowl-s",
+      "name": "VitalityBowl (S)",
+      "description": null,
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 3.0,
+      "carbs_g": 45.0,
+      "fat_g": 4.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/vitalitybowl-s: macro check failed — stated 260.0 kcal vs computed 228 (delta -32)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vitalitybowl-m",
+      "name": "VitalityBowl (M)",
+      "description": null,
+      "category": "meal",
+      "calories": 123.0,
+      "protein_g": 1.0,
+      "carbs_g": 13.0,
+      "fat_g": 2.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 19.0,
+      "serving_note": "per M bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/vitalitybowl-m: macro check failed — stated 123.0 kcal vs computed 74 (delta -49)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kids-bowl",
+      "name": "Kids Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 38.0,
+      "fat_g": 4.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/kids-bowl: macro check failed — stated 230.0 kcal vs computed 200 (delta -30)"
+    ]
+  },
+  {
+    "item": {
+      "id": "almonds",
+      "name": "Almonds",
+      "description": null,
+      "category": "component",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/almonds: macro check failed — stated 40.0 kcal vs computed 4 (delta -36)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blueberries",
+      "name": "Blueberries",
+      "description": null,
+      "category": "component",
+      "calories": 86.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/blueberries: macro check failed — stated 86.0 kcal vs computed 26 (delta -60)"
+    ]
+  },
+  {
+    "item": {
+      "id": "chocolate",
+      "name": "Chocolate",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/chocolate: macro check failed — stated 70.0 kcal vs computed 13 (delta -57)"
+    ]
+  },
+  {
+    "item": {
+      "id": "coconut-chips",
+      "name": "Coconut Chips",
+      "description": null,
+      "category": "component",
+      "calories": 55.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/coconut-chips: macro check failed — stated 55.0 kcal vs computed 0 (delta -55)"
+    ]
+  },
+  {
+    "item": {
+      "id": "flax-seeds",
+      "name": "Flax Seeds",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/flax-seeds: macro check failed — stated 35.0 kcal vs computed 0 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "l",
+      "name": "(L)",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 2.0,
+      "carbs_g": 44.0,
+      "fat_g": 0.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/l: macro check failed — stated 250.0 kcal vs computed 184 (delta -66)"
+    ]
+  },
+  {
+    "item": {
+      "id": "l-s",
+      "name": "(L) (S)",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 28.0,
+      "fat_g": 1.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/l-s: macro check failed — stated 90.0 kcal vs computed 137 (delta +47)"
+    ]
+  },
+  {
+    "item": {
+      "id": "purple-passion-s",
+      "name": "Purple Passion (S)",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 1.0,
+      "carbs_g": 44.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/purple-passion-s: macro check failed — stated 230.0 kcal vs computed 180 (delta -50)"
+    ]
+  },
+  {
+    "item": {
+      "id": "kids-sunsation-s",
+      "name": "Kids Sunsation (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 44.0,
+      "fat_g": 2.5,
+      "fiber_g": 10.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/kids-sunsation-s: macro check failed — stated 240.0 kcal vs computed 206 (delta -34)"
+    ]
+  },
+  {
+    "item": {
+      "id": "matcha-madness-s",
+      "name": "Matcha Madness (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 7.0,
+      "carbs_g": 21.0,
+      "fat_g": 11.0,
+      "fiber_g": 14.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/matcha-madness-s: macro check failed — stated 240.0 kcal vs computed 211 (delta -29)"
+    ]
+  },
+  {
+    "item": {
+      "id": "chocolate-crush-s",
+      "name": "Chocolate Crush (S)",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 4.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/chocolate-crush-s: macro check failed — stated 220.0 kcal vs computed 175 (delta -45)"
+    ]
+  },
+  {
+    "item": {
+      "id": "morning-glory",
+      "name": "Morning Glory",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 39.0,
+      "carbs_g": 70.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1480.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    "reasons": [
+      "vitality-bowls/morning-glory: macro check failed — stated 0.0 kcal vs computed 751 (delta +751)"
+    ]
+  }
+]

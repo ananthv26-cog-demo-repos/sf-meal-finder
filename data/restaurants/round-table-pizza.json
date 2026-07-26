@@ -1,0 +1,6087 @@
+{
+  "id": "round-table-pizza",
+  "name": "Round Table Pizza",
+  "website": "https://www.roundtablepizza.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "737 Portola Dr., San Francisco CA , 94127",
+      "lat": 37.74410688,
+      "lng": -122.4534756,
+      "neighborhood": null
+    },
+    {
+      "address": "801 Van Ness Avenue, San Francisco CA , 94109",
+      "lat": 37.78288528,
+      "lng": -122.4207317,
+      "neighborhood": null
+    },
+    {
+      "address": "2660 San Bruno Avenue, San Francisco CA , 94134",
+      "lat": 37.7279338,
+      "lng": -122.4040965,
+      "neighborhood": null
+    },
+    {
+      "address": "1503 North Point St, San Francisco CA , 94123",
+      "lat": 37.80419547,
+      "lng": -122.4319468,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "pizza-1",
+      "name": "BBQ Chicken (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 8.0,
+      "carbs_g": 19.0,
+      "fat_g": 6.0,
+      "fiber_g": null,
+      "sodium_mg": 460.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-2",
+      "name": "BBQ Chicken (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 12.0,
+      "carbs_g": 19.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    {
+      "id": "pizza-3",
+      "name": "BBQ Chicken (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 15.0,
+      "carbs_g": 26.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-4",
+      "name": "BBQ Chicken (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 13.0,
+      "carbs_g": 31.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-5",
+      "name": "BBQ Chicken (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 13.0,
+      "carbs_g": 28.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-6",
+      "name": "Cheese (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 250.0,
+      "protein_g": 13.0,
+      "carbs_g": 22.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-7",
+      "name": "Cheese (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 12.0,
+      "carbs_g": 27.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-8",
+      "name": "Cheese (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-9",
+      "name": "Chicken & Garlic Gourmet™ (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 140.0,
+      "protein_g": 7.0,
+      "carbs_g": 16.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-11",
+      "name": "Chicken & Garlic Gourmet™ (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 14.0,
+      "carbs_g": 22.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-12",
+      "name": "Chicken & Garlic Gourmet™ (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 13.0,
+      "carbs_g": 27.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-13",
+      "name": "Chicken & Garlic Gourmet™ (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 13.0,
+      "carbs_g": 24.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-14",
+      "name": "Gourmet Veggie™ (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 130.0,
+      "protein_g": 6.0,
+      "carbs_g": 16.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-16",
+      "name": "Gourmet Veggie™ (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 250.0,
+      "protein_g": 12.0,
+      "carbs_g": 23.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-17",
+      "name": "Gourmet Veggie™ (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-18",
+      "name": "Gourmet Veggie™ (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 25.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-19",
+      "name": "Guinevere’s Garden Delight® (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 120.0,
+      "protein_g": 6.0,
+      "carbs_g": 17.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-21",
+      "name": "Guinevere’s Garden Delight® (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-22",
+      "name": "Guinevere’s Garden Delight® (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 28.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-23",
+      "name": "Guinevere’s Garden Delight® (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-24",
+      "name": "Hawaiian™ (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 130.0,
+      "protein_g": 7.0,
+      "carbs_g": 17.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-26",
+      "name": "Hawaiian™ (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 13.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-27",
+      "name": "Hawaiian™ (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 12.0,
+      "carbs_g": 29.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-28",
+      "name": "Hawaiian™ (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-29",
+      "name": "Italian Garlic Supreme® (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 150.0,
+      "protein_g": 7.0,
+      "carbs_g": 16.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-31",
+      "name": "Italian Garlic Supreme® (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 13.0,
+      "carbs_g": 22.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-32",
+      "name": "Italian Garlic Supreme® (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 12.0,
+      "carbs_g": 26.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-33",
+      "name": "Italian Garlic Supreme® (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 12.0,
+      "carbs_g": 24.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-34",
+      "name": "King Arthur’s Supreme® (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 150.0,
+      "protein_g": 7.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-36",
+      "name": "King Arthur’s Supreme® (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 14.0,
+      "carbs_g": 24.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 740.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-37",
+      "name": "King Arthur’s Supreme® (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 13.0,
+      "carbs_g": 28.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-38",
+      "name": "King Arthur’s Supreme® (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 13.0,
+      "carbs_g": 26.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-39",
+      "name": "Maui Zaui™ (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 140.0,
+      "protein_g": 7.0,
+      "carbs_g": 18.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-41",
+      "name": "Maui Zaui™ (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 12.0,
+      "carbs_g": 30.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-42",
+      "name": "Maui Zaui™ (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 12.0,
+      "carbs_g": 29.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-43",
+      "name": "Montague’s All Meat Marvel® (personal, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 16.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per slice of personal original-crust pizza"
+    },
+    {
+      "id": "pizza-45",
+      "name": "Montague’s All Meat Marvel® (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 16.0,
+      "carbs_g": 22.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 860.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-46",
+      "name": "Montague’s All Meat Marvel® (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 14.0,
+      "carbs_g": 27.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-47",
+      "name": "Montague’s All Meat Marvel® (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 14.0,
+      "carbs_g": 24.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-48",
+      "name": "Pepperoni (medium, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 12.0,
+      "carbs_g": 22.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per slice of medium original-crust pizza"
+    },
+    {
+      "id": "pizza-49",
+      "name": "Pepperoni (large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 11.0,
+      "carbs_g": 26.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per slice of large original-crust pizza"
+    },
+    {
+      "id": "pizza-50",
+      "name": "Pepperoni (x-large, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per slice of x-large original-crust pizza"
+    },
+    {
+      "id": "pizza-51",
+      "name": "BBQ Chicken",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 15.0,
+      "carbs_g": 33.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-52",
+      "name": "Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 14.0,
+      "carbs_g": 25.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-53",
+      "name": "Chicken & Garlic Gourmet™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 15.0,
+      "carbs_g": 30.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-54",
+      "name": "Gourmet Veggie™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 13.0,
+      "carbs_g": 30.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-55",
+      "name": "Guinevere’s Garden Delight®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 13.0,
+      "carbs_g": 31.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-56",
+      "name": "Hawaiian™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 14.0,
+      "carbs_g": 31.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-57",
+      "name": "Italian Garlic Supreme®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 14.0,
+      "carbs_g": 30.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-58",
+      "name": "King Arthur’s Supreme®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 15.0,
+      "carbs_g": 31.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 740.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-59",
+      "name": "Maui Zaui™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 15.0,
+      "carbs_g": 32.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-60",
+      "name": "Montague’s All Meat Marvel®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-61",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 14.0,
+      "carbs_g": 30.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-62",
+      "name": "Pizza Crust",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 250.0,
+      "protein_g": 12.0,
+      "carbs_g": 30.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-63",
+      "name": "Zesty Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-64",
+      "name": "Creamy Garlic Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-65",
+      "name": "Polynesian",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-66",
+      "name": "BBQ",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-67",
+      "name": "Three Cheese Blend",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 40.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-68",
+      "name": "Bacon, Armour",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 50.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-69",
+      "name": "Chicken",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-70",
+      "name": "Ham",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-71",
+      "name": "Italian Sausage",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 40.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-72",
+      "name": "Linguica",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 30.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-73",
+      "name": "Mini Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 50.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-74",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 50.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-75",
+      "name": "Salami",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 40.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-76",
+      "name": "Artichoke Hearts",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-77",
+      "name": "Banana Peppers",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-78",
+      "name": "Black Olives",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-79",
+      "name": "Green Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-80",
+      "name": "Green Peppers",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-81",
+      "name": "Jalapeños",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-82",
+      "name": "Mushrooms",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-83",
+      "name": "Pineapple",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-84",
+      "name": "Red Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-85",
+      "name": "Roma Tomatoes",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-86",
+      "name": "Chopped Garlic",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-87",
+      "name": "Spinach",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-88",
+      "name": "Yellow Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-89",
+      "name": "Zucchini",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-90",
+      "name": "BBQ Chicken",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 11.0,
+      "carbs_g": 21.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-91",
+      "name": "Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 17.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-92",
+      "name": "Chicken & Garlic Gourmet™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 12.0,
+      "carbs_g": 17.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-93",
+      "name": "Gourmet Veggie™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 17.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-94",
+      "name": "Guinevere’s Garden Delight®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 18.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-95",
+      "name": "Hawaiian™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 19.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-96",
+      "name": "Italian Garlic Supreme®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 11.0,
+      "carbs_g": 16.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-97",
+      "name": "King Arthur’s Supreme®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 12.0,
+      "carbs_g": 18.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-98",
+      "name": "Maui Zaui™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 12.0,
+      "carbs_g": 20.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-99",
+      "name": "Montague’s All Meat Marvel®",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 13.0,
+      "carbs_g": 17.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-100",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 16.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-101",
+      "name": "Pizza Crust",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 16.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-102",
+      "name": "Zesty Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-103",
+      "name": "Creamy Garlic Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-104",
+      "name": "Polynesian",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-105",
+      "name": "BBQ",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-106",
+      "name": "Three Cheese Blend",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-107",
+      "name": "Bacon, Armour",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-108",
+      "name": "Chicken",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-109",
+      "name": "Ham",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-110",
+      "name": "Italian Sausage",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-111",
+      "name": "Linguica",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-112",
+      "name": "Mini Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-113",
+      "name": "Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 30.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-114",
+      "name": "Salami",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-115",
+      "name": "Artichoke Hearts",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-116",
+      "name": "Banana Peppers",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-117",
+      "name": "Black Olives",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-118",
+      "name": "Green Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-119",
+      "name": "Green Peppers",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-120",
+      "name": "Jalapeños",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-121",
+      "name": "Mushrooms",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-122",
+      "name": "Pineapple",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-123",
+      "name": "Red Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-124",
+      "name": "Roma Tomatoes",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-125",
+      "name": "Chopped Garlic",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-126",
+      "name": "Spinach",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-127",
+      "name": "Yellow Onions",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-128",
+      "name": "Zucchini",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-129",
+      "name": "Bleu Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 3.0,
+      "carbs_g": 1.0,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 395.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-130",
+      "name": "Bleu Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 730.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 78.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-131",
+      "name": "Creamy Ranch",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 2.0,
+      "carbs_g": 2.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-132",
+      "name": "Creamy Ranch",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 560.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 58.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-133",
+      "name": "Zesty Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 30.0,
+      "protein_g": 1.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-134",
+      "name": "Zesty Red Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 3.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-135",
+      "name": "Polynesian Sweet Chili Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-136",
+      "name": "Polynesian Sweet Chili Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 1.0,
+      "carbs_g": 52.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 1480.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-137",
+      "name": "Thousand Island",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 28.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-138",
+      "name": "Thousand Island",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 700.0,
+      "protein_g": 1.0,
+      "carbs_g": 18.0,
+      "fat_g": 70.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-139",
+      "name": "Parmesan Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-140",
+      "name": "Parmesan Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 600.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 60.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1400.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-141",
+      "name": "Marinara Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-142",
+      "name": "Marinara Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-143",
+      "name": "Mango Habanero Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-144",
+      "name": "Mango Habanero Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 51.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 1110.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-145",
+      "name": "RT BBQ Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-146",
+      "name": "RT BBQ Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 2.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-147",
+      "name": "RT Mild Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1240.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-148",
+      "name": "RT Mild Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3090.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-149",
+      "name": "RT Hot Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1340.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-150",
+      "name": "RT Hot Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3350.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-151",
+      "name": "Garden Salad – Side (3 oz)",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-152",
+      "name": "Garden Salad - Individual",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 100.0,
+      "protein_g": 4.0,
+      "carbs_g": 16.0,
+      "fat_g": 3.5,
+      "fiber_g": 3.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-153",
+      "name": "Garden Salad – Family/Entree",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 7.0,
+      "carbs_g": 33.0,
+      "fat_g": 7.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-154",
+      "name": "Garden Salad - Party Pack",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 630.0,
+      "protein_g": 21.0,
+      "carbs_g": 99.0,
+      "fat_g": 20.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-155",
+      "name": "Churro Twists",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 180.0,
+      "protein_g": 4.0,
+      "carbs_g": 34.0,
+      "fat_g": 3.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-156",
+      "name": "8 fl oz",
+      "description": null,
+      "category": "drink",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 32.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-157",
+      "name": "BBQ Chicken (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 28.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-158",
+      "name": "BBQ Chicken (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 350.0,
+      "protein_g": 17.0,
+      "carbs_g": 42.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-159",
+      "name": "BBQ Chicken (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 15.0,
+      "carbs_g": 39.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 840.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-160",
+      "name": "Cheese (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-161",
+      "name": "Cheese (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 310.0,
+      "protein_g": 15.0,
+      "carbs_g": 37.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-162",
+      "name": "Cheese (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 13.0,
+      "carbs_g": 35.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-163",
+      "name": "Chicken & Garlic Gourmet™ (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-164",
+      "name": "Chicken & Garlic Gourmet™ (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 16.0,
+      "carbs_g": 37.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-165",
+      "name": "Chicken & Garlic Gourmet™ (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 15.0,
+      "carbs_g": 35.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-166",
+      "name": "Gourmet Veggie™ (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 25.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-167",
+      "name": "Gourmet Veggie™ (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 13.0,
+      "carbs_g": 38.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-168",
+      "name": "Gourmet Veggie™ (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 12.0,
+      "carbs_g": 35.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-169",
+      "name": "Guinevere’s Garden Delight® (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 25.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-170",
+      "name": "Guinevere’s Garden Delight® (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 290.0,
+      "protein_g": 13.0,
+      "carbs_g": 39.0,
+      "fat_g": 9.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-171",
+      "name": "Guinevere’s Garden Delight® (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 12.0,
+      "carbs_g": 36.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-172",
+      "name": "Hawaiian™ (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 26.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-173",
+      "name": "Hawaiian™ (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 14.0,
+      "carbs_g": 40.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 790.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-174",
+      "name": "Hawaiian™ (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 280.0,
+      "protein_g": 13.0,
+      "carbs_g": 37.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 730.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-175",
+      "name": "Italian Garlic Supreme® (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 24.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-176",
+      "name": "Italian Garlic Supreme® (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 350.0,
+      "protein_g": 15.0,
+      "carbs_g": 37.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-177",
+      "name": "Italian Garlic Supreme® (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 14.0,
+      "carbs_g": 35.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-178",
+      "name": "King Arthur’s Supreme® (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 25.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-179",
+      "name": "King Arthur’s Supreme® (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 350.0,
+      "protein_g": 16.0,
+      "carbs_g": 39.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 870.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-180",
+      "name": "King Arthur’s Supreme® (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 15.0,
+      "carbs_g": 35.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-181",
+      "name": "Maui Zaui™ (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 30.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-182",
+      "name": "Maui Zaui™ (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 360.0,
+      "protein_g": 17.0,
+      "carbs_g": 44.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-183",
+      "name": "Maui Zaui™ (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 340.0,
+      "protein_g": 16.0,
+      "carbs_g": 41.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 900.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-184",
+      "name": "Montague’s All Meat Marvel® (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-185",
+      "name": "Montague’s All Meat Marvel® (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 380.0,
+      "protein_g": 18.0,
+      "carbs_g": 37.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 990.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-186",
+      "name": "Montague’s All Meat Marvel® (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 340.0,
+      "protein_g": 16.0,
+      "carbs_g": 35.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 900.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-187",
+      "name": "Pepperoni (medium, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 180.0,
+      "protein_g": 8.0,
+      "carbs_g": 24.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per slice of medium pan-crust pizza"
+    },
+    {
+      "id": "pizza-188",
+      "name": "Pepperoni (large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 320.0,
+      "protein_g": 14.0,
+      "carbs_g": 37.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per slice of large pan-crust pizza"
+    },
+    {
+      "id": "pizza-189",
+      "name": "Pepperoni (x-large, pan crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 13.0,
+      "carbs_g": 34.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 720.0,
+      "serving_note": "per slice of x-large pan-crust pizza"
+    },
+    {
+      "id": "pizza-190",
+      "name": "Double Play Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 15.0,
+      "carbs_g": 25.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-191",
+      "name": "Shredded Parmesan",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-192",
+      "name": "Cheddar Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 390.0,
+      "protein_g": 25.0,
+      "carbs_g": 4.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-193",
+      "name": "Anchovies",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-194",
+      "name": "Double Play Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 10.0,
+      "carbs_g": 16.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-195",
+      "name": "Shredded Parmesan",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-196",
+      "name": "Cheddar Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 11.0,
+      "carbs_g": 2.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-197",
+      "name": "Anchovies",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-198",
+      "name": "Fries, Lg (12 oz)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 670.0,
+      "protein_g": 8.0,
+      "carbs_g": 76.0,
+      "fat_g": 37.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1240.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-199",
+      "name": "Fries, Side (6 oz)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 330.0,
+      "protein_g": 4.0,
+      "carbs_g": 38.0,
+      "fat_g": 19.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-200",
+      "name": "Garlic Fries (12 oz)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 840.0,
+      "protein_g": 11.0,
+      "carbs_g": 79.0,
+      "fat_g": 53.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-201",
+      "name": "House Chips (12 oz)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 890.0,
+      "protein_g": 9.0,
+      "carbs_g": 74.0,
+      "fat_g": 62.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2690.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-202",
+      "name": "House Chips (4 oz)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 25.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 900.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-205",
+      "name": "Garlic Bread",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 9.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 1 Slice serving"
+    },
+    {
+      "id": "pizza-206",
+      "name": "Garlic Bread with Cheese",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 9.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 1 Slice serving"
+    },
+    {
+      "id": "pizza-207",
+      "name": "Lay’s Potato Chips Original (1 oz.)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-208",
+      "name": "Balsamic Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-209",
+      "name": "Balsamic Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 330.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 28.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1280.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-210",
+      "name": "Caesar Dressing",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 2.0,
+      "fat_g": 25.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-211",
+      "name": "Caesar Dressing",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 590.0,
+      "protein_g": 6.0,
+      "carbs_g": 5.0,
+      "fat_g": 62.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per 5 oz serving"
+    },
+    {
+      "id": "pizza-212",
+      "name": "Caesar Salad - Individual",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 350.0,
+      "protein_g": 8.0,
+      "carbs_g": 15.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 720.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-213",
+      "name": "Caesar Salad – Family/Entree",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 700.0,
+      "protein_g": 15.0,
+      "carbs_g": 30.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1450.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-214",
+      "name": "Caesar Salad - Party Pack",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2100.0,
+      "protein_g": 45.0,
+      "carbs_g": 89.0,
+      "fat_g": 179.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 4340.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-215",
+      "name": "Chicken Caesar Salad",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 800.0,
+      "protein_g": 36.0,
+      "carbs_g": 30.0,
+      "fat_g": 61.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2130.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-216",
+      "name": "Spinach Salad - Individual",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 80.0,
+      "protein_g": 5.0,
+      "carbs_g": 7.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-217",
+      "name": "Spinach Salad - Family/Entree",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 11.0,
+      "carbs_g": 14.0,
+      "fat_g": 8.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-219",
+      "name": "Side of Grilled Chicken",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 70.0,
+      "protein_g": 14.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per 2 oz serving"
+    },
+    {
+      "id": "pizza-220",
+      "name": "Side of Grilled Chicken",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 140.0,
+      "protein_g": 28.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per 4 oz serving"
+    },
+    {
+      "id": "pizza-221",
+      "name": "Wedge Salad",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 580.0,
+      "protein_g": 13.0,
+      "carbs_g": 11.0,
+      "fat_g": 56.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-222",
+      "name": "Bleu Cheese Sliders",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1300.0,
+      "protein_g": 53.0,
+      "carbs_g": 77.0,
+      "fat_g": 86.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2400.0,
+      "serving_note": "per 3 serving"
+    },
+    {
+      "id": "pizza-223",
+      "name": "Classic Sliders",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1460.0,
+      "protein_g": 55.0,
+      "carbs_g": 64.0,
+      "fat_g": 108.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2680.0,
+      "serving_note": "per 3 serving"
+    },
+    {
+      "id": "pizza-224",
+      "name": "Bleu Cheese Burger",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1220.0,
+      "protein_g": 52.0,
+      "carbs_g": 66.0,
+      "fat_g": 81.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2300.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-225",
+      "name": "Classic Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1280.0,
+      "protein_g": 54.0,
+      "carbs_g": 57.0,
+      "fat_g": 91.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2780.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-226",
+      "name": "Mushroom Swiss Burger",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1320.0,
+      "protein_g": 56.0,
+      "carbs_g": 56.0,
+      "fat_g": 96.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2470.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-227",
+      "name": "Smokehouse Burger",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1420.0,
+      "protein_g": 73.0,
+      "carbs_g": 77.0,
+      "fat_g": 89.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 3250.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-228",
+      "name": "American Cheese",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 50.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 0.5 oz serving"
+    },
+    {
+      "id": "pizza-230",
+      "name": "Bleu Cheese",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 80.0,
+      "protein_g": 5.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 0.75 oz serving"
+    },
+    {
+      "id": "pizza-231",
+      "name": "Cheddar Cheese",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per 1.5 oz serving"
+    },
+    {
+      "id": "pizza-232",
+      "name": "Grilled Onions",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 60.0,
+      "protein_g": 2.0,
+      "carbs_g": 2.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1.5 oz serving"
+    },
+    {
+      "id": "pizza-233",
+      "name": "Jalapeños",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 1.0 oz serving"
+    },
+    {
+      "id": "pizza-234",
+      "name": "Sautéed Mushrooms",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 2.0 oz serving"
+    },
+    {
+      "id": "pizza-235",
+      "name": "Swiss Cheese",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 90.0,
+      "protein_g": 7.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 0.8 oz serving"
+    },
+    {
+      "id": "pizza-236",
+      "name": "Chicken Club",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 670.0,
+      "protein_g": 46.0,
+      "carbs_g": 58.0,
+      "fat_g": 27.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1860.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-237",
+      "name": "Ham Club",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 670.0,
+      "protein_g": 39.0,
+      "carbs_g": 59.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2430.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-238",
+      "name": "Italian Meats",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 840.0,
+      "protein_g": 41.0,
+      "carbs_g": 59.0,
+      "fat_g": 49.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 3170.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-239",
+      "name": "RT Lettuce Blend (iceberg, romaine,",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1 Cup serving"
+    },
+    {
+      "id": "pizza-240",
+      "name": "Romaine Lettuce, chopped",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 Cup serving"
+    },
+    {
+      "id": "pizza-241",
+      "name": "Spring Mix",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 1 Cup serving"
+    },
+    {
+      "id": "pizza-242",
+      "name": "Baby Spinach",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 Cup serving"
+    },
+    {
+      "id": "pizza-243",
+      "name": "Beets (sliced or julienne)",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 4 Slices serving"
+    },
+    {
+      "id": "pizza-244",
+      "name": "Egg (whole)",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 80.0,
+      "protein_g": 6.0,
+      "carbs_g": 1.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 Egg serving"
+    },
+    {
+      "id": "pizza-245",
+      "name": "Balsamic Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-246",
+      "name": "Balsamic Vinegar",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 1 tbsp. serving"
+    },
+    {
+      "id": "pizza-247",
+      "name": "Bleu Cheese",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-248",
+      "name": "Fat Free Italian",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-249",
+      "name": "Honey Mustard",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-250",
+      "name": "Olive Oil",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 tbsp. serving"
+    },
+    {
+      "id": "pizza-251",
+      "name": "Parmesan Italian",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-252",
+      "name": "Ranch Dressing",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 115.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 10.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-253",
+      "name": "Red Wine Vinegar",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1 tbsp serving"
+    },
+    {
+      "id": "pizza-254",
+      "name": "Thousand Island",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-255",
+      "name": "Croutons",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per 2 tbsp. serving"
+    },
+    {
+      "id": "pizza-256",
+      "name": "Sunflower Seeds",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 7.0,
+      "carbs_g": 6.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 2 tbsp serving"
+    },
+    {
+      "id": "pizza-257",
+      "name": "BBQ Chicken, Original Crust",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 21.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-258",
+      "name": "Cheese Pizza",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 9.0,
+      "carbs_g": 18.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-259",
+      "name": "Chicken & Garlic Gourmet™",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 18.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-260",
+      "name": "Chicken & Jalapeño",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 150.0,
+      "protein_g": 9.0,
+      "carbs_g": 17.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-261",
+      "name": "Chicken & Jalapeño",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 9.0,
+      "carbs_g": 18.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-262",
+      "name": "Classic Pepperoni & Italian Sausage",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 17.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-263",
+      "name": "Classic Pepperoni & Mushroom",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 18.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-264",
+      "name": "Classic Pepperoni",
+      "description": null,
+      "category": "condiment",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 180.0,
+      "protein_g": 8.0,
+      "carbs_g": 17.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-265",
+      "name": "Dessert Pizza",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 3.0,
+      "carbs_g": 39.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-266",
+      "name": "Gourmet Veggie™",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 18.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-267",
+      "name": "Guinevere’s Garden Delight®",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 8.0,
+      "carbs_g": 19.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-268",
+      "name": "Hawaiian™",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 8.0,
+      "carbs_g": 19.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-269",
+      "name": "Italian Garlic Supreme®",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 9.0,
+      "carbs_g": 17.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-270",
+      "name": "Italian Sausage & Olive",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 18.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-271",
+      "name": "King Arthur’s Supreme®",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 10.0,
+      "carbs_g": 19.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-272",
+      "name": "Maui Zaui™",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 20.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-273",
+      "name": "Maui Zaui™ (Zesty Red Sauce)",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 180.0,
+      "protein_g": 9.0,
+      "carbs_g": 19.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-274",
+      "name": "Maui Zaui™ with Pepperoni",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 9.0,
+      "carbs_g": 20.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-275",
+      "name": "Maui Zaui™ with Pepperoni",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 9.0,
+      "carbs_g": 19.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-276",
+      "name": "Montague’s All Meat Marvel®",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 11.0,
+      "carbs_g": 18.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-277",
+      "name": "Mushroom & Olive",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 150.0,
+      "protein_g": 7.0,
+      "carbs_g": 18.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per 12 Slices serving"
+    },
+    {
+      "id": "pizza-278",
+      "name": "Gourmet Veggie™, Cauliflower Crust",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 17.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 6 Slices serving"
+    },
+    {
+      "id": "pizza-279",
+      "name": "Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 310.0,
+      "protein_g": 4.0,
+      "carbs_g": 43.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "pizza-280",
+      "name": "Double Fudge Cookie",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 300.0,
+      "protein_g": 4.0,
+      "carbs_g": 44.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 1 serving"
+    },
+    {
+      "id": "derived-pizza-1",
+      "name": "BBQ Chicken (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 960.0,
+      "protein_g": 48.0,
+      "carbs_g": 114.0,
+      "fat_g": 36.0,
+      "fiber_g": null,
+      "sodium_mg": 2760.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-2",
+      "name": "BBQ Chicken (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1440.0,
+      "protein_g": 72.0,
+      "carbs_g": 114.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3900.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-3",
+      "name": "BBQ Chicken (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2320.0,
+      "protein_g": 120.0,
+      "carbs_g": 208.0,
+      "fat_g": 96.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 6160.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-4",
+      "name": "BBQ Chicken (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3240.0,
+      "protein_g": 156.0,
+      "carbs_g": 372.0,
+      "fat_g": 132.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 8520.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-6",
+      "name": "Cheese (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2000.0,
+      "protein_g": 104.0,
+      "carbs_g": 176.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 4400.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-7",
+      "name": "Cheese (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2760.0,
+      "protein_g": 144.0,
+      "carbs_g": 324.0,
+      "fat_g": 120.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 6000.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-8",
+      "name": "Cheese (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3520.0,
+      "protein_g": 176.0,
+      "carbs_g": 384.0,
+      "fat_g": 160.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 7840.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-9",
+      "name": "Chicken & Garlic Gourmet™ (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 840.0,
+      "protein_g": 42.0,
+      "carbs_g": 96.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2040.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-11",
+      "name": "Chicken & Garlic Gourmet™ (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2080.0,
+      "protein_g": 112.0,
+      "carbs_g": 176.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5040.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-12",
+      "name": "Chicken & Garlic Gourmet™ (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2880.0,
+      "protein_g": 156.0,
+      "carbs_g": 324.0,
+      "fat_g": 120.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 6840.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-13",
+      "name": "Chicken & Garlic Gourmet™ (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3680.0,
+      "protein_g": 208.0,
+      "carbs_g": 384.0,
+      "fat_g": 160.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 8960.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-14",
+      "name": "Gourmet Veggie™ (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 780.0,
+      "protein_g": 36.0,
+      "carbs_g": 96.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1860.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-16",
+      "name": "Gourmet Veggie™ (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2000.0,
+      "protein_g": 96.0,
+      "carbs_g": 184.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 4480.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-17",
+      "name": "Gourmet Veggie™ (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2760.0,
+      "protein_g": 132.0,
+      "carbs_g": 324.0,
+      "fat_g": 120.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 6240.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-18",
+      "name": "Gourmet Veggie™ (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3520.0,
+      "protein_g": 160.0,
+      "carbs_g": 400.0,
+      "fat_g": 160.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 8320.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-19",
+      "name": "Guinevere’s Garden Delight® (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 720.0,
+      "protein_g": 36.0,
+      "carbs_g": 102.0,
+      "fat_g": 27.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1740.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-21",
+      "name": "Guinevere’s Garden Delight® (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1920.0,
+      "protein_g": 88.0,
+      "carbs_g": 192.0,
+      "fat_g": 72.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 4400.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-22",
+      "name": "Guinevere’s Garden Delight® (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2640.0,
+      "protein_g": 120.0,
+      "carbs_g": 336.0,
+      "fat_g": 96.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 6120.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-23",
+      "name": "Guinevere’s Garden Delight® (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3360.0,
+      "protein_g": 160.0,
+      "carbs_g": 416.0,
+      "fat_g": 128.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 7840.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-24",
+      "name": "Hawaiian™ (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 780.0,
+      "protein_g": 42.0,
+      "carbs_g": 102.0,
+      "fat_g": 27.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2100.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-26",
+      "name": "Hawaiian™ (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1920.0,
+      "protein_g": 104.0,
+      "carbs_g": 192.0,
+      "fat_g": 72.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5280.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-27",
+      "name": "Hawaiian™ (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2640.0,
+      "protein_g": 144.0,
+      "carbs_g": 348.0,
+      "fat_g": 96.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 7320.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-28",
+      "name": "Hawaiian™ (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3520.0,
+      "protein_g": 176.0,
+      "carbs_g": 432.0,
+      "fat_g": 128.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 9600.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-29",
+      "name": "Italian Garlic Supreme® (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 42.0,
+      "carbs_g": 96.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2100.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-31",
+      "name": "Italian Garlic Supreme® (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2320.0,
+      "protein_g": 104.0,
+      "carbs_g": 176.0,
+      "fat_g": 120.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5520.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-32",
+      "name": "Italian Garlic Supreme® (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3240.0,
+      "protein_g": 144.0,
+      "carbs_g": 312.0,
+      "fat_g": 168.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 7440.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-33",
+      "name": "Italian Garlic Supreme® (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4160.0,
+      "protein_g": 192.0,
+      "carbs_g": 384.0,
+      "fat_g": 224.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 9760.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-34",
+      "name": "King Arthur’s Supreme® (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 42.0,
+      "carbs_g": 102.0,
+      "fat_g": 42.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2220.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-36",
+      "name": "King Arthur’s Supreme® (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2320.0,
+      "protein_g": 112.0,
+      "carbs_g": 192.0,
+      "fat_g": 112.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5920.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-37",
+      "name": "King Arthur’s Supreme® (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3240.0,
+      "protein_g": 156.0,
+      "carbs_g": 336.0,
+      "fat_g": 156.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 8160.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-39",
+      "name": "Maui Zaui™ (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 840.0,
+      "protein_g": 42.0,
+      "carbs_g": 108.0,
+      "fat_g": 30.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2400.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-41",
+      "name": "Maui Zaui™ (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3360.0,
+      "protein_g": 144.0,
+      "carbs_g": 360.0,
+      "fat_g": 120.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 8520.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-43",
+      "name": "Montague’s All Meat Marvel® (personal, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1020.0,
+      "protein_g": 48.0,
+      "carbs_g": 96.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2760.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-45",
+      "name": "Montague’s All Meat Marvel® (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2560.0,
+      "protein_g": 128.0,
+      "carbs_g": 176.0,
+      "fat_g": 136.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6880.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-46",
+      "name": "Montague’s All Meat Marvel® (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3480.0,
+      "protein_g": 168.0,
+      "carbs_g": 324.0,
+      "fat_g": 180.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 9240.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-48",
+      "name": "Pepperoni (medium, original crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2080.0,
+      "protein_g": 96.0,
+      "carbs_g": 176.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5200.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-49",
+      "name": "Pepperoni (large, original crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2880.0,
+      "protein_g": 132.0,
+      "carbs_g": 312.0,
+      "fat_g": 132.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 7200.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-50",
+      "name": "Pepperoni (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3840.0,
+      "protein_g": 176.0,
+      "carbs_g": 384.0,
+      "fat_g": 176.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 9280.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-157",
+      "name": "BBQ Chicken (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 880.0,
+      "protein_g": 40.0,
+      "carbs_g": 112.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2280.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-158",
+      "name": "BBQ Chicken (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2800.0,
+      "protein_g": 136.0,
+      "carbs_g": 336.0,
+      "fat_g": 104.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7280.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-160",
+      "name": "Cheese (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 800.0,
+      "protein_g": 40.0,
+      "carbs_g": 96.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1760.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-161",
+      "name": "Cheese (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2480.0,
+      "protein_g": 120.0,
+      "carbs_g": 296.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5360.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-162",
+      "name": "Cheese (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3360.0,
+      "protein_g": 156.0,
+      "carbs_g": 420.0,
+      "fat_g": 120.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 7560.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-163",
+      "name": "Chicken & Garlic Gourmet™ (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 800.0,
+      "protein_g": 40.0,
+      "carbs_g": 96.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1920.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-164",
+      "name": "Chicken & Garlic Gourmet™ (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2560.0,
+      "protein_g": 128.0,
+      "carbs_g": 296.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6080.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-165",
+      "name": "Chicken & Garlic Gourmet™ (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3480.0,
+      "protein_g": 180.0,
+      "carbs_g": 420.0,
+      "fat_g": 120.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 8400.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-166",
+      "name": "Gourmet Veggie™ (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 760.0,
+      "protein_g": 36.0,
+      "carbs_g": 100.0,
+      "fat_g": 28.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1800.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-167",
+      "name": "Gourmet Veggie™ (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2400.0,
+      "protein_g": 104.0,
+      "carbs_g": 304.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5600.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-168",
+      "name": "Gourmet Veggie™ (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3360.0,
+      "protein_g": 144.0,
+      "carbs_g": 420.0,
+      "fat_g": 120.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 7800.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-169",
+      "name": "Guinevere’s Garden Delight® (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 760.0,
+      "protein_g": 32.0,
+      "carbs_g": 100.0,
+      "fat_g": 24.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-170",
+      "name": "Guinevere’s Garden Delight® (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2320.0,
+      "protein_g": 104.0,
+      "carbs_g": 312.0,
+      "fat_g": 72.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 5440.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-171",
+      "name": "Guinevere’s Garden Delight® (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3240.0,
+      "protein_g": 144.0,
+      "carbs_g": 432.0,
+      "fat_g": 108.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 7560.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-172",
+      "name": "Hawaiian™ (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 760.0,
+      "protein_g": 36.0,
+      "carbs_g": 104.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2000.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-173",
+      "name": "Hawaiian™ (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2400.0,
+      "protein_g": 112.0,
+      "carbs_g": 320.0,
+      "fat_g": 72.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6320.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-174",
+      "name": "Hawaiian™ (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3360.0,
+      "protein_g": 156.0,
+      "carbs_g": 444.0,
+      "fat_g": 96.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 8760.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-175",
+      "name": "Italian Garlic Supreme® (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 880.0,
+      "protein_g": 40.0,
+      "carbs_g": 96.0,
+      "fat_g": 40.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2120.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-176",
+      "name": "Italian Garlic Supreme® (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2800.0,
+      "protein_g": 120.0,
+      "carbs_g": 296.0,
+      "fat_g": 128.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6560.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-177",
+      "name": "Italian Garlic Supreme® (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3840.0,
+      "protein_g": 168.0,
+      "carbs_g": 420.0,
+      "fat_g": 168.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 9000.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-178",
+      "name": "King Arthur’s Supreme® (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 880.0,
+      "protein_g": 40.0,
+      "carbs_g": 100.0,
+      "fat_g": 36.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2200.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-179",
+      "name": "King Arthur’s Supreme® (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2800.0,
+      "protein_g": 128.0,
+      "carbs_g": 312.0,
+      "fat_g": 112.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6960.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-180",
+      "name": "King Arthur’s Supreme® (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3840.0,
+      "protein_g": 180.0,
+      "carbs_g": 420.0,
+      "fat_g": 156.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 9720.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-181",
+      "name": "Maui Zaui™ (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 920.0,
+      "protein_g": 40.0,
+      "carbs_g": 120.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2440.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-182",
+      "name": "Maui Zaui™ (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2880.0,
+      "protein_g": 136.0,
+      "carbs_g": 352.0,
+      "fat_g": 104.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7840.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-184",
+      "name": "Montague’s All Meat Marvel® (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 920.0,
+      "protein_g": 44.0,
+      "carbs_g": 96.0,
+      "fat_g": 40.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2440.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-185",
+      "name": "Montague’s All Meat Marvel® (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3040.0,
+      "protein_g": 144.0,
+      "carbs_g": 296.0,
+      "fat_g": 136.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7920.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-187",
+      "name": "Pepperoni (medium, pan crust)",
+      "description": "Derived whole pizza from 4 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 720.0,
+      "protein_g": 32.0,
+      "carbs_g": 96.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1600.0,
+      "serving_note": "per whole pizza (4 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-188",
+      "name": "Pepperoni (large, pan crust)",
+      "description": "Derived whole pizza from 8 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 2560.0,
+      "protein_g": 112.0,
+      "carbs_g": 296.0,
+      "fat_g": 104.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6240.0,
+      "serving_note": "per whole pizza (8 x per-slice nutrition)"
+    },
+    {
+      "id": "derived-pizza-189",
+      "name": "Pepperoni (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3600.0,
+      "protein_g": 156.0,
+      "carbs_g": 408.0,
+      "fat_g": 144.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 8640.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    }
+  ]
+}

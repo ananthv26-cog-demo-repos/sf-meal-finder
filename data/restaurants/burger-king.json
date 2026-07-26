@@ -1,0 +1,6633 @@
+{
+  "id": "burger-king",
+  "name": "Burger King",
+  "website": "https://www.bk.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "35 Powell St, San Francisco, CA 94102",
+      "lat": 37.785059,
+      "lng": -122.407944,
+      "neighborhood": null
+    },
+    {
+      "address": "819 Van Ness Ave, San Francisco, CA 94109",
+      "lat": 37.783037,
+      "lng": -122.421149,
+      "neighborhood": null
+    },
+    {
+      "address": "1690 Valencia St, San Francisco, CA 94110",
+      "lat": 37.745639,
+      "lng": -122.420267,
+      "neighborhood": null
+    },
+    {
+      "address": "245 Bayshore Blvd., San Francisco, CA 94124",
+      "lat": 37.744153,
+      "lng": -122.404065,
+      "neighborhood": null
+    },
+    {
+      "address": "3900 Geary Blvd, San Francisco, CA 94118",
+      "lat": 37.781479,
+      "lng": -122.461397,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "medium-hash-browns-digital-exclusives-item-89678",
+      "name": "Medium Hash Browns (Digital Exclusives)",
+      "description": null,
+      "category": "side",
+      "calories": 510,
+      "protein_g": 4,
+      "carbs_g": 55,
+      "fat_g": 30,
+      "fiber_g": 5,
+      "sodium_mg": 1060,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "5-pc-french-toast-stick-item-93484",
+      "name": "5 Pc. French Toast Stick",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 6,
+      "carbs_g": 71,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 340,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "egg-cheese-biscuit-breakfast-sandwiches-item-92813",
+      "name": "Egg & Cheese Biscuit (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 13,
+      "carbs_g": 31,
+      "fat_g": 22,
+      "fiber_g": 2,
+      "sodium_mg": 1180,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-biscuit-digital-exclusives-item-65903",
+      "name": "Ham, Egg, & Cheese Biscuit (Digital Exclusives)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 19,
+      "carbs_g": 32,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 1530,
+      "serving_note": "per 179.238 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-biscuit-breakfast-sandwiches-item-65902",
+      "name": "Bacon, Egg, & Cheese Biscuit (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 31,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 1340,
+      "serving_note": "per 153.328 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-egg-cheese-biscuit-breakfast-sandwiches-item-65912",
+      "name": "Sausage, Egg, & Cheese Biscuit (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 560,
+      "protein_g": 20,
+      "carbs_g": 32,
+      "fat_g": 39,
+      "fiber_g": 2,
+      "sodium_mg": 1580,
+      "serving_note": "per 193.538 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "egg-cheese-croissan-wich-digital-exclusives-item-76857",
+      "name": "Egg & Cheese Croissan'wich (Digital Exclusives)",
+      "description": null,
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 13,
+      "carbs_g": 30,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 660,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-croissan-wich-breakfast-sandwiches-item-65885",
+      "name": "Ham, Egg, & Cheese Croissan'wich (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 370,
+      "protein_g": 19,
+      "carbs_g": 31,
+      "fat_g": 19,
+      "fiber_g": 1,
+      "sodium_mg": 1060,
+      "serving_note": "per 159.304 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-croissan-wich-breakfast-sandwiches-item-65883",
+      "name": "Bacon, Egg, & Cheese Croissan'wich (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 15,
+      "carbs_g": 28,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 810,
+      "serving_note": "per 133.394 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-egg-cheese-croissan-wich-breakfast-sandwiches-item-65888",
+      "name": "Sausage, Egg, & Cheese Croissan'wich (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 19,
+      "carbs_g": 28,
+      "fat_g": 34,
+      "fiber_g": 3,
+      "sodium_mg": 1040,
+      "serving_note": "per 173.604 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hash-browns-breakfast-meals-item-570",
+      "name": "Small Hash Browns (Breakfast Meals)",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 2,
+      "carbs_g": 29,
+      "fat_g": 16,
+      "fiber_g": 3,
+      "sodium_mg": 570,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-black-iced-coffee-item-42112",
+      "name": "Medium Black Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 12.757 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-mocha-iced-coffee-item-578",
+      "name": "Medium Mocha Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 27,
+      "fat_g": 10,
+      "fiber_g": 1,
+      "sodium_mg": 60,
+      "serving_note": "per 100.012 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-vanilla-iced-coffee-item-584",
+      "name": "Medium Vanilla Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 27,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 110.569 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-decaf-coffee-item-191",
+      "name": "Medium Decaf Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 16.726 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-brewed-coffee-item-195",
+      "name": "Medium Brewed Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 16.726 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "3-pc-french-toast-sticks-breakfast-sandwiches-item-89679-item-89679",
+      "name": "3 Pc. French Toast Sticks (Breakfast Sandwiches, item_89679)",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 4,
+      "carbs_g": 52,
+      "fat_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 210,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "breakfast-burrito-jr-breakfast-meals-item-94097",
+      "name": "Breakfast Burrito Jr. (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 29,
+      "fat_g": 26,
+      "fiber_g": 1,
+      "sodium_mg": 1090,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-black-iced-coffee-digital-exclusives-item-42099",
+      "name": "Small Black Iced Coffee (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 9.922 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-mocha-iced-coffee-digital-exclusives-item-577",
+      "name": "Small Mocha Iced Coffee (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 21,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 76.825 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-vanilla-iced-coffee-digital-exclusives-item-583",
+      "name": "Small Vanilla Iced Coffee (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 20,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 84.934 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-decaf-coffee-item-192",
+      "name": "Small Decaf Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 12.19 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-brewed-coffee-digital-exclusives-item-54545",
+      "name": "Small Brewed Coffee (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 23.53 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "simply-orange-juice-item-693",
+      "name": "Simply® Orange Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 35,
+      "fat_g": 1.5,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 283.49 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "original-chicken-sandwich-limited-time-only-item-59127-item-59127",
+      "name": "Original Chicken Sandwich (Limited Time Only, item_59127)",
+      "description": null,
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 23,
+      "carbs_g": 63,
+      "fat_g": 39,
+      "fiber_g": 3,
+      "sodium_mg": 1380,
+      "serving_note": "per 213.774 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-powerade-zero-item-43138",
+      "name": "Large Powerade Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 15,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 250,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-mello-yello-zero-item-43148",
+      "name": "Large Mello Yello Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-mello-yello-item-43143",
+      "name": "Large Mello Yello",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 76,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fanta-strawberry-item-82006",
+      "name": "Large Fanta Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 0,
+      "carbs_g": 93,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fs-fanta-orange-item-52545",
+      "name": "Large FS Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "calories": 330,
+      "protein_g": 0,
+      "carbs_g": 88,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fanta-orange-item-43108",
+      "name": "Large Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "calories": 330,
+      "protein_g": 0,
+      "carbs_g": 88,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-hi-c-pink-lemonade-item-43153",
+      "name": "Large Hi-C Pink Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 82,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 220,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-hi-c-fruit-punch-item-43158",
+      "name": "Large Hi-C Fruit Punch",
+      "description": null,
+      "category": "meal",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 94,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-diet-barq-s-root-beer-item-43128",
+      "name": "Large Diet Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-barq-s-root-beer-item-43123",
+      "name": "Large Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 0,
+      "carbs_g": 96,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-minute-maid-lemonade-item-69529",
+      "name": "Large Minute Maid® Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 340,
+      "protein_g": 0,
+      "carbs_g": 90,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 80,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-unsweetened-iced-tea-item-883",
+      "name": "Large Unsweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 4.448 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-sweetened-iced-tea-item-43163",
+      "name": "Large Sweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 59,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "pure-life-purified-water-item-113",
+      "name": "Pure Life® Purified Water",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-signature-strawberry-lemonade-item-67959",
+      "name": "Large Signature Strawberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 500,
+      "protein_g": 2,
+      "carbs_g": 120,
+      "fat_g": 0,
+      "fiber_g": 2,
+      "sodium_mg": 20,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-signature-watermelon-lemonade-item-98899",
+      "name": "Large Signature Watermelon Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 380,
+      "protein_g": 0,
+      "carbs_g": 96,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 164.221 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-signature-mango-peach-lemonade-item-104375",
+      "name": "Large Signature Mango Peach Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 363,
+      "protein_g": 0.04,
+      "carbs_g": 91.54,
+      "fat_g": 0.01,
+      "fiber_g": 0.05,
+      "sodium_mg": 4.37,
+      "serving_note": "per 159.524 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fanta-blue-raspberry-freezee-king-item-586",
+      "name": "Large Fanta® Blue Raspberry Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 43,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 75,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-coke-freezee-king-item-593",
+      "name": "Large Coke® Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 44,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fanta-strawberry-freezee-king-item-85171",
+      "name": "Large Fanta® Strawberry Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 43,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 75,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-hi-c-orange-freezee-king-item-99557",
+      "name": "Large Hi-C® Orange Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 0,
+      "carbs_g": 63,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 135,
+      "serving_note": "per 60.9 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-orange-dreamsicle-freezee-king-item-100670",
+      "name": "Large Orange Dreamsicle Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 0,
+      "carbs_g": 84,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 95,
+      "serving_note": "per 112.496 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "chocolate-oreo-shake-item-22789",
+      "name": "Chocolate Oreo® Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 670,
+      "protein_g": 13,
+      "carbs_g": 116,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 470,
+      "serving_note": "per 416.017 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "classic-oreo-shake-item-9923",
+      "name": "Classic Oreo® Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 640,
+      "protein_g": 13,
+      "carbs_g": 109,
+      "fat_g": 17,
+      "fiber_g": 1,
+      "sodium_mg": 460,
+      "serving_note": "per 413.275 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "strawberry-shake-item-777",
+      "name": "Strawberry Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 610,
+      "protein_g": 12,
+      "carbs_g": 110,
+      "fat_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 420,
+      "serving_note": "per 434.262 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "chocolate-shake-item-767",
+      "name": "Chocolate Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 590,
+      "protein_g": 13,
+      "carbs_g": 103,
+      "fat_g": 14,
+      "fiber_g": 1,
+      "sodium_mg": 420,
+      "serving_note": "per 399.008 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "vanilla-shake-item-781",
+      "name": "Vanilla Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 560,
+      "protein_g": 12,
+      "carbs_g": 96,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per 395.904 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "strawberry-cake-shake-item-104681",
+      "name": "Strawberry Cake Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 660,
+      "protein_g": 12,
+      "carbs_g": 101,
+      "fat_g": 22,
+      "fiber_g": 0,
+      "sodium_mg": 470,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "dr-pepper-shake-item-104682",
+      "name": "Dr Pepper® Shake",
+      "description": null,
+      "category": "condiment",
+      "calories": 540,
+      "protein_g": 11,
+      "carbs_g": 93,
+      "fat_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 400,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-sprite-zero-item-43118",
+      "name": "Large Sprite Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fs-sprite-item-52540",
+      "name": "Large FS Sprite",
+      "description": null,
+      "category": "drink",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 81,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fs-dr-pepper-item-52550",
+      "name": "Large FS Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 82,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-dr-pepper-item-43103",
+      "name": "Large Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 82,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-coca-cola-zero-item-43113",
+      "name": "Large Coca-Cola Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fs-diet-coke-item-52535",
+      "name": "Large FS Diet Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-diet-coke-item-43093",
+      "name": "Large Diet Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-fs-coca-cola-item-52525",
+      "name": "Large FS Coca-Cola",
+      "description": null,
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 0,
+      "carbs_g": 88,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-coca-cola-burgers-for-breakfast-item-43088",
+      "name": "Large Coca-Cola (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 0,
+      "carbs_g": 88,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 8,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-sprite-item-43098",
+      "name": "Large Sprite",
+      "description": null,
+      "category": "drink",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 81,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "12-pc-mozzarella-fries-item-86766",
+      "name": "12 Pc. Mozzarella Fries",
+      "description": null,
+      "category": "side",
+      "calories": 660,
+      "protein_g": 29,
+      "carbs_g": 71,
+      "fat_g": 36,
+      "fiber_g": 3,
+      "sodium_mg": 2270,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "12-pc-chicken-fries-burgers-for-breakfast-item-86769",
+      "name": "12 Pc. Chicken Fries (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 340,
+      "protein_g": 20,
+      "carbs_g": 25,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 1030,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-have-sies-item-69969",
+      "name": "Large Have-sies™",
+      "description": null,
+      "category": "side",
+      "calories": 490,
+      "protein_g": 6,
+      "carbs_g": 67,
+      "fat_g": 23,
+      "fiber_g": 6,
+      "sodium_mg": 700,
+      "serving_note": "per 177.893 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-onion-rings-burgers-for-breakfast-item-686",
+      "name": "Large Onion Rings (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 430,
+      "protein_g": 5,
+      "carbs_g": 57,
+      "fat_g": 20,
+      "fiber_g": 6,
+      "sodium_mg": 770,
+      "serving_note": "per 160.742 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-french-fries-burgers-for-breakfast-item-539",
+      "name": "Large French Fries (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 440,
+      "protein_g": 6,
+      "carbs_g": 60,
+      "fat_g": 20,
+      "fiber_g": 5,
+      "sodium_mg": 400,
+      "serving_note": "per 238.703 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-powerade-zero-item-43137",
+      "name": "Medium Powerade Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-mello-yello-zero-item-43147",
+      "name": "Medium Mello Yello Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 75,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-mello-yello-item-43142",
+      "name": "Medium Mello Yello",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 64,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fanta-strawberry-item-82005",
+      "name": "Medium Fanta Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 78,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fs-fanta-orange-item-52544",
+      "name": "Medium FS Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 74,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fanta-orange-item-43107",
+      "name": "Medium Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 74,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-hi-c-pink-lemonade-item-43152",
+      "name": "Medium Hi-C Pink Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 69,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 180,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-hi-c-fruit-punch-item-43157",
+      "name": "Medium Hi-C Fruit Punch",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 79,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-diet-barq-s-root-beer-item-43127",
+      "name": "Medium Diet Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 75,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-barq-s-root-beer-item-43122",
+      "name": "Medium Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 81,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-minute-maid-lemonade-item-69528",
+      "name": "Medium Minute Maid® Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 290,
+      "protein_g": 0,
+      "carbs_g": 76,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 70,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-signature-strawberry-lemonade-item-87062",
+      "name": "Medium Signature Strawberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 63,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 109 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-signature-watermelon-lemonade-item-98438",
+      "name": "Medium Signature Watermelon Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 66,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 112.835 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-signature-mango-peach-lemonade-item-67961",
+      "name": "Medium Signature Mango Peach Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 63,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-unsweetened-iced-tea-item-884",
+      "name": "Medium Unsweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 3.036 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-sweetened-iced-tea-item-43162",
+      "name": "Medium Sweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 44,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fanta-blue-raspberry-freezee-king-item-587",
+      "name": "Medium Fanta® Blue Raspberry Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 34,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-coke-freezee-king-item-592",
+      "name": "Medium Coke® Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 35,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fanta-strawberry-freezee-king-item-85170",
+      "name": "Medium Fanta® Strawberry Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 34,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-hi-c-orange-freezee-king-item-99556",
+      "name": "Medium Hi-C® Orange Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 110,
+      "serving_note": "per 49.59 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-orange-dreamsicle-freezee-king-item-100669",
+      "name": "Medium Orange Dreamsicle Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 340,
+      "protein_g": 0,
+      "carbs_g": 68,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 101.186 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-sprite-zero-item-43117",
+      "name": "Medium Sprite Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fs-sprite-item-52539",
+      "name": "Medium FS Sprite",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 68,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fs-dr-pepper-item-52549",
+      "name": "Medium FS Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-dr-pepper-item-43102",
+      "name": "Medium Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-coca-cola-zero-item-43112",
+      "name": "Medium Coca-Cola Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fs-diet-coke-item-52534",
+      "name": "Medium FS Diet Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-diet-coke-item-43092",
+      "name": "Medium Diet Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-fs-coca-cola-item-52524",
+      "name": "Medium FS Coca-Cola",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 75,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-coca-cola-burgers-for-breakfast-item-43087",
+      "name": "Medium Coca-Cola (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 75,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-sprite-item-43097",
+      "name": "Medium Sprite",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 68,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-mozzarella-fries-item-86765",
+      "name": "8 Pc. Mozzarella Fries",
+      "description": null,
+      "category": "side",
+      "calories": 440,
+      "protein_g": 19,
+      "carbs_g": 48,
+      "fat_g": 24,
+      "fiber_g": 2,
+      "sodium_mg": 1570,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-chicken-fries-limited-time-only-item-85286",
+      "name": "8 Pc. Chicken Fries (Limited Time Only)",
+      "description": null,
+      "category": "side",
+      "calories": 220,
+      "protein_g": 13,
+      "carbs_g": 16,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 680,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-have-sies-burgers-for-breakfast-item-69963",
+      "name": "Medium Have-sies™ (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 350,
+      "protein_g": 4,
+      "carbs_g": 47,
+      "fat_g": 16,
+      "fiber_g": 4,
+      "sodium_mg": 490,
+      "serving_note": "per 134.036 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-onion-rings-burgers-for-breakfast-item-687",
+      "name": "Medium Onion Rings (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 290,
+      "protein_g": 4,
+      "carbs_g": 39,
+      "fat_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 530,
+      "serving_note": "per 109.146 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-french-fries-burgers-for-breakfast-item-540",
+      "name": "Medium French Fries (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 370,
+      "protein_g": 5,
+      "carbs_g": 50,
+      "fat_g": 17,
+      "fiber_g": 4,
+      "sodium_mg": 330,
+      "serving_note": "per 199.58 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-powerade-zero-burgers-for-breakfast-item-43136",
+      "name": "Small Powerade Zero (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-mello-yello-zero-item-43146",
+      "name": "Small Mello Yello Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 50,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-mello-yello-item-54534",
+      "name": "Small Mello Yello",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 43,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fanta-strawberry-item-82003",
+      "name": "Small Fanta Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 52,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fs-fanta-orange-item-52543",
+      "name": "Small FS Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 49,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fanta-orange-burgers-for-breakfast-item-43106",
+      "name": "Small Fanta Orange (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 49,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hi-c-pink-lemonade-burgers-for-breakfast-item-43151",
+      "name": "Small Hi-C Pink Lemonade (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 125,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hi-c-fruit-punch-burgers-for-breakfast-item-43156",
+      "name": "Small Hi-C Fruit Punch (Burgers for Breakfast)",
+      "description": null,
+      "category": "meal",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 53,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-diet-barq-s-root-beer-item-43126",
+      "name": "Small Diet Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-barq-s-root-beer-item-43121",
+      "name": "Small Barq's Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-minute-maid-lemonade-burgers-for-breakfast-item-69527",
+      "name": "Small Minute Maid® Lemonade (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-signature-strawberry-lemonade-item-78096",
+      "name": "Small Signature Strawberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-signature-watermelon-lemonade-burgers-for-breakfast-item-98694",
+      "name": "Small Signature Watermelon Lemonade (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 52,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 89.506 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-signature-mango-peach-lemonade-item-67960",
+      "name": "Small Signature Mango Peach Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-unsweetened-iced-tea-item-54544",
+      "name": "Small Unsweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 2.228 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-sweetened-iced-tea-item-54542",
+      "name": "Small Sweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 32,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 37.915 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fs-dr-pepper-item-52548",
+      "name": "Small FS Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-sprite-zero-burgers-for-breakfast-item-43116",
+      "name": "Small Sprite Zero (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fs-sprite-item-52538",
+      "name": "Small FS Sprite",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fanta-blue-raspberry-freezee-king-item-588",
+      "name": "Small Fanta® Blue Raspberry Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "protein_g": 0,
+      "carbs_g": 26,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-coke-freezee-king-item-594",
+      "name": "Small Coke® Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "protein_g": 0,
+      "carbs_g": 26,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fanta-strawberry-freezee-king-item-85169",
+      "name": "Small Fanta® Strawberry Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "protein_g": 0,
+      "carbs_g": 26,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hi-c-orange-freezee-king-item-99555",
+      "name": "Small Hi-C® Orange Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 37.12 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-orange-dreamsicle-freezee-king-item-100657",
+      "name": "Small Orange Dreamsicle Freezee King",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 56,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 88.716 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-dr-pepper-item-54530",
+      "name": "Small Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-coca-cola-zero-burgers-for-breakfast-item-43111",
+      "name": "Small Coca-Cola Zero (Burgers for Breakfast)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fs-diet-coke-item-52533",
+      "name": "Small FS Diet Coke",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-diet-coke-drinks-coffee-item-54520",
+      "name": "Small Diet Coke (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fs-coca-cola-item-52523",
+      "name": "Small FS Coca-Cola",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-coca-cola-drinks-coffee-item-53713",
+      "name": "Small Coca-Cola (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-sprite-drinks-coffee-item-54524",
+      "name": "Small Sprite (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-mozzarella-fries-item-77203",
+      "name": "4 Pc. Mozzarella Fries",
+      "description": null,
+      "category": "side",
+      "calories": 220,
+      "protein_g": 10,
+      "carbs_g": 24,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 790,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-chicken-fries-burgers-for-breakfast-item-86767",
+      "name": "4 Pc. Chicken Fries (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 110,
+      "protein_g": 7,
+      "carbs_g": 8,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-have-sies-burgers-for-breakfast-item-69961",
+      "name": "Small Have-sies™ (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "protein_g": 4,
+      "carbs_g": 38,
+      "fat_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 390,
+      "serving_note": "per 114.447 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-onion-rings-burgers-for-breakfast-item-688",
+      "name": "Small Onion Rings (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 3,
+      "carbs_g": 31,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 410,
+      "serving_note": "per 85.899 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-french-fries-burgers-for-breakfast-item-541",
+      "name": "Small French Fries (Burgers for Breakfast)",
+      "description": null,
+      "category": "side",
+      "calories": 300,
+      "protein_g": 4,
+      "carbs_g": 40,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 270,
+      "serving_note": "per 160.458 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-cheeseburger-burgers-for-breakfast-item-28",
+      "name": "Bacon Cheeseburger (Burgers for Breakfast)",
+      "description": null,
+      "category": "meal",
+      "calories": 350,
+      "protein_g": 19,
+      "carbs_g": 30,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 980,
+      "serving_note": "per 127.364 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "cheeseburger-burgers-for-breakfast-item-142",
+      "name": "Cheeseburger (Burgers for Breakfast)",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 16,
+      "carbs_g": 30,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 810,
+      "serving_note": "per 119.254 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "hamburger-item-124",
+      "name": "Hamburger",
+      "description": null,
+      "category": "meal",
+      "calories": 260,
+      "protein_g": 14,
+      "carbs_g": 29,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 600,
+      "serving_note": "per 107.834 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-double-cheeseburger-item-25",
+      "name": "Bacon Double Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 30,
+      "carbs_g": 31,
+      "fat_g": 29,
+      "fiber_g": 2,
+      "sodium_mg": 1210,
+      "serving_note": "per 184.204 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-cheeseburger-item-326",
+      "name": "Double Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 27,
+      "carbs_g": 31,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1040,
+      "serving_note": "per 167.984 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-jr-with-bacon-cheese-item-15154",
+      "name": "Whopper Jr.® with Bacon & Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 20,
+      "carbs_g": 31,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 980,
+      "serving_note": "per 162.226 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-jr-with-cheese-item-955",
+      "name": "Whopper Jr.® with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 17,
+      "carbs_g": 31,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 810,
+      "serving_note": "per 154.116 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-jr-with-bacon-item-15155",
+      "name": "Whopper Jr.® with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 19,
+      "carbs_g": 30,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 770,
+      "serving_note": "per 150.776 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-jr-item-954",
+      "name": "Whopper Jr.®",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 15,
+      "carbs_g": 30,
+      "fat_g": 19,
+      "fiber_g": 2,
+      "sodium_mg": 630,
+      "serving_note": "per 142.456 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-king-item-27732",
+      "name": "Bacon King",
+      "description": null,
+      "category": "meal",
+      "calories": 1260,
+      "protein_g": 69,
+      "carbs_g": 58,
+      "fat_g": 84,
+      "fiber_g": 4,
+      "sodium_mg": 2330,
+      "serving_note": "per 366.13 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "triple-whopper-with-bacon-cheese-item-906",
+      "name": "Triple Whopper with Bacon & Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 1390,
+      "protein_g": 87,
+      "carbs_g": 59,
+      "fat_g": 94,
+      "fiber_g": 5,
+      "sodium_mg": 2050,
+      "serving_note": "per 499.623 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "triple-whopper-with-cheese-item-959",
+      "name": "Triple Whopper® with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 1330,
+      "protein_g": 82,
+      "carbs_g": 59,
+      "fat_g": 89,
+      "fiber_g": 5,
+      "sodium_mg": 1800,
+      "serving_note": "per 482.738 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "triple-whopper-with-bacon-item-905",
+      "name": "Triple Whopper® with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 1310,
+      "protein_g": 83,
+      "carbs_g": 58,
+      "fat_g": 87,
+      "fiber_g": 5,
+      "sodium_mg": 1640,
+      "serving_note": "per 476.723 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "triple-whopper-item-958",
+      "name": "Triple Whopper®",
+      "description": null,
+      "category": "meal",
+      "calories": 1250,
+      "protein_g": 78,
+      "carbs_g": 57,
+      "fat_g": 82,
+      "fiber_g": 5,
+      "sodium_mg": 1380,
+      "serving_note": "per 459.938 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-with-bacon-cheese-item-352",
+      "name": "Double Whopper with Bacon & Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 1120,
+      "protein_g": 64,
+      "carbs_g": 59,
+      "fat_g": 74,
+      "fiber_g": 5,
+      "sodium_mg": 1890,
+      "serving_note": "per 412.029 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-with-cheese-item-355",
+      "name": "Double Whopper with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 1060,
+      "protein_g": 60,
+      "carbs_g": 59,
+      "fat_g": 69,
+      "fiber_g": 5,
+      "sodium_mg": 1730,
+      "serving_note": "per 400.148 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-with-bacon-item-351",
+      "name": "Double Whopper with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 1040,
+      "protein_g": 60,
+      "carbs_g": 57,
+      "fat_g": 67,
+      "fiber_g": 5,
+      "sodium_mg": 1570,
+      "serving_note": "per 389.413 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-item-350",
+      "name": "Double Whopper",
+      "description": null,
+      "category": "meal",
+      "calories": 980,
+      "protein_g": 56,
+      "carbs_g": 57,
+      "fat_g": 62,
+      "fiber_g": 5,
+      "sodium_mg": 1320,
+      "serving_note": "per 374.178 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "impossible-whopper-item-44985",
+      "name": "Impossible™ Whopper",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 32,
+      "carbs_g": 64,
+      "fat_g": 35,
+      "fiber_g": 8,
+      "sodium_mg": 1490,
+      "serving_note": "per 304.374 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-with-bacon-cheese-item-140",
+      "name": "Whopper with Bacon & Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 860,
+      "protein_g": 42,
+      "carbs_g": 58,
+      "fat_g": 54,
+      "fiber_g": 4,
+      "sodium_mg": 1920,
+      "serving_note": "per 323.353 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-with-cheese-item-960",
+      "name": "Whopper with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 790,
+      "protein_g": 37,
+      "carbs_g": 58,
+      "fat_g": 49,
+      "fiber_g": 4,
+      "sodium_mg": 1660,
+      "serving_note": "per 311.218 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-with-bacon-item-26",
+      "name": "Whopper with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 770,
+      "protein_g": 38,
+      "carbs_g": 57,
+      "fat_g": 47,
+      "fiber_g": 4,
+      "sodium_mg": 1500,
+      "serving_note": "per 300.553 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-burgers-for-breakfast-item-953",
+      "name": "Whopper (Burgers for Breakfast)",
+      "description": null,
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 34,
+      "carbs_g": 57,
+      "fat_g": 42,
+      "fiber_g": 4,
+      "sodium_mg": 1250,
+      "serving_note": "per 288.418 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "pancake-platter-breakfast-meals-item-708",
+      "name": "Pancake Platter (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 5,
+      "carbs_g": 74,
+      "fat_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 690,
+      "serving_note": "per 82.47 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "pancake-sausage-platter-item-711",
+      "name": "Pancake & Sausage Platter",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 12,
+      "carbs_g": 75,
+      "fat_g": 26,
+      "fiber_g": 1,
+      "sodium_mg": 1090,
+      "serving_note": "per 130.77 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-mocha-iced-coffee-item-579",
+      "name": "Large Mocha Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 3,
+      "carbs_g": 34,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 75,
+      "serving_note": "per 126.556 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-black-iced-coffee-item-42113",
+      "name": "Large Black Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 15.876 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-plain-iced-coffee-item-582",
+      "name": "Large Plain Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 2,
+      "carbs_g": 35,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 144.226 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-vanilla-iced-coffee-item-585",
+      "name": "Large Vanilla Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 2,
+      "carbs_g": 34,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-decaf-coffee-item-190",
+      "name": "Large Decaf Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 20.695 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-brewed-coffee-item-194",
+      "name": "Large Brewed Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 20.695 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-hash-browns-item-568",
+      "name": "Large Hash Browns",
+      "description": null,
+      "category": "side",
+      "calories": 700,
+      "protein_g": 6,
+      "carbs_g": 76,
+      "fat_g": 42,
+      "fiber_g": 6,
+      "sodium_mg": 1460,
+      "serving_note": "per 240.971 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-plain-iced-coffee-item-581",
+      "name": "Medium Plain Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 2,
+      "carbs_g": 27,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per 113.762 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-hash-browns-breakfast-meals-item-569",
+      "name": "Medium Hash Browns (Breakfast Meals)",
+      "description": null,
+      "category": "side",
+      "calories": 510,
+      "protein_g": 4,
+      "carbs_g": 55,
+      "fat_g": 30,
+      "fiber_g": 5,
+      "sodium_mg": 1060,
+      "serving_note": "per 174.066 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-plain-iced-coffee-breakfast-meals-item-580",
+      "name": "Small Plain Iced Coffee (Breakfast Meals)",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 21,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 86.911 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-brewed-coffee-breakfast-meals-item-199",
+      "name": "Small Brewed Coffee (Breakfast Meals)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 12.19 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "egg-normous-burrito-item-19146",
+      "name": "Egg-Normous Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 800,
+      "protein_g": 35,
+      "carbs_g": 67,
+      "fat_g": 44,
+      "fiber_g": 3,
+      "sodium_mg": 2010,
+      "serving_note": "per 310.491 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "5-pc-french-toast-sticks-item-545",
+      "name": "5 Pc. French Toast Sticks",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 6,
+      "carbs_g": 71,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 340,
+      "serving_note": "per 154.97 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "egg-cheese-biscuit-breakfast-meals-item-83",
+      "name": "Egg & Cheese Biscuit (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 13,
+      "carbs_g": 31,
+      "fat_g": 22,
+      "fiber_g": 2,
+      "sodium_mg": 1180,
+      "serving_note": "per 145.218 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-biscuit-breakfast-meals-item-68",
+      "name": "Ham, Egg, & Cheese Biscuit (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 19,
+      "carbs_g": 32,
+      "fat_g": 24,
+      "fiber_g": 2,
+      "sodium_mg": 1530,
+      "serving_note": "per 179.218 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-biscuit-breakfast-meals-item-64",
+      "name": "Bacon, Egg, & Cheese Biscuit (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 31,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 1340,
+      "serving_note": "per 153.308 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-egg-cheese-biscuit-breakfast-meals-item-91",
+      "name": "Sausage, Egg, & Cheese Biscuit (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 560,
+      "protein_g": 20,
+      "carbs_g": 32,
+      "fat_g": 39,
+      "fiber_g": 2,
+      "sodium_mg": 1580,
+      "serving_note": "per 192.148 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "fully-loaded-biscuit-item-36984",
+      "name": "Fully Loaded Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 660,
+      "protein_g": 31,
+      "carbs_g": 34,
+      "fat_g": 45,
+      "fiber_g": 2,
+      "sodium_mg": 2290,
+      "serving_note": "per 244.174 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "egg-cheese-croissan-wich-breakfast-meals-item-306",
+      "name": "Egg & Cheese Croissan'wich (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "protein_g": 12,
+      "carbs_g": 28,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 640,
+      "serving_note": "per 125.284 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-croissan-wich-breakfast-meals-item-307",
+      "name": "Ham, Egg, & Cheese Croissan'wich (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 350,
+      "protein_g": 18,
+      "carbs_g": 29,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 1000,
+      "serving_note": "per 159.284 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-croissan-wich-breakfast-meals-item-299",
+      "name": "Bacon, Egg, & Cheese Croissan'wich (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 15,
+      "carbs_g": 28,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 810,
+      "serving_note": "per 133.374 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-egg-cheese-croissan-wich-breakfast-meals-item-312",
+      "name": "Sausage, Egg, & Cheese Croissan'wich (Breakfast Meals)",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 19,
+      "carbs_g": 28,
+      "fat_g": 34,
+      "fiber_g": 3,
+      "sodium_mg": 1040,
+      "serving_note": "per 173.584 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-sausage-egg-cheese-croissan-wich-item-321",
+      "name": "Bacon, Sausage, Egg, & Cheese Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 24,
+      "carbs_g": 29,
+      "fat_g": 41,
+      "fiber_g": 3,
+      "sodium_mg": 1420,
+      "serving_note": "per 193.074 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-sausage-egg-cheese-croissan-wich-item-65920",
+      "name": "Double Sausage, Egg, & Cheese Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 730,
+      "protein_g": 28,
+      "carbs_g": 30,
+      "fat_g": 55,
+      "fiber_g": 3,
+      "sodium_mg": 1660,
+      "serving_note": "per 233.284 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "fully-loaded-croissan-wich-item-14383",
+      "name": "Fully Loaded Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 30,
+      "carbs_g": 31,
+      "fat_g": 43,
+      "fiber_g": 3,
+      "sodium_mg": 1780,
+      "serving_note": "per 225.744 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-biscuit-breakfast-sandwiches-item-88-item-88",
+      "name": "Sausage Biscuit (Breakfast Sandwiches, item_88)",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 12,
+      "carbs_g": 30,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 1150,
+      "serving_note": "per 124.765 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-sausage-egg-cheese-biscuit-breakfast-sandwiches-item-320-item-320",
+      "name": "Bacon, Sausage, Egg, & Cheese Biscuit (Breakfast Sandwiches, item_320)",
+      "description": null,
+      "category": "meal",
+      "calories": 650,
+      "protein_g": 25,
+      "carbs_g": 33,
+      "fat_g": 46,
+      "fiber_g": 2,
+      "sodium_mg": 1960,
+      "serving_note": "per 213.008 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-sausage-egg-cheese-biscuit-item-342",
+      "name": "Double Sausage, Egg, & Cheese Biscuit",
+      "description": null,
+      "category": "meal",
+      "calories": 790,
+      "protein_g": 29,
+      "carbs_g": 33,
+      "fat_g": 59,
+      "fiber_g": 3,
+      "sodium_mg": 2190,
+      "serving_note": "per 253.218 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-sausage-egg-cheese-biscuit-breakfast-sandwiches-item-65914-item-65914",
+      "name": "Bacon, Sausage, Egg, & Cheese Biscuit (Breakfast Sandwiches, item_65914)",
+      "description": null,
+      "category": "meal",
+      "calories": 650,
+      "protein_g": 25,
+      "carbs_g": 33,
+      "fat_g": 46,
+      "fiber_g": 2,
+      "sodium_mg": 1960,
+      "serving_note": "per 213.048 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-and-sausage-egg-and-cheese-croissan-wich-item-65918",
+      "name": "Bacon and Sausage, Egg, and Cheese Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 25,
+      "carbs_g": 31,
+      "fat_g": 41,
+      "fiber_g": 1,
+      "sodium_mg": 1410,
+      "serving_note": "per 193.114 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-sausage-egg-cheese-croissan-wich-item-65917",
+      "name": "Bacon, Sausage, Egg & Cheese Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 24,
+      "carbs_g": 29,
+      "fat_g": 41,
+      "fiber_g": 3,
+      "sodium_mg": 1420,
+      "serving_note": "per 193.114 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-biscuit-breakfast-sandwiches-item-65904",
+      "name": "Ham, Egg, & Cheese Biscuit (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 19,
+      "carbs_g": 32,
+      "fat_g": 24,
+      "fiber_g": 2,
+      "sodium_mg": 1530,
+      "serving_note": "per 179.238 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "breakfast-burrito-jr-breakfast-sandwiches-item-17209",
+      "name": "Breakfast Burrito Jr. (Breakfast Sandwiches)",
+      "description": null,
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 29,
+      "fat_g": 26,
+      "fiber_g": 1,
+      "sodium_mg": 1090,
+      "serving_note": "per 161.261 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "3-pc-french-toast-sticks-breakfast-sandwiches-item-544-item-544",
+      "name": "3 Pc. French Toast Sticks (Breakfast Sandwiches, item_544)",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 4,
+      "carbs_g": 52,
+      "fat_g": 13,
+      "fiber_g": 1,
+      "sodium_mg": 210,
+      "serving_note": "per 105.97 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-biscuit-breakfast-sandwiches-item-92812-item-92812",
+      "name": "Sausage Biscuit (Breakfast Sandwiches, item_92812)",
+      "description": null,
+      "category": "meal",
+      "calories": 432,
+      "protein_g": 11.79,
+      "carbs_g": 29.93,
+      "fat_g": 29.27,
+      "fiber_g": 2.24,
+      "sodium_mg": 1142.43,
+      "serving_note": "per 117.855 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-black-iced-coffee-breakfast-sandwiches-item-92810",
+      "name": "Small Black Iced Coffee (Breakfast Sandwiches)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-plain-iced-coffee-breakfast-sandwiches-item-92809",
+      "name": "Small Plain Iced Coffee (Breakfast Sandwiches)",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 21,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-mocha-iced-coffee-breakfast-sandwiches-item-92808",
+      "name": "Small Mocha Iced Coffee (Breakfast Sandwiches)",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 21,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-vanilla-iced-coffee-breakfast-sandwiches-item-92807",
+      "name": "Small Vanilla Iced Coffee (Breakfast Sandwiches)",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 20,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-biscuit-breakfast-sandwiches-item-92811-item-92811",
+      "name": "Sausage Biscuit (Breakfast Sandwiches, item_92811)",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 12,
+      "carbs_g": 30,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 1150,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-cheddar-ranch-tots-item-98824",
+      "name": "8 Pc. Cheddar Ranch Tots",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 6,
+      "carbs_g": 34,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 1020,
+      "serving_note": "per 104 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-cheddar-ranch-tots-item-98823",
+      "name": "4 Pc. Cheddar Ranch Tots",
+      "description": null,
+      "category": "side",
+      "calories": 140,
+      "protein_g": 3,
+      "carbs_g": 17,
+      "fat_g": 6,
+      "fiber_g": 1,
+      "sodium_mg": 510,
+      "serving_note": "per 52 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-have-sies-breakfast-sides-item-69958",
+      "name": "Value Have-sies™ (Breakfast Sides)",
+      "description": null,
+      "category": "side",
+      "calories": 220,
+      "protein_g": 3,
+      "carbs_g": 27,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 280,
+      "serving_note": "per 79.152 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-onion-rings-item-49444",
+      "name": "Value Onion Rings",
+      "description": null,
+      "category": "side",
+      "calories": 170,
+      "protein_g": 2,
+      "carbs_g": 22,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 300,
+      "serving_note": "per 62.652 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-french-fries-item-49443",
+      "name": "Value French Fries",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 3,
+      "carbs_g": 31,
+      "fat_g": 10,
+      "fiber_g": 3,
+      "sodium_mg": 200,
+      "serving_note": "per 123.32 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hash-browns-breakfast-sides-item-54613",
+      "name": "Small Hash Browns (Breakfast Sides)",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 2,
+      "carbs_g": 29,
+      "fat_g": 16,
+      "fiber_g": 3,
+      "sodium_mg": 570,
+      "serving_note": "per 93.837 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "pancake-platter-bundle-deals-item-96016",
+      "name": "Pancake Platter (Bundle Deals)",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 5,
+      "carbs_g": 74,
+      "fat_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 690,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "egg-cheese-croissan-wich-bundle-deals-item-95984",
+      "name": "Egg & Cheese Croissan'wich (Bundle Deals)",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "protein_g": 12,
+      "carbs_g": 28,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 640,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-croissan-wich-bundle-deals-item-95980-item-95980",
+      "name": "Ham, Egg & Cheese Croissan'wich (Bundle Deals, item_95980)",
+      "description": null,
+      "category": "meal",
+      "calories": 350,
+      "protein_g": 18,
+      "carbs_g": 29,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 1000,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sausage-egg-cheese-croissan-wich-item-95883",
+      "name": "Sausage, Egg & Cheese Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 19,
+      "carbs_g": 28,
+      "fat_g": 34,
+      "fiber_g": 3,
+      "sodium_mg": 1040,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-croissan-wich-item-95975",
+      "name": "Bacon, Egg & Cheese Croissan'wich",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 15,
+      "carbs_g": 28,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 810,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ham-egg-cheese-croissan-wich-bundle-deals-item-95978-item-95978",
+      "name": "Ham, Egg & Cheese Croissan'wich (Bundle Deals, item_95978)",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 18,
+      "carbs_g": 29,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 1000,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "honest-kids-apple-juice-drink-item-49446",
+      "name": "Honest Kids® Apple Juice Drink",
+      "description": null,
+      "category": "drink",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 9,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 185 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-powerade-zero-drinks-coffee-item-54532",
+      "name": "Small Powerade Zero (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-powerade-zero-item-43134",
+      "name": "Value Powerade Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 110,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-powerade-item-43133",
+      "name": "Large Powerade",
+      "description": null,
+      "category": "drink",
+      "calories": 288,
+      "protein_g": 0.008,
+      "carbs_g": 69.426,
+      "fat_g": 0.063,
+      "fiber_g": 0,
+      "sodium_mg": 354.16,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-powerade-item-43132",
+      "name": "Medium Powerade",
+      "description": null,
+      "category": "drink",
+      "calories": 220,
+      "protein_g": 0.006,
+      "carbs_g": 52.983,
+      "fat_g": 0.048,
+      "fiber_g": 0,
+      "sodium_mg": 270.28,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-powerade-item-43131",
+      "name": "Small Powerade",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "per 20 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-powerade-item-43130",
+      "name": "Value Powerade",
+      "description": null,
+      "category": "drink",
+      "calories": 121,
+      "protein_g": 0.003,
+      "carbs_g": 29.232,
+      "fat_g": 0.027,
+      "fiber_g": 0,
+      "sodium_mg": 149.12,
+      "serving_note": "per 16 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-mello-yello-item-54533",
+      "name": "Value Mello Yello",
+      "description": null,
+      "category": "drink",
+      "calories": 120,
+      "protein_g": 0,
+      "carbs_g": 33,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 16 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-fanta-strawberry-item-82001",
+      "name": "Value Fanta Strawberry",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 41,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-fanta-orange-drinks-coffee-item-54536",
+      "name": "Small Fanta Orange (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 49,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-fanta-orange-item-54535",
+      "name": "Value Fanta Orange",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hi-c-pink-lemonade-drinks-coffee-item-54538",
+      "name": "Small Hi-C Pink Lemonade (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 125,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-hi-c-pink-lemonade-item-54537",
+      "name": "Value Hi-C Pink Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 36,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 95,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-hi-c-fruit-punch-drinks-coffee-item-54540",
+      "name": "Small Hi-C Fruit Punch (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 53,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-hi-c-fruit-punch-item-54539",
+      "name": "Value Hi-C Fruit Punch",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 41,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-diet-barqs-root-beer-item-54528",
+      "name": "Small Diet Barqs Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-diet-barqs-root-beer-item-54527",
+      "name": "Value Diet Barqs Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-barqs-root-beer-item-54526",
+      "name": "Small Barqs Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 54,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-barqs-root-beer-item-54525",
+      "name": "Value Barqs Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 42,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-unsweetened-iced-tea-item-54543",
+      "name": "Value Unsweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 1.772 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-sweetened-iced-tea-item-54541",
+      "name": "Value Sweetened Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 90,
+      "protein_g": 0,
+      "carbs_g": 22,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 26.804 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kids-signature-strawberry-lemonade-item-100924",
+      "name": "Kids Signature Strawberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 64.791 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kids-signature-watermelon-lemonade-item-100923",
+      "name": "Kids Signature Watermelon Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 0,
+      "carbs_g": 39,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 66.939 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kids-signature-mango-peach-lemonade-item-105461",
+      "name": "Kids Signature Mango Peach Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 148,
+      "protein_g": 0.01,
+      "carbs_g": 37.34,
+      "fat_g": 0,
+      "fiber_g": 0.02,
+      "sodium_mg": 1.79,
+      "serving_note": "per 65.06 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-sprite-zero-drinks-coffee-item-54518",
+      "name": "Small Sprite Zero (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-sprite-zero-drinks-coffee-item-54517",
+      "name": "Value Sprite Zero (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-sprite-drinks-coffee-item-54523",
+      "name": "Value Sprite (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 35,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 16 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-dr-pepper-item-54529",
+      "name": "Value Dr Pepper®",
+      "description": null,
+      "category": "condiment",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 36,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-coca-cola-zero-drinks-coffee-item-54522",
+      "name": "Small Coca-Cola Zero (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-coca-cola-zero-item-43109",
+      "name": "Value Coca-Cola Zero",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-diet-coke-drinks-coffee-item-54519",
+      "name": "Value Diet Coke (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 16 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-coca-cola-drinks-coffee-item-53715",
+      "name": "Large Coca-Cola (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 320,
+      "protein_g": 0,
+      "carbs_g": 88,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 38 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-coca-cola-drinks-coffee-item-53714",
+      "name": "Medium Coca-Cola (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per 29 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-coca-cola-drinks-coffee-item-53711",
+      "name": "Value Coca-Cola (Drinks & Coffee)",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 39,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 16 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "chocolate-milk-item-99939",
+      "name": "Chocolate Milk",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 10,
+      "carbs_g": 28.06,
+      "fat_g": 2.36,
+      "fiber_g": 0.27,
+      "sodium_mg": 184.57,
+      "serving_note": "per 226.8 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "fat-free-milk-item-668",
+      "name": "Fat Free Milk",
+      "description": null,
+      "category": "drink",
+      "calories": 100,
+      "protein_g": 10,
+      "carbs_g": 15,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per 246 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "extra-large-black-iced-coffee-item-99391",
+      "name": "Extra Large Black Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 25.515 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "extra-large-plain-iced-coffee-item-99390",
+      "name": "Extra Large Plain Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 390,
+      "protein_g": 3,
+      "carbs_g": 53,
+      "fat_g": 18,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per 5706.07 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "extra-large-mocha-iced-coffee-item-99389",
+      "name": "Extra Large Mocha Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 4,
+      "carbs_g": 52,
+      "fat_g": 19,
+      "fiber_g": 2,
+      "sodium_mg": 115,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "extra-large-vanilla-iced-coffee-item-99388",
+      "name": "Extra Large Vanilla Iced Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 390,
+      "protein_g": 3,
+      "carbs_g": 51,
+      "fat_g": 19,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "2-chocolate-chip-cookies-item-220",
+      "name": "2 Chocolate Chip Cookies",
+      "description": null,
+      "category": "side",
+      "calories": 320,
+      "protein_g": 4,
+      "carbs_g": 46,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 220,
+      "serving_note": "per 35.44 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookie-item-273",
+      "name": "Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 23,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 110,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "hershey-s-sundae-pie-item-724",
+      "name": "HERSHEY'S® Sundae Pie",
+      "description": null,
+      "category": "side",
+      "calories": 310,
+      "protein_g": 3,
+      "carbs_g": 32,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 230,
+      "serving_note": "per 75.7 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "firecracker-cookie-pie-item-100677",
+      "name": "Firecracker Cookie Pie",
+      "description": null,
+      "category": "side",
+      "calories": 250,
+      "protein_g": 3,
+      "carbs_g": 33,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 210,
+      "serving_note": "per 70 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "cinnamon-apple-pie-sweets-item-95592",
+      "name": "Cinnamon Apple Pie (Sweets)",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 4,
+      "carbs_g": 36,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 280,
+      "serving_note": "per 82 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-french-fries-limited-time-only-item-74554",
+      "name": "Medium French Fries (Limited Time Only)",
+      "description": null,
+      "category": "side",
+      "calories": 370,
+      "protein_g": 5,
+      "carbs_g": 50,
+      "fat_g": 17,
+      "fiber_g": 4,
+      "sodium_mg": 330,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "honey-mustard-royal-crispy-wrap-item-68443",
+      "name": "Honey Mustard Royal Crispy Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 290,
+      "protein_g": 15,
+      "carbs_g": 30,
+      "fat_g": 14,
+      "fiber_g": 4,
+      "sodium_mg": 790,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-royal-crispy-wrap-item-68442",
+      "name": "Spicy Royal Crispy Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 15,
+      "carbs_g": 30,
+      "fat_g": 25,
+      "fiber_g": 5,
+      "sodium_mg": 920,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "royal-crispy-wrap-item-68440",
+      "name": "Royal Crispy Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "protein_g": 15,
+      "carbs_g": 28,
+      "fat_g": 17,
+      "fiber_g": 4,
+      "sodium_mg": 790,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-sprite-digital-exclusives-item-59146",
+      "name": "Small Sprite (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-dr-pepper-item-59148",
+      "name": "Small Dr Pepper",
+      "description": null,
+      "category": "condiment",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-diet-coke-digital-exclusives-item-59144",
+      "name": "Small Diet Coke (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-coca-cola-digital-exclusives-item-59141",
+      "name": "Small Coca-Cola (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 45,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-french-fries-digital-exclusives-item-59116",
+      "name": "Small French Fries (Digital Exclusives)",
+      "description": null,
+      "category": "side",
+      "calories": 300,
+      "protein_g": 4,
+      "carbs_g": 43,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 220,
+      "serving_note": "per 160.458 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "soft-serve-cone-limited-time-only-item-103369",
+      "name": "Soft Serve Cone (Limited Time Only)",
+      "description": null,
+      "category": "side",
+      "calories": 200,
+      "protein_g": 5,
+      "carbs_g": 33,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "soft-serve-cup-limited-time-only-item-103370",
+      "name": "Soft Serve Cup (Limited Time Only)",
+      "description": null,
+      "category": "side",
+      "calories": 180,
+      "protein_g": 4,
+      "carbs_g": 28,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "cinnamon-apple-pie-digital-exclusives-item-98252",
+      "name": "Cinnamon Apple Pie (Digital Exclusives)",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 4,
+      "carbs_g": 36,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 280,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-minute-maid-lemonade-digital-exclusives-item-79926",
+      "name": "Small Minute Maid® Lemonade (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 45,
+      "serving_note": "per 200 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-signature-watermelon-lemonade-digital-exclusives-item-104234",
+      "name": "Small Signature Watermelon Lemonade (Digital Exclusives)",
+      "description": null,
+      "category": "drink",
+      "calories": 210,
+      "protein_g": 0,
+      "carbs_g": 52,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-have-sies-digital-exclusives-item-81359",
+      "name": "Small Have-sies™ (Digital Exclusives)",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "protein_g": 4,
+      "carbs_g": 38,
+      "fat_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 390,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "small-onion-rings-digital-exclusives-item-81356",
+      "name": "Small Onion Rings (Digital Exclusives)",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 3,
+      "carbs_g": 31,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 410,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "loaded-jalape-o-original-chicken-sandwich-digital-exclusives-item-104568",
+      "name": "Loaded Jalapeño Original Chicken Sandwich (Digital Exclusives)",
+      "description": null,
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 31,
+      "carbs_g": 71,
+      "fat_g": 41,
+      "fiber_g": 7,
+      "sodium_mg": 2300,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-jalape-o-cheddar-bites-digital-exclusives-item-87486",
+      "name": "4 Pc. Jalapeño Cheddar Bites (Digital Exclusives)",
+      "description": null,
+      "category": "meal",
+      "calories": 170,
+      "protein_g": 5,
+      "carbs_g": 18,
+      "fat_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 450,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "original-chicken-sandwich-digital-exclusives-item-59124",
+      "name": "Original Chicken Sandwich (Digital Exclusives)",
+      "description": null,
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 23,
+      "carbs_g": 63,
+      "fat_g": 39,
+      "fiber_g": 3,
+      "sodium_mg": 1380,
+      "serving_note": "per 227.074 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "club-original-chicken-sandwich-digital-exclusives-item-104567",
+      "name": "Club Original Chicken Sandwich (Digital Exclusives)",
+      "description": null,
+      "category": "meal",
+      "calories": 840,
+      "protein_g": 35,
+      "carbs_g": 64,
+      "fat_g": 53,
+      "fiber_g": 6,
+      "sodium_mg": 2020,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-cheeseburger-limited-time-only-item-85285",
+      "name": "Bacon Cheeseburger (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 350,
+      "protein_g": 19,
+      "carbs_g": 30,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 980,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "original-chicken-sandwich-limited-time-only-item-74631-item-74631",
+      "name": "Original Chicken Sandwich (Limited Time Only, item_74631)",
+      "description": null,
+      "category": "meal",
+      "calories": 680,
+      "protein_g": 23,
+      "carbs_g": 63,
+      "fat_g": 39,
+      "fiber_g": 3,
+      "sodium_mg": 1380,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-jr-item-85288",
+      "name": "Whopper Jr.",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 15,
+      "carbs_g": 30,
+      "fat_g": 19,
+      "fiber_g": 2,
+      "sodium_mg": 630,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-jalape-o-cheddar-bites-item-46963",
+      "name": "8 Pc. Jalapeño Cheddar Bites",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 13,
+      "carbs_g": 54,
+      "fat_g": 21,
+      "fiber_g": 4,
+      "sodium_mg": 1410,
+      "serving_note": "per 117.36 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-jalape-o-cheddar-bites-limited-time-only-item-46962",
+      "name": "4 Pc. Jalapeño Cheddar Bites (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 230,
+      "protein_g": 6,
+      "carbs_g": 27,
+      "fat_g": 11,
+      "fiber_g": 2,
+      "sodium_mg": 700,
+      "serving_note": "per 58.68 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "honey-mustard-flame-grilled-chicken-wrap-item-77944",
+      "name": "Honey Mustard Flame-Grilled Chicken Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 230,
+      "protein_g": 17,
+      "carbs_g": 24,
+      "fat_g": 9,
+      "fiber_g": 1,
+      "sodium_mg": 640,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-flame-grilled-chicken-wrap-item-77945",
+      "name": "Spicy Flame-Grilled Chicken Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 17,
+      "carbs_g": 23,
+      "fat_g": 20,
+      "fiber_g": 1,
+      "sodium_mg": 770,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "classic-flame-grilled-chicken-wrap-item-77943",
+      "name": "Classic Flame-Grilled Chicken Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 240,
+      "protein_g": 17,
+      "carbs_g": 21,
+      "fat_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 640,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "honey-mustard-original-chicken-wrap-limited-time-only-item-93716",
+      "name": "Honey Mustard Original Chicken Wrap (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 290,
+      "protein_g": 13,
+      "carbs_g": 33,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 830,
+      "serving_note": "per 129.781 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-original-chicken-wrap-limited-time-only-item-93715",
+      "name": "Spicy Original Chicken Wrap (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 13,
+      "carbs_g": 32,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 960,
+      "serving_note": "per 141.121 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "classic-original-chicken-wrap-limited-time-only-item-93714",
+      "name": "Classic Original Chicken Wrap (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "protein_g": 13,
+      "carbs_g": 31,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 820,
+      "serving_note": "per 129.781 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-iced-sweet-tea-item-877",
+      "name": "Value Iced Sweet Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 90,
+      "protein_g": 0,
+      "carbs_g": 22,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 24.508 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-mello-yello-zero-limited-time-only-item-43144",
+      "name": "Value Mello Yello Zero (Limited Time Only)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-dr-pepper-item-43099",
+      "name": "Value Dr Pepper",
+      "description": null,
+      "category": "condiment",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 36,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-sprite-zero-limited-time-only-item-43114",
+      "name": "Value Sprite Zero (Limited Time Only)",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-sprite-limited-time-only-item-43094",
+      "name": "Value Sprite (Limited Time Only)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 35,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 12 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-diet-coke-limited-time-only-item-43089",
+      "name": "Value Diet Coke (Limited Time Only)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-coca-cola-limited-time-only-item-43084",
+      "name": "Value Coca-Cola (Limited Time Only)",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 39,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 35,
+      "serving_note": "per 12 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "value-have-sies-limited-time-only-item-72800",
+      "name": "Value Have-sies™ (Limited Time Only)",
+      "description": null,
+      "category": "side",
+      "calories": 220,
+      "protein_g": 3,
+      "carbs_g": 27,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 280,
+      "serving_note": "per 85.672 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "mott-s-applesauce-limited-time-only-item-49445",
+      "name": "Mott's® Applesauce (Limited Time Only)",
+      "description": null,
+      "category": "condiment",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per 111 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "6-pc-crown-nuggets-item-51843",
+      "name": "6 Pc. Crown Nuggets",
+      "description": null,
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 13,
+      "carbs_g": 17,
+      "fat_g": 23,
+      "fiber_g": 1,
+      "sodium_mg": 600,
+      "serving_note": "per 98.88 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-crown-nuggets-item-51842",
+      "name": "4 Pc. Crown Nuggets",
+      "description": null,
+      "category": "meal",
+      "calories": 220,
+      "protein_g": 9,
+      "carbs_g": 12,
+      "fat_g": 15,
+      "fiber_g": 1,
+      "sodium_mg": 400,
+      "serving_note": "per 65.92 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "16-pc-crown-nuggets-item-60678",
+      "name": "16 Pc. Crown Nuggets",
+      "description": null,
+      "category": "meal",
+      "calories": 870,
+      "protein_g": 35,
+      "carbs_g": 46,
+      "fat_g": 61,
+      "fiber_g": 4,
+      "sodium_mg": 1590,
+      "serving_note": "per 263.68 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-crown-nuggets-limited-time-only-item-51217",
+      "name": "8 Pc. Crown Nuggets (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 18,
+      "carbs_g": 23,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 790,
+      "serving_note": "per 135.84 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "loaded-jalape-o-whopper-jr-item-100678",
+      "name": "Loaded Jalapeño Whopper® Jr.",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 18,
+      "carbs_g": 35,
+      "fat_g": 24,
+      "fiber_g": 3,
+      "sodium_mg": 820,
+      "serving_note": "per 151.912 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "impossible-loaded-jalape-o-whopper-item-100949",
+      "name": "Impossible™ Loaded Jalapeño Whopper®",
+      "description": null,
+      "category": "meal",
+      "calories": 810,
+      "protein_g": 37,
+      "carbs_g": 75,
+      "fat_g": 44,
+      "fiber_g": 8,
+      "sodium_mg": 1930,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "loaded-jalape-o-whopper-item-100672",
+      "name": "Loaded Jalapeño Whopper®",
+      "description": null,
+      "category": "meal",
+      "calories": 820,
+      "protein_g": 38,
+      "carbs_g": 65,
+      "fat_g": 49,
+      "fiber_g": 5,
+      "sodium_mg": 1680,
+      "serving_note": "per 306.468 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-and-swiss-flame-grilled-chicken-sandwich-item-77942",
+      "name": "Bacon and Swiss Flame-Grilled Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 560,
+      "protein_g": 43,
+      "carbs_g": 45,
+      "fat_g": 28,
+      "fiber_g": 2,
+      "sodium_mg": 1590,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-flame-grilled-chicken-sandwich-item-77923",
+      "name": "Spicy Flame-Grilled Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 35,
+      "carbs_g": 46,
+      "fat_g": 31,
+      "fiber_g": 3,
+      "sodium_mg": 1200,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "flame-grilled-chicken-sandwich-item-77937",
+      "name": "Flame-Grilled Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 35,
+      "carbs_g": 43,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 940,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-original-chicken-sandwich-item-94100",
+      "name": "Spicy Original Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 790,
+      "protein_g": 23,
+      "carbs_g": 64,
+      "fat_g": 49,
+      "fiber_g": 6,
+      "sodium_mg": 1540,
+      "serving_note": "per 240.009 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "loaded-jalape-o-original-chicken-sandwich-limited-time-only-item-101718",
+      "name": "Loaded Jalapeño Original Chicken Sandwich (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 31,
+      "carbs_g": 71,
+      "fat_g": 41,
+      "fiber_g": 7,
+      "sodium_mg": 2300,
+      "serving_note": "per 303.677 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "club-original-chicken-sandwich-limited-time-only-item-93713",
+      "name": "Club Original Chicken Sandwich (Limited Time Only)",
+      "description": null,
+      "category": "meal",
+      "calories": 840,
+      "protein_g": 35,
+      "carbs_g": 64,
+      "fat_g": 53,
+      "fiber_g": 6,
+      "sodium_mg": 2020,
+      "serving_note": "per 291.279 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "big-fish-item-532",
+      "name": "Big Fish",
+      "description": null,
+      "category": "meal",
+      "calories": 570,
+      "protein_g": 19,
+      "carbs_g": 58,
+      "fat_g": 30,
+      "fiber_g": 3,
+      "sodium_mg": 1270,
+      "serving_note": "per 210.564 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-have-sies-item-81361",
+      "name": "Large Have-sies",
+      "description": null,
+      "category": "side",
+      "calories": 490,
+      "protein_g": 6,
+      "carbs_g": 67,
+      "fat_g": 23,
+      "fiber_g": 6,
+      "sodium_mg": 700,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-onion-rings-meals-item-81357",
+      "name": "Large Onion Rings (Meals )",
+      "description": null,
+      "category": "side",
+      "calories": 430,
+      "protein_g": 5,
+      "carbs_g": 57,
+      "fat_g": 20,
+      "fiber_g": 6,
+      "sodium_mg": 770,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "large-french-fries-meals-item-81354",
+      "name": "Large French Fries (Meals )",
+      "description": null,
+      "category": "side",
+      "calories": 440,
+      "protein_g": 6,
+      "carbs_g": 60,
+      "fat_g": 20,
+      "fiber_g": 5,
+      "sodium_mg": 400,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-have-sies-meals-item-81360",
+      "name": "Medium Have-sies™ (Meals )",
+      "description": null,
+      "category": "side",
+      "calories": 350,
+      "protein_g": 4,
+      "carbs_g": 47,
+      "fat_g": 16,
+      "fiber_g": 4,
+      "sodium_mg": 490,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "medium-onion-rings-meals-item-74633",
+      "name": "Medium Onion Rings (Meals )",
+      "description": null,
+      "category": "side",
+      "calories": 290,
+      "protein_g": 4,
+      "carbs_g": 39,
+      "fat_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 530,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "honey-mustard-original-chicken-wrap-meals-item-105688",
+      "name": "Honey Mustard Original Chicken Wrap (Meals )",
+      "description": null,
+      "category": "meal",
+      "calories": 290,
+      "protein_g": 13,
+      "carbs_g": 33,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 830,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-original-chicken-wrap-meals-item-105687",
+      "name": "Spicy Original Chicken Wrap (Meals )",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 13,
+      "carbs_g": 32,
+      "fat_g": 26,
+      "fiber_g": 2,
+      "sodium_mg": 960,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "classic-original-chicken-wrap-meals-item-105686",
+      "name": "Classic Original Chicken Wrap (Meals )",
+      "description": null,
+      "category": "meal",
+      "calories": 310,
+      "protein_g": 13,
+      "carbs_g": 31,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 820,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bacon-and-swiss-royal-crispy-chicken-item-62403",
+      "name": "Bacon and Swiss Royal Crispy Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 740,
+      "protein_g": 39,
+      "carbs_g": 56,
+      "fat_g": 43,
+      "fiber_g": 4,
+      "sodium_mg": 1920,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "spicy-royal-crispy-chicken-item-62238",
+      "name": "Spicy Royal Crispy Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 760,
+      "protein_g": 31,
+      "carbs_g": 58,
+      "fat_g": 47,
+      "fiber_g": 4,
+      "sodium_mg": 1580,
+      "serving_note": "per 269.036 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "royal-crispy-chicken-item-62239",
+      "name": "Royal Crispy Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 600,
+      "protein_g": 31,
+      "carbs_g": 54,
+      "fat_g": 31,
+      "fiber_g": 4,
+      "sodium_mg": 1330,
+      "serving_note": "per 247.774 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "cheeseburger-meals-item-74552",
+      "name": "Cheeseburger (Meals )",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 16,
+      "carbs_g": 30,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 810,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "texas-double-whopper-item-902",
+      "name": "Texas Double Whopper®",
+      "description": null,
+      "category": "meal",
+      "calories": 1120,
+      "protein_g": 64,
+      "carbs_g": 56,
+      "fat_g": 74,
+      "fiber_g": 5,
+      "sodium_mg": 2200,
+      "serving_note": "per 416.425 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-crown-nuggets-bundle-deals-item-74553",
+      "name": "8 Pc. Crown Nuggets (Bundle Deals)",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 18,
+      "carbs_g": 23,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 790,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "whopper-bundle-deals-item-74630",
+      "name": "Whopper (Bundle Deals)",
+      "description": null,
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 34,
+      "carbs_g": 57,
+      "fat_g": 42,
+      "fiber_g": 4,
+      "sodium_mg": 1250,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "chicken-jr-bundle-deals-item-95125",
+      "name": "Chicken Jr. (Bundle Deals)",
+      "description": null,
+      "category": "component",
+      "calories": 440,
+      "protein_g": 13,
+      "carbs_g": 39,
+      "fat_g": 27,
+      "fiber_g": 2,
+      "sodium_mg": 700,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "rodeo-cheeseburger-item-740",
+      "name": "Rodeo Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 17,
+      "carbs_g": 41,
+      "fat_g": 17,
+      "fiber_g": 3,
+      "sodium_mg": 720,
+      "serving_note": "per 129.474 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "rodeo-burger-item-739",
+      "name": "Rodeo Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 15,
+      "carbs_g": 40,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 520,
+      "serving_note": "per 117.814 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "rodeo-double-cheeseburger-item-64236",
+      "name": "Rodeo Double Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 28,
+      "carbs_g": 41,
+      "fat_g": 29,
+      "fiber_g": 4,
+      "sodium_mg": 900,
+      "serving_note": "per 177.924 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-jr-with-bacon-and-cheese-item-15158",
+      "name": "Double Whopper Jr.® with Bacon and Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 32,
+      "carbs_g": 32,
+      "fat_g": 38,
+      "fiber_g": 2,
+      "sodium_mg": 1240,
+      "serving_note": "per 197.946 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-jr-with-cheese-item-15157",
+      "name": "Double Whopper® Jr. with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 30,
+      "carbs_g": 33,
+      "fat_g": 36,
+      "fiber_g": 3,
+      "sodium_mg": 1070,
+      "serving_note": "per 192.716 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-jr-with-bacon-item-81687",
+      "name": "Double Whopper® Jr. with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 28,
+      "carbs_g": 30,
+      "fat_g": 31,
+      "fiber_g": 2,
+      "sodium_mg": 800,
+      "serving_note": "per 188.734 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "double-whopper-jr-item-61370",
+      "name": "Double Whopper® Jr.",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 25,
+      "carbs_g": 30,
+      "fat_g": 28,
+      "fiber_g": 2,
+      "sodium_mg": 630,
+      "serving_note": "per 182.846 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bbq-bacon-whopper-jr-item-69035",
+      "name": "BBQ Bacon Whopper Jr.",
+      "description": null,
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 19,
+      "carbs_g": 32,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 770,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "12-pc-chicken-fries-chicken-fish-item-67936",
+      "name": "12 Pc. Chicken Fries (Chicken & Fish)",
+      "description": null,
+      "category": "side",
+      "calories": 340,
+      "protein_g": 20,
+      "carbs_g": 25,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 1030,
+      "serving_note": "per 126.72 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "8-pc-chicken-fries-chicken-fish-item-67938",
+      "name": "8 Pc. Chicken Fries (Chicken & Fish)",
+      "description": null,
+      "category": "side",
+      "calories": 220,
+      "protein_g": 13,
+      "carbs_g": 16,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 680,
+      "serving_note": "per 85.44 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "4-pc-chicken-fries-chicken-fish-item-67932",
+      "name": "4 Pc. Chicken Fries (Chicken & Fish)",
+      "description": null,
+      "category": "side",
+      "calories": 110,
+      "protein_g": 7,
+      "carbs_g": 8,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per 42.72 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "chicken-jr-chicken-fish-item-281",
+      "name": "Chicken Jr. (Chicken & Fish)",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 13,
+      "carbs_g": 39,
+      "fat_g": 27,
+      "fiber_g": 2,
+      "sodium_mg": 700,
+      "serving_note": "per 141.543 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "mott-s-applesauce-sides-item-18223",
+      "name": "Mott's® Applesauce (Sides)",
+      "description": null,
+      "category": "condiment",
+      "calories": 50,
+      "protein_g": 0,
+      "carbs_g": 13,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kid-s-cheeseburger-king-jr-kids-meals-item-93717-item-93717",
+      "name": "Kid's Cheeseburger (King Jr. Kids Meals, item_93717)",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 16,
+      "carbs_g": 29,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 610,
+      "serving_note": "per 104.495 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kid-s-cheeseburger-king-jr-kids-meals-item-103814-item-103814",
+      "name": "Kid's Cheeseburger (King Jr. Kids Meals, item_103814)",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 16,
+      "carbs_g": 29,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 610,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kid-s-hamburger-king-jr-kids-meals-item-93718-item-93718",
+      "name": "Kid's Hamburger (King Jr. Kids Meals, item_93718)",
+      "description": null,
+      "category": "meal",
+      "calories": 260,
+      "protein_g": 14,
+      "carbs_g": 29,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 400,
+      "serving_note": "per 93.095 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "kid-s-hamburger-king-jr-kids-meals-item-103813-item-103813",
+      "name": "Kid's Hamburger (King Jr. Kids Meals, item_103813)",
+      "description": null,
+      "category": "meal",
+      "calories": 260,
+      "protein_g": 14,
+      "carbs_g": 29,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 400,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "soft-serve-cone-sweets-item-827",
+      "name": "Soft Serve Cone (Sweets)",
+      "description": null,
+      "category": "side",
+      "calories": 200,
+      "protein_g": 5,
+      "carbs_g": 33,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per 135.843 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "soft-serve-cup-sweets-item-829",
+      "name": "Soft Serve Cup (Sweets)",
+      "description": null,
+      "category": "side",
+      "calories": 180,
+      "protein_g": 4,
+      "carbs_g": 28,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per 129.843 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "hershey-s-sundae-item-17776",
+      "name": "HERSHEY'S® Sundae",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 5,
+      "carbs_g": 38,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "per 141.709 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "oreo-sundae-item-75587",
+      "name": "OREO® Sundae",
+      "description": null,
+      "category": "side",
+      "calories": 310,
+      "protein_g": 6,
+      "carbs_g": 51,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 230,
+      "serving_note": "per 154.233 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "hot-fudge-sundae-item-104565",
+      "name": "Hot Fudge Sundae",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 5,
+      "carbs_g": 44,
+      "fat_g": 6,
+      "fiber_g": 1,
+      "sodium_mg": 200,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "hot-caramel-sundae-item-104679",
+      "name": "Hot Caramel Sundae",
+      "description": null,
+      "category": "side",
+      "calories": 260,
+      "protein_g": 5,
+      "carbs_g": 45,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 300,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "mustard-packet-item-67043",
+      "name": "Mustard Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 5,
+      "protein_g": 0.26,
+      "carbs_g": 0.32,
+      "fat_g": 0.25,
+      "fiber_g": 0.18,
+      "sodium_mg": 65.77,
+      "serving_note": "per 5.67 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "mayo-packet-item-67042",
+      "name": "Mayo Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 86.95,
+      "protein_g": 0.14,
+      "carbs_g": 0.26,
+      "fat_g": 9.46,
+      "fiber_g": 0.01,
+      "sodium_mg": 66.13,
+      "serving_note": "per 12 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "ketchup-packet-item-67040",
+      "name": "Ketchup Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 9.59,
+      "protein_g": 0.09,
+      "carbs_g": 2.17,
+      "fat_g": 0.01,
+      "fiber_g": 0.12,
+      "sodium_mg": 88.62,
+      "serving_note": "per 9 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "syrup-packet-item-359",
+      "name": "Syrup Packet",
+      "description": null,
+      "category": "condiment",
+      "calories": 94.57,
+      "protein_g": 0,
+      "carbs_g": 23.97,
+      "fat_g": 0,
+      "fiber_g": 0.01,
+      "sodium_mg": 25.27,
+      "serving_note": "per 32.47 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "zesty-dipping-sauce-item-53263",
+      "name": "Zesty Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per 28.33 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "sweet-sour-dipping-sauce-item-53265",
+      "name": "Sweet & Sour Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 45,
+      "protein_g": 0,
+      "carbs_g": 11,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per 28.2 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "hidden-valley-ranch-dipping-sauce-item-53262",
+      "name": "Hidden Valley Ranch Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 110,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 220,
+      "serving_note": "per 25.22 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "honey-mustard-dipping-sauce-item-53261",
+      "name": "Honey Mustard Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 0,
+      "carbs_g": 6,
+      "fat_g": 4.5,
+      "fiber_g": 0,
+      "sodium_mg": 135,
+      "serving_note": "per 28.33 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "buffalo-dipping-sauce-item-53264",
+      "name": "Buffalo Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per 28.33 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    },
+    {
+      "id": "bbq-dipping-sauce-item-53260",
+      "name": "BBQ Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 35,
+      "protein_g": 0,
+      "carbs_g": 8,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 220,
+      "serving_note": "per 28.33 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us"
+      }
+    }
+  ]
+}

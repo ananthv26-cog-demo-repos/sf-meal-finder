@@ -1,0 +1,398 @@
+[
+  {
+    "item": {
+      "id": "butter-chicken-medium",
+      "name": "Butter Chicken - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 15.0,
+      "carbs_g": 36.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    "reasons": [
+      "papa-johns/butter-chicken-medium: macro check failed — stated 280.0 kcal vs computed 240 (delta -40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "butter-chicken-medium-whole",
+      "name": "Butter Chicken - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 2240.0,
+      "protein_g": 120.0,
+      "carbs_g": 288.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5600.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    "reasons": [
+      "papa-johns/butter-chicken-medium-whole: macro check failed — stated 2240.0 kcal vs computed 1920 (delta -320)"
+    ]
+  },
+  {
+    "item": {
+      "id": "butter-chicken-large",
+      "name": "Butter Chicken - Large",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    "reasons": [
+      "papa-johns/butter-chicken-large: macro check failed — stated 300.0 kcal vs computed 252 (delta -48)"
+    ]
+  },
+  {
+    "item": {
+      "id": "butter-chicken-large-whole",
+      "name": "Butter Chicken - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2400.0,
+      "protein_g": 128.0,
+      "carbs_g": 304.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 6000.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    "reasons": [
+      "papa-johns/butter-chicken-large-whole: macro check failed — stated 2400.0 kcal vs computed 2016 (delta -384)"
+    ]
+  },
+  {
+    "item": {
+      "id": "unsauced-roasted-wings-50-wings",
+      "name": "Unsauced Roasted Wings - 50 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 5060.0,
+      "protein_g": 415.0,
+      "carbs_g": 25.0,
+      "fat_g": 353.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 9120.0,
+      "serving_note": "per 50 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/unsauced-roasted-wings-50-wings: calories 5060.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "buffalo-wings-32-wings",
+      "name": "Buffalo Wings - 32 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 3340.0,
+      "protein_g": 267.0,
+      "carbs_g": 33.0,
+      "fat_g": 231.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 11690.0,
+      "serving_note": "per 32 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/buffalo-wings-32-wings: sodium_mg 11690.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "buffalo-wings-50-wings",
+      "name": "Buffalo Wings - 50 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 5220.0,
+      "protein_g": 417.0,
+      "carbs_g": 51.0,
+      "fat_g": 360.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 18260.0,
+      "serving_note": "per 50 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/buffalo-wings-50-wings: sodium_mg 18260.0 implausibly high",
+      "papa-johns/buffalo-wings-50-wings: calories 5220.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "bbq-wings-50-wings",
+      "name": "BBQ Wings - 50 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 5470.0,
+      "protein_g": 418.0,
+      "carbs_g": 125.0,
+      "fat_g": 355.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 12140.0,
+      "serving_note": "per 50 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/bbq-wings-50-wings: sodium_mg 12140.0 implausibly high",
+      "papa-johns/bbq-wings-50-wings: calories 5470.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "garlic-parmesan-wings-50-wings",
+      "name": "Garlic Parmesan Wings - 50 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 6500.0,
+      "protein_g": 427.0,
+      "carbs_g": 35.0,
+      "fat_g": 507.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 14310.0,
+      "serving_note": "per 50 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/garlic-parmesan-wings-50-wings: sodium_mg 14310.0 implausibly high",
+      "papa-johns/garlic-parmesan-wings-50-wings: calories 6500.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "honey-chipotle-wings-50-wings",
+      "name": "Honey Chipotle Wings - 50 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 5640.0,
+      "protein_g": 417.0,
+      "carbs_g": 171.0,
+      "fat_g": 354.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 11320.0,
+      "serving_note": "per 50 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/honey-chipotle-wings-50-wings: sodium_mg 11320.0 implausibly high",
+      "papa-johns/honey-chipotle-wings-50-wings: calories 5640.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "hot-lemon-pepper-wings-32-wings",
+      "name": "Hot Lemon Pepper Wings - 32 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 3830.0,
+      "protein_g": 302.0,
+      "carbs_g": 33.0,
+      "fat_g": 268.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10730.0,
+      "serving_note": "per 32 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/hot-lemon-pepper-wings-32-wings: sodium_mg 10730.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "hot-lemon-pepper-wings-50-wings",
+      "name": "Hot Lemon Pepper Wings - 50 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 5980.0,
+      "protein_g": 472.0,
+      "carbs_g": 52.0,
+      "fat_g": 419.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 16760.0,
+      "serving_note": "per 50 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/hot-lemon-pepper-wings-50-wings: sodium_mg 16760.0 implausibly high",
+      "papa-johns/hot-lemon-pepper-wings-50-wings: calories 5980.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "cinnamon-pullaparts",
+      "name": "Cinnamon Pullaparts",
+      "description": null,
+      "category": "side",
+      "calories": 1960.0,
+      "protein_g": 19.0,
+      "carbs_g": 0.0,
+      "fat_g": 94.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1660.0,
+      "serving_note": "1 tray",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/desserts.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/cinnamon-pullaparts: macro check failed — stated 1960.0 kcal vs computed 922 (delta -1038)"
+    ]
+  },
+  {
+    "item": {
+      "id": "special-garlic",
+      "name": "Special Garlic",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/special-garlic: macro check failed — stated 140.0 kcal vs computed 0 (delta -140)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bbq-sauce",
+      "name": "BBQ Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/bbq-sauce: macro check failed — stated 45.0 kcal vs computed 0 (delta -45)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cream-cheese-icing",
+      "name": "Cream Cheese Icing",
+      "description": null,
+      "category": "condiment",
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/cream-cheese-icing: macro check failed — stated 150.0 kcal vs computed 26 (delta -124)"
+    ]
+  },
+  {
+    "item": {
+      "id": "garlic-hot-honey-dip-cup",
+      "name": "Garlic Hot Honey Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "37g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    "reasons": [
+      "papa-johns/garlic-hot-honey-dip-cup: macro check failed — stated 25.0 kcal vs computed 0 (delta -25)"
+    ]
+  }
+]

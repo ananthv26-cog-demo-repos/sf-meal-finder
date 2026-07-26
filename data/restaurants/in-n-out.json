@@ -1,0 +1,1767 @@
+{
+  "id": "in-n-out",
+  "name": "In-N-Out Burger",
+  "website": "https://www.in-n-out.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "333 Jefferson, San Francisco, CA 94133",
+      "lat": 37.80773,
+      "lng": -122.41858,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "hamburger-w-onion",
+      "name": "Hamburger w/Onion",
+      "description": "Bun, 100% beef patty, lettuce, tomato, spread, with onions.",
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 16,
+      "carbs_g": 38,
+      "fat_g": 16,
+      "fiber_g": 2,
+      "sodium_mg": 670,
+      "serving_note": "per serving (209 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "hamburger-w-onion-with-mustard-ketchup-instead-of-spread",
+      "name": "Hamburger w/Onion — with mustard & ketchup instead of spread",
+      "description": null,
+      "category": "meal",
+      "calories": 300,
+      "protein_g": 16,
+      "carbs_g": 38,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 610,
+      "serving_note": "per serving (202 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "hamburger-w-onion-protein-style-bun-replaced-with-lettuce",
+      "name": "Hamburger w/Onion — Protein Style® (Bun replaced with Lettuce)",
+      "description": null,
+      "category": "meal",
+      "calories": 210,
+      "protein_g": 12,
+      "carbs_g": 9,
+      "fat_g": 14,
+      "fiber_g": 2,
+      "sodium_mg": 390,
+      "serving_note": "per serving (211 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cheeseburger-w-onion",
+      "name": "Cheeseburger w/Onion",
+      "description": "Bun, 100% beef patty, lettuce, tomato, spread, 1 slice of American cheese, with onions.",
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 20,
+      "carbs_g": 40,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 1080,
+      "serving_note": "per serving (229 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cheeseburger-w-onion-with-mustard-ketchup-instead-of-spread",
+      "name": "Cheeseburger w/Onion — with mustard & ketchup instead of spread",
+      "description": null,
+      "category": "meal",
+      "calories": 380,
+      "protein_g": 20,
+      "carbs_g": 39,
+      "fat_g": 15,
+      "fiber_g": 2,
+      "sodium_mg": 1020,
+      "serving_note": "per serving (222 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cheeseburger-w-onion-protein-style-bun-replaced-with-lettuce",
+      "name": "Cheeseburger w/Onion — Protein Style® (Bun replaced with Lettuce)",
+      "description": null,
+      "category": "meal",
+      "calories": 280,
+      "protein_g": 16,
+      "carbs_g": 11,
+      "fat_g": 19,
+      "fiber_g": 2,
+      "sodium_mg": 800,
+      "serving_note": "per serving (231 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "double-double-w-onion",
+      "name": "Double-Double® w/Onion",
+      "description": "Bun, 2 100% beef patties, lettuce, tomato, spread, 2 slices of American cheese, with onions.",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 34,
+      "carbs_g": 42,
+      "fat_g": 34,
+      "fiber_g": 2,
+      "sodium_mg": 1670,
+      "serving_note": "per serving (287 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "double-double-w-onion-with-mustard-ketchup-instead-of-spread",
+      "name": "Double-Double® w/Onion — with mustard & ketchup instead of spread",
+      "description": null,
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 34,
+      "carbs_g": 41,
+      "fat_g": 27,
+      "fiber_g": 2,
+      "sodium_mg": 1600,
+      "serving_note": "per serving (280 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "double-double-w-onion-protein-style-bun-replaced-with-lettuce",
+      "name": "Double-Double® w/Onion — Protein Style® (Bun replaced with Lettuce)",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 30,
+      "carbs_g": 12,
+      "fat_g": 32,
+      "fiber_g": 2,
+      "sodium_mg": 1390,
+      "serving_note": "per serving (289 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "french-fries",
+      "name": "French Fries",
+      "description": null,
+      "category": "side",
+      "calories": 360,
+      "protein_g": 6,
+      "carbs_g": 49,
+      "fat_g": 15,
+      "fiber_g": 6,
+      "sodium_mg": 150,
+      "serving_note": "per serving (125 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "chocolate-shake",
+      "name": "Chocolate Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 610,
+      "protein_g": 16,
+      "carbs_g": 74,
+      "fat_g": 30,
+      "fiber_g": 0,
+      "sodium_mg": 370,
+      "serving_note": "per 15 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "vanilla-shake",
+      "name": "Vanilla Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 590,
+      "protein_g": 16,
+      "carbs_g": 66,
+      "fat_g": 31,
+      "fiber_g": 0,
+      "sodium_mg": 360,
+      "serving_note": "per 15 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "strawberry-shake",
+      "name": "Strawberry Shake",
+      "description": null,
+      "category": "drink",
+      "calories": 610,
+      "protein_g": 15,
+      "carbs_g": 74,
+      "fat_g": 30,
+      "fiber_g": 0,
+      "sodium_mg": 350,
+      "serving_note": "per 15 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per 15 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "hot-cocoa",
+      "name": "Hot Cocoa",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 33,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sodium_mg": 240,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "hot-cocoa-with-marshmallows",
+      "name": "Hot Cocoa — with Marshmallows",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 2,
+      "carbs_g": 33,
+      "fat_g": 3,
+      "fiber_g": 2,
+      "sodium_mg": 240,
+      "serving_note": "per 8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "description": null,
+      "category": "drink",
+      "calories": 160,
+      "protein_g": 10,
+      "carbs_g": 16,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 10 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-sm-with-ice",
+      "name": "Coca-Cola® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 37,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 35,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-sm-without-ice",
+      "name": "Coca-Cola® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 45,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-med-with-ice",
+      "name": "Coca-Cola® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 50,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-med-without-ice",
+      "name": "Coca-Cola® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 67,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-lg-with-ice",
+      "name": "Coca-Cola® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 74,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 75,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-lg-without-ice",
+      "name": "Coca-Cola® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 101,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 100,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-x-lg-with-ice",
+      "name": "Coca-Cola® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 97,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 95,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "coca-cola-x-lg-without-ice",
+      "name": "Coca-Cola® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 520,
+      "protein_g": 0,
+      "carbs_g": 141,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 140,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-sm-with-ice",
+      "name": "Diet Coke® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 45,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-sm-without-ice",
+      "name": "Diet Coke® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 55,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-med-with-ice",
+      "name": "Diet Coke® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 60,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-med-without-ice",
+      "name": "Diet Coke® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0.5,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 80,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-lg-with-ice",
+      "name": "Diet Coke® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0.5,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 90,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-lg-without-ice",
+      "name": "Diet Coke® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0.5,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 120,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-x-lg-with-ice",
+      "name": "Diet Coke® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0.5,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 115,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "diet-coke-x-lg-without-ice",
+      "name": "Diet Coke® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 170,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-sm-with-ice",
+      "name": "Cherry Coke® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 38,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 40,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-sm-without-ice",
+      "name": "Cherry Coke® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 49,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 50,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-med-with-ice",
+      "name": "Cherry Coke® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 52,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 50,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-med-without-ice",
+      "name": "Cherry Coke® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 70,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-lg-with-ice",
+      "name": "Cherry Coke® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 77,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 75,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-lg-without-ice",
+      "name": "Cherry Coke® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 380,
+      "protein_g": 0,
+      "carbs_g": 105,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 105,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-x-lg-with-ice",
+      "name": "Cherry Coke® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 101,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 100,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "cherry-coke-x-lg-without-ice",
+      "name": "Cherry Coke® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 540,
+      "protein_g": 0,
+      "carbs_g": 146,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 140,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-sm-with-ice",
+      "name": "7UP ® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 35,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 45,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-sm-without-ice",
+      "name": "7UP ® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 60,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-med-with-ice",
+      "name": "7UP ® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 48,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-med-without-ice",
+      "name": "7UP ® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 64,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 85,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-lg-with-ice",
+      "name": "7UP ® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 71,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 95,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-lg-without-ice",
+      "name": "7UP ® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 96,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 125,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-x-lg-with-ice",
+      "name": "7UP ® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 0,
+      "carbs_g": 93,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 120,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "7up-x-lg-without-ice",
+      "name": "7UP ® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 510,
+      "protein_g": 0,
+      "carbs_g": 135,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 180,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-sm-with-ice",
+      "name": "Dr Pepper ® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 36,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 40,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-sm-without-ice",
+      "name": "Dr Pepper ® (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 50,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-med-with-ice",
+      "name": "Dr Pepper ® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 49,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 55,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-med-without-ice",
+      "name": "Dr Pepper ® (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 65,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 75,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-lg-with-ice",
+      "name": "Dr Pepper ® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 72,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 80,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-lg-without-ice",
+      "name": "Dr Pepper ® (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 98,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 110,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-x-lg-with-ice",
+      "name": "Dr Pepper ® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 350,
+      "protein_g": 0,
+      "carbs_g": 94,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 105,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "dr-pepper-x-lg-without-ice",
+      "name": "Dr Pepper ® (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 500,
+      "protein_g": 0,
+      "carbs_g": 137,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 150,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-sm-with-ice",
+      "name": "Barq’s® Root Beer (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 140,
+      "protein_g": 0,
+      "carbs_g": 37,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-sm-without-ice",
+      "name": "Barq’s® Root Beer (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 170,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 80,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-med-with-ice",
+      "name": "Barq’s® Root Beer (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 50,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 85,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-med-without-ice",
+      "name": "Barq’s® Root Beer (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 67,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 115,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-lg-with-ice",
+      "name": "Barq’s® Root Beer (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 74,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 125,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-lg-without-ice",
+      "name": "Barq’s® Root Beer (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 101,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 170,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-x-lg-with-ice",
+      "name": "Barq’s® Root Beer (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 360,
+      "protein_g": 0,
+      "carbs_g": 97,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 170,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "barqs-root-beer-x-lg-without-ice",
+      "name": "Barq’s® Root Beer (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 520,
+      "protein_g": 0,
+      "carbs_g": 141,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 240,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-sm-with-ice",
+      "name": "Signature Pink Lemonade (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 35,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 25,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-sm-without-ice",
+      "name": "Signature Pink Lemonade (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 30,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-med-with-ice",
+      "name": "Signature Pink Lemonade (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 48,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 30,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-med-without-ice",
+      "name": "Signature Pink Lemonade (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 64,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 45,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-lg-with-ice",
+      "name": "Signature Pink Lemonade (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 50,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-lg-without-ice",
+      "name": "Signature Pink Lemonade (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 410,
+      "protein_g": 0,
+      "carbs_g": 96,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-x-lg-with-ice",
+      "name": "Signature Pink Lemonade (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 0,
+      "carbs_g": 93,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "signature-pink-lemonade-x-lg-without-ice",
+      "name": "Signature Pink Lemonade (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 570,
+      "protein_g": 0,
+      "carbs_g": 134,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 90,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-sm-with-ice",
+      "name": "Lite Pink Lemonade (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 25,
+      "serving_note": "per Sm cup (11 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-sm-without-ice",
+      "name": "Lite Pink Lemonade (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 3,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 30,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-med-with-ice",
+      "name": "Lite Pink Lemonade (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 35,
+      "serving_note": "per Med cup (15 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-med-without-ice",
+      "name": "Lite Pink Lemonade (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 10,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 45,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-lg-with-ice",
+      "name": "Lite Pink Lemonade (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 15,
+      "protein_g": 0,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 50,
+      "serving_note": "per Lg cup (22 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-lg-without-ice",
+      "name": "Lite Pink Lemonade (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 15,
+      "protein_g": 0,
+      "carbs_g": 7,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-x-lg-with-ice",
+      "name": "Lite Pink Lemonade (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 15,
+      "protein_g": 0,
+      "carbs_g": 7,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 65,
+      "serving_note": "per X-Lg cup (29 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "lite-pink-lemonade-x-lg-without-ice",
+      "name": "Lite Pink Lemonade (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 25,
+      "protein_g": 0,
+      "carbs_g": 10,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 90,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-sm-with-ice",
+      "name": "Unsweetened Iced Tea (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Sm cup (6 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-sm-without-ice",
+      "name": "Unsweetened Iced Tea (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-med-with-ice",
+      "name": "Unsweetened Iced Tea (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Med cup (9 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-med-without-ice",
+      "name": "Unsweetened Iced Tea (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-lg-with-ice",
+      "name": "Unsweetened Iced Tea (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Lg cup (14 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-lg-without-ice",
+      "name": "Unsweetened Iced Tea (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-x-lg-with-ice",
+      "name": "Unsweetened Iced Tea (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per X-Lg cup (19 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-x-lg-without-ice",
+      "name": "Unsweetened Iced Tea (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-sm-with-ice",
+      "name": "Sweet Iced Tea (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 80,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Sm cup (6 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-sm-without-ice",
+      "name": "Sweet Iced Tea (Sm)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Sm cup (14 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-med-with-ice",
+      "name": "Sweet Iced Tea (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 110,
+      "protein_g": 0,
+      "carbs_g": 30,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Med cup (9 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-med-without-ice",
+      "name": "Sweet Iced Tea (Med)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 66,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Med cup (20 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-lg-with-ice",
+      "name": "Sweet Iced Tea (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 180,
+      "protein_g": 0,
+      "carbs_g": 46,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Lg cup (14 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-lg-without-ice",
+      "name": "Sweet Iced Tea (Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 380,
+      "protein_g": 0,
+      "carbs_g": 99,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per Lg cup (30 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-x-lg-with-ice",
+      "name": "Sweet Iced Tea (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 0,
+      "carbs_g": 63,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per X-Lg cup (19 oz), with ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    },
+    {
+      "id": "sweet-iced-tea-x-lg-without-ice",
+      "name": "Sweet Iced Tea (X-Lg)",
+      "description": null,
+      "category": "drink",
+      "calories": 540,
+      "protein_g": 0,
+      "carbs_g": 138,
+      "fat_g": 0,
+      "fiber_g": null,
+      "sodium_mg": 0,
+      "serving_note": "per X-Lg cup (42 oz), without ice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31"
+      }
+    }
+  ]
+}

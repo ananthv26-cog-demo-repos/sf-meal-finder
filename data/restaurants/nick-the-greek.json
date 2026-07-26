@@ -1,0 +1,2817 @@
+{
+  "id": "nick-the-greek",
+  "name": "Nick The Greek",
+  "website": "https://www.nickthegreek.com",
+  "nutrition_source": {
+    "type": "vendor",
+    "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/",
+    "vendor": "simmer",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "121 Spear Streeet, San Francisco, CA 94105",
+      "lat": 37.7920283,
+      "lng": -122.3927033,
+      "neighborhood": null
+    },
+    {
+      "address": "145 4th Street, San Francisco, CA 94103",
+      "lat": 37.7841539,
+      "lng": -122.4034781,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "bowls-mediterranean-bowl-rice",
+      "name": "Rice (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 222.08,
+      "protein_g": 4.17,
+      "carbs_g": 49.97,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "bowls-mediterranean-bowl-kale",
+      "name": "Kale (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 13.32,
+      "protein_g": 1.34,
+      "carbs_g": 3.33,
+      "fat_g": 0.33,
+      "fiber_g": 0.99,
+      "sodium_mg": 9.92
+    },
+    {
+      "id": "bowls-mediterranean-bowl-grape-tomatoes",
+      "name": "Grape Tomatoes (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 10.0,
+      "protein_g": 0.33,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.33,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "bowls-mediterranean-bowl-persian-cucumber",
+      "name": "Persian Cucumber (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 3.87,
+      "protein_g": 0.39,
+      "carbs_g": 0.77,
+      "fat_g": 0.0,
+      "fiber_g": 0.38,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "bowls-mediterranean-bowl-pickled-onions",
+      "name": "Pickled Onions (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 11.5,
+      "protein_g": 0.23,
+      "carbs_g": 1.99,
+      "fat_g": 0.02,
+      "fiber_g": 0.36,
+      "sodium_mg": 0.85
+    },
+    {
+      "id": "bowls-mediterranean-bowl-red-wine-vinaigrette",
+      "name": "Red Wine Vinaigrette (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "bowls-mediterranean-bowl-hummus",
+      "name": "Hummus (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 51.1,
+      "protein_g": 1.39,
+      "carbs_g": 4.12,
+      "fat_g": 3.4,
+      "fiber_g": 0.0,
+      "sodium_mg": 103.0
+    },
+    {
+      "id": "bowls-mediterranean-bowl-toum",
+      "name": "Toum (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 85.0,
+      "protein_g": 0.16,
+      "carbs_g": 0.97,
+      "fat_g": 9.0,
+      "fiber_g": 0.06,
+      "sodium_mg": 102.0
+    },
+    {
+      "id": "bowls-mediterranean-bowl-harissa",
+      "name": "Harissa (Mediterranean Bowl, bowls)",
+      "description": "Mediterranean Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 16.0,
+      "protein_g": 0.21,
+      "carbs_g": 0.84,
+      "fat_g": 1.31,
+      "fiber_g": 0.0,
+      "sodium_mg": 74.25
+    },
+    {
+      "id": "bowls-gyro-bowl-rice",
+      "name": "Rice (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 222.08,
+      "protein_g": 4.17,
+      "carbs_g": 49.97,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "bowls-gyro-bowl-romaine-lettuce",
+      "name": "Romaine Lettuce (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 4.82,
+      "protein_g": 0.35,
+      "carbs_g": 0.93,
+      "fat_g": 0.09,
+      "fiber_g": 0.6,
+      "sodium_mg": 2.27
+    },
+    {
+      "id": "bowls-gyro-bowl-red-onions",
+      "name": "Red Onions (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 8.5,
+      "protein_g": 0.23,
+      "carbs_g": 1.99,
+      "fat_g": 0.02,
+      "fiber_g": 0.36,
+      "sodium_mg": 0.85
+    },
+    {
+      "id": "bowls-gyro-bowl-feta-cheese",
+      "name": "Feta Cheese (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 31.0,
+      "protein_g": 2.53,
+      "carbs_g": 0.55,
+      "fat_g": 2.02,
+      "fiber_g": 0.0,
+      "sodium_mg": 187.31
+    },
+    {
+      "id": "bowls-gyro-bowl-persian-cucumbers",
+      "name": "Persian Cucumbers (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 3.87,
+      "protein_g": 0.39,
+      "carbs_g": 0.77,
+      "fat_g": 0.0,
+      "fiber_g": 0.38,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "bowls-gyro-bowl-grape-tomatoes",
+      "name": "Grape Tomatoes (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 10.0,
+      "protein_g": 0.33,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.33,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "bowls-gyro-bowl-red-wine-vinaigrette",
+      "name": "Red Wine Vinaigrette (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "bowls-gyro-bowl-spicy-yogurt",
+      "name": "Spicy Yogurt (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 23.45,
+      "protein_g": 0.96,
+      "carbs_g": 1.79,
+      "fat_g": 1.63,
+      "fiber_g": 0.08,
+      "sodium_mg": 89.13
+    },
+    {
+      "id": "bowls-gyro-bowl-tzatziki",
+      "name": "Tzatziki (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 19.28,
+      "protein_g": 0.83,
+      "carbs_g": 1.74,
+      "fat_g": 0.38,
+      "fiber_g": 0.03,
+      "sodium_mg": 110.76
+    },
+    {
+      "id": "bowls-gyro-bowl-paprika",
+      "name": "Paprika (Gyro Bowl, bowls)",
+      "description": "Gyro Bowl — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 0.28,
+      "protein_g": 0.01,
+      "carbs_g": 0.05,
+      "fat_g": 0.01,
+      "fiber_g": 0.03,
+      "sodium_mg": 0.07
+    },
+    {
+      "id": "bowls-protein-choices-beef-lamb-gyro",
+      "name": "Beef/Lamb Gyro (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 390.0,
+      "protein_g": 16.0,
+      "carbs_g": 7.92,
+      "fat_g": 34.2,
+      "fiber_g": 1.07,
+      "sodium_mg": 930.0
+    },
+    {
+      "id": "bowls-protein-choices-chicken-gyro",
+      "name": "Chicken Gyro (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 190.0,
+      "protein_g": 19.0,
+      "carbs_g": 1.17,
+      "fat_g": 10.99,
+      "fiber_g": 0.99,
+      "sodium_mg": 256.18
+    },
+    {
+      "id": "bowls-protein-choices-pork-gyro",
+      "name": "Pork Gyro (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 270.0,
+      "protein_g": 15.0,
+      "carbs_g": 1.58,
+      "fat_g": 24.7,
+      "fiber_g": 1.03,
+      "sodium_mg": 526.67
+    },
+    {
+      "id": "bowls-protein-choices-chicken-souvlaki-2-skewers",
+      "name": "Chicken Souvlaki (2 Skewers) (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 270.0,
+      "protein_g": 42.42,
+      "carbs_g": 0.0,
+      "fat_g": 8.68,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0
+    },
+    {
+      "id": "bowls-protein-choices-steak-souvlaki-1-skewer",
+      "name": "Steak Souvlaki (1 Skewer) (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 239.0,
+      "protein_g": 18.0,
+      "carbs_g": 0.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 209.0
+    },
+    {
+      "id": "bowls-protein-choices-beefteki",
+      "name": "Beefteki (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 309.0,
+      "protein_g": 21.8,
+      "carbs_g": 0.0,
+      "fat_g": 24.1,
+      "fiber_g": 0.0,
+      "sodium_mg": 332.81
+    },
+    {
+      "id": "bowls-protein-choices-veggies",
+      "name": "Veggies (Protein Choices, bowls)",
+      "description": "Protein Choices — bowls screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 24.66,
+      "protein_g": 2.79,
+      "carbs_g": 3.78,
+      "fat_g": 0.49,
+      "fiber_g": 1.86,
+      "sodium_mg": 9.36
+    },
+    {
+      "id": "pitas-select-bread-pita-bread",
+      "name": "Pita Bread (Select Bread, pitas)",
+      "description": "Select Bread — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 230.0,
+      "protein_g": 8.0,
+      "carbs_g": 40.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.79,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "pitas-select-bread-bun",
+      "name": "Bun (Select Bread, pitas)",
+      "description": "Select Bread — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 300.0,
+      "protein_g": 8.0,
+      "carbs_g": 42.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0
+    },
+    {
+      "id": "pitas-select-protein-beef-lamb-gyro",
+      "name": "Beef/Lamb Gyro (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 390.0,
+      "protein_g": 16.0,
+      "carbs_g": 8.0,
+      "fat_g": 34.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 930.0
+    },
+    {
+      "id": "pitas-select-protein-chicken-gyro",
+      "name": "Chicken Gyro (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 190.0,
+      "protein_g": 19.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 490.0
+    },
+    {
+      "id": "pitas-select-protein-pork-gyro",
+      "name": "Pork Gyro (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 270.0,
+      "protein_g": 15.0,
+      "carbs_g": 2.0,
+      "fat_g": 22.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 420.0
+    },
+    {
+      "id": "pitas-select-protein-beefteki",
+      "name": "Beefteki (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 309.0,
+      "protein_g": 21.8,
+      "carbs_g": 4.0,
+      "fat_g": 24.1,
+      "fiber_g": 0.0,
+      "sodium_mg": 332.81
+    },
+    {
+      "id": "pitas-select-protein-burger",
+      "name": "Burger (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 309.0,
+      "protein_g": 21.8,
+      "carbs_g": 0.0,
+      "fat_g": 24.1,
+      "fiber_g": 0.0,
+      "sodium_mg": 332.81
+    },
+    {
+      "id": "pitas-select-protein-steak-souvlaki",
+      "name": "Steak Souvlaki (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 239.0,
+      "protein_g": 18.0,
+      "carbs_g": 0.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 209.0
+    },
+    {
+      "id": "pitas-select-protein-chicken-souvlaki",
+      "name": "Chicken Souvlaki (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 135.0,
+      "protein_g": 22.0,
+      "carbs_g": 0.0,
+      "fat_g": 4.34,
+      "fiber_g": 0.0,
+      "sodium_mg": 101.25
+    },
+    {
+      "id": "pitas-select-protein-veggies",
+      "name": "Veggies (Select Protein, pitas)",
+      "description": "Select Protein — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 24.66,
+      "protein_g": 2.79,
+      "carbs_g": 3.78,
+      "fat_g": 0.49,
+      "fiber_g": 1.86,
+      "sodium_mg": 9.36
+    },
+    {
+      "id": "pitas-select-veggies-cheese-tomatos-sliced",
+      "name": "Tomatos (Sliced) (Select Veggies + Cheese, pitas)",
+      "description": "Select Veggies + Cheese — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 13.68,
+      "protein_g": 0.67,
+      "carbs_g": 2.96,
+      "fat_g": 0.15,
+      "fiber_g": 0.91,
+      "sodium_mg": 3.8
+    },
+    {
+      "id": "pitas-select-veggies-cheese-red-onions",
+      "name": "Red Onions (Select Veggies + Cheese, pitas)",
+      "description": "Select Veggies + Cheese — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 8.5,
+      "protein_g": 0.23,
+      "carbs_g": 1.99,
+      "fat_g": 0.02,
+      "fiber_g": 0.36,
+      "sodium_mg": 0.85
+    },
+    {
+      "id": "pitas-select-veggies-cheese-romaine-lettuce",
+      "name": "Romaine Lettuce (Select Veggies + Cheese, pitas)",
+      "description": "Select Veggies + Cheese — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 4.82,
+      "protein_g": 0.35,
+      "carbs_g": 0.93,
+      "fat_g": 0.09,
+      "fiber_g": 0.6,
+      "sodium_mg": 2.27
+    },
+    {
+      "id": "pitas-select-veggies-cheese-feta-cheese",
+      "name": "Feta Cheese (Select Veggies + Cheese, pitas)",
+      "description": "Select Veggies + Cheese — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 62.0,
+      "protein_g": 5.06,
+      "carbs_g": 1.1,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 374.0
+    },
+    {
+      "id": "pitas-select-sauces-tzatziki-sauce",
+      "name": "Tzatziki Sauce (Select Sauces, pitas)",
+      "description": "Select Sauces — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 38.5,
+      "protein_g": 1.67,
+      "carbs_g": 3.5,
+      "fat_g": 0.75,
+      "fiber_g": 0.08,
+      "sodium_mg": 221.52
+    },
+    {
+      "id": "pitas-select-sauces-mustard-sauce",
+      "name": "Mustard Sauce (Select Sauces, pitas)",
+      "description": "Select Sauces — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 238.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.5,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "pitas-select-sauces-spicy-yogurt",
+      "name": "Spicy Yogurt (Select Sauces, pitas)",
+      "description": "Select Sauces — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 46.0,
+      "protein_g": 1.92,
+      "carbs_g": 3.6,
+      "fat_g": 3.25,
+      "fiber_g": 0.16,
+      "sodium_mg": 178.25
+    },
+    {
+      "id": "pitas-select-french-fries-french-fries",
+      "name": "French Fries (Select French Fries, pitas)",
+      "description": "Select French Fries — pitas screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 46.0,
+      "protein_g": 0.7,
+      "carbs_g": 6.2,
+      "fat_g": 2.06,
+      "fiber_g": 0.48,
+      "sodium_mg": 42.7
+    },
+    {
+      "id": "plates-plate-tomatoes-sliced",
+      "name": "Tomatoes (Sliced) (Plate, plates)",
+      "description": "Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 10.0,
+      "protein_g": 0.33,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.33,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "plates-plate-tzatziki",
+      "name": "Tzatziki (Plate, plates)",
+      "description": "Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 25.71,
+      "protein_g": 1.11,
+      "carbs_g": 2.33,
+      "fat_g": 0.51,
+      "fiber_g": 0.05,
+      "sodium_mg": 147.68
+    },
+    {
+      "id": "plates-plate-red-onions",
+      "name": "Red Onions (Plate, plates)",
+      "description": "Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 11.34,
+      "protein_g": 0.31,
+      "carbs_g": 2.65,
+      "fat_g": 0.03,
+      "fiber_g": 0.48,
+      "sodium_mg": 1.13
+    },
+    {
+      "id": "plates-plate-pita",
+      "name": "Pita (Plate, plates)",
+      "description": "Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 230.0,
+      "protein_g": 8.0,
+      "carbs_g": 40.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.79,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "plates-plate-rice",
+      "name": "Rice (Plate, plates)",
+      "description": "Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 222.0,
+      "protein_g": 4.17,
+      "carbs_g": 49.97,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "plates-select-protein-beef-lamb-gyro",
+      "name": "Beef/Lamb Gyro (Select Protein, plates)",
+      "description": "Select Protein — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 487.5,
+      "protein_g": 19.5,
+      "carbs_g": 10.0,
+      "fat_g": 42.5,
+      "fiber_g": 1.33,
+      "sodium_mg": 930.0
+    },
+    {
+      "id": "plates-select-protein-chicken-gyro",
+      "name": "Chicken Gyro (Select Protein, plates)",
+      "description": "Select Protein — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 229.0,
+      "protein_g": 23.75,
+      "carbs_g": 1.46,
+      "fat_g": 13.75,
+      "fiber_g": 1.25,
+      "sodium_mg": 320.0
+    },
+    {
+      "id": "plates-select-protein-pork-gyro",
+      "name": "Pork Gyro (Select Protein, plates)",
+      "description": "Select Protein — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 337.5,
+      "protein_g": 18.75,
+      "carbs_g": 1.97,
+      "fat_g": 30.8,
+      "fiber_g": 1.28,
+      "sodium_mg": 658.0
+    },
+    {
+      "id": "plates-select-protein-steak-souvlaki-2",
+      "name": "Steak Souvlaki (2) (Select Protein, plates)",
+      "description": "Select Protein — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 478.0,
+      "protein_g": 36.0,
+      "carbs_g": 0.0,
+      "fat_g": 34.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 418.0
+    },
+    {
+      "id": "plates-select-protein-chicken-souvlaki-2",
+      "name": "Chicken Souvlaki (2) (Select Protein, plates)",
+      "description": "Select Protein — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 270.0,
+      "protein_g": 44.0,
+      "carbs_g": 0.0,
+      "fat_g": 8.75,
+      "fiber_g": 0.0,
+      "sodium_mg": 202.5
+    },
+    {
+      "id": "plates-side-salad-romaine-lettuce",
+      "name": "Romaine Lettuce (Side Salad, plates)",
+      "description": "Side Salad — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 9.64,
+      "protein_g": 0.7,
+      "carbs_g": 1.87,
+      "fat_g": 0.17,
+      "fiber_g": 1.19,
+      "sodium_mg": 4.5
+    },
+    {
+      "id": "plates-side-salad-red-onion",
+      "name": "Red Onion (Side Salad, plates)",
+      "description": "Side Salad — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 5.67,
+      "protein_g": 0.16,
+      "carbs_g": 1.32,
+      "fat_g": 0.01,
+      "fiber_g": 0.24,
+      "sodium_mg": 0.57
+    },
+    {
+      "id": "plates-side-salad-grape-tomatoes",
+      "name": "Grape Tomatoes (Side Salad, plates)",
+      "description": "Side Salad — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 10.0,
+      "protein_g": 0.33,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.33,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "plates-side-salad-feta-cheese",
+      "name": "Feta Cheese (Side Salad, plates)",
+      "description": "Side Salad — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 60.0,
+      "protein_g": 5.06,
+      "carbs_g": 1.01,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "plates-side-salad-kalamata-olives",
+      "name": "Kalamata Olives (Side Salad, plates)",
+      "description": "Side Salad — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 2.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 100.0
+    },
+    {
+      "id": "plates-side-salad-red-wine-vinaigrette",
+      "name": "Red Wine Vinaigrette (Side Salad, plates)",
+      "description": "Side Salad — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "plates-kids-plate-pita",
+      "name": "Pita (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 230.0,
+      "protein_g": 8.0,
+      "carbs_g": 40.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.79,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "plates-kids-plate-rice",
+      "name": "Rice (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 222.0,
+      "protein_g": 4.17,
+      "carbs_g": 49.97,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "plates-kids-plate-fries",
+      "name": "Fries (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 247.69,
+      "protein_g": 3.72,
+      "carbs_g": 33.31,
+      "fat_g": 11.04,
+      "fiber_g": 2.58,
+      "sodium_mg": 229.09
+    },
+    {
+      "id": "plates-kids-plate-beef-lamb-gyro-kid-s-portion",
+      "name": "Beef/Lamb Gyro (Kid's Portion) (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 294.75,
+      "protein_g": 11.67,
+      "carbs_g": 5.94,
+      "fat_g": 26.25,
+      "fiber_g": 0.8,
+      "sodium_mg": 697.5
+    },
+    {
+      "id": "plates-kids-plate-chicken-gyro-kid-s-portion",
+      "name": "Chicken Gyro (Kid's Portion) (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 137.25,
+      "protein_g": 14.07,
+      "carbs_g": 0.88,
+      "fat_g": 8.25,
+      "fiber_g": 0.74,
+      "sodium_mg": 192.13
+    },
+    {
+      "id": "plates-kids-plate-pork-gyro-kid-s-portion",
+      "name": "Pork Gyro (Kid's Portion) (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 217.0,
+      "protein_g": 10.33,
+      "carbs_g": 1.18,
+      "fat_g": 18.5,
+      "fiber_g": 0.77,
+      "sodium_mg": 395.0
+    },
+    {
+      "id": "plates-kids-plate-chicken-souvlaki-kid-s-portion",
+      "name": "Chicken Souvlaki (Kid's Portion) (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 135.0,
+      "protein_g": 21.0,
+      "carbs_g": 0.0,
+      "fat_g": 4.34,
+      "fiber_g": 0.0,
+      "sodium_mg": 101.25
+    },
+    {
+      "id": "plates-kids-plate-steak-souvlaki-kid-s-portion",
+      "name": "Steak Souvlaki (Kid's Portion) (Kids Plate, plates)",
+      "description": "Kids Plate — plates screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 239.0,
+      "protein_g": 18.0,
+      "carbs_g": 0.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 209.0
+    },
+    {
+      "id": "salads-greek-salad-grape-tomatoes",
+      "name": "Grape Tomatoes (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 70.0,
+      "protein_g": 2.33,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.33,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-greek-salad-cucumbers",
+      "name": "Cucumbers (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 20.0,
+      "protein_g": 2.0,
+      "carbs_g": 4.01,
+      "fat_g": 0.0,
+      "fiber_g": 1.98,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-greek-salad-red-onions",
+      "name": "Red Onions (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 17.0,
+      "protein_g": 0.47,
+      "carbs_g": 3.97,
+      "fat_g": 0.04,
+      "fiber_g": 0.72,
+      "sodium_mg": 1.7
+    },
+    {
+      "id": "salads-greek-salad-green-bell-peppers",
+      "name": "Green Bell Peppers (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 8.5,
+      "protein_g": 0.37,
+      "carbs_g": 1.97,
+      "fat_g": 0.07,
+      "fiber_g": 0.72,
+      "sodium_mg": 1.28
+    },
+    {
+      "id": "salads-greek-salad-kalamata-olives",
+      "name": "Kalamata Olives (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 23.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.93,
+      "fat_g": 1.87,
+      "fiber_g": 0.0,
+      "sodium_mg": 107.0
+    },
+    {
+      "id": "salads-greek-salad-feta-cheese",
+      "name": "Feta Cheese (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 60.75,
+      "protein_g": 5.0,
+      "carbs_g": 1.0,
+      "fat_g": 4.05,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0
+    },
+    {
+      "id": "salads-greek-salad-red-wine-vinaigrette",
+      "name": "Red Wine Vinaigrette (Greek Salad, salads)",
+      "description": "Greek Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-prasini-salad-romaine-lettuce",
+      "name": "Romaine Lettuce (Prasini Salad, salads)",
+      "description": "Prasini Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 22.27,
+      "protein_g": 1.61,
+      "carbs_g": 4.31,
+      "fat_g": 0.39,
+      "fiber_g": 2.75,
+      "sodium_mg": 10.48
+    },
+    {
+      "id": "salads-prasini-salad-cucumbers",
+      "name": "Cucumbers (Prasini Salad, salads)",
+      "description": "Prasini Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 6.44,
+      "protein_g": 0.64,
+      "carbs_g": 1.29,
+      "fat_g": 0.0,
+      "fiber_g": 0.64,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-prasini-salad-banana-peppers",
+      "name": "Banana Peppers (Prasini Salad, salads)",
+      "description": "Prasini Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 6.5,
+      "protein_g": 0.0,
+      "carbs_g": 2.6,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 585.0
+    },
+    {
+      "id": "salads-prasini-salad-scallions",
+      "name": "Scallions (Prasini Salad, salads)",
+      "description": "Prasini Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 4.81,
+      "protein_g": 0.27,
+      "carbs_g": 1.1,
+      "fat_g": 0.03,
+      "fiber_g": 0.39,
+      "sodium_mg": 2.4
+    },
+    {
+      "id": "salads-prasini-salad-feta-cheese",
+      "name": "Feta Cheese (Prasini Salad, salads)",
+      "description": "Prasini Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 60.75,
+      "protein_g": 5.06,
+      "carbs_g": 1.01,
+      "fat_g": 4.05,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-kale",
+      "name": "Kale (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 10.66,
+      "protein_g": 1.07,
+      "carbs_g": 2.66,
+      "fat_g": 0.27,
+      "fiber_g": 0.79,
+      "sodium_mg": 7.94
+    },
+    {
+      "id": "salads-tahini-crunch-salad-romaine-lettuce",
+      "name": "Romaine Lettuce (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 13.4,
+      "protein_g": 0.97,
+      "carbs_g": 2.59,
+      "fat_g": 0.24,
+      "fiber_g": 1.66,
+      "sodium_mg": 6.3
+    },
+    {
+      "id": "salads-tahini-crunch-salad-cucumbers",
+      "name": "Cucumbers (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 6.44,
+      "protein_g": 0.64,
+      "carbs_g": 1.29,
+      "fat_g": 0.0,
+      "fiber_g": 0.64,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-grape-tomatoes",
+      "name": "Grape Tomatoes (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 14.0,
+      "protein_g": 0.47,
+      "carbs_g": 2.8,
+      "fat_g": 0.0,
+      "fiber_g": 0.47,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-banana-peppers",
+      "name": "Banana Peppers (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 7.5,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 675.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-pickled-onions",
+      "name": "Pickled Onions (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 13.86,
+      "protein_g": 0.3,
+      "carbs_g": 3.5,
+      "fat_g": 0.03,
+      "fiber_g": 0.46,
+      "sodium_mg": 300.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-pita-crunch",
+      "name": "Pita Crunch (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 82.54,
+      "protein_g": 2.87,
+      "carbs_g": 14.35,
+      "fat_g": 1.62,
+      "fiber_g": 0.28,
+      "sodium_mg": 132.77
+    },
+    {
+      "id": "salads-tahini-crunch-salad-fried-chickpeas",
+      "name": "Fried Chickpeas (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 243.66,
+      "protein_g": 5.5,
+      "carbs_g": 19.7,
+      "fat_g": 15.86,
+      "fiber_g": 0.0,
+      "sodium_mg": 215.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-chimichurri",
+      "name": "Chimichurri (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 75.0,
+      "protein_g": 0.5,
+      "carbs_g": 1.5,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 120.0
+    },
+    {
+      "id": "salads-tahini-crunch-salad-harissa",
+      "name": "Harissa (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 16.0,
+      "protein_g": 0.2,
+      "carbs_g": 0.84,
+      "fat_g": 1.31,
+      "fiber_g": 0.0,
+      "sodium_mg": 74.26
+    },
+    {
+      "id": "salads-tahini-crunch-salad-hummus",
+      "name": "Hummus (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 68.18,
+      "protein_g": 1.85,
+      "carbs_g": 5.5,
+      "fat_g": 4.53,
+      "fiber_g": 0.0,
+      "sodium_mg": 137.34
+    },
+    {
+      "id": "salads-tahini-crunch-salad-tahini-dressing",
+      "name": "Tahini Dressing (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "condiment",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 102.0,
+      "protein_g": 1.49,
+      "carbs_g": 1.4,
+      "fat_g": 9.96,
+      "fiber_g": 0.64,
+      "sodium_mg": 87.9
+    },
+    {
+      "id": "salads-tahini-crunch-salad-basil",
+      "name": "Basil (Tahini Crunch Salad, salads)",
+      "description": "Tahini Crunch Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 0.23,
+      "protein_g": 0.03,
+      "carbs_g": 0.03,
+      "fat_g": 0.01,
+      "fiber_g": 0.02,
+      "sodium_mg": 0.04
+    },
+    {
+      "id": "salads-chopped-salad-romaine-lettuce",
+      "name": "Romaine Lettuce (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 13.4,
+      "protein_g": 0.97,
+      "carbs_g": 2.59,
+      "fat_g": 0.24,
+      "fiber_g": 1.66,
+      "sodium_mg": 6.3
+    },
+    {
+      "id": "salads-chopped-salad-green-bell-peppers",
+      "name": "Green Bell Peppers (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 8.5,
+      "protein_g": 0.37,
+      "carbs_g": 1.97,
+      "fat_g": 0.07,
+      "fiber_g": 0.72,
+      "sodium_mg": 1.28
+    },
+    {
+      "id": "salads-chopped-salad-grape-tomatoes",
+      "name": "Grape Tomatoes (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 14.0,
+      "protein_g": 0.47,
+      "carbs_g": 2.8,
+      "fat_g": 0.0,
+      "fiber_g": 0.47,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-chopped-salad-cucumbers",
+      "name": "Cucumbers (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 6.4,
+      "protein_g": 0.64,
+      "carbs_g": 1.29,
+      "fat_g": 0.0,
+      "fiber_g": 0.64,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "salads-chopped-salad-fresh-chickpeas",
+      "name": "Fresh Chickpeas (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 56.0,
+      "protein_g": 3.05,
+      "carbs_g": 9.6,
+      "fat_g": 0.87,
+      "fiber_g": 1.74,
+      "sodium_mg": 61.0
+    },
+    {
+      "id": "salads-chopped-salad-banana-peppers",
+      "name": "Banana Peppers (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 7.5,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 675.0
+    },
+    {
+      "id": "salads-chopped-salad-pickled-onions",
+      "name": "Pickled Onions (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 13.86,
+      "protein_g": 0.3,
+      "carbs_g": 3.5,
+      "fat_g": 0.01,
+      "fiber_g": 0.46,
+      "sodium_mg": 1.1
+    },
+    {
+      "id": "salads-chopped-salad-pita-chips",
+      "name": "Pita Chips (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 82.54,
+      "protein_g": 2.87,
+      "carbs_g": 14.35,
+      "fat_g": 1.62,
+      "fiber_g": 0.28,
+      "sodium_mg": 132.77
+    },
+    {
+      "id": "salads-chopped-salad-scallions",
+      "name": "Scallions (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 9.07,
+      "protein_g": 0.52,
+      "carbs_g": 2.08,
+      "fat_g": 0.05,
+      "fiber_g": 0.74,
+      "sodium_mg": 4.54
+    },
+    {
+      "id": "salads-chopped-salad-kalamata-olives",
+      "name": "Kalamata Olives (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 23.33,
+      "protein_g": 0.0,
+      "carbs_g": 0.93,
+      "fat_g": 1.87,
+      "fiber_g": 0.0,
+      "sodium_mg": 107.33
+    },
+    {
+      "id": "salads-chopped-salad-feta-cheese",
+      "name": "Feta Cheese (Chopped Salad, salads)",
+      "description": "Chopped Salad — salads screen of Nick The Greek's nutrition calculator.",
+      "category": "component",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 60.75,
+      "protein_g": 5.06,
+      "carbs_g": 1.01,
+      "fat_g": 4.05,
+      "fiber_g": 0.0,
+      "sodium_mg": 301.0
+    },
+    {
+      "id": "sides-choose-sides-rice",
+      "name": "Rice",
+      "description": "Choose Sides — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 225.0,
+      "protein_g": 4.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "sides-choose-sides-hummus-pita",
+      "name": "Hummus & Pita",
+      "description": "Choose Sides — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 510.0,
+      "protein_g": 16.0,
+      "carbs_g": 60.0,
+      "fat_g": 22.5,
+      "fiber_g": 5.0,
+      "sodium_mg": 910.0
+    },
+    {
+      "id": "sides-choose-sides-scoop-of-hummus",
+      "name": "Scoop of Hummus",
+      "description": "Choose Sides — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 280.0,
+      "protein_g": 8.0,
+      "carbs_g": 20.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 540.0
+    },
+    {
+      "id": "sides-choose-sides-pita-bread",
+      "name": "Pita Bread",
+      "description": "Choose Sides — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 230.0,
+      "protein_g": 8.0,
+      "carbs_g": 40.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "sides-choose-sides-french-fries",
+      "name": "French Fries",
+      "description": "Choose Sides — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 410.0,
+      "protein_g": 6.2,
+      "carbs_g": 55.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.48,
+      "sodium_mg": 540.0
+    },
+    {
+      "id": "sides-greek-fries-side-greek-fries-side",
+      "name": "Greek Fries (Side)",
+      "description": "Greek Fries (Side) — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 405.0,
+      "protein_g": 10.5,
+      "carbs_g": 47.0,
+      "fat_g": 19.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 850.0
+    },
+    {
+      "id": "sides-side-of-protein-falafel",
+      "name": "Falafel",
+      "description": "Side of Protein — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 260.0,
+      "protein_g": 14.0,
+      "carbs_g": 46.0,
+      "fat_g": 4.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 840.0
+    },
+    {
+      "id": "sides-side-of-protein-beef-lamb-gyro",
+      "name": "Beef/Lamb Gyro",
+      "description": "Side of Protein — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 480.0,
+      "protein_g": 20.0,
+      "carbs_g": 10.0,
+      "fat_g": 42.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 930.0
+    },
+    {
+      "id": "sides-side-of-protein-chicken-gyro",
+      "name": "Chicken Gyro",
+      "description": "Side of Protein — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 237.0,
+      "protein_g": 23.75,
+      "carbs_g": 2.5,
+      "fat_g": 13.75,
+      "fiber_g": 1.5,
+      "sodium_mg": 612.0
+    },
+    {
+      "id": "sides-side-of-protein-pork-gyro-meat",
+      "name": "Pork Gyro Meat",
+      "description": "Side of Protein — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 335.0,
+      "protein_g": 19.0,
+      "carbs_g": 2.5,
+      "fat_g": 27.5,
+      "fiber_g": 1.5,
+      "sodium_mg": 525.0
+    },
+    {
+      "id": "sides-select-skewer-chicken-souvlaki",
+      "name": "Chicken Souvlaki",
+      "description": "Select Skewer — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 135.0,
+      "protein_g": 21.0,
+      "carbs_g": 0.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0
+    },
+    {
+      "id": "sides-select-skewer-steak-souvlaki",
+      "name": "Steak Souvlaki",
+      "description": "Select Skewer — sides screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 229.0,
+      "protein_g": 19.0,
+      "carbs_g": 0.0,
+      "fat_g": 16.25,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0
+    },
+    {
+      "id": "desserts-choose-desserts-baklava",
+      "name": "Baklava",
+      "description": "Choose Desserts — desserts screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 370.0,
+      "protein_g": 6.0,
+      "carbs_g": 44.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 290.0
+    },
+    {
+      "id": "desserts-choose-desserts-greek-donuts-plain-loukoumades",
+      "name": "Greek Donuts Plain (Loukoumades)",
+      "description": "Choose Desserts — desserts screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 715.0,
+      "protein_g": 9.15,
+      "carbs_g": 89.0,
+      "fat_g": 37.0,
+      "fiber_g": 2.9,
+      "sodium_mg": 501.0
+    },
+    {
+      "id": "desserts-choose-desserts-greek-donuts-chocolate-loukoumades",
+      "name": "Greek Donuts Chocolate (Loukoumades)",
+      "description": "Choose Desserts — desserts screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 950.0,
+      "protein_g": 12.0,
+      "carbs_g": 111.0,
+      "fat_g": 60.0,
+      "fiber_g": 4.33,
+      "sodium_mg": 530.0
+    },
+    {
+      "id": "desserts-choose-desserts-plain-froyo",
+      "name": "Plain Froyo",
+      "description": "Choose Desserts — desserts screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 330.0,
+      "protein_g": 11.79,
+      "carbs_g": 69.14,
+      "fat_g": 0.7,
+      "fiber_g": 0.4,
+      "sodium_mg": 336.0
+    },
+    {
+      "id": "desserts-choose-desserts-baklava-froyo",
+      "name": "Baklava Froyo",
+      "description": "Choose Desserts — desserts screen of Nick The Greek's nutrition calculator.",
+      "category": "side",
+      "serving_note": "per standard portion as served",
+      "is_estimate": false,
+      "source": {
+        "type": "vendor",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 529.0,
+      "protein_g": 15.0,
+      "carbs_g": 92.0,
+      "fat_g": 10.7,
+      "fiber_g": 1.4,
+      "sodium_mg": 490.0
+    },
+    {
+      "id": "pita-beef-lamb-gyro",
+      "name": "Beef/Lamb Gyro Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with beef/lamb gyro. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 685.5,
+      "protein_g": 26.92,
+      "carbs_g": 57.38,
+      "fat_g": 39.51,
+      "fiber_g": 2.74,
+      "sodium_mg": 1528.44
+    },
+    {
+      "id": "pita-chicken-gyro",
+      "name": "Chicken Gyro Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with chicken gyro. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 485.5,
+      "protein_g": 29.92,
+      "carbs_g": 51.38,
+      "fat_g": 16.509999999999998,
+      "fiber_g": 3.74,
+      "sodium_mg": 1088.44
+    },
+    {
+      "id": "pita-pork-gyro",
+      "name": "Pork Gyro Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with pork gyro. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 565.5,
+      "protein_g": 25.92,
+      "carbs_g": 51.38,
+      "fat_g": 27.509999999999998,
+      "fiber_g": 3.74,
+      "sodium_mg": 1018.44
+    },
+    {
+      "id": "pita-beefteki",
+      "name": "Beefteki Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with beefteki. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 604.5,
+      "protein_g": 32.72,
+      "carbs_g": 53.38,
+      "fat_g": 29.61,
+      "fiber_g": 2.74,
+      "sodium_mg": 931.25
+    },
+    {
+      "id": "pita-burger",
+      "name": "Burger Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with burger. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 604.5,
+      "protein_g": 32.72,
+      "carbs_g": 49.38,
+      "fat_g": 29.61,
+      "fiber_g": 2.74,
+      "sodium_mg": 931.25
+    },
+    {
+      "id": "pita-steak-souvlaki",
+      "name": "Steak Souvlaki Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with steak souvlaki. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 534.5,
+      "protein_g": 28.92,
+      "carbs_g": 49.38,
+      "fat_g": 22.509999999999998,
+      "fiber_g": 2.74,
+      "sodium_mg": 807.44
+    },
+    {
+      "id": "pita-chicken-souvlaki",
+      "name": "Chicken Souvlaki Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with chicken souvlaki. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 430.5,
+      "protein_g": 32.92,
+      "carbs_g": 49.38,
+      "fat_g": 9.85,
+      "fiber_g": 2.74,
+      "sodium_mg": 699.69
+    },
+    {
+      "id": "pita-falafel",
+      "name": "Falafel Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with falafel. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 465.5,
+      "protein_g": 20.22,
+      "carbs_g": 79.78,
+      "fat_g": 14.73,
+      "fiber_g": 10.74,
+      "sodium_mg": 1131.24
+    },
+    {
+      "id": "pita-veggies",
+      "name": "Veggies Pita",
+      "description": "Standard pita: pita bread, sliced tomatoes, red onions, romaine and tzatziki, with veggies. Sum of the calculator's per-ingredient values; fries and alternate sauces not included.",
+      "category": "meal",
+      "serving_note": "per pita as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 320.16,
+      "protein_g": 13.71,
+      "carbs_g": 53.160000000000004,
+      "fat_g": 6.0,
+      "fiber_g": 4.6000000000000005,
+      "sodium_mg": 607.8000000000001
+    },
+    {
+      "id": "bowl-mediterranean-beef-lamb-gyro",
+      "name": "Mediterranean Bowl with Beef/Lamb Gyro",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with beef/lamb gyro. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 861.58,
+      "protein_g": 26.060000000000002,
+      "carbs_g": 79.0,
+      "fat_g": 44.88,
+      "fiber_g": 3.13,
+      "sodium_mg": 1122.22
+    },
+    {
+      "id": "bowl-mediterranean-chicken-gyro",
+      "name": "Mediterranean Bowl with Chicken Gyro",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with chicken gyro. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 661.58,
+      "protein_g": 29.060000000000002,
+      "carbs_g": 72.25,
+      "fat_g": 21.67,
+      "fiber_g": 3.05,
+      "sodium_mg": 448.4
+    },
+    {
+      "id": "bowl-mediterranean-pork-gyro",
+      "name": "Mediterranean Bowl with Pork Gyro",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with pork gyro. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 741.58,
+      "protein_g": 25.060000000000002,
+      "carbs_g": 72.66,
+      "fat_g": 35.379999999999995,
+      "fiber_g": 3.09,
+      "sodium_mg": 718.8899999999999
+    },
+    {
+      "id": "bowl-mediterranean-chicken-souvlaki-2-skewers",
+      "name": "Mediterranean Bowl with Chicken Souvlaki (2 Skewers)",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with chicken souvlaki (2 skewers). Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 741.58,
+      "protein_g": 52.480000000000004,
+      "carbs_g": 71.08,
+      "fat_g": 19.36,
+      "fiber_g": 2.06,
+      "sodium_mg": 392.21999999999997
+    },
+    {
+      "id": "bowl-mediterranean-steak-souvlaki-1-skewer",
+      "name": "Mediterranean Bowl with Steak Souvlaki (1 Skewer)",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with steak souvlaki (1 skewer). Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 710.58,
+      "protein_g": 28.060000000000002,
+      "carbs_g": 71.08,
+      "fat_g": 27.68,
+      "fiber_g": 2.06,
+      "sodium_mg": 401.21999999999997
+    },
+    {
+      "id": "bowl-mediterranean-beefteki",
+      "name": "Mediterranean Bowl with Beefteki",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with beefteki. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 780.58,
+      "protein_g": 31.86,
+      "carbs_g": 71.08,
+      "fat_g": 34.78,
+      "fiber_g": 2.06,
+      "sodium_mg": 525.03
+    },
+    {
+      "id": "bowl-mediterranean-falafel-5-pcs",
+      "name": "Mediterranean Bowl with Falafel (5 Pcs)",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with falafel (5 pcs). Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 684.08,
+      "protein_g": 21.22,
+      "carbs_g": 109.08,
+      "fat_g": 22.2,
+      "fiber_g": 14.42,
+      "sodium_mg": 858.22
+    },
+    {
+      "id": "bowl-mediterranean-veggies",
+      "name": "Mediterranean Bowl with Veggies",
+      "description": "Standard mediterranean bowl: rice, kale, grape tomatoes, persian cucumber, fried chickpeas, pickled onions, red wine vinaigrette, with veggies. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 496.24000000000007,
+      "protein_g": 12.850000000000001,
+      "carbs_g": 74.86,
+      "fat_g": 11.17,
+      "fiber_g": 3.92,
+      "sodium_mg": 201.57999999999998
+    },
+    {
+      "id": "bowl-gyro-beef-lamb-gyro",
+      "name": "Gyro Bowl with Beef/Lamb Gyro",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with beef/lamb gyro. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 769.55,
+      "protein_g": 24.83,
+      "carbs_g": 65.87,
+      "fat_g": 45.71,
+      "fiber_g": 2.77,
+      "sodium_mg": 1271.19
+    },
+    {
+      "id": "bowl-gyro-chicken-gyro",
+      "name": "Gyro Bowl with Chicken Gyro",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with chicken gyro. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 569.55,
+      "protein_g": 27.83,
+      "carbs_g": 59.120000000000005,
+      "fat_g": 22.5,
+      "fiber_g": 2.69,
+      "sodium_mg": 597.37
+    },
+    {
+      "id": "bowl-gyro-pork-gyro",
+      "name": "Gyro Bowl with Pork Gyro",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with pork gyro. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 649.55,
+      "protein_g": 23.83,
+      "carbs_g": 59.53,
+      "fat_g": 36.21,
+      "fiber_g": 2.73,
+      "sodium_mg": 867.8599999999999
+    },
+    {
+      "id": "bowl-gyro-chicken-souvlaki-2-skewers",
+      "name": "Gyro Bowl with Chicken Souvlaki (2 Skewers)",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with chicken souvlaki (2 skewers). Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 649.55,
+      "protein_g": 51.25,
+      "carbs_g": 57.95,
+      "fat_g": 20.189999999999998,
+      "fiber_g": 1.7,
+      "sodium_mg": 541.19
+    },
+    {
+      "id": "bowl-gyro-steak-souvlaki-1-skewer",
+      "name": "Gyro Bowl with Steak Souvlaki (1 Skewer)",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with steak souvlaki (1 skewer). Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 618.55,
+      "protein_g": 26.83,
+      "carbs_g": 57.95,
+      "fat_g": 28.509999999999998,
+      "fiber_g": 1.7,
+      "sodium_mg": 550.19
+    },
+    {
+      "id": "bowl-gyro-beefteki",
+      "name": "Gyro Bowl with Beefteki",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with beefteki. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 688.55,
+      "protein_g": 30.63,
+      "carbs_g": 57.95,
+      "fat_g": 35.61,
+      "fiber_g": 1.7,
+      "sodium_mg": 674.0
+    },
+    {
+      "id": "bowl-gyro-falafel-5-pcs",
+      "name": "Gyro Bowl with Falafel (5 Pcs)",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with falafel (5 pcs). Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 592.05,
+      "protein_g": 19.99,
+      "carbs_g": 95.95,
+      "fat_g": 23.03,
+      "fiber_g": 14.059999999999999,
+      "sodium_mg": 1007.19
+    },
+    {
+      "id": "bowl-gyro-veggies",
+      "name": "Gyro Bowl with Veggies",
+      "description": "Standard gyro bowl: rice, romaine lettuce, red onions, feta cheese, persian cucumbers, grape tomatoes, red wine vinaigrette, tzatziki, with veggies. Sum of the calculator's per-ingredient values; optional extra sauces excluded.",
+      "category": "meal",
+      "serving_note": "per bowl as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 404.21,
+      "protein_g": 11.619999999999997,
+      "carbs_g": 61.730000000000004,
+      "fat_g": 12.0,
+      "fiber_g": 3.56,
+      "sodium_mg": 350.55
+    },
+    {
+      "id": "plate-beef-lamb-gyro",
+      "name": "Beef/Lamb Gyro Plate",
+      "description": "Standard plate: sliced tomatoes, tzatziki, red onions, pita and rice, with beef/lamb gyro. Sum of the calculator's per-ingredient values; fries (offered instead of rice) and the side salad are not included.",
+      "category": "meal",
+      "serving_note": "per plate as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 986.55,
+      "protein_g": 33.42,
+      "carbs_g": 106.95,
+      "fat_g": 47.54,
+      "fiber_g": 2.98,
+      "sodium_mg": 1448.81
+    },
+    {
+      "id": "plate-chicken-gyro",
+      "name": "Chicken Gyro Plate",
+      "description": "Standard plate: sliced tomatoes, tzatziki, red onions, pita and rice, with chicken gyro. Sum of the calculator's per-ingredient values; fries (offered instead of rice) and the side salad are not included.",
+      "category": "meal",
+      "serving_note": "per plate as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 728.05,
+      "protein_g": 37.67,
+      "carbs_g": 98.41,
+      "fat_g": 18.79,
+      "fiber_g": 2.9,
+      "sodium_mg": 838.81
+    },
+    {
+      "id": "plate-pork-gyro",
+      "name": "Pork Gyro Plate",
+      "description": "Standard plate: sliced tomatoes, tzatziki, red onions, pita and rice, with pork gyro. Sum of the calculator's per-ingredient values; fries (offered instead of rice) and the side salad are not included.",
+      "category": "meal",
+      "serving_note": "per plate as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 836.55,
+      "protein_g": 32.67,
+      "carbs_g": 98.92,
+      "fat_g": 35.84,
+      "fiber_g": 2.9299999999999997,
+      "sodium_mg": 1176.81
+    },
+    {
+      "id": "plate-falafel",
+      "name": "Falafel Plate",
+      "description": "Standard plate: sliced tomatoes, tzatziki, red onions, pita and rice, with falafel. Sum of the calculator's per-ingredient values; fries (offered instead of rice) and the side salad are not included.",
+      "category": "meal",
+      "serving_note": "per plate as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 759.05,
+      "protein_g": 27.92,
+      "carbs_g": 142.55,
+      "fat_g": 18.84,
+      "fiber_g": 16.48,
+      "sodium_mg": 1316.81
+    },
+    {
+      "id": "plate-steak-souvlaki-2",
+      "name": "Steak Souvlaki (2) Plate",
+      "description": "Standard plate: sliced tomatoes, tzatziki, red onions, pita and rice, with steak souvlaki (2). Sum of the calculator's per-ingredient values; fries (offered instead of rice) and the side salad are not included.",
+      "category": "meal",
+      "serving_note": "per plate as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 977.05,
+      "protein_g": 49.92,
+      "carbs_g": 96.95,
+      "fat_g": 39.04,
+      "fiber_g": 1.65,
+      "sodium_mg": 936.81
+    },
+    {
+      "id": "plate-chicken-souvlaki-2",
+      "name": "Chicken Souvlaki (2) Plate",
+      "description": "Standard plate: sliced tomatoes, tzatziki, red onions, pita and rice, with chicken souvlaki (2). Sum of the calculator's per-ingredient values; fries (offered instead of rice) and the side salad are not included.",
+      "category": "meal",
+      "serving_note": "per plate as built below",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 769.05,
+      "protein_g": 57.92,
+      "carbs_g": 96.95,
+      "fat_g": 13.79,
+      "fiber_g": 1.65,
+      "sodium_mg": 721.31
+    },
+    {
+      "id": "salad-greek-salad",
+      "name": "Greek Salad",
+      "description": "Greek Salad as listed by the calculator: grape tomatoes, cucumbers, red onions, green bell peppers, kalamata olives, feta cheese, red wine vinaigrette. Sum of the calculator's per-ingredient values.",
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 289.98,
+      "protein_g": 7.01,
+      "carbs_g": 11.97,
+      "fat_g": 24.03,
+      "fiber_g": 2.55,
+      "sodium_mg": 411.31
+    },
+    {
+      "id": "salad-tahini-crunch-salad",
+      "name": "Tahini Crunch Salad",
+      "description": "Tahini Crunch Salad as listed by the calculator: kale, romaine lettuce, cucumbers, grape tomatoes, banana peppers, pickled onions, pita crunch, fried chickpeas, chimichurri, harissa, hummus, tahini dressing, basil. Sum of the calculator's per-ingredient values.",
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 653.4300000000001,
+      "protein_g": 15.889999999999999,
+      "carbs_g": 59.160000000000004,
+      "fat_g": 41.809999999999995,
+      "fiber_g": 5.96,
+      "sodium_mg": 1457.65
+    },
+    {
+      "id": "salad-chopped-salad",
+      "name": "Chopped Salad",
+      "description": "Chopped Salad as listed by the calculator: romaine lettuce, green bell peppers, grape tomatoes, cucumbers, fresh chickpeas, banana peppers, pickled onions, pita chips, scallions, kalamata olives, feta cheese, lemon zest dressing. Sum of the calculator's per-ingredient values.",
+      "category": "meal",
+      "serving_note": "per entree salad",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/"
+      },
+      "calories": 445.34999999999997,
+      "protein_g": 14.25,
+      "carbs_g": 47.12,
+      "fat_g": 18.78,
+      "fiber_g": 6.71,
+      "sodium_mg": 1440.3200000000002
+    }
+  ]
+}

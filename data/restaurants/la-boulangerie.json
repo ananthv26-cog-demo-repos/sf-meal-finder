@@ -1,0 +1,93 @@
+{
+  "id": "la-boulangerie",
+  "name": "La Boulangerie de San Francisco",
+  "website": "https://laboulangeriesf.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://foods.fatsecret.com/calories-nutrition/la-boulangerie",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "2325 Pine St, San Francisco, CA 94115",
+      "lat": 37.7876,
+      "lng": -122.4344,
+      "neighborhood": "Lower Pacific Heights"
+    },
+    {
+      "address": "1000 Cole St, San Francisco, CA 94117",
+      "lat": 37.7655,
+      "lng": -122.449,
+      "neighborhood": "Cole Valley"
+    },
+    {
+      "address": "3898 24th St, San Francisco, CA 94114",
+      "lat": 37.7512,
+      "lng": -122.4301,
+      "neighborhood": "Noe Valley"
+    },
+    {
+      "address": "500 Hayes St, San Francisco, CA 94102",
+      "lat": 37.777,
+      "lng": -122.4246,
+      "neighborhood": "Hayes Valley"
+    }
+  ],
+  "items": [
+    {
+      "id": "ham-and-cheese-croissant-pocket",
+      "name": "Ham and Cheese Croissant Pocket",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 14.0,
+      "carbs_g": 26.0,
+      "fat_g": 16.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/la-boulangerie/ham-and-cheese-croissant-pocket"
+      }
+    },
+    {
+      "id": "vegan-croissant-toast",
+      "name": "Vegan Croissant Toast",
+      "description": null,
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 8.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/la-boulangerie/vegan-croissant-toast"
+      }
+    },
+    {
+      "id": "croissant-toast",
+      "name": "Croissant Toast",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 4.0,
+      "carbs_g": 20.0,
+      "fat_g": 7.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/la-boulangerie/croissant-toast"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3897 @@
+{
+  "id": "shake-shack",
+  "name": "Shake Shack",
+  "website": "https://shakeshack.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://prod.shakeshack.com/nutritionandallergeninfo",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "3060 Fillmore Street, San Francisco, CA, 94123",
+      "lat": 37.7979025,
+      "lng": -122.4353553,
+      "neighborhood": "Cow Hollow"
+    },
+    {
+      "address": "3251 20th Ave., San Francisco, CA, 94132",
+      "lat": 37.728935,
+      "lng": -122.476829,
+      "neighborhood": "Stonestown Galleria"
+    }
+  ],
+  "items": [
+    {
+      "id": "big-shack",
+      "name": "Big Shack",
+      "description": null,
+      "category": "meal",
+      "calories": 900.0,
+      "protein_g": 56.0,
+      "carbs_g": 42.0,
+      "fat_g": 56.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2860.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-shackburger",
+      "name": "Single ShackBurger",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 29.0,
+      "carbs_g": 26.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-shackburger",
+      "name": "Double ShackBurger",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 51.0,
+      "carbs_g": 27.0,
+      "fat_g": 48.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2280.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "triple-shackburger",
+      "name": "Triple ShackBurger",
+      "description": null,
+      "category": "meal",
+      "calories": 1020.0,
+      "protein_g": 74.0,
+      "carbs_g": 27.0,
+      "fat_g": 67.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3310.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-hamburger",
+      "name": "Single Hamburger",
+      "description": null,
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 25.0,
+      "carbs_g": 24.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-hamburger",
+      "name": "Double Hamburger",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 44.0,
+      "carbs_g": 24.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1540.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "triple-hamburger",
+      "name": "Triple Hamburger",
+      "description": null,
+      "category": "meal",
+      "calories": 750.0,
+      "protein_g": 63.0,
+      "carbs_g": 24.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2220.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-cheeseburger",
+      "name": "Single Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 29.0,
+      "carbs_g": 25.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1200.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-cheeseburger",
+      "name": "Double Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 51.0,
+      "carbs_g": 25.0,
+      "fat_g": 42.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2220.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "triple-cheeseburger",
+      "name": "Triple Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 73.0,
+      "carbs_g": 26.0,
+      "fat_g": 60.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3250.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-smokeshack",
+      "name": "Single SmokeShack",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 36.0,
+      "carbs_g": 28.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1880.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-smokeshack",
+      "name": "Double SmokeShack",
+      "description": null,
+      "category": "meal",
+      "calories": 860.0,
+      "protein_g": 58.0,
+      "carbs_g": 28.0,
+      "fat_g": 56.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2910.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "triple-smokeshack",
+      "name": "Triple SmokeShack",
+      "description": null,
+      "category": "meal",
+      "calories": 1120.0,
+      "protein_g": 80.0,
+      "carbs_g": 29.0,
+      "fat_g": 74.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3930.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-cheeseburger-single",
+      "name": "Bacon Cheeseburger, Single",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 35.0,
+      "carbs_g": 25.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-cheeseburger-double",
+      "name": "Bacon Cheeseburger, Double",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 58.0,
+      "carbs_g": 26.0,
+      "fat_g": 50.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2380.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-cheeseburger-triple",
+      "name": "Bacon Cheeseburger, Triple",
+      "description": null,
+      "category": "meal",
+      "calories": 1050.0,
+      "protein_g": 80.0,
+      "carbs_g": 26.0,
+      "fat_g": 68.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3410.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-burger-single",
+      "name": "Avocado Bacon Burger, Single",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 37.0,
+      "carbs_g": 30.0,
+      "fat_g": 45.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1410.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-burger-double",
+      "name": "Avocado Bacon Burger, Double",
+      "description": null,
+      "category": "meal",
+      "calories": 920.0,
+      "protein_g": 59.0,
+      "carbs_g": 31.0,
+      "fat_g": 63.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2440.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-burger-triple",
+      "name": "Avocado Bacon Burger, Triple",
+      "description": null,
+      "category": "meal",
+      "calories": 1180.0,
+      "protein_g": 81.0,
+      "carbs_g": 31.0,
+      "fat_g": 81.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2840.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shroom-burger",
+      "name": "‘Shroom Burger",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 18.0,
+      "carbs_g": 49.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shack-stack",
+      "name": "Shack Stack",
+      "description": null,
+      "category": "meal",
+      "calories": 770.0,
+      "protein_g": 40.0,
+      "carbs_g": 50.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1700.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "veggie-shack-single",
+      "name": "Veggie Shack, Single",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 20.0,
+      "carbs_g": 53.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1630.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "grilled-cheese",
+      "name": "Grilled Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 320.0,
+      "protein_g": 14.0,
+      "carbs_g": 25.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "blt",
+      "name": "BLT",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 20.0,
+      "carbs_g": 28.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "potato-roll",
+      "name": "Potato Roll",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 7.0,
+      "carbs_g": 24.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per listed component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "gluten-free-bun",
+      "name": "Gluten Free Bun",
+      "description": null,
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 3.0,
+      "carbs_g": 31.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per listed component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "lettuce-wrap",
+      "name": "Lettuce Wrap",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "burger-patty",
+      "name": "Burger Patty",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 19.0,
+      "carbs_g": 0.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "american-cheese",
+      "name": "American Cheese",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 4.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "description": null,
+      "category": "condiment",
+      "calories": 1.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pickle",
+      "name": "Pickle",
+      "description": null,
+      "category": "condiment",
+      "calories": 1.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-2-slices",
+      "name": "Bacon (2 Slices)",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 6.0,
+      "carbs_g": 0.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "cherry-peppers",
+      "name": "Cherry Peppers",
+      "description": null,
+      "category": "condiment",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pickled-jalapenos",
+      "name": "Pickled Jalapenos",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "crispy-onions",
+      "name": "Crispy Onions",
+      "description": null,
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per topping serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chicken-shack",
+      "name": "Chicken Shack",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 33.0,
+      "carbs_g": 34.0,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1170.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chicken-bites-6-piece",
+      "name": "Chicken Bites (6 piece)",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 18.0,
+      "carbs_g": 28.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per 6-piece serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chicken-bites-10-piece",
+      "name": "Chicken Bites (10 piece)",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 31.0,
+      "carbs_g": 47.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1640.0,
+      "serving_note": "per 10-piece serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chicken-bites-catering-box-12-servings",
+      "name": "Chicken Bites (Catering Box, 12 servings)",
+      "description": null,
+      "category": "meal",
+      "calories": 420.0,
+      "protein_g": 22.0,
+      "carbs_g": 34.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1170.0,
+      "serving_note": "per serving from catering box (12 servings; PDF labels values per serving)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-chicken",
+      "name": "Avocado Bacon Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 40.0,
+      "carbs_g": 35.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "buttermilk-chicken-breast",
+      "name": "Buttermilk Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 26.0,
+      "carbs_g": 9.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per listed component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "egg-and-cheese-sandwich",
+      "name": "Egg and Cheese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 340.0,
+      "protein_g": 17.0,
+      "carbs_g": 25.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "egg-and-cheese-sandwich-dbl-egg",
+      "name": "Egg and Cheese Sandwich (Dbl Egg*)",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 23.0,
+      "carbs_g": 26.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-egg-and-cheese-sandwich",
+      "name": "Bacon Egg and Cheese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 23.0,
+      "carbs_g": 26.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-egg-and-cheese-sandwich-dbl-egg",
+      "name": "Bacon Egg and Cheese Sandwich (Dbl Egg)",
+      "description": null,
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 29.0,
+      "carbs_g": 26.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sausage-breakfast-sandwich",
+      "name": "Sausage Breakfast Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 30.0,
+      "carbs_g": 28.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1220.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sausage-breakfast-sandwich-dbl-egg",
+      "name": "Sausage Breakfast Sandwich (Dbl Egg)",
+      "description": null,
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 36.0,
+      "carbs_g": 28.0,
+      "fat_g": 39.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1310.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "wake-up-shack",
+      "name": "Wake up Shack",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 24.0,
+      "carbs_g": 38.0,
+      "fat_g": 47.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1420.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "wake-up-shack-dbl-egg",
+      "name": "Wake up Shack (Dbl Egg)",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 31.0,
+      "carbs_g": 38.0,
+      "fat_g": 53.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1760.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "egg-white-light",
+      "name": "Egg White Light",
+      "description": null,
+      "category": "component",
+      "calories": 320.0,
+      "protein_g": 15.0,
+      "carbs_g": 26.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per listed breakfast component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "egg-white-light-dbl-egg",
+      "name": "Egg White Light (Dbl Egg)",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 19.0,
+      "carbs_g": 26.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per listed breakfast component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "hashbrowns-with-sauce",
+      "name": "Hashbrowns with Sauce",
+      "description": null,
+      "category": "side",
+      "calories": 740.0,
+      "protein_g": 6.0,
+      "carbs_g": 58.0,
+      "fat_g": 54.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 990.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "crossiant",
+      "name": "Crossiant",
+      "description": null,
+      "category": "side",
+      "calories": 420.0,
+      "protein_g": 7.0,
+      "carbs_g": 39.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per pastry",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chocolate-crossiant",
+      "name": "Chocolate Crossiant",
+      "description": null,
+      "category": "side",
+      "calories": 390.0,
+      "protein_g": 6.0,
+      "carbs_g": 38.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per pastry",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "blueberry-cheese-danish",
+      "name": "Blueberry Cheese Danish",
+      "description": null,
+      "category": "side",
+      "calories": 340.0,
+      "protein_g": 6.0,
+      "carbs_g": 37.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per pastry",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "monkey-bread",
+      "name": "Monkey Bread",
+      "description": null,
+      "category": "side",
+      "calories": 380.0,
+      "protein_g": 6.0,
+      "carbs_g": 48.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per pastry",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "egg",
+      "name": "Egg",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 6.0,
+      "carbs_g": 0.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per listed breakfast component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "egg-white",
+      "name": "Egg White",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 7.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per listed breakfast component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "hashbrowns",
+      "name": "Hashbrowns",
+      "description": null,
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sausage-patty",
+      "name": "Sausage Patty",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 13.0,
+      "carbs_g": 3.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per listed component serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "hot-dog",
+      "name": "Hot Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 16.0,
+      "carbs_g": 25.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 800.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shack-cago-dog",
+      "name": "Shack-Cago Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 390.0,
+      "protein_g": 17.0,
+      "carbs_g": 32.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1490.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "garden-dog",
+      "name": "Garden Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 180.0,
+      "protein_g": 8.0,
+      "carbs_g": 27.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "cheese-dog",
+      "name": "Cheese Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 19.0,
+      "carbs_g": 25.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-cheese-dog",
+      "name": "Bacon Cheese Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 25.0,
+      "carbs_g": 26.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "crispy-onion-cheese-dog",
+      "name": "Crispy Onion Cheese Dog",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 20.0,
+      "carbs_g": 32.0,
+      "fat_g": 39.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "regular-fries",
+      "name": "Regular Fries",
+      "description": null,
+      "category": "side",
+      "calories": 470.0,
+      "protein_g": 6.0,
+      "carbs_g": 63.0,
+      "fat_g": 22.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 740.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "cheese-fries",
+      "name": "Cheese Fries",
+      "description": null,
+      "category": "side",
+      "calories": 710.0,
+      "protein_g": 12.0,
+      "carbs_g": 64.0,
+      "fat_g": 44.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bacon-cheese-fries",
+      "name": "Bacon Cheese Fries",
+      "description": null,
+      "category": "side",
+      "calories": 850.0,
+      "protein_g": 21.0,
+      "carbs_g": 65.0,
+      "fat_g": 55.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-down-fries",
+      "name": "Double Down Fries",
+      "description": null,
+      "category": "side",
+      "calories": 1920.0,
+      "protein_g": 39.0,
+      "carbs_g": 164.0,
+      "fat_g": 120.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 3700.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "beer-battered-onion-rings",
+      "name": "Beer Battered Onion Rings",
+      "description": null,
+      "category": "side",
+      "calories": 570.0,
+      "protein_g": 6.0,
+      "carbs_g": 64.0,
+      "fat_g": 33.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "beer-battered-onion-rings-catering-box-6-servings",
+      "name": "Beer Battered Onion Rings (Catering Box, 6 servings)",
+      "description": null,
+      "category": "side",
+      "calories": 640.0,
+      "protein_g": 7.0,
+      "carbs_g": 71.0,
+      "fat_g": 36.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 740.0,
+      "serving_note": "per serving from catering box (6 servings; PDF labels values per serving)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "mac-cheese-with-panko-breadcrumbs",
+      "name": "Mac & Cheese with Panko Breadcrumbs",
+      "description": null,
+      "category": "side",
+      "calories": 550.0,
+      "protein_g": 18.0,
+      "carbs_g": 28.0,
+      "fat_g": 41.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-panko-breadcrumbs",
+      "name": "Add Panko Breadcrumbs",
+      "description": null,
+      "category": "condiment",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shack-sauce",
+      "name": "Shack Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "secret-sauce",
+      "name": "Secret Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "herb-mayonnaise",
+      "name": "Herb Mayonnaise",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "ranch",
+      "name": "Ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bbq-sauce",
+      "name": "BBQ Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 1.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "honey-mustard",
+      "name": "Honey Mustard",
+      "description": null,
+      "category": "condiment",
+      "calories": 180.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "breakfast-sauce",
+      "name": "Breakfast Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-cheese-sauce",
+      "name": "Add Cheese Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 80.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "vanilla-shake",
+      "name": "Vanilla Shake",
+      "description": null,
+      "category": "side",
+      "calories": 680.0,
+      "protein_g": 18.0,
+      "carbs_g": 72.0,
+      "fat_g": 36.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chocolate-shake",
+      "name": "Chocolate Shake",
+      "description": null,
+      "category": "side",
+      "calories": 750.0,
+      "protein_g": 16.0,
+      "carbs_g": 76.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "vanilla-chocolate-shake",
+      "name": "Vanilla & Chocolate Shake",
+      "description": null,
+      "category": "side",
+      "calories": 720.0,
+      "protein_g": 18.0,
+      "carbs_g": 74.0,
+      "fat_g": 41.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "black-white-shake",
+      "name": "Black & White Shake",
+      "description": null,
+      "category": "side",
+      "calories": 770.0,
+      "protein_g": 19.0,
+      "carbs_g": 80.0,
+      "fat_g": 42.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "strawberry-shake",
+      "name": "Strawberry Shake",
+      "description": null,
+      "category": "side",
+      "calories": 690.0,
+      "protein_g": 17.0,
+      "carbs_g": 77.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "cookies-cream-shake",
+      "name": "Cookies & Cream Shake",
+      "description": null,
+      "category": "side",
+      "calories": 850.0,
+      "protein_g": 19.0,
+      "carbs_g": 98.0,
+      "fat_g": 44.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "orange-county-dreamsicle-shake",
+      "name": "Orange County Dreamsicle Shake",
+      "description": null,
+      "category": "side",
+      "calories": 740.0,
+      "protein_g": 16.0,
+      "carbs_g": 86.0,
+      "fat_g": 38.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "coffee-shake",
+      "name": "Coffee Shake",
+      "description": null,
+      "category": "side",
+      "calories": 700.0,
+      "protein_g": 19.0,
+      "carbs_g": 76.0,
+      "fat_g": 36.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "whipped-cream",
+      "name": "Whipped Cream",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 1.0,
+      "carbs_g": 5.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "malt",
+      "name": "Malt",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 2.0,
+      "carbs_g": 19.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per half concrete serving (PDF mix-in footnote)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "oreo-cookie-crumbs",
+      "name": "Oreo Cookie Crumbs",
+      "description": null,
+      "category": "condiment",
+      "calories": 210.0,
+      "protein_g": 2.0,
+      "carbs_g": 33.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per half concrete serving (PDF mix-in footnote)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "root-beer-float",
+      "name": "Root Beer Float",
+      "description": null,
+      "category": "side",
+      "calories": 470.0,
+      "protein_g": 7.0,
+      "carbs_g": 75.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per float",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "creamsicle-float",
+      "name": "Creamsicle Float",
+      "description": null,
+      "category": "side",
+      "calories": 440.0,
+      "protein_g": 7.0,
+      "carbs_g": 75.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per float",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-chocolate-cup",
+      "name": "Single Chocolate Cup",
+      "description": null,
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 6.0,
+      "carbs_g": 32.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per listed custard serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-chocolate-cup",
+      "name": "Double Chocolate Cup",
+      "description": null,
+      "category": "side",
+      "calories": 490.0,
+      "protein_g": 9.0,
+      "carbs_g": 51.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per listed custard serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-vanilla-cup",
+      "name": "Single Vanilla Cup",
+      "description": null,
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 7.0,
+      "carbs_g": 30.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed custard serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-vanilla-cup",
+      "name": "Double Vanilla Cup",
+      "description": null,
+      "category": "side",
+      "calories": 450.0,
+      "protein_g": 11.0,
+      "carbs_g": 49.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per listed custard serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "single-vanilla-chocolate-cup",
+      "name": "Single Vanilla & Chocolate Cup",
+      "description": null,
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 6.0,
+      "carbs_g": 31.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per listed custard serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "double-vanilla-chocolate-cup",
+      "name": "Double Vanilla & Chocolate Cup",
+      "description": null,
+      "category": "side",
+      "calories": 470.0,
+      "protein_g": 10.0,
+      "carbs_g": 50.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per listed custard serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "whipped-cream-2",
+      "name": "Whipped Cream",
+      "description": null,
+      "category": "condiment",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "lemonade-small",
+      "name": "Lemonade Small",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "lemonade-large",
+      "name": "Lemonade Large",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 70.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "lemonade-gallon",
+      "name": "Lemonade (Gallon)",
+      "description": null,
+      "category": "drink",
+      "calories": 1480.0,
+      "protein_g": 0.0,
+      "carbs_g": 369.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fifty-fifty-small",
+      "name": "Fifty-Fifty Small",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fifty-fifty-large",
+      "name": "Fifty-Fifty Large",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "strawberry-lemonade-small",
+      "name": "Strawberry Lemonade Small",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "strawberry-lemonade-large",
+      "name": "Strawberry Lemonade Large",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-small",
+      "name": "Unsweetened Iced Tea Small",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "unsweetened-iced-tea-large",
+      "name": "Unsweetened Iced Tea Large",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "unsweetened-iced-gallon",
+      "name": "Unsweetened Iced (Gallon)",
+      "description": null,
+      "category": "drink",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sweetened-iced-tea-small",
+      "name": "Sweetened Iced Tea Small",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sweetened-iced-tea-large",
+      "name": "Sweetened Iced Tea Large",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sweetened-iced-gallon",
+      "name": "Sweetened Iced (Gallon)",
+      "description": null,
+      "category": "drink",
+      "calories": 1190.0,
+      "protein_g": 0.0,
+      "carbs_g": 309.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "coke-small",
+      "name": "Coke Small",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "coke-large",
+      "name": "Coke Large",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-coke-small",
+      "name": "Diet Coke Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-coke-large",
+      "name": "Diet Coke Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "coke-zero-small",
+      "name": "Coke Zero Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "coke-zero-large",
+      "name": "Coke Zero Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sprite-small",
+      "name": "Sprite Small",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "sprite-large",
+      "name": "Sprite Large",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 60.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fanta-orange-small",
+      "name": "Fanta Orange Small",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fanta-orange-large",
+      "name": "Fanta Orange Large",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 67.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "gingerale-small",
+      "name": "Gingerale Small",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "gingerale-large",
+      "name": "Gingerale Large",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 51.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "dr-pepper-small",
+      "name": "Dr. Pepper Small",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "dr-pepper-large",
+      "name": "Dr. Pepper Large",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 59.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-dr-pepper-small",
+      "name": "Diet Dr. Pepper Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-dr-pepper-large",
+      "name": "Diet Dr. Pepper Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "crush-small",
+      "name": "Crush Small",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "crush-large",
+      "name": "Crush Large",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-pepsi-small",
+      "name": "Diet Pepsi Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-pepsi-large",
+      "name": "Diet Pepsi Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "starry-small",
+      "name": "Starry Small",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "starry-large",
+      "name": "Starry Large",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "mountain-dew-small",
+      "name": "Mountain Dew Small",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "mountain-dew-large",
+      "name": "Mountain Dew Large",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 69.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-mountain-dew-small",
+      "name": "Diet Mountain Dew Small",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "diet-mountain-dew-large",
+      "name": "Diet Mountain Dew Large",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pepsi-small",
+      "name": "Pepsi Small",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pepsi-large",
+      "name": "Pepsi Large",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 62.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pepsi-zero-sugar-small",
+      "name": "Pepsi Zero Sugar Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pepsi-zero-sugar-large",
+      "name": "Pepsi Zero Sugar Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "root-beer-small",
+      "name": "Root Beer Small",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "root-beer-large",
+      "name": "Root Beer Large",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "root-beer-20oz-bottle",
+      "name": "Root Beer (20oz Bottle)",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 74.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "orange-juice-8-fl-oz",
+      "name": "Orange Juice (8 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 8 fl.oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackblend-drip-coffee-12oz-or-16oz",
+      "name": "ShackBlend Drip Coffee (12oz or 16oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "joe-s-coffee-cold-brew-16oz-24oz-draft",
+      "name": "Joe’s Coffee Cold Brew (16oz & 24oz)- Draft",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "joe-s-coffee-nitro-cold-brew-10oz-16oz-draft",
+      "name": "Joe’s Coffee Nitro Cold Brew (10oz & 16oz)- Draft",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "joe-coffee-cold-brew-7-5oz-can",
+      "name": "Joe Coffee Cold Brew (7.5oz can)",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "honest-kids-apple-juice",
+      "name": "Honest Kids Apple Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shack2o-sparkling",
+      "name": "SHACK2O Sparkling",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 23.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shack2o",
+      "name": "SHACK2O",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "caeser-salad",
+      "name": "Caeser Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 17.0,
+      "carbs_g": 30.0,
+      "fat_g": 53.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1380.0,
+      "serving_note": "per salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "caesar-salad-with-grilled-chicken",
+      "name": "Caesar Salad with Grilled Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 38.0,
+      "carbs_g": 32.0,
+      "fat_g": 55.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1810.0,
+      "serving_note": "per salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "caesar-salad-with-chicken-bites-6pc",
+      "name": "Caesar Salad with Chicken Bites (6pc)",
+      "description": null,
+      "category": "meal",
+      "calories": 1010.0,
+      "protein_g": 35.0,
+      "carbs_g": 59.0,
+      "fat_g": 71.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2360.0,
+      "serving_note": "per salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "balsamic-vinegar-salad",
+      "name": "Balsamic Vinegar Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 11.0,
+      "carbs_g": 36.0,
+      "fat_g": 52.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1750.0,
+      "serving_note": "per salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "balsamic-vinegar-salad-with-grilled-chicken",
+      "name": "Balsamic Vinegar Salad with Grilled Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 32.0,
+      "carbs_g": 37.0,
+      "fat_g": 54.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2180.0,
+      "serving_note": "per salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "balsamic-vinegar-with-chicken-bites-6pc",
+      "name": "Balsamic Vinegar with Chicken Bites (6pc)",
+      "description": null,
+      "category": "meal",
+      "calories": 930.0,
+      "protein_g": 29.0,
+      "carbs_g": 61.0,
+      "fat_g": 62.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2420.0,
+      "serving_note": "per salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-parmesan-cheese",
+      "name": "Add Parmesan Cheese",
+      "description": null,
+      "category": "condiment",
+      "calories": 130.0,
+      "protein_g": 10.0,
+      "carbs_g": 1.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-sweety-drop-peppers",
+      "name": "Add Sweety Drop Peppers",
+      "description": null,
+      "category": "condiment",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-monterey-jack-croutons",
+      "name": "Add Monterey Jack Croutons",
+      "description": null,
+      "category": "condiment",
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-ceaser-dressing",
+      "name": "Add Ceaser Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 310.0,
+      "protein_g": 3.0,
+      "carbs_g": 6.0,
+      "fat_g": 31.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-balsamic-dressing",
+      "name": "Add Balsamic Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-grilled-chicken",
+      "name": "Add Grilled Chicken",
+      "description": null,
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 22.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fish-sandwich",
+      "name": "Fish Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 21.0,
+      "carbs_g": 41.0,
+      "fat_g": 33.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1090.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-tartar-sauce",
+      "name": "Add Tartar Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "west-coast-burger-single",
+      "name": "West Coast Burger, Single",
+      "description": null,
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 30.0,
+      "carbs_g": 31.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1990.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "west-coast-burger-double",
+      "name": "West Coast Burger, Double",
+      "description": null,
+      "category": "meal",
+      "calories": 880.0,
+      "protein_g": 52.0,
+      "carbs_g": 32.0,
+      "fat_g": 59.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 3010.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "west-coast-burger-triple",
+      "name": "West Coast Burger, Triple",
+      "description": null,
+      "category": "meal",
+      "calories": 1140.0,
+      "protein_g": 74.0,
+      "carbs_g": 32.0,
+      "fat_g": 77.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 4040.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "west-coast-chicken-sandwich",
+      "name": "West Coast Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 570.0,
+      "protein_g": 34.0,
+      "carbs_g": 36.0,
+      "fat_g": 32.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 960.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "loaded-california-style-fries",
+      "name": "Loaded California Style Fries",
+      "description": null,
+      "category": "side",
+      "calories": 880.0,
+      "protein_g": 13.0,
+      "carbs_g": 70.0,
+      "fat_g": 59.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1610.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "spicy-fries-with-ranch",
+      "name": "Spicy Fries with Ranch",
+      "description": null,
+      "category": "side",
+      "calories": 610.0,
+      "protein_g": 6.0,
+      "carbs_g": 64.0,
+      "fat_g": 37.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "spicy-cheese-fries-with-ranch",
+      "name": "Spicy Cheese Fries with Ranch",
+      "description": null,
+      "category": "side",
+      "calories": 850.0,
+      "protein_g": 12.0,
+      "carbs_g": 66.0,
+      "fat_g": 58.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per side serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-honey-mustard-pickles",
+      "name": "Add Honey Mustard Pickles",
+      "description": null,
+      "category": "condiment",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-grilled-caramelized-onions",
+      "name": "Add Grilled/Caramelized Onions",
+      "description": null,
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-west-coast-secret-sauce",
+      "name": "Add West Coast Secret Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-sour-cream-onion-sauce",
+      "name": "Add Sour Cream Onion Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-spicy-seasoning",
+      "name": "Add Spicy Seasoning",
+      "description": null,
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "tropical-mango-shake-with-passionfruit-boba",
+      "name": "Tropical Mango Shake with Passionfruit Boba",
+      "description": null,
+      "category": "side",
+      "calories": 800.0,
+      "protein_g": 20.0,
+      "carbs_g": 86.0,
+      "fat_g": 43.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "toasted-marshmallow-s-mores-shake",
+      "name": "Toasted Marshmallow S'mores Shake",
+      "description": null,
+      "category": "side",
+      "calories": 1110.0,
+      "protein_g": 22.0,
+      "carbs_g": 133.0,
+      "fat_g": 57.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "biscoff-cookie-butter-tiramisu-shake",
+      "name": "Biscoff Cookie Butter Tiramisu Shake",
+      "description": null,
+      "category": "side",
+      "calories": 1140.0,
+      "protein_g": 23.0,
+      "carbs_g": 123.0,
+      "fat_g": 62.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "reese-s-peanut-butter-shake",
+      "name": "Reese's Peanut Butter Shake",
+      "description": null,
+      "category": "side",
+      "calories": 1900.0,
+      "protein_g": 44.0,
+      "carbs_g": 181.0,
+      "fat_g": 118.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 990.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "featured-lemonade-small",
+      "name": "Featured Lemonade Small",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per Small serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "featured-lemonade-large",
+      "name": "Featured Lemonade Large",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 24.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per Large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "add-passionfruit-boba",
+      "name": "Add Passionfruit Boba",
+      "description": null,
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per sauce, topping, or add-on serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackburger-single-lettuce-wrap",
+      "name": "ShackBurger, Single Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 330.0,
+      "protein_g": 23.0,
+      "carbs_g": 3.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackburger-double-lettuce-wrap",
+      "name": "ShackBurger, Double Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 45.0,
+      "carbs_g": 3.0,
+      "fat_g": 43.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackburger-triple-lettuce-wrap",
+      "name": "ShackBurger, Triple Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 67.0,
+      "carbs_g": 4.0,
+      "fat_g": 61.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1290.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackburger-gluten-free-bun-single",
+      "name": "ShackBurger Gluten Free Bun, Single",
+      "description": null,
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 25.0,
+      "carbs_g": 33.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackburger-gluten-free-bun-double",
+      "name": "ShackBurger Gluten Free Bun, Double",
+      "description": null,
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 47.0,
+      "carbs_g": 34.0,
+      "fat_g": 46.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1220.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "shackburger-gluten-free-bun-triple",
+      "name": "ShackBurger Gluten Free Bun, Triple",
+      "description": null,
+      "category": "meal",
+      "calories": 1000.0,
+      "protein_g": 69.0,
+      "carbs_g": 34.0,
+      "fat_g": 64.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1630.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "smokeshack-single-lettuce-wrap",
+      "name": "SmokeShack, Single Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 29.0,
+      "carbs_g": 5.0,
+      "fat_g": 32.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1110.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "smokeshack-double-lettuce-wrap",
+      "name": "SmokeShack, Double Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 52.0,
+      "carbs_g": 5.0,
+      "fat_g": 50.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1510.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "smokeshack-triple-lettuce-wrap",
+      "name": "SmokeShack, Triple Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 74.0,
+      "carbs_g": 6.0,
+      "fat_g": 68.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1920.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-burger-lettuce-wrap-single",
+      "name": "Avocado Bacon Burger Lettuce Wrap, Single",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 29.0,
+      "carbs_g": 3.0,
+      "fat_g": 33.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-burger-lettuce-wrap-double",
+      "name": "Avocado Bacon Burger Lettuce Wrap, Double",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 51.0,
+      "carbs_g": 4.0,
+      "fat_g": 51.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1040.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "avocado-bacon-burger-lettuce-wrap-triple",
+      "name": "Avocado Bacon Burger Lettuce Wrap, Triple",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 73.0,
+      "carbs_g": 4.0,
+      "fat_g": 69.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1450.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "chicken-shack-lettuce-wrap",
+      "name": "Chicken Shack Lettuce Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 420.0,
+      "protein_g": 27.0,
+      "carbs_g": 11.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1080.0,
+      "serving_note": "per sandwich",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "bourbon-peaches-cream-shake",
+      "name": "Bourbon Peaches & Cream Shake",
+      "description": null,
+      "category": "side",
+      "calories": 880.0,
+      "protein_g": 16.0,
+      "carbs_g": 104.0,
+      "fat_g": 34.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "boozy-espresso-shake",
+      "name": "Boozy Espresso Shake",
+      "description": null,
+      "category": "side",
+      "calories": 780.0,
+      "protein_g": 15.0,
+      "carbs_g": 72.0,
+      "fat_g": 40.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "manhattan-shake",
+      "name": "Manhattan Shake",
+      "description": null,
+      "category": "side",
+      "calories": 980.0,
+      "protein_g": 16.0,
+      "carbs_g": 120.0,
+      "fat_g": 36.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per regular shake",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fever-tree-ginger-beer-mixer",
+      "name": "Fever-Tree Ginger Beer Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "fever-tree-tonic-water-mixer",
+      "name": "Fever-Tree Tonic Water Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "club-soda-mixer",
+      "name": "Club Soda Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "red-bull-mixer",
+      "name": "Red Bull Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "orange-juice-mixer",
+      "name": "Orange Juice Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "cranberry-juice-mixer",
+      "name": "Cranberry Juice Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    },
+    {
+      "id": "pineapple-juice-mixer",
+      "name": "Pineapple Juice Mixer",
+      "description": null,
+      "category": "drink",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://prod.shakeshack.com/nutritionandallergeninfo"
+      }
+    }
+  ]
+}

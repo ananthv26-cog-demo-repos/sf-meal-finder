@@ -1,0 +1,255 @@
+{
+  "id": "cheese-steak-shop",
+  "name": "The Cheese Steak Shop",
+  "website": "https://www.cheesesteakshop.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "1716 Divisadero St., San Francisco, CA 94115",
+      "lat": 37.7855821,
+      "lng": -122.4396991,
+      "neighborhood": "Pacific Heights"
+    }
+  ],
+  "items": [
+    {
+      "id": "classic-philly",
+      "name": "Classic Philly Cheese Steak",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "king-of-philly",
+      "name": "The King of Philly",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "motown-philly",
+      "name": "Motown Philly",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "smoky-bbq",
+      "name": "Smoky BBQ",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "philly-joes",
+      "name": "Philly Joe's",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "pizza-steak",
+      "name": "Pizza Steak",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "western",
+      "name": "Western",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "sizzlin-pig",
+      "name": "Sizzlin' Pig",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "pepper-steak",
+      "name": "Pepper Steak",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "mushroom-steak",
+      "name": "Mushroom Steak",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese sandwich crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 444.0,
+      "protein_g": 33.68,
+      "carbs_g": 29.9,
+      "fat_g": 20.09,
+      "fiber_g": 1.2,
+      "sodium_mg": 884.0,
+      "serving_note": "per 1 sandwich",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2775"
+      }
+    },
+    {
+      "id": "chicken-cheese-steak",
+      "name": "Chicken Cheese Steak",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic cheese submarine crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 518.0,
+      "protein_g": 36.76,
+      "carbs_g": 41.61,
+      "fat_g": 21.65,
+      "fiber_g": 1.8,
+      "sodium_mg": 1015.0,
+      "serving_note": "per 1 submarine",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2776"
+      }
+    },
+    {
+      "id": "steak-hoagie",
+      "name": "Steak Hoagie",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese submarine crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 518.0,
+      "protein_g": 36.76,
+      "carbs_g": 41.61,
+      "fat_g": 21.65,
+      "fiber_g": 1.8,
+      "sodium_mg": 1015.0,
+      "serving_note": "per 1 submarine",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2776"
+      }
+    },
+    {
+      "id": "philly-salad",
+      "name": "Philly Salad",
+      "description": "Official menu item; no Cheese Steak Shop-branded FatSecret row was available, so this uses the closest generic steak-and-cheese submarine salad crowd row. Menu/calorie reference: https://www.cheesesteakshop.com/wp-content/uploads/2025/06/21490_CSS_TOMenu_HR-1.pdf",
+      "category": "meal",
+      "is_estimate": true,
+      "calories": 596.0,
+      "protein_g": 42.19,
+      "carbs_g": 48.79,
+      "fat_g": 24.7,
+      "fiber_g": 2.4,
+      "sodium_mg": 1158.0,
+      "serving_note": "per 1 submarine",
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/2774"
+      }
+    }
+  ]
+}

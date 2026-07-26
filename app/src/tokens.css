@@ -1,0 +1,30 @@
+:root {
+  --font-sans: Inter, system-ui, sans-serif;
+  --fs-xs: 11px;
+  --fs-sm: 12.5px;
+  --fs-md: 14px;
+  --fs-lg: 16px;
+  --fs-xl: 20px;
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --r-1: 4px;
+  --r-2: 8px;
+  --bg: #fafafa;
+  --surface: #fff;
+  --border: #e4e4e7;
+  --text: #18181b;
+  --text-secondary: #71717a;
+  --accent: #2563eb;
+  --protein: #047857;
+  --estimate: #b45309;
+  --danger: #b91c1c;
+  --selection: #eff6ff;
+  --estimate-bg: #fffbeb;
+  --chip-bg: #f4f4f5;
+}

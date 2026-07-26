@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "applebees",
+    "name": "Applebee's Grill + Bar",
+    "website": "https://www.applebees.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/applebees/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-24"
+    },
+    "locations": [
+      {
+        "address": "2770 Taylor St, San Francisco, CA 94133",
+        "lat": 37.808211,
+        "lng": -122.415805,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "benihana",
+    "name": "Benihana",
+    "website": "https://www.benihana.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.benihana.com/wp-content/uploads/2025/02/c114d5a3-benihana-food-nutritional-info-1.2025_d.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1737 Post Street, San Francisco, CA 94115",
+        "lat": 37.78530187479773,
+        "lng": -122.43069345767053,
+        "neighborhood": "Japantown"
+      }
+    ]
+  },
+  {
+    "id": "bens-fast-food",
+    "name": "Ben's Fast Food",
+    "website": "https://bensfastfood.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://images.squarespace-cdn.com/content/v1/5e9905cd21f79a290c3699ed/1fa7578c-e40b-4a9a-853a-3ce8d58bdd7e/bens-fast-food-nutrition-facts.jpg?format=2500w",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "60 Morris Street, San Francisco, CA, 94107",
+        "lat": 37.7766868,
+        "lng": -122.4024109,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "blaze-pizza",
+    "name": "Blaze Pizza",
+    "website": "https://www.blazepizza.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/blaze-pizza/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "157 Stonestown Galleria, San Francisco, CA 94132",
+        "lat": 37.72803,
+        "lng": -122.47709,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "blue-bottle-coffee",
+    "name": "Blue Bottle Coffee",
+    "website": "https://bluebottlecoffee.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Blue+Bottle&max_results=50&page_number=0",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "315 Linden St, San Francisco, CA 94102",
+        "lat": 37.7763144,
+        "lng": -122.4232552,
+        "neighborhood": null
+      },
+      {
+        "address": "115 Sansome St, San Francisco, CA 94104",
+        "lat": 37.7914533,
+        "lng": -122.4010654,
+        "neighborhood": null
+      },
+      {
+        "address": "2 South Park, San Francisco, CA 94107",
+        "lat": 37.7824374,
+        "lng": -122.3932644,
+        "neighborhood": null
+      },
+      {
+        "address": "168 2nd St, San Francisco, CA 94105",
+        "lat": 37.7869867,
+        "lng": -122.3989296,
+        "neighborhood": null
+      },
+      {
+        "address": "2453 Fillmore St, San Francisco, CA 94115",
+        "lat": 37.7920384,
+        "lng": -122.4347649,
+        "neighborhood": null
+      },
+      {
+        "address": "1 Ferry Building #7, San Francisco, CA 94111",
+        "lat": 37.7960029,
+        "lng": -122.3938436,
+        "neighborhood": null
+      },
+      {
+        "address": "909 Montgomery St #105, San Francisco, CA 94133",
+        "lat": 37.7973778,
+        "lng": -122.4038543,
+        "neighborhood": null
+      },
+      {
+        "address": "55 S Van Ness Ave, San Francisco, CA 94103",
+        "lat": 37.7739546,
+        "lng": -122.4186072,
+        "neighborhood": null
+      },
+      {
+        "address": "705 Market St, San Francisco, CA 94103",
+        "lat": 37.7871903,
+        "lng": -122.403701,
+        "neighborhood": null
+      },
+      {
+        "address": "1385 4th St, San Francisco, CA 94158",
+        "lat": 37.7711067,
+        "lng": -122.391072,
+        "neighborhood": null
+      },
+      {
+        "address": "300 Toni Stone Xing #E, San Francisco, CA 94158",
+        "lat": 37.7754338,
+        "lng": -122.3887262,
+        "neighborhood": null
+      },
+      {
+        "address": "250 Howard St Suite 3A, San Francisco, CA 94105",
+        "lat": 37.7906275,
+        "lng": -122.394398,
+        "neighborhood": null
+      },
+      {
+        "address": "199 Sutter St, San Francisco, CA 94104",
+        "lat": 37.789741,
+        "lng": -122.4037025,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "bonchon",
+    "name": "Bonchon",
+    "website": "https://www.bonchon.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "135 4th St, San Francisco, CA 94103",
+        "lat": 37.7842713,
+        "lng": -122.4033021,
+        "neighborhood": "South of Market"
+      }
+    ]
+  },
+  {
+    "id": "boudin-bakery-cafe",
+    "name": "Boudin Bakery Cafe",
+    "website": "https://boudinbakery.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "399 10th Avenue San Francisco, CA 94118",
+        "lat": 37.7811289,
+        "lng": -122.46882370000003,
+        "neighborhood": null
+      },
+      {
+        "address": "Pier 39 San Francisco, CA 94133",
+        "lat": 37.80867300000001,
+        "lng": -122.409821,
+        "neighborhood": null
+      },
+      {
+        "address": "160 Jefferson Street, Upper Level San Francisco, CA 94133",
+        "lat": 37.8085342,
+        "lng": -122.4147112,
+        "neighborhood": null
+      },
+      {
+        "address": "160 Jefferson Street, Lower Level San Francisco, CA 94133",
+        "lat": 37.8084728,
+        "lng": -122.41511489999999,
+        "neighborhood": null
+      },
+      {
+        "address": "170 O'Farrell Street San Francisco, CA 94102",
+        "lat": 37.7866459786,
+        "lng": -122.40727828299998,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Avenue San Francisco, CA 94132",
+        "lat": 37.7286594673,
+        "lng": -122.47671711999999,
+        "neighborhood": null
+      },
+      {
+        "address": "4 Embarcadero Center Justin Herman Plaza San Francisco, CA 94111",
+        "lat": 37.7949753738,
+        "lng": -122.39565667599999,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "burger-king",
+    "name": "Burger King",
+    "website": "https://www.bk.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://kjfd81ul.apicdn.sanity.io/v2021-09-01/data/query/prod_bk_us",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "35 Powell St, San Francisco, CA 94102",
+        "lat": 37.785059,
+        "lng": -122.407944,
+        "neighborhood": null
+      },
+      {
+        "address": "819 Van Ness Ave, San Francisco, CA 94109",
+        "lat": 37.783037,
+        "lng": -122.421149,
+        "neighborhood": null
+      },
+      {
+        "address": "1690 Valencia St, San Francisco, CA 94110",
+        "lat": 37.745639,
+        "lng": -122.420267,
+        "neighborhood": null
+      },
+      {
+        "address": "245 Bayshore Blvd., San Francisco, CA 94124",
+        "lat": 37.744153,
+        "lng": -122.404065,
+        "neighborhood": null
+      },
+      {
+        "address": "3900 Geary Blvd, San Francisco, CA 94118",
+        "lat": 37.781479,
+        "lng": -122.461397,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "california-pizza-kitchen",
+    "name": "California Pizza Kitchen",
+    "website": "https://www.cpk.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://cpk.mymenuhd.com/MyMenu/LoadMenu",
+      "vendor": "Healthy Dining",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "53 Third Street, San Francisco, CA 94103",
+        "lat": 37.7869621,
+        "lng": -122.4025283,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "carls-jr",
+    "name": "Carl's Jr.",
+    "website": "https://www.carlsjr.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://carlsjr.com.my/wp-content/uploads/2023/07/USNutritionValuesCarlsjr.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1 Hallidie Plaza, San Francisco, CA 94102",
+        "lat": 37.78412,
+        "lng": -122.40886,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "cheese-steak-shop",
+    "name": "The Cheese Steak Shop",
+    "website": "https://www.cheesesteakshop.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1716 Divisadero St., San Francisco, CA 94115",
+        "lat": 37.7855821,
+        "lng": -122.4396991,
+        "neighborhood": "Pacific Heights"
+      }
+    ]
+  },
+  {
+    "id": "chipotle",
+    "name": "Chipotle Mexican Grill",
+    "website": "https://www.chipotle.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "121 4th St # 135, San Francisco, CA 94103-3003",
+        "lat": 37.784232,
+        "lng": -122.403689,
+        "neighborhood": null
+      },
+      {
+        "address": "211 Sutter St, San Francisco, CA 94104",
+        "lat": 37.78968,
+        "lng": -122.404021,
+        "neighborhood": null
+      },
+      {
+        "address": "2675 Geary Boulevard, San Francisco, CA 94118",
+        "lat": 37.78183,
+        "lng": -122.445633,
+        "neighborhood": null
+      },
+      {
+        "address": "525 Market Street, San Francisco, CA 94105",
+        "lat": 37.7904,
+        "lng": -122.399472,
+        "neighborhood": null
+      },
+      {
+        "address": "400 Howard St Ste 110, San Francisco, CA 94105-9876",
+        "lat": 37.788882,
+        "lng": -122.396157,
+        "neighborhood": null
+      },
+      {
+        "address": "50 California St, San Francisco, CA 94111",
+        "lat": 37.794388,
+        "lng": -122.397535,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave, San Francisco, CA 94132",
+        "lat": 37.727635,
+        "lng": -122.476593,
+        "neighborhood": null
+      },
+      {
+        "address": "1523 Sloat Blvd, San Francisco, CA 94132-1222",
+        "lat": 37.732506,
+        "lng": -122.489986,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "curry-up-now",
+    "name": "Curry Up Now",
+    "website": "https://www.curryupnow.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Curry+Up+Now&max_results=50&page_number=0",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "659 Valencia St, San Francisco, CA 94110",
+        "lat": 37.7622411,
+        "lng": -122.4213894,
+        "neighborhood": "Mission"
+      }
+    ]
+  },
+  {
+    "id": "dominos",
+    "name": "Domino's Pizza",
+    "website": "https://www.dominos.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://cache.dominos.com/olo/6_168_0/assets/build/market/US/_en/pdf/DominosNutritionGuide.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "3116 Noriega Street, San Francisco, CA 94116",
+        "lat": 37.7534,
+        "lng": -122.497,
+        "neighborhood": null
+      },
+      {
+        "address": "320 Bayshore Blvd., San Francisco, CA 94124",
+        "lat": 37.7429,
+        "lng": -122.406,
+        "neighborhood": null
+      },
+      {
+        "address": "5200 Geary Blvd Ste D, San Francisco, CA 94118",
+        "lat": 37.780585,
+        "lng": -122.47566,
+        "neighborhood": null
+      },
+      {
+        "address": "728 Geary St., San Francisco, CA 94109",
+        "lat": 37.786816,
+        "lng": -122.415379,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "eriks-delicafe",
+    "name": "Erik's DeliCafé",
+    "website": "https://www.eriksdelicafe.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "425 Mission St, San Francisco, CA 94105",
+        "lat": 37.7897,
+        "lng": -122.3969,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "everbowl",
+    "name": "Everbowl",
+    "website": "https://everbowl.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "170 O'Farrell St, San Francisco, CA 94102",
+        "lat": 37.7873246,
+        "lng": -122.4075665,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "five-guys",
+    "name": "Five Guys",
+    "website": "https://www.fiveguys.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "90 Charter Oak Avenue, San Francisco, CA 94124",
+        "lat": 37.736831300629646,
+        "lng": -122.40535357668648,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "ihop",
+    "name": "IHOP",
+    "website": "https://www.ihop.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/ihop/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-02"
+    },
+    "locations": [
+      {
+        "address": "200 Beach St, San Francisco, CA 94133",
+        "lat": 37.8077635,
+        "lng": -122.4127034,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "ikes-love-and-sandwiches",
+    "name": "Ike's Love & Sandwiches",
+    "website": "https://www.ikessandwich.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/ikes-love-sandwiches/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-02"
+    },
+    "locations": [
+      {
+        "address": "901 Polk St, San Francisco, CA 94109",
+        "lat": 37.78515,
+        "lng": -122.41979,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave., Suite 250C, San Francisco, CA 94132",
+        "lat": 37.72766,
+        "lng": -122.47653,
+        "neighborhood": null
+      },
+      {
+        "address": "1090 Dr. Maya Angelou Lane, Unit G, San Francisco, CA 94158",
+        "lat": 37.77527,
+        "lng": -122.38971,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "in-n-out",
+    "name": "In-N-Out Burger",
+    "website": "https://www.in-n-out.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_31",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "333 Jefferson, San Francisco, CA 94133",
+        "lat": 37.80773,
+        "lng": -122.41858,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "insomnia-cookies",
+    "name": "Insomnia Cookies",
+    "website": "https://insomniacookies.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "362 Kearny St, San Francisco, CA 94108",
+        "lat": 37.7916227,
+        "lng": -122.404108,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "jack-in-the-box",
+    "name": "Jack in the Box",
+    "website": "https://www.jackinthebox.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "366 Bayshore Blvd, San Francisco, CA 94124",
+        "lat": 37.74195,
+        "lng": -122.40585,
+        "neighborhood": null
+      },
+      {
+        "address": "400 Geary St, San Francisco, CA 94102",
+        "lat": 37.787232,
+        "lng": -122.409985,
+        "neighborhood": null
+      },
+      {
+        "address": "4649 Geary Blvd, San Francisco, CA 94118",
+        "lat": 37.78071,
+        "lng": -122.469109,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "jamba",
+    "name": "Jamba",
+    "website": "https://www.jamba.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Jamba&max_results=50&page_number=0",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "152 Kearny Street San Francisco CA 94108",
+        "lat": 37.789638409754204,
+        "lng": -122.40365563438391,
+        "neighborhood": null
+      },
+      {
+        "address": "170 O'Farrell St Food Court San Francisco CA 94102",
+        "lat": 37.787006,
+        "lng": -122.4072604,
+        "neighborhood": null
+      },
+      {
+        "address": "2300 16th St. #245 San Francisco CA 94103",
+        "lat": 37.76650010169665,
+        "lng": -122.40897547347302,
+        "neighborhood": null
+      },
+      {
+        "address": "500 Parnassus Ave Millberry Union San Francisco CA 94619",
+        "lat": 37.7634488,
+        "lng": -122.4585716,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "joe-and-the-juice",
+    "name": "Joe & The Juice",
+    "website": "https://joejuice.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "525 Market St, San Francisco, CA 94105",
+        "lat": 37.7897,
+        "lng": -122.4008,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "50 California St, San Francisco, CA 94111",
+        "lat": 37.7935,
+        "lng": -122.397,
+        "neighborhood": "Financial District"
+      }
+    ]
+  },
+  {
+    "id": "jollibee",
+    "name": "Jollibee",
+    "website": "https://www.jollibeefoods.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "934 Market Street, San Francisco, CA 94102",
+        "lat": 37.7838654,
+        "lng": -122.4086985,
+        "neighborhood": "Mid-Market"
+      }
+    ]
+  },
+  {
+    "id": "kfc",
+    "name": "KFC",
+    "website": "https://www.kfc.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/kfc/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1150 Taraval Street, San Francisco, CA 94116",
+        "lat": 37.7431213,
+        "lng": -122.4787674,
+        "neighborhood": null
+      },
+      {
+        "address": "2040 Ocean Avenue, San Francisco, CA 94127",
+        "lat": 37.7265089,
+        "lng": -122.4649774,
+        "neighborhood": null
+      },
+      {
+        "address": "4150 Geary Boulevard, San Francisco, CA 94118",
+        "lat": 37.7812721,
+        "lng": -122.4641203,
+        "neighborhood": null
+      },
+      {
+        "address": "4285 Mission St, San Francisco, CA 94112",
+        "lat": 37.7288885,
+        "lng": -122.4307199,
+        "neighborhood": null
+      },
+      {
+        "address": "691 Eddy Street, San Francisco, CA 94109",
+        "lat": 37.7830061,
+        "lng": -122.4190289,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "kitava",
+    "name": "Kitava",
+    "website": "https://www.kitava.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "2011 Mission St, San Francisco, CA 94110",
+        "lat": 37.7647936,
+        "lng": -122.4195404,
+        "neighborhood": "Mission"
+      }
+    ]
+  },
+  {
+    "id": "koja-kitchen",
+    "name": "KoJa Kitchen",
+    "website": "https://www.kojakitchen.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "601 Mission Bay Boulevard North, San Francisco, CA 94158",
+        "lat": 37.7707779,
+        "lng": -122.3914399,
+        "neighborhood": "Mission Bay"
+      }
+    ]
+  },
+  {
+    "id": "kura-revolving-sushi",
+    "name": "Kura Revolving Sushi Bar",
+    "website": "https://kurasushi.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://kurasushi.com/menu/Kura-Sushi-Nutrition-Information-May-20-2026.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "3251 20th Ave, Space 220, San Francisco, CA 94132",
+        "lat": 37.728694,
+        "lng": -122.47523,
+        "neighborhood": "Stonestown"
+      }
+    ]
+  },
+  {
+    "id": "la-boulangerie",
+    "name": "La Boulangerie de San Francisco",
+    "website": "https://laboulangeriesf.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://foods.fatsecret.com/calories-nutrition/la-boulangerie",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "2325 Pine St, San Francisco, CA 94115",
+        "lat": 37.7876,
+        "lng": -122.4344,
+        "neighborhood": "Lower Pacific Heights"
+      },
+      {
+        "address": "1000 Cole St, San Francisco, CA 94117",
+        "lat": 37.7655,
+        "lng": -122.449,
+        "neighborhood": "Cole Valley"
+      },
+      {
+        "address": "3898 24th St, San Francisco, CA 94114",
+        "lat": 37.7512,
+        "lng": -122.4301,
+        "neighborhood": "Noe Valley"
+      },
+      {
+        "address": "500 Hayes St, San Francisco, CA 94102",
+        "lat": 37.777,
+        "lng": -122.4246,
+        "neighborhood": "Hayes Valley"
+      }
+    ]
+  },
+  {
+    "id": "little-caesars",
+    "name": "Little Caesars",
+    "website": "https://littlecaesars.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.datocms-assets.com/95658/1779298904-cr0027232_lj_nutri-info-allergen-ingredient_flyer_mgjur_minew-page-001.jpg",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "955 Geneva Avenue, San Francisco, CA 94112",
+        "lat": 37.7160701,
+        "lng": -122.4399662,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "ll-hawaiian-barbecue",
+    "name": "L&L Hawaiian Barbecue",
+    "website": "https://www.hawaiianbarbecue.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "312 Kearny St., San Francisco, CA 94108",
+        "lat": 37.791016,
+        "lng": -122.404106,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "marugame-udon",
+    "name": "Marugame Udon",
+    "website": "https://www.marugameudon.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://www.marugameudon.com/locations/stonestown/",
+      "vendor": "mynetdiary",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "3251 20th Ave, San Francisco, CA 94132",
+        "lat": 37.7332,
+        "lng": -122.4767,
+        "neighborhood": "Stonestown"
+      }
+    ]
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonald's",
+    "website": "https://www.mcdonalds.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=<itemId>",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1100 Fillmore St, San Francisco, CA 94102",
+        "lat": 37.779861,
+        "lng": -122.431717,
+        "neighborhood": null
+      },
+      {
+        "address": "1201 Ocean Ave, San Francisco, CA 94112-1830",
+        "lat": 37.723492,
+        "lng": -122.45546,
+        "neighborhood": null
+      },
+      {
+        "address": "2801 Mission St, San Francisco, CA 94110-3907",
+        "lat": 37.752127,
+        "lng": -122.418215,
+        "neighborhood": null
+      },
+      {
+        "address": "302 Potrero Ave, San Francisco, CA 94110",
+        "lat": 37.765404,
+        "lng": -122.407924,
+        "neighborhood": null
+      },
+      {
+        "address": "345 Bayshore Blvd, San Francisco, CA 94124-1506",
+        "lat": 37.742161,
+        "lng": -122.405205,
+        "neighborhood": null
+      },
+      {
+        "address": "441 Sutter St, San Francisco, CA 94108",
+        "lat": 37.789217,
+        "lng": -122.407641,
+        "neighborhood": null
+      },
+      {
+        "address": "5411 3rd Street, San Francisco, CA 94124",
+        "lat": 37.728005,
+        "lng": -122.392781,
+        "neighborhood": null
+      },
+      {
+        "address": "5454 Mission St, San Francisco, CA 94110",
+        "lat": 37.713135,
+        "lng": -122.444542,
+        "neighborhood": null
+      },
+      {
+        "address": "609 Market St, San Francisco, CA 94105-3301",
+        "lat": 37.788946,
+        "lng": -122.401488,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "mendocino-farms",
+    "name": "Mendocino Farms",
+    "website": "https://www.mendocinofarms.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://contact.mendocinofarms.com/wp-content/uploads/2026/02/Feb2026_NutritionalAllergen.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "465 California St, San Francisco, CA 94104",
+        "lat": 37.7927687,
+        "lng": -122.402453,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "303 2nd Street, San Francisco, CA 94107",
+        "lat": 37.7848586,
+        "lng": -122.3957025,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "mixt",
+    "name": "Mixt",
+    "website": "https://www.mixt.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.mixt.com/nutrition-calculator/",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "100 California St, San Francisco, CA 94111",
+        "lat": 37.79373258803661,
+        "lng": -122.39786611301096,
+        "neighborhood": "100 california"
+      },
+      {
+        "address": "120 Sansome St Suite 114, San Francisco, CA 94104",
+        "lat": 37.791613150848654,
+        "lng": -122.40062348183415,
+        "neighborhood": "120 sansome"
+      },
+      {
+        "address": "240 Kearny St, San Francisco, CA 94108",
+        "lat": 37.79037403796381,
+        "lng": -122.40377617749029,
+        "neighborhood": "240 kearny st"
+      },
+      {
+        "address": "560 Mission St Suite 125, San Francisco, CA 94105",
+        "lat": 37.78883261396612,
+        "lng": -122.39922108558152,
+        "neighborhood": "560 mission"
+      },
+      {
+        "address": "475 Sansome St Suite 100-s, San Francisco, CA 94111",
+        "lat": 37.7947319357954,
+        "lng": -122.40170437399313,
+        "neighborhood": "commercial"
+      },
+      {
+        "address": "3130 Fillmore St, San Francisco, CA 94123",
+        "lat": 37.79875057674511,
+        "lng": -122.43565194531145,
+        "neighborhood": "cow hollow"
+      },
+      {
+        "address": "901 Valencia St, San Francisco, CA 94110",
+        "lat": 37.758377604176566,
+        "lng": -122.42105797308385,
+        "neighborhood": "mission"
+      },
+      {
+        "address": "70 Mission St, San Francisco, CA 94105",
+        "lat": 37.79304124710736,
+        "lng": -122.39400630946676,
+        "neighborhood": "one market plaza"
+      },
+      {
+        "address": "2300 Polk St, San Francisco, CA 94109",
+        "lat": 37.79829899622221,
+        "lng": -122.42203077327476,
+        "neighborhood": "polk st"
+      },
+      {
+        "address": "1210 9th Ave, San Francisco, CA 94122",
+        "lat": 37.76601939239363,
+        "lng": -122.46627171555,
+        "neighborhood": "sunset"
+      },
+      {
+        "address": "51 Yerba Buena Ln, San Francisco, CA 94103",
+        "lat": 37.78560739763764,
+        "lng": -122.40425983191571,
+        "neighborhood": "yerba buena"
+      }
+    ]
+  },
+  {
+    "id": "mr-charlies",
+    "name": "Mr. Charlie's",
+    "website": "https://mrcharlies.co",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://mrcharlies.co/nutrition",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "432 Sutter St, San Francisco, CA 94108",
+        "lat": 37.789956,
+        "lng": -122.407116,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "next-level-burger",
+    "name": "Next Level Burger",
+    "website": "https://www.nextlevelburger.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "450 Rhode Island St, San Francisco, CA 94107",
+        "lat": 37.7643298,
+        "lng": -122.4027236,
+        "neighborhood": "Mission Bay"
+      }
+    ]
+  },
+  {
+    "id": "nick-the-greek",
+    "name": "Nick The Greek",
+    "website": "https://www.nickthegreek.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://nutri-nickthegreek-78ba31db005e.herokuapp.com/",
+      "vendor": "simmer",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "121 Spear Streeet, San Francisco, CA 94105",
+        "lat": 37.7920283,
+        "lng": -122.3927033,
+        "neighborhood": null
+      },
+      {
+        "address": "145 4th Street, San Francisco, CA 94103",
+        "lat": 37.7841539,
+        "lng": -122.4034781,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "noahs-ny-bagels",
+    "name": "Noah's NY Bagels",
+    "website": "https://www.noahs.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.noahs.com/wp-content/uploads/NNYB-Nutrition-Guide-Master-2026-2.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "100 Bush St, San Francisco, CA 94104",
+        "lat": 37.7914629,
+        "lng": -122.3998367,
+        "neighborhood": null
+      },
+      {
+        "address": "1521 Sloat Blvd, San Francisco, CA 94132",
+        "lat": 37.7324433,
+        "lng": -122.4899402,
+        "neighborhood": null
+      },
+      {
+        "address": "2075 Chestnut St, San Francisco, CA 94123",
+        "lat": 37.800495440616324,
+        "lng": -122.43736177682877,
+        "neighborhood": null
+      },
+      {
+        "address": "2300 16th St, San Francisco, CA 94103",
+        "lat": 37.76596988162717,
+        "lng": -122.40790806706721,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "orens-hummus",
+    "name": "Oren's Hummus",
+    "website": "https://orenshummus.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://orenshummus.com/locations/restaurants/san-francisco/",
+      "vendor": "mynetdiary",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "71 3rd St, San Francisco, CA 94103",
+        "lat": 37.7866,
+        "lng": -122.4024,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "panda-express",
+    "name": "Panda Express",
+    "website": "https://www.pandaexpress.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.pandaexpress.com/nutritioninformation",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1480 Fillmore St., San Francisco, CA 94115",
+        "lat": 37.7830234,
+        "lng": -122.4325198,
+        "neighborhood": null
+      },
+      {
+        "address": "3519 California St, San Francisco, CA 94118",
+        "lat": 37.786581,
+        "lng": -122.451721,
+        "neighborhood": null
+      },
+      {
+        "address": "500 Parnassus Ave, San Francisco, CA 94143",
+        "lat": 37.7637371,
+        "lng": -122.4583642,
+        "neighborhood": null
+      },
+      {
+        "address": "3801 3rd Street, #300, San Francisco, CA 94124",
+        "lat": 37.741569,
+        "lng": -122.387276,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave. #250h, San Francisco, CA 94132",
+        "lat": 37.727863,
+        "lng": -122.4769858,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "papa-johns",
+    "name": "Papa John's",
+    "website": "https://www.papajohns.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.papajohns.com/company/nutritional-details/",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "969 Sutter St, San Francisco, CA 94109",
+        "lat": 37.78809,
+        "lng": -122.41632,
+        "neighborhood": "Lower Nob Hill"
+      }
+    ]
+  },
+  {
+    "id": "peasant-pies",
+    "name": "Peasant Pies",
+    "website": "https://www.peasantpies.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.peasantpies.com/uploads/b/9bff6be0-3cd3-11ea-a066-9bdb7dbbcf14/peasant-pies-nutritional-info.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1039 Irving St, San Francisco, CA 94122-2215",
+        "lat": 37.763775,
+        "lng": -122.469185,
+        "neighborhood": "Inner Sunset"
+      },
+      {
+        "address": "550 Gene Friend Way, San Francisco, CA 94158",
+        "lat": 37.7691,
+        "lng": -122.390121,
+        "neighborhood": "Mission Bay"
+      }
+    ]
+  },
+  {
+    "id": "peets-coffee",
+    "name": "Peet's Coffee",
+    "website": "https://www.peets.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Peet%27s&max_results=50&page_number=0",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "155 Montgomery St, #161, San Francisco, CA 94104",
+        "lat": 37.79061916,
+        "lng": -122.40252005,
+        "neighborhood": null
+      },
+      {
+        "address": "5201 Geary Blvd, San Francisco, CA 94118",
+        "lat": 37.7802619,
+        "lng": -122.47522007,
+        "neighborhood": null
+      },
+      {
+        "address": "773 Market St, San Francisco, CA 94103",
+        "lat": 37.78661909,
+        "lng": -122.40502005,
+        "neighborhood": null
+      },
+      {
+        "address": "625 8th St, San Francisco, CA 94103",
+        "lat": 37.77126188,
+        "lng": -122.40512005,
+        "neighborhood": null
+      },
+      {
+        "address": "160 Jefferson St, San Francisco, CA 94133",
+        "lat": 37.80856195,
+        "lng": -122.41482006,
+        "neighborhood": null
+      },
+      {
+        "address": "Pier 39 Space 5-Q, San Francisco, CA 94133",
+        "lat": 37.80073619,
+        "lng": -122.40805201,
+        "neighborhood": null
+      },
+      {
+        "address": "2080 Chestnut St, San Francisco, CA 94123",
+        "lat": 37.80086193,
+        "lng": -122.43782006,
+        "neighborhood": null
+      },
+      {
+        "address": "Two Embarcadero Center, Suite R2113, San Francisco, CA 94111",
+        "lat": 37.79496192,
+        "lng": -122.39842005,
+        "neighborhood": null
+      },
+      {
+        "address": "310 Broderick St, San Francisco, CA 94117",
+        "lat": 37.77346189,
+        "lng": -122.43892006,
+        "neighborhood": null
+      },
+      {
+        "address": "2197 Fillmore St, San Francisco, CA 94115",
+        "lat": 37.78966191,
+        "lng": -122.43422006,
+        "neighborhood": null
+      },
+      {
+        "address": "3419 California St, San Francisco, CA 94118",
+        "lat": 37.78656191,
+        "lng": -122.45042006,
+        "neighborhood": null
+      },
+      {
+        "address": "601 Van Ness Ave, San Francisco, CA 94102",
+        "lat": 37.7811619,
+        "lng": -122.42132006,
+        "neighborhood": null
+      },
+      {
+        "address": "2300 16th St, Suite 240, San Francisco, CA 94103",
+        "lat": 37.766471,
+        "lng": -122.410409,
+        "neighborhood": null
+      },
+      {
+        "address": "1630 Holloway Ave, San Francisco, CA 94132",
+        "lat": 37.72161803,
+        "lng": -122.47812007,
+        "neighborhood": null
+      },
+      {
+        "address": "1509 Sloat Blvd, San Francisco, CA 94132",
+        "lat": 37.73356182,
+        "lng": -122.48962007,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave, San Francisco, CA 94132",
+        "lat": 37.72756181,
+        "lng": -122.47692007,
+        "neighborhood": null
+      },
+      {
+        "address": "54 West Portal Ave, San Francisco, CA 94127",
+        "lat": 37.740363,
+        "lng": -122.466749,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "pizza-hut",
+    "name": "Pizza Hut",
+    "website": "https://www.pizzahut.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/pizza-hut/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-22"
+    },
+    "locations": [
+      {
+        "address": "233 Winston Dr, San Francisco, CA 94132",
+        "lat": 37.7268095,
+        "lng": -122.4762278,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "pokeworks",
+    "name": "Pokeworks",
+    "website": "https://pokeworks.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "50 Fremont St. #R2A, San Francisco, CA, 94105",
+        "lat": 37.790749,
+        "lng": -122.397131,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "popeyes",
+    "name": "Popeyes",
+    "website": "https://www.popeyes.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1426 Fillmore St, San Francisco, CA 94115",
+        "lat": 37.783128,
+        "lng": -122.432375,
+        "neighborhood": null
+      },
+      {
+        "address": "890 Geneva Ave, San Francisco, CA 94112",
+        "lat": 37.716609,
+        "lng": -122.441342,
+        "neighborhood": null
+      },
+      {
+        "address": "90 Charter Oak Ave, San Francisco, CA 94124",
+        "lat": 37.73684,
+        "lng": -122.405358,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "proper-food",
+    "name": "Proper Food",
+    "website": "https://properfood.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "100 First Street, San Francisco, CA 94105",
+        "lat": 37.789152,
+        "lng": -122.3976135,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "116 Montgomery St, San Francisco, CA 94102",
+        "lat": 37.790377,
+        "lng": -122.4019257,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "180 Howard St, San Francisco, CA 94105",
+        "lat": 37.791073,
+        "lng": -122.393397,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "2 Embarcadero Center, San Francisco, CA 94111",
+        "lat": 37.7947881,
+        "lng": -122.3984101,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "35 Spear St, San Francisco, CA 94104",
+        "lat": 37.7920497,
+        "lng": -122.393204,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "45 Fremont St, San Francisco, CA 94105",
+        "lat": 37.7912489,
+        "lng": -122.3971488,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "525 Market St, San Francisco, CA 94105",
+        "lat": 37.790507,
+        "lng": -122.3990375,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "555 California Street, San Francisco, CA 94104",
+        "lat": 37.7920903,
+        "lng": -122.4036761,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "588 Mission Bay Blvd N, San Francisco, CA 94158",
+        "lat": 37.7712778,
+        "lng": -122.3906509,
+        "neighborhood": "Mission Bay"
+      },
+      {
+        "address": "655 Montgomery St, San Francisco, CA 94111",
+        "lat": 37.7968158,
+        "lng": -122.4049119,
+        "neighborhood": "Financial District"
+      },
+      {
+        "address": "Toni Stone Crossing (Mission Rock), San Francisco, CA 94158",
+        "lat": 37.7754184,
+        "lng": -122.3889959,
+        "neighborhood": "Mission Bay"
+      }
+    ]
+  },
+  {
+    "id": "round-table-pizza",
+    "name": "Round Table Pizza",
+    "website": "https://www.roundtablepizza.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "737 Portola Dr., San Francisco CA , 94127",
+        "lat": 37.74410688,
+        "lng": -122.4534756,
+        "neighborhood": null
+      },
+      {
+        "address": "801 Van Ness Avenue, San Francisco CA , 94109",
+        "lat": 37.78288528,
+        "lng": -122.4207317,
+        "neighborhood": null
+      },
+      {
+        "address": "2660 San Bruno Avenue, San Francisco CA , 94134",
+        "lat": 37.7279338,
+        "lng": -122.4040965,
+        "neighborhood": null
+      },
+      {
+        "address": "1503 North Point St, San Francisco CA , 94123",
+        "lat": 37.80419547,
+        "lng": -122.4319468,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "shake-shack",
+    "name": "Shake Shack",
+    "website": "https://shakeshack.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://prod.shakeshack.com/nutritionandallergeninfo",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "3060 Fillmore Street, San Francisco, CA, 94123",
+        "lat": 37.7979025,
+        "lng": -122.4353553,
+        "neighborhood": "Cow Hollow"
+      },
+      {
+        "address": "3251 20th Ave., San Francisco, CA, 94132",
+        "lat": 37.728935,
+        "lng": -122.476829,
+        "neighborhood": "Stonestown Galleria"
+      }
+    ]
+  },
+  {
+    "id": "souvla",
+    "name": "Souvla",
+    "website": "https://www.souvla.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://media-cdn.getbento.com/accounts/5a6ea86dc04d2c5de0b36e28812fa3b3/media/aVigbS9lS4aECVTnoic6_Souvla%20Nutritional%20Information.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "517 Hayes St, San Francisco, CA 94102",
+        "lat": 37.7764442,
+        "lng": -122.4250127,
+        "neighborhood": "Hayes Valley"
+      },
+      {
+        "address": "531 Divisadero St, San Francisco, CA 94117",
+        "lat": 37.7744196,
+        "lng": -122.4375265,
+        "neighborhood": "NoPa"
+      },
+      {
+        "address": "758 Valencia Street, San Francisco, CA 94110",
+        "lat": 37.7608194,
+        "lng": -122.4216435,
+        "neighborhood": "Mission"
+      },
+      {
+        "address": "2272 Chestnut Street, San Francisco, CA 94123",
+        "lat": 37.80033,
+        "lng": -122.4407367,
+        "neighborhood": "Marina"
+      },
+      {
+        "address": "2505 3rd Street, San Francisco, CA 94107",
+        "lat": 37.7577111,
+        "lng": -122.38806,
+        "neighborhood": "Dogpatch"
+      }
+    ]
+  },
+  {
+    "id": "starbird-chicken",
+    "name": "Starbird Chicken",
+    "website": "https://starbirdchicken.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "60 Morris Street, San Francisco, CA 94107",
+        "lat": 37.7766868,
+        "lng": -122.4024109,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "website": "https://www.starbucks.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.starbucks.com/apiproxy/v1/ordering/menu",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "150 Van Ness, San Francisco",
+        "lat": 37.77723,
+        "lng": -122.41932,
+        "neighborhood": null
+      },
+      {
+        "address": "1390 Market Street, San Francisco",
+        "lat": 37.77705,
+        "lng": -122.41737,
+        "neighborhood": null
+      },
+      {
+        "address": "2020 Market St., San Francisco",
+        "lat": 37.76882,
+        "lng": -122.42868,
+        "neighborhood": null
+      },
+      {
+        "address": "1100 Van Ness Ave, San Francisco",
+        "lat": 37.78589,
+        "lng": -122.4211,
+        "neighborhood": null
+      },
+      {
+        "address": "2300 16th St. Unit 203, San Francisco",
+        "lat": 37.76658,
+        "lng": -122.40941,
+        "neighborhood": null
+      },
+      {
+        "address": "2727 Mariposa St, San Francisco",
+        "lat": 37.76291,
+        "lng": -122.41042,
+        "neighborhood": null
+      },
+      {
+        "address": "201 Powell St, San Francisco",
+        "lat": 37.78656,
+        "lng": -122.4082,
+        "neighborhood": null
+      },
+      {
+        "address": "789 Mission Street, San Francisco",
+        "lat": 37.78446,
+        "lng": -122.40384,
+        "neighborhood": null
+      },
+      {
+        "address": "170 O'Farrell St, San Francisco",
+        "lat": 37.78736,
+        "lng": -122.40732,
+        "neighborhood": null
+      },
+      {
+        "address": "390 Stockton St, San Francisco",
+        "lat": 37.78935,
+        "lng": -122.40682,
+        "neighborhood": null
+      },
+      {
+        "address": "2435 California Street, San Francisco",
+        "lat": 37.78844,
+        "lng": -122.43464,
+        "neighborhood": null
+      },
+      {
+        "address": "1750 Divisadero St, San Francisco",
+        "lat": 37.78598,
+        "lng": -122.43982,
+        "neighborhood": null
+      },
+      {
+        "address": "298 King Street, San Francisco",
+        "lat": 37.77678,
+        "lng": -122.3939,
+        "neighborhood": null
+      },
+      {
+        "address": "580 California, San Francisco",
+        "lat": 37.79284,
+        "lng": -122.40429,
+        "neighborhood": null
+      },
+      {
+        "address": "1700 Owens St, San Francisco",
+        "lat": 37.76706,
+        "lng": -122.39366,
+        "neighborhood": null
+      },
+      {
+        "address": "2165 Polk St, San Francisco",
+        "lat": 37.79676,
+        "lng": -122.42209,
+        "neighborhood": null
+      },
+      {
+        "address": "100 1st St, San Francisco",
+        "lat": 37.78961,
+        "lng": -122.39755,
+        "neighborhood": null
+      },
+      {
+        "address": "2675 Geary Blvd, San Francisco",
+        "lat": 37.78207,
+        "lng": -122.44708,
+        "neighborhood": null
+      },
+      {
+        "address": "565 Clay St, San Francisco",
+        "lat": 37.7946,
+        "lng": -122.40269,
+        "neighborhood": null
+      },
+      {
+        "address": "1375 3rd St, San Francisco",
+        "lat": 37.77123,
+        "lng": -122.38931,
+        "neighborhood": null
+      },
+      {
+        "address": "1899 Union Street, San Francisco",
+        "lat": 37.79764,
+        "lng": -122.4304,
+        "neighborhood": null
+      },
+      {
+        "address": "299 Fremont St, San Francisco",
+        "lat": 37.78823,
+        "lng": -122.39362,
+        "neighborhood": null
+      },
+      {
+        "address": "3995 24th St, San Francisco",
+        "lat": 37.75134,
+        "lng": -122.4317,
+        "neighborhood": null
+      },
+      {
+        "address": "7 Drumm St, San Francisco",
+        "lat": 37.79377,
+        "lng": -122.39662,
+        "neighborhood": null
+      },
+      {
+        "address": "3595 California St, San Francisco",
+        "lat": 37.78611,
+        "lng": -122.45323,
+        "neighborhood": null
+      },
+      {
+        "address": "2132 Chestnut St, San Francisco",
+        "lat": 37.80064,
+        "lng": -122.43854,
+        "neighborhood": null
+      },
+      {
+        "address": "499 Bay St, San Francisco",
+        "lat": 37.80534,
+        "lng": -122.41511,
+        "neighborhood": null
+      },
+      {
+        "address": "3735 Buchanan, San Francisco",
+        "lat": 37.80449,
+        "lng": -122.43375,
+        "neighborhood": null
+      },
+      {
+        "address": "1 Letterman Drive, San Francisco",
+        "lat": 37.79925,
+        "lng": -122.44935,
+        "neighborhood": null
+      },
+      {
+        "address": "5290 Diamond Heights Blvd, San Francisco",
+        "lat": 37.74374,
+        "lng": -122.43876,
+        "neighborhood": null
+      },
+      {
+        "address": "675 Portola Dr, San Francisco",
+        "lat": 37.7445,
+        "lng": -122.45271,
+        "neighborhood": null
+      },
+      {
+        "address": "3801 3rd Street, San Francisco",
+        "lat": 37.74122,
+        "lng": -122.38775,
+        "neighborhood": null
+      },
+      {
+        "address": "5455 Geary Blvd, San Francisco",
+        "lat": 37.78017,
+        "lng": -122.47814,
+        "neighborhood": null
+      },
+      {
+        "address": "1800 Irving St, San Francisco",
+        "lat": 37.76371,
+        "lng": -122.47746,
+        "neighborhood": null
+      },
+      {
+        "address": "100 West Portal, San Francisco",
+        "lat": 37.73968,
+        "lng": -122.46732,
+        "neighborhood": null
+      },
+      {
+        "address": "2350 Noriega Street, San Francisco",
+        "lat": 37.75407,
+        "lng": -122.48879,
+        "neighborhood": null
+      },
+      {
+        "address": "233 Winston Dr, San Francisco",
+        "lat": 37.72651,
+        "lng": -122.47689,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "subway",
+    "name": "Subway",
+    "website": "https://www.subway.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://media.subway.com/dam/urn:aaid:aem:2278372c-147b-42f2-8edc-7d8d94d1f07e/original/as/us-nutrition-en.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1400 Mission Street Suite 131, San Francisco, CA 94103",
+        "lat": 37.77542377223663,
+        "lng": -122.41634484707566,
+        "neighborhood": null
+      },
+      {
+        "address": "147 Mason Street, San Francisco, CA 94102",
+        "lat": 37.78498403388505,
+        "lng": -122.40965027761024,
+        "neighborhood": null
+      },
+      {
+        "address": "1500 Fillmore St, San Francisco, CA 94115",
+        "lat": 37.78356232235174,
+        "lng": -122.43249886871718,
+        "neighborhood": null
+      },
+      {
+        "address": "160 Broadway Street, San Francisco, CA 94111",
+        "lat": 37.79879726852369,
+        "lng": -122.40077906994054,
+        "neighborhood": null
+      },
+      {
+        "address": "170 O'Farrell St #428 - Lower Level Food Court, San Francisco, CA 94102",
+        "lat": 37.786803,
+        "lng": -122.407399,
+        "neighborhood": null
+      },
+      {
+        "address": "177 Townsend Street Aka 170 King Street, Unit 131, San Francisco, CA 94107",
+        "lat": 37.77912498044691,
+        "lng": -122.39208539247699,
+        "neighborhood": null
+      },
+      {
+        "address": "195-197 Sixth Street, San Francisco, CA 94103",
+        "lat": 37.77999424844727,
+        "lng": -122.40718352414228,
+        "neighborhood": null
+      },
+      {
+        "address": "200 Pine St Suite 140, San Francisco, CA 94104",
+        "lat": 37.79241138509421,
+        "lng": -122.40005890114605,
+        "neighborhood": null
+      },
+      {
+        "address": "2599 San Bruno Ave, San Francisco, CA 94134",
+        "lat": 37.72902263581295,
+        "lng": -122.40395699999999,
+        "neighborhood": null
+      },
+      {
+        "address": "2675 Geary Blvd E-103, San Francisco, CA 94118",
+        "lat": 37.7818542,
+        "lng": -122.4458642,
+        "neighborhood": null
+      },
+      {
+        "address": "350 Bay Street Store #14 Unit 1, San Francisco, CA 94133",
+        "lat": 37.806207,
+        "lng": -122.4129139,
+        "neighborhood": null
+      },
+      {
+        "address": "3801 3rd St Suite 310, San Francisco, CA 94124",
+        "lat": 37.74166279787644,
+        "lng": -122.38725896282187,
+        "neighborhood": null
+      },
+      {
+        "address": "388 Market Street Store #102, San Francisco, CA 94111",
+        "lat": 37.79219338872099,
+        "lng": -122.3981807876064,
+        "neighborhood": null
+      },
+      {
+        "address": "3911 Alemany Blvd Suite 1004, San Francisco, CA 94132",
+        "lat": 37.71097616922514,
+        "lng": -122.46695868717433,
+        "neighborhood": null
+      },
+      {
+        "address": "397 Golden Gate Avenue, San Francisco, CA 94102",
+        "lat": 37.781324104069185,
+        "lng": -122.4168283054704,
+        "neighborhood": null
+      },
+      {
+        "address": "408 Montgomery Street, San Francisco, CA 94104",
+        "lat": 37.79325818429401,
+        "lng": -122.4026574030164,
+        "neighborhood": null
+      },
+      {
+        "address": "425 Bush St, San Francisco, CA 94108",
+        "lat": 37.79058427256573,
+        "lng": -122.40453065054328,
+        "neighborhood": null
+      },
+      {
+        "address": "425-D Battery Street, San Francisco, CA 94111",
+        "lat": 37.795251,
+        "lng": -122.4006037,
+        "neighborhood": null
+      },
+      {
+        "address": "4841 Mission Street, San Francisco, CA 94110",
+        "lat": 37.72087367317092,
+        "lng": -122.437469132209,
+        "neighborhood": null
+      },
+      {
+        "address": "500 Parnassus Ave Level B1, Plaza Area, San Francisco, CA 94143",
+        "lat": 37.763465693323035,
+        "lng": -122.45869174818425,
+        "neighborhood": null
+      },
+      {
+        "address": "550B Gene Friend Way, San Francisco, CA 94158",
+        "lat": 37.76910884759844,
+        "lng": -122.39032373577834,
+        "neighborhood": null
+      },
+      {
+        "address": "5650 Geary Blvd, San Francisco, CA 94121",
+        "lat": 37.780518294981235,
+        "lng": -122.4802608808589,
+        "neighborhood": null
+      },
+      {
+        "address": "595 Buckingham Way Suite 587, San Francisco, CA 94132",
+        "lat": 37.7302649,
+        "lng": -122.4765469,
+        "neighborhood": null
+      },
+      {
+        "address": "700 4th St #111, San Francisco, CA 94107",
+        "lat": 37.7766624,
+        "lng": -122.3948466,
+        "neighborhood": null
+      },
+      {
+        "address": "750 Font Blvd Village At Centennial Square, San Francisco, CA 94132",
+        "lat": 37.72322285455099,
+        "lng": -122.48217672101589,
+        "neighborhood": null
+      },
+      {
+        "address": "795 Folsom Street, San Francisco, CA 94107",
+        "lat": 37.78217545160578,
+        "lng": -122.4007055239897,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "super-duper-burgers",
+    "name": "Super Duper Burgers",
+    "website": "https://www.superduperburgers.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Super+Duper",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1701 Fillmore St, San Francisco, CA 94115",
+        "lat": 37.785285,
+        "lng": -122.433317,
+        "neighborhood": null
+      },
+      {
+        "address": "3401 California St, San Francisco, CA 94118",
+        "lat": 37.786653,
+        "lng": -122.450247,
+        "neighborhood": null
+      },
+      {
+        "address": "2304 Market Street, San Francisco, CA 94114",
+        "lat": 37.763998,
+        "lng": -122.433731,
+        "neighborhood": null
+      },
+      {
+        "address": "737 Irving St, San Francisco, CA 94122",
+        "lat": 37.763906,
+        "lng": -122.465941,
+        "neighborhood": null
+      },
+      {
+        "address": "783 Mission Street, San Francisco, CA 94103",
+        "lat": 37.784872,
+        "lng": -122.403629,
+        "neighborhood": null
+      },
+      {
+        "address": "406 Hayes St, San Francisco, CA 94102",
+        "lat": 37.777007,
+        "lng": -122.423255,
+        "neighborhood": null
+      },
+      {
+        "address": "2201 Chestnut Street, San Francisco, CA 94123",
+        "lat": 37.800686,
+        "lng": -122.439195,
+        "neighborhood": null
+      },
+      {
+        "address": "721 Market Street, San Francisco, CA 94103",
+        "lat": 37.786854,
+        "lng": -122.403908,
+        "neighborhood": null
+      },
+      {
+        "address": "98 Mission Street, San Francisco, CA 94105",
+        "lat": 37.792802,
+        "lng": -122.394088,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "sushirrito",
+    "name": "Sushirrito",
+    "website": "https://www.sushirrito.com/",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://www.sushirrito.com/",
+      "vendor": "mynetdiary",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "59 New Montgomery St, San Francisco, CA 94105",
+        "lat": 37.7888,
+        "lng": -122.3998,
+        "neighborhood": "SoMa"
+      },
+      {
+        "address": "226 Kearny St, San Francisco, CA 94108",
+        "lat": 37.7905,
+        "lng": -122.4039,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "sweetgreen",
+    "name": "sweetgreen",
+    "website": "https://www.sweetgreen.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://order.sweetgreen.com/graphql",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "171 2nd St, San Francisco, CA 94105",
+        "lat": 37.787285,
+        "lng": -122.3985,
+        "neighborhood": "Soma"
+      },
+      {
+        "address": "1023 3rd Street, San Francisco, CA 94158",
+        "lat": 37.775462,
+        "lng": -122.389787,
+        "neighborhood": "Mission Rock"
+      },
+      {
+        "address": "150 Folsom Street, San Francisco, CA 94105",
+        "lat": 37.790009,
+        "lng": -122.391737,
+        "neighborhood": "Folsom + Main"
+      },
+      {
+        "address": "2040 Chestnut St., San Francisco, CA 94123",
+        "lat": 37.800897,
+        "lng": -122.437175,
+        "neighborhood": "Marina"
+      }
+    ]
+  },
+  {
+    "id": "taco-bell",
+    "name": "Taco Bell",
+    "website": "https://www.tacobell.com",
+    "nutrition_source": {
+      "type": "vendor",
+      "url": "https://www.nutritionix.com/taco-bell/menu/premium",
+      "vendor": "nutritionix",
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "333 Jefferson Street, San Francisco, CA 94133",
+        "lat": 37.80785,
+        "lng": -122.41786,
+        "neighborhood": null
+      },
+      {
+        "address": "710 Third Street, San Francisco, CA 94107",
+        "lat": 37.7785705521,
+        "lng": -122.392756677,
+        "neighborhood": null
+      },
+      {
+        "address": "90 Charter Oak Ave, San Francisco, CA 94124",
+        "lat": 37.7369560243,
+        "lng": -122.4049933,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "tender-greens",
+    "name": "Tender Greens",
+    "website": "https://www.tendergreens.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "30 Fremont St, San Francisco, CA 94105",
+        "lat": 37.7908283,
+        "lng": -122.397463,
+        "neighborhood": "Financial District"
+      }
+    ]
+  },
+  {
+    "id": "the-cheesecake-factory",
+    "name": "The Cheesecake Factory",
+    "website": "https://www.thecheesecakefactory.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Cheesecake+Factory&max_results=50&page_number=0",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "251 Geary Street 8th Floor, San Francisco, CA 94102",
+        "lat": 37.7872963,
+        "lng": -122.4074595,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "the-halal-guys",
+    "name": "The Halal Guys",
+    "website": "https://thehalalguys.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://thehalalguys.com/nutritional-guide/",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "336 O'Farrell St, San Francisco, CA 94102",
+        "lat": 37.786231,
+        "lng": -122.410376,
+        "neighborhood": "Union Square"
+      }
+    ]
+  },
+  {
+    "id": "the-melt",
+    "name": "The Melt",
+    "website": "https://www.themelt.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.themelt.com/_api/cloud-data/v1/wix-data/collections/query",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "455 Market St, San Francisco, CA 94105",
+        "lat": 37.79079189999999,
+        "lng": -122.3984543,
+        "neighborhood": null
+      },
+      {
+        "address": "925 Market St, San Francisco, CA 94103",
+        "lat": 37.7833043,
+        "lng": -122.408453,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "togos",
+    "name": "TOGO'S",
+    "website": "https://togos.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://togos.com/wp-content/uploads/2024/05/TOGOS-Nutritional-Allergen-Information_April-2024.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "2300 16th St, 275, San Francisco, CA 94103",
+        "lat": 37.76646,
+        "lng": -122.40958,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "trailer-birds",
+    "name": "Trailer Birds",
+    "website": "https://www.trailerbirds.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api (foods.search/food.get)",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "590 Van Ness Avenue, San Francisco, CA 94102",
+        "lat": 37.780713,
+        "lng": -122.420184,
+        "neighborhood": "Civic Center"
+      },
+      {
+        "address": "5155 3rd Street, San Francisco, CA 94124",
+        "lat": 37.7314584,
+        "lng": -122.3917507,
+        "neighborhood": "Bayview"
+      }
+    ]
+  },
+  {
+    "id": "urban-remedy",
+    "name": "Urban Remedy",
+    "website": "https://urbanremedy.com",
+    "nutrition_source": {
+      "type": "crowd",
+      "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Urban+Remedy&max_results=50&page_number=0",
+      "vendor": "fatsecret",
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "399 4th St, San Francisco, CA 94107",
+        "lat": 37.7811499,
+        "lng": -122.3997789,
+        "neighborhood": null
+      },
+      {
+        "address": "1150 Ocean Ave, San Francisco, CA 94112",
+        "lat": 37.7237981,
+        "lng": -122.4546813,
+        "neighborhood": null
+      },
+      {
+        "address": "450 Rhode Island St, San Francisco, CA 94107",
+        "lat": 37.7643298,
+        "lng": -122.4027236,
+        "neighborhood": null
+      },
+      {
+        "address": "2001 Market St, San Francisco, CA 94114",
+        "lat": 37.768896,
+        "lng": -122.426891,
+        "neighborhood": null
+      },
+      {
+        "address": "1765 California St, San Francisco, CA 94109",
+        "lat": 37.7900899,
+        "lng": -122.4234142,
+        "neighborhood": null
+      },
+      {
+        "address": "3251 20th Ave, Suite 340, San Francisco, CA 94132",
+        "lat": 37.7289115,
+        "lng": -122.475687,
+        "neighborhood": null
+      },
+      {
+        "address": "1185 Market St, San Francisco, CA 94103",
+        "lat": 37.7788891,
+        "lng": -122.414112,
+        "neighborhood": null
+      },
+      {
+        "address": "2300 16th Street Unit 203, San Francisco, CA 94103",
+        "lat": 37.7669716,
+        "lng": -122.409327,
+        "neighborhood": null
+      },
+      {
+        "address": "4201 18th St, San Francisco, CA 94114",
+        "lat": 37.760582,
+        "lng": -122.4364315,
+        "neighborhood": null
+      },
+      {
+        "address": "2435 California St, San Francisco, CA 94115",
+        "lat": 37.7885533,
+        "lng": -122.4345222,
+        "neighborhood": null
+      },
+      {
+        "address": "203 Folsom St, San Francisco, CA 94105",
+        "lat": 37.7890338,
+        "lng": -122.3919796,
+        "neighborhood": null
+      },
+      {
+        "address": "1200 Irving St, San Francisco, CA 94122",
+        "lat": 37.7640893,
+        "lng": -122.4711666,
+        "neighborhood": null
+      },
+      {
+        "address": "375 32nd Ave, San Francisco, CA 94121",
+        "lat": 37.782188,
+        "lng": -122.4930572,
+        "neighborhood": null
+      },
+      {
+        "address": "300 California St. Ste 100, San Francisco, CA 94104",
+        "lat": 37.7933044,
+        "lng": -122.4003067,
+        "neighborhood": null
+      },
+      {
+        "address": "98 Post St, San Francisco, CA 94104",
+        "lat": 37.7889739,
+        "lng": -122.4030976,
+        "neighborhood": null
+      },
+      {
+        "address": "575 Market St. Ste 150, San Francisco, CA 94105",
+        "lat": 37.7895414,
+        "lng": -122.4003752,
+        "neighborhood": null
+      },
+      {
+        "address": "3 Embarcadero Center, San Francisco, CA 94111",
+        "lat": 37.7946662,
+        "lng": -122.3996548,
+        "neighborhood": null
+      },
+      {
+        "address": "550 Divisadero St, San Francisco, CA 94117",
+        "lat": 37.774509,
+        "lng": -122.4378445,
+        "neighborhood": null
+      },
+      {
+        "address": "1745 Folsom St, San Francisco, CA 94103",
+        "lat": 37.7691367,
+        "lng": -122.4150751,
+        "neighborhood": null
+      },
+      {
+        "address": "680 Mission Street, San Francisco, CA 94105",
+        "lat": 37.7865699,
+        "lng": -122.4020333,
+        "neighborhood": null
+      },
+      {
+        "address": "1957 Union St, San Francisco, CA 94123",
+        "lat": 37.7974129,
+        "lng": -122.4314868,
+        "neighborhood": null
+      },
+      {
+        "address": "181 Fremont St, San Francisco, CA 94105",
+        "lat": 37.7896303,
+        "lng": -122.3955461,
+        "neighborhood": null
+      },
+      {
+        "address": "450 Hayes St, San Francisco, CA 94117",
+        "lat": 37.777031,
+        "lng": -122.4238821,
+        "neighborhood": null
+      },
+      {
+        "address": "3870 24th St, San Francisco, CA 94114",
+        "lat": 37.7517632,
+        "lng": -122.4290685,
+        "neighborhood": null
+      },
+      {
+        "address": "1 Ferry Bldg. (across from Sur La Table), San Francisco, CA 94111",
+        "lat": 37.7955487,
+        "lng": -122.3934746,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "vitality-bowls",
+    "name": "Vitality Bowls",
+    "website": "https://vitalitybowls.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "270 5th St, San Francisco, CA 94103",
+        "lat": 37.7807381,
+        "lng": -122.4041191,
+        "neighborhood": "SoMa"
+      }
+    ]
+  },
+  {
+    "id": "wetzels-pretzels",
+    "name": "Wetzel's Pretzels",
+    "website": "https://www.wetzels.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "170 O'Farrell St, Space B1, San Francisco, CA 94102",
+        "lat": 37.787006,
+        "lng": -122.4072604,
+        "neighborhood": "San Francisco"
+      },
+      {
+        "address": "170 O'Farrell St, Space S1, San Francisco, CA 94102",
+        "lat": 37.787006,
+        "lng": -122.4072604,
+        "neighborhood": "San Francisco"
+      },
+      {
+        "address": "3251 20th Ave, #102, San Francisco, CA 94132",
+        "lat": 37.7270364,
+        "lng": -122.4776106,
+        "neighborhood": "San Francisco"
+      }
+    ]
+  },
+  {
+    "id": "wingstop",
+    "name": "Wingstop",
+    "website": "https://www.wingstop.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-25"
+    },
+    "locations": [
+      {
+        "address": "1200 Market St, San Francisco, CA 94102",
+        "lat": 37.7786745,
+        "lng": -122.4152914,
+        "neighborhood": null
+      },
+      {
+        "address": "1507 Sloat Blvd, San Francisco, CA 94132",
+        "lat": 37.733543,
+        "lng": -122.4895675,
+        "neighborhood": null
+      },
+      {
+        "address": "60 Morris St, San Francisco, CA 94107",
+        "lat": 37.7771739,
+        "lng": -122.4031815,
+        "neighborhood": null
+      },
+      {
+        "address": "90 Charter Oak Ave, San Francisco, CA 94124",
+        "lat": 37.7368189,
+        "lng": -122.405298,
+        "neighborhood": null
+      }
+    ]
+  }
+]

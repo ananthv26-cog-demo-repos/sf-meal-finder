@@ -1,0 +1,3945 @@
+{
+  "id": "papa-johns",
+  "name": "Papa John's",
+  "website": "https://www.papajohns.com/",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.papajohns.com/company/nutritional-details/",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "969 Sutter St, San Francisco, CA 94109",
+      "lat": 37.78809,
+      "lng": -122.41632,
+      "neighborhood": "Lower Nob Hill"
+    }
+  ],
+  "items": [
+    {
+      "id": "cheese-pizza-small",
+      "name": "Cheese Pizza - Small",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 7.0,
+      "carbs_g": 25.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "cheese-pizza-small-whole",
+      "name": "Cheese Pizza - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1080.0,
+      "protein_g": 42.0,
+      "carbs_g": 150.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2640.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "cheese-pizza-medium",
+      "name": "Cheese Pizza - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 8.0,
+      "carbs_g": 27.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "cheese-pizza-medium-whole",
+      "name": "Cheese Pizza - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1680.0,
+      "protein_g": 64.0,
+      "carbs_g": 216.0,
+      "fat_g": 56.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4160.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "cheese-pizza-large",
+      "name": "Cheese Pizza - Large",
+      "description": null,
+      "category": "component",
+      "calories": 290.0,
+      "protein_g": 11.0,
+      "carbs_g": 38.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "cheese-pizza-large-whole",
+      "name": "Cheese Pizza - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2320.0,
+      "protein_g": 88.0,
+      "carbs_g": 304.0,
+      "fat_g": 80.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5680.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "cheese-pizza-extra-large",
+      "name": "Cheese Pizza - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 11.0,
+      "carbs_g": 40.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 730.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-small",
+      "name": "Pepperoni Pizza - Small",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 8.0,
+      "carbs_g": 25.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-small-whole",
+      "name": "Pepperoni Pizza - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1260.0,
+      "protein_g": 48.0,
+      "carbs_g": 150.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3180.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-medium",
+      "name": "Pepperoni Pizza - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 8.0,
+      "carbs_g": 26.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-medium-whole",
+      "name": "Pepperoni Pizza - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 64.0,
+      "carbs_g": 208.0,
+      "fat_g": 72.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4560.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-large",
+      "name": "Pepperoni Pizza - Large",
+      "description": null,
+      "category": "component",
+      "calories": 320.0,
+      "protein_g": 12.0,
+      "carbs_g": 38.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-large-whole",
+      "name": "Pepperoni Pizza - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2560.0,
+      "protein_g": 96.0,
+      "carbs_g": 304.0,
+      "fat_g": 104.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6480.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-pizza-extra-large",
+      "name": "Pepperoni Pizza - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 12.0,
+      "carbs_g": 40.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 840.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-small",
+      "name": "Sausage Pizza - Small",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 8.0,
+      "carbs_g": 25.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-small-whole",
+      "name": "Sausage Pizza - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1320.0,
+      "protein_g": 48.0,
+      "carbs_g": 150.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3240.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-medium",
+      "name": "Sausage Pizza - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 8.0,
+      "carbs_g": 27.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-medium-whole",
+      "name": "Sausage Pizza - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1920.0,
+      "protein_g": 64.0,
+      "carbs_g": 216.0,
+      "fat_g": 88.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4640.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-large",
+      "name": "Sausage Pizza - Large",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 12.0,
+      "carbs_g": 38.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-large-whole",
+      "name": "Sausage Pizza - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2640.0,
+      "protein_g": 96.0,
+      "carbs_g": 304.0,
+      "fat_g": 112.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6480.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "sausage-pizza-extra-large",
+      "name": "Sausage Pizza - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 12.0,
+      "carbs_g": 40.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 840.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-small",
+      "name": "BBQ Chicken Bacon - Small",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 30.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-small-whole",
+      "name": "BBQ Chicken Bacon - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1380.0,
+      "protein_g": 60.0,
+      "carbs_g": 180.0,
+      "fat_g": 42.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3960.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-medium",
+      "name": "BBQ Chicken Bacon - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 11.0,
+      "carbs_g": 32.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 730.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-medium-whole",
+      "name": "BBQ Chicken Bacon - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1920.0,
+      "protein_g": 88.0,
+      "carbs_g": 256.0,
+      "fat_g": 64.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 5840.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-large",
+      "name": "BBQ Chicken Bacon - Large",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 16.0,
+      "carbs_g": 45.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-large-whole",
+      "name": "BBQ Chicken Bacon - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2720.0,
+      "protein_g": 128.0,
+      "carbs_g": 360.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 8160.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "bbq-chicken-bacon-extra-large",
+      "name": "BBQ Chicken Bacon - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 16.0,
+      "carbs_g": 48.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "butter-chicken-small",
+      "name": "Butter Chicken - Small",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 11.0,
+      "carbs_g": 26.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "butter-chicken-small-whole",
+      "name": "Butter Chicken - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1200.0,
+      "protein_g": 66.0,
+      "carbs_g": 156.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3060.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "butter-chicken-extra-large",
+      "name": "Butter Chicken - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 310.0,
+      "protein_g": 16.0,
+      "carbs_g": 41.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "epic-pepperoni-stuffed-crust-pizza-cheese-only-large",
+      "name": "Epic Pepperoni Stuffed Crust Pizza - Cheese Only - Large",
+      "description": null,
+      "category": "component",
+      "calories": 380.0,
+      "protein_g": 16.0,
+      "carbs_g": 39.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "epic-pepperoni-stuffed-crust-pizza-cheese-only-large-whole",
+      "name": "Epic Pepperoni Stuffed Crust Pizza - Cheese Only - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 3040.0,
+      "protein_g": 128.0,
+      "carbs_g": 312.0,
+      "fat_g": 136.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8000.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "epic-pepperoni-stuffed-crust-pizza-pepperoni-only-large",
+      "name": "Epic Pepperoni Stuffed Crust Pizza - Pepperoni Only - Large",
+      "description": null,
+      "category": "component",
+      "calories": 410.0,
+      "protein_g": 17.0,
+      "carbs_g": 39.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1090.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "epic-pepperoni-stuffed-crust-pizza-pepperoni-only-large-whole",
+      "name": "Epic Pepperoni Stuffed Crust Pizza - Pepperoni Only - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 3280.0,
+      "protein_g": 136.0,
+      "carbs_g": 312.0,
+      "fat_g": 168.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8720.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "epic-pepperoni-stuffed-crust-pizza-sausage-only-large",
+      "name": "Epic Pepperoni Stuffed Crust Pizza - Sausage Only - Large",
+      "description": null,
+      "category": "component",
+      "calories": 430.0,
+      "protein_g": 17.0,
+      "carbs_g": 39.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1100.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "epic-pepperoni-stuffed-crust-pizza-sausage-only-large-whole",
+      "name": "Epic Pepperoni Stuffed Crust Pizza - Sausage Only - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 3440.0,
+      "protein_g": 136.0,
+      "carbs_g": 312.0,
+      "fat_g": 176.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8800.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-small",
+      "name": "Extra Cheesy Alfredo - Small",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 9.0,
+      "carbs_g": 25.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-small-whole",
+      "name": "Extra Cheesy Alfredo - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1260.0,
+      "protein_g": 54.0,
+      "carbs_g": 150.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3000.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-medium",
+      "name": "Extra Cheesy Alfredo - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-medium-whole",
+      "name": "Extra Cheesy Alfredo - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 80.0,
+      "carbs_g": 208.0,
+      "fat_g": 80.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4400.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-large",
+      "name": "Extra Cheesy Alfredo - Large",
+      "description": null,
+      "category": "component",
+      "calories": 320.0,
+      "protein_g": 13.0,
+      "carbs_g": 37.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-large-whole",
+      "name": "Extra Cheesy Alfredo - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2560.0,
+      "protein_g": 104.0,
+      "carbs_g": 296.0,
+      "fat_g": 104.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 6000.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "extra-cheesy-alfredo-extra-large",
+      "name": "Extra Cheesy Alfredo - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 13.0,
+      "carbs_g": 39.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-small",
+      "name": "Fiery Buffalo Chicken - Small",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-small-whole",
+      "name": "Fiery Buffalo Chicken - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1320.0,
+      "protein_g": 60.0,
+      "carbs_g": 156.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 4680.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-medium",
+      "name": "Fiery Buffalo Chicken - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-medium-whole",
+      "name": "Fiery Buffalo Chicken - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 88.0,
+      "carbs_g": 216.0,
+      "fat_g": 72.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 6560.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-large",
+      "name": "Fiery Buffalo Chicken - Large",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-large-whole",
+      "name": "Fiery Buffalo Chicken - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2640.0,
+      "protein_g": 128.0,
+      "carbs_g": 304.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 9520.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fiery-buffalo-chicken-extra-large",
+      "name": "Fiery Buffalo Chicken - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 350.0,
+      "protein_g": 16.0,
+      "carbs_g": 40.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-small",
+      "name": "Fresh Spinach & Tomato Alfredo - Small",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 7.0,
+      "carbs_g": 26.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-small-whole",
+      "name": "Fresh Spinach & Tomato Alfredo - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1140.0,
+      "protein_g": 42.0,
+      "carbs_g": 156.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2640.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-medium",
+      "name": "Fresh Spinach & Tomato Alfredo - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 7.0,
+      "carbs_g": 27.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-medium-whole",
+      "name": "Fresh Spinach & Tomato Alfredo - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1600.0,
+      "protein_g": 56.0,
+      "carbs_g": 216.0,
+      "fat_g": 56.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 3760.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-large",
+      "name": "Fresh Spinach & Tomato Alfredo - Large",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 10.0,
+      "carbs_g": 39.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-large-whole",
+      "name": "Fresh Spinach & Tomato Alfredo - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2240.0,
+      "protein_g": 80.0,
+      "carbs_g": 312.0,
+      "fat_g": 80.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5520.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "fresh-spinach-tomato-alfredo-extra-large",
+      "name": "Fresh Spinach & Tomato Alfredo - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 11.0,
+      "carbs_g": 41.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-small",
+      "name": "Garden Fresh - Small",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 7.0,
+      "carbs_g": 26.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-small-whole",
+      "name": "Garden Fresh - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1140.0,
+      "protein_g": 42.0,
+      "carbs_g": 156.0,
+      "fat_g": 36.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 2700.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-medium",
+      "name": "Garden Fresh - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 7.0,
+      "carbs_g": 27.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-medium-whole",
+      "name": "Garden Fresh - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1600.0,
+      "protein_g": 56.0,
+      "carbs_g": 216.0,
+      "fat_g": 56.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 3840.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-large",
+      "name": "Garden Fresh - Large",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 10.0,
+      "carbs_g": 39.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-large-whole",
+      "name": "Garden Fresh - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2240.0,
+      "protein_g": 80.0,
+      "carbs_g": 312.0,
+      "fat_g": 72.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5440.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garden-fresh-extra-large",
+      "name": "Garden Fresh - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 11.0,
+      "carbs_g": 41.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garlic-epic-stuffed-crust-pizza-large",
+      "name": "Garlic Epic Stuffed Crust Pizza - Large",
+      "description": null,
+      "category": "component",
+      "calories": 370.0,
+      "protein_g": 16.0,
+      "carbs_g": 39.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 990.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "garlic-epic-stuffed-crust-pizza-large-whole",
+      "name": "Garlic Epic Stuffed Crust Pizza - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2960.0,
+      "protein_g": 128.0,
+      "carbs_g": 312.0,
+      "fat_g": 128.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 7920.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "heart-shaped-pizza",
+      "name": "Heart Shaped Pizza",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 6.0,
+      "carbs_g": 19.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 350.0,
+      "serving_note": "1 Slice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-small",
+      "name": "Meatball Pepperoni - Small",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-small-whole",
+      "name": "Meatball Pepperoni - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1380.0,
+      "protein_g": 60.0,
+      "carbs_g": 156.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3480.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-medium",
+      "name": "Meatball Pepperoni - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 10.0,
+      "carbs_g": 27.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-medium-whole",
+      "name": "Meatball Pepperoni - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1920.0,
+      "protein_g": 80.0,
+      "carbs_g": 216.0,
+      "fat_g": 80.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4800.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-large",
+      "name": "Meatball Pepperoni - Large",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 15.0,
+      "carbs_g": 38.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-large-whole",
+      "name": "Meatball Pepperoni - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2880.0,
+      "protein_g": 120.0,
+      "carbs_g": 304.0,
+      "fat_g": 120.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7040.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-extra-large",
+      "name": "Meatball Pepperoni - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 370.0,
+      "protein_g": 15.0,
+      "carbs_g": 41.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "new-york-style-large",
+      "name": "New York Style - Large",
+      "description": null,
+      "category": "component",
+      "calories": 310.0,
+      "protein_g": 12.0,
+      "carbs_g": 40.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "new-york-style-large-whole",
+      "name": "New York Style - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2480.0,
+      "protein_g": 96.0,
+      "carbs_g": 320.0,
+      "fat_g": 88.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6160.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pan-crust-pizza-14",
+      "name": "Pan Crust Pizza - 14\"",
+      "description": null,
+      "category": "component",
+      "calories": 350.0,
+      "protein_g": 17.0,
+      "carbs_g": 27.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 960.0,
+      "serving_note": "per slice (1/8 of 14\" pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-small",
+      "name": "Pepperoni, Sausage & Six Cheese - Small",
+      "description": null,
+      "category": "component",
+      "calories": 260.0,
+      "protein_g": 11.0,
+      "carbs_g": 24.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-small-whole",
+      "name": "Pepperoni, Sausage & Six Cheese - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1560.0,
+      "protein_g": 66.0,
+      "carbs_g": 144.0,
+      "fat_g": 78.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3720.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-medium",
+      "name": "Pepperoni, Sausage & Six Cheese - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 11.0,
+      "carbs_g": 25.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-medium-whole",
+      "name": "Pepperoni, Sausage & Six Cheese - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 2240.0,
+      "protein_g": 88.0,
+      "carbs_g": 200.0,
+      "fat_g": 112.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 5200.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-large",
+      "name": "Pepperoni, Sausage & Six Cheese - Large",
+      "description": null,
+      "category": "component",
+      "calories": 390.0,
+      "protein_g": 16.0,
+      "carbs_g": 36.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-large-whole",
+      "name": "Pepperoni, Sausage & Six Cheese - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 3120.0,
+      "protein_g": 128.0,
+      "carbs_g": 288.0,
+      "fat_g": 160.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 7360.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "pepperoni-sausage-six-cheese-extra-large",
+      "name": "Pepperoni, Sausage & Six Cheese - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 410.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 960.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-small",
+      "name": "Philly Cheesesteak Pizza - Small",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-small-whole",
+      "name": "Philly Cheesesteak Pizza - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1320.0,
+      "protein_g": 60.0,
+      "carbs_g": 156.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 4680.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-medium",
+      "name": "Philly Cheesesteak Pizza - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-medium-whole",
+      "name": "Philly Cheesesteak Pizza - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 88.0,
+      "carbs_g": 216.0,
+      "fat_g": 72.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 6560.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-large",
+      "name": "Philly Cheesesteak Pizza - Large",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-large-whole",
+      "name": "Philly Cheesesteak Pizza - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2640.0,
+      "protein_g": 128.0,
+      "carbs_g": 304.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 9520.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-pizza-extra-large",
+      "name": "Philly Cheesesteak Pizza - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 350.0,
+      "protein_g": 16.0,
+      "carbs_g": 40.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "shaq-a-roni-large",
+      "name": "Shaq-a-Roni - Large",
+      "description": null,
+      "category": "component",
+      "calories": 390.0,
+      "protein_g": 15.0,
+      "carbs_g": 39.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "shaq-a-roni-large-whole",
+      "name": "Shaq-a-Roni - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 3120.0,
+      "protein_g": 120.0,
+      "carbs_g": 312.0,
+      "fat_g": 144.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 8080.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-small",
+      "name": "Super Hawaiian - Small",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 27.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-small-whole",
+      "name": "Super Hawaiian - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1380.0,
+      "protein_g": 60.0,
+      "carbs_g": 162.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3660.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-medium",
+      "name": "Super Hawaiian - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 28.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-medium-whole",
+      "name": "Super Hawaiian - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 80.0,
+      "carbs_g": 224.0,
+      "fat_g": 72.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 5040.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-large",
+      "name": "Super Hawaiian - Large",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 15.0,
+      "carbs_g": 40.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-large-whole",
+      "name": "Super Hawaiian - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2720.0,
+      "protein_g": 120.0,
+      "carbs_g": 320.0,
+      "fat_g": 104.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7360.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "super-hawaiian-extra-large",
+      "name": "Super Hawaiian - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 16.0,
+      "carbs_g": 42.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-small",
+      "name": "The Meats - Small",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 10.0,
+      "carbs_g": 26.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-small-whole",
+      "name": "The Meats - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1500.0,
+      "protein_g": 60.0,
+      "carbs_g": 156.0,
+      "fat_g": 72.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 4200.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-medium",
+      "name": "The Meats - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 260.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-medium-whole",
+      "name": "The Meats - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 2080.0,
+      "protein_g": 88.0,
+      "carbs_g": 216.0,
+      "fat_g": 88.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 5680.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-large",
+      "name": "The Meats - Large",
+      "description": null,
+      "category": "component",
+      "calories": 380.0,
+      "protein_g": 15.0,
+      "carbs_g": 38.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1040.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-large-whole",
+      "name": "The Meats - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 3040.0,
+      "protein_g": 120.0,
+      "carbs_g": 304.0,
+      "fat_g": 136.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 8320.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-meats-extra-large",
+      "name": "The Meats - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 410.0,
+      "protein_g": 17.0,
+      "carbs_g": 41.0,
+      "fat_g": 19.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1130.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-small",
+      "name": "The Works - Small",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 9.0,
+      "carbs_g": 26.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-small-whole",
+      "name": "The Works - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1380.0,
+      "protein_g": 54.0,
+      "carbs_g": 156.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3540.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-medium",
+      "name": "The Works - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 9.0,
+      "carbs_g": 27.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-medium-whole",
+      "name": "The Works - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 72.0,
+      "carbs_g": 216.0,
+      "fat_g": 72.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4960.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-large",
+      "name": "The Works - Large",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 13.0,
+      "carbs_g": 39.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 890.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-large-whole",
+      "name": "The Works - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2720.0,
+      "protein_g": 104.0,
+      "carbs_g": 312.0,
+      "fat_g": 112.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7120.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "the-works-extra-large",
+      "name": "The Works - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 14.0,
+      "carbs_g": 41.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 940.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-small",
+      "name": "Tuscan Six Cheese - Small",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 9.0,
+      "carbs_g": 26.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-small-whole",
+      "name": "Tuscan Six Cheese - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1320.0,
+      "protein_g": 54.0,
+      "carbs_g": 156.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3180.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-medium",
+      "name": "Tuscan Six Cheese - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 230.0,
+      "protein_g": 10.0,
+      "carbs_g": 27.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-medium-whole",
+      "name": "Tuscan Six Cheese - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 1840.0,
+      "protein_g": 80.0,
+      "carbs_g": 216.0,
+      "fat_g": 72.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 4480.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-large",
+      "name": "Tuscan Six Cheese - Large",
+      "description": null,
+      "category": "component",
+      "calories": 320.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-large-whole",
+      "name": "Tuscan Six Cheese - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2560.0,
+      "protein_g": 112.0,
+      "carbs_g": 304.0,
+      "fat_g": 96.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 6240.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "tuscan-six-cheese-extra-large",
+      "name": "Tuscan Six Cheese - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 330.0,
+      "protein_g": 14.0,
+      "carbs_g": 40.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-small",
+      "name": "Ultimate Pepperoni - Small",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 9.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-small-whole",
+      "name": "Ultimate Pepperoni - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1440.0,
+      "protein_g": 54.0,
+      "carbs_g": 156.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3600.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-medium",
+      "name": "Ultimate Pepperoni - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 10.0,
+      "carbs_g": 27.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-medium-whole",
+      "name": "Ultimate Pepperoni - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 2000.0,
+      "protein_g": 80.0,
+      "carbs_g": 216.0,
+      "fat_g": 88.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 5200.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-large",
+      "name": "Ultimate Pepperoni - Large",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-large-whole",
+      "name": "Ultimate Pepperoni - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2880.0,
+      "protein_g": 112.0,
+      "carbs_g": 304.0,
+      "fat_g": 128.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 7440.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "ultimate-pepperoni-extra-large",
+      "name": "Ultimate Pepperoni - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 370.0,
+      "protein_g": 14.0,
+      "carbs_g": 40.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 940.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-small",
+      "name": "Zesty Italian Trio - Small",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 9.0,
+      "carbs_g": 25.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per slice (1/6 of small pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-small-whole",
+      "name": "Zesty Italian Trio - Whole Small",
+      "description": "6 × published per-slice values, small original crust",
+      "category": "meal",
+      "calories": 1440.0,
+      "protein_g": 54.0,
+      "carbs_g": 150.0,
+      "fat_g": 66.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3960.0,
+      "serving_note": "per whole small pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-medium",
+      "name": "Zesty Italian Trio - Medium",
+      "description": null,
+      "category": "component",
+      "calories": 260.0,
+      "protein_g": 10.0,
+      "carbs_g": 27.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice (1/8 of medium pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-medium-whole",
+      "name": "Zesty Italian Trio - Whole Medium",
+      "description": "8 × published per-slice values, medium original crust",
+      "category": "meal",
+      "calories": 2080.0,
+      "protein_g": 80.0,
+      "carbs_g": 216.0,
+      "fat_g": 96.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 5680.0,
+      "serving_note": "per whole medium pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-large",
+      "name": "Zesty Italian Trio - Large",
+      "description": null,
+      "category": "component",
+      "calories": 370.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per slice (1/8 of large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-large-whole",
+      "name": "Zesty Italian Trio - Whole Large",
+      "description": "8 × published per-slice values, large original crust",
+      "category": "meal",
+      "calories": 2960.0,
+      "protein_g": 112.0,
+      "carbs_g": 304.0,
+      "fat_g": 136.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 8160.0,
+      "serving_note": "per whole large pizza",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "zesty-italian-trio-extra-large",
+      "name": "Zesty Italian Trio - Extra Large",
+      "description": null,
+      "category": "component",
+      "calories": 390.0,
+      "protein_g": 15.0,
+      "carbs_g": 40.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1070.0,
+      "serving_note": "per slice (1/10 of extra large pizza)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-papadia",
+      "name": "Philly Cheesesteak Papadia",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 40.0,
+      "carbs_g": 80.0,
+      "fat_g": 35.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2090.0,
+      "serving_note": "1 Papadia 395g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/papadias.html"
+      }
+    },
+    {
+      "id": "grilled-bbq-chicken-bacon-papadia",
+      "name": "Grilled BBQ Chicken & Bacon Papadia",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 60.0,
+      "carbs_g": 85.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2410.0,
+      "serving_note": "1 Papadia 388g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/papadias.html"
+      }
+    },
+    {
+      "id": "grilled-buffalo-chicken-papadia",
+      "name": "Grilled Buffalo Chicken Papadia",
+      "description": null,
+      "category": "meal",
+      "calories": 920.0,
+      "protein_g": 63.0,
+      "carbs_g": 80.0,
+      "fat_g": 39.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2860.0,
+      "serving_note": "1 Papadia 392g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/papadias.html"
+      }
+    },
+    {
+      "id": "meatball-pepperoni-papadia",
+      "name": "Meatball Pepperoni Papadia",
+      "description": null,
+      "category": "meal",
+      "calories": 940.0,
+      "protein_g": 42.0,
+      "carbs_g": 79.0,
+      "fat_g": 49.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2390.0,
+      "serving_note": "1 Papadia 352g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/papadias.html"
+      }
+    },
+    {
+      "id": "italian-papadia",
+      "name": "Italian Papadia",
+      "description": null,
+      "category": "meal",
+      "calories": 940.0,
+      "protein_g": 38.0,
+      "carbs_g": 76.0,
+      "fat_g": 53.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2670.0,
+      "serving_note": "1 Papadia 350g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/papadias.html"
+      }
+    },
+    {
+      "id": "philly-cheesesteak-oven-toasted-sandwich",
+      "name": "Philly Cheesesteak Oven-Toasted Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 39.0,
+      "carbs_g": 73.0,
+      "fat_g": 37.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2500.0,
+      "serving_note": "1 Sandwich 335g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sandwiches.html"
+      }
+    },
+    {
+      "id": "italian-chicken-bacon-ranch-oven-toasted-sandwich",
+      "name": "Italian Chicken Bacon Ranch Oven-Toasted Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 52.0,
+      "carbs_g": 71.0,
+      "fat_g": 34.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2770.0,
+      "serving_note": "1 Sandwich 335g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sandwiches.html"
+      }
+    },
+    {
+      "id": "steak-mushroom-oven-toasted-sandwich",
+      "name": "Steak & Mushroom Oven-Toasted Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 41.0,
+      "carbs_g": 74.0,
+      "fat_g": 41.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2690.0,
+      "serving_note": "1 Sandwich 345g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sandwiches.html"
+      }
+    },
+    {
+      "id": "unsauced-boneless-wings-10-wings",
+      "name": "Unsauced Boneless Wings - 10 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 49.0,
+      "carbs_g": 41.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1930.0,
+      "serving_note": "per 10 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "unsauced-boneless-wings-15-wings",
+      "name": "Unsauced Boneless Wings - 15 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 74.0,
+      "carbs_g": 62.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2900.0,
+      "serving_note": "per 15 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "unsauced-boneless-wings-30-wings",
+      "name": "Unsauced Boneless Wings - 30 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1910.0,
+      "protein_g": 159.0,
+      "carbs_g": 133.0,
+      "fat_g": 83.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 6240.0,
+      "serving_note": "per 30 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-boneless-wings-10-wings",
+      "name": "Garlic Parmesan Boneless Wings - 10 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 50.0,
+      "carbs_g": 42.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2250.0,
+      "serving_note": "per 10 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-boneless-wings-15-wings",
+      "name": "Garlic Parmesan Boneless Wings - 15 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1070.0,
+      "protein_g": 76.0,
+      "carbs_g": 63.0,
+      "fat_g": 58.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3550.0,
+      "serving_note": "per 15 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-boneless-wings-30-wings",
+      "name": "Garlic Parmesan Boneless Wings - 30 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2170.0,
+      "protein_g": 151.0,
+      "carbs_g": 126.0,
+      "fat_g": 119.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 7230.0,
+      "serving_note": "per 30 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "hot-lemon-pepper-boneless-wings-10-wings",
+      "name": "Hot Lemon Pepper Boneless Wings - 10 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 47.0,
+      "carbs_g": 43.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2830.0,
+      "serving_note": "per 10 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "hot-lemon-pepper-boneless-wings-15-wings",
+      "name": "Hot Lemon Pepper Boneless Wings - 15 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 75.0,
+      "carbs_g": 68.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 4580.0,
+      "serving_note": "per 15 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "hot-lemon-pepper-boneless-wings-30-wings",
+      "name": "Hot Lemon Pepper Boneless Wings - 30 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1810.0,
+      "protein_g": 142.0,
+      "carbs_g": 128.0,
+      "fat_g": 82.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 8540.0,
+      "serving_note": "per 30 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "buffalo-boneless-wings-10-wings",
+      "name": "Buffalo Boneless Wings - 10 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 50.0,
+      "carbs_g": 44.0,
+      "fat_g": 29.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2840.0,
+      "serving_note": "per 10 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "buffalo-boneless-wings-15-wings",
+      "name": "Buffalo Boneless Wings - 15 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1110.0,
+      "protein_g": 87.0,
+      "carbs_g": 77.0,
+      "fat_g": 50.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 4930.0,
+      "serving_note": "per 15 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "buffalo-boneless-wings-30-wings",
+      "name": "Buffalo Boneless Wings - 30 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1890.0,
+      "protein_g": 149.0,
+      "carbs_g": 132.0,
+      "fat_g": 85.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 8520.0,
+      "serving_note": "per 30 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-boneless-wings-10-wings",
+      "name": "BBQ Boneless Wings - 10 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 49.0,
+      "carbs_g": 54.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2190.0,
+      "serving_note": "per 10 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-boneless-wings-15-wings",
+      "name": "BBQ Boneless Wings - 15 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1130.0,
+      "protein_g": 85.0,
+      "carbs_g": 99.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2890.0,
+      "serving_note": "per 15 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-boneless-wings-30-wings",
+      "name": "BBQ Boneless Wings - 30 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1920.0,
+      "protein_g": 148.0,
+      "carbs_g": 160.0,
+      "fat_g": 77.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 6530.0,
+      "serving_note": "per 30 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-boneless-wings-10-wings",
+      "name": "Honey Chipotle Boneless Wings - 10 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 49.0,
+      "carbs_g": 52.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2100.0,
+      "serving_note": "per 10 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-boneless-wings-15-wings",
+      "name": "Honey Chipotle Boneless Wings - 15 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 990.0,
+      "protein_g": 74.0,
+      "carbs_g": 86.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3270.0,
+      "serving_note": "per 15 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-boneless-wings-30-wings",
+      "name": "Honey Chipotle Boneless Wings - 30 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1940.0,
+      "protein_g": 148.0,
+      "carbs_g": 164.0,
+      "fat_g": 77.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 6410.0,
+      "serving_note": "per 30 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "unsauced-roasted-wings-8-wings",
+      "name": "Unsauced Roasted Wings - 8 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 66.0,
+      "carbs_g": 4.0,
+      "fat_g": 57.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1460.0,
+      "serving_note": "per 8 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "unsauced-roasted-wings-16-wings",
+      "name": "Unsauced Roasted Wings - 16 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1620.0,
+      "protein_g": 133.0,
+      "carbs_g": 8.0,
+      "fat_g": 113.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2920.0,
+      "serving_note": "per 16 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "unsauced-roasted-wings-24-wings",
+      "name": "Unsauced Roasted Wings - 24 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2430.0,
+      "protein_g": 199.0,
+      "carbs_g": 12.0,
+      "fat_g": 170.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4380.0,
+      "serving_note": "per 24 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "unsauced-roasted-wings-32-wings",
+      "name": "Unsauced Roasted Wings - 32 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 3240.0,
+      "protein_g": 265.0,
+      "carbs_g": 16.0,
+      "fat_g": 226.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5830.0,
+      "serving_note": "per 32 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "buffalo-wings-8-wings",
+      "name": "Buffalo Wings - 8 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 67.0,
+      "carbs_g": 8.0,
+      "fat_g": 58.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2920.0,
+      "serving_note": "per 8 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "buffalo-wings-16-wings",
+      "name": "Buffalo Wings - 16 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1670.0,
+      "protein_g": 133.0,
+      "carbs_g": 16.0,
+      "fat_g": 115.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5840.0,
+      "serving_note": "per 16 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "buffalo-wings-24-wings",
+      "name": "Buffalo Wings - 24 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2510.0,
+      "protein_g": 200.0,
+      "carbs_g": 24.0,
+      "fat_g": 173.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 8770.0,
+      "serving_note": "per 24 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-wings-8-wings",
+      "name": "BBQ Wings - 8 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 880.0,
+      "protein_g": 67.0,
+      "carbs_g": 20.0,
+      "fat_g": 57.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1940.0,
+      "serving_note": "per 8 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-wings-16-wings",
+      "name": "BBQ Wings - 16 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1750.0,
+      "protein_g": 134.0,
+      "carbs_g": 40.0,
+      "fat_g": 114.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 3880.0,
+      "serving_note": "per 16 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-wings-24-wings",
+      "name": "BBQ Wings - 24 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2630.0,
+      "protein_g": 200.0,
+      "carbs_g": 60.0,
+      "fat_g": 170.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5830.0,
+      "serving_note": "per 24 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bbq-wings-32-wings",
+      "name": "BBQ Wings - 32 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 3500.0,
+      "protein_g": 267.0,
+      "carbs_g": 80.0,
+      "fat_g": 227.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 7770.0,
+      "serving_note": "per 32 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-wings-8-wings",
+      "name": "Garlic Parmesan Wings - 8 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1040.0,
+      "protein_g": 68.0,
+      "carbs_g": 6.0,
+      "fat_g": 81.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2290.0,
+      "serving_note": "per 8 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-wings-16-wings",
+      "name": "Garlic Parmesan Wings - 16 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2080.0,
+      "protein_g": 137.0,
+      "carbs_g": 11.0,
+      "fat_g": 162.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 4580.0,
+      "serving_note": "per 16 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-wings-24-wings",
+      "name": "Garlic Parmesan Wings - 24 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 3120.0,
+      "protein_g": 205.0,
+      "carbs_g": 17.0,
+      "fat_g": 243.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 6870.0,
+      "serving_note": "per 24 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-wings-32-wings",
+      "name": "Garlic Parmesan Wings - 32 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 4160.0,
+      "protein_g": 273.0,
+      "carbs_g": 23.0,
+      "fat_g": 324.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 9160.0,
+      "serving_note": "per 32 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-wings-8-wings",
+      "name": "Honey Chipotle Wings - 8 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 900.0,
+      "protein_g": 67.0,
+      "carbs_g": 27.0,
+      "fat_g": 57.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1810.0,
+      "serving_note": "per 8 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-wings-16-wings",
+      "name": "Honey Chipotle Wings - 16 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1800.0,
+      "protein_g": 133.0,
+      "carbs_g": 55.0,
+      "fat_g": 113.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 3620.0,
+      "serving_note": "per 16 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-wings-24-wings",
+      "name": "Honey Chipotle Wings - 24 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2710.0,
+      "protein_g": 200.0,
+      "carbs_g": 82.0,
+      "fat_g": 170.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 5430.0,
+      "serving_note": "per 24 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "honey-chipotle-wings-32-wings",
+      "name": "Honey Chipotle Wings - 32 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 3610.0,
+      "protein_g": 267.0,
+      "carbs_g": 109.0,
+      "fat_g": 227.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 7240.0,
+      "serving_note": "per 32 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "hot-lemon-pepper-wings-8-wings",
+      "name": "Hot Lemon Pepper Wings - 8 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 960.0,
+      "protein_g": 75.0,
+      "carbs_g": 8.0,
+      "fat_g": 67.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2680.0,
+      "serving_note": "per 8 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "hot-lemon-pepper-wings-16-wings",
+      "name": "Hot Lemon Pepper Wings - 16 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 1910.0,
+      "protein_g": 151.0,
+      "carbs_g": 17.0,
+      "fat_g": 134.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5360.0,
+      "serving_note": "per 16 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "hot-lemon-pepper-wings-24-wings",
+      "name": "Hot Lemon Pepper Wings - 24 wings",
+      "description": null,
+      "category": "meal",
+      "calories": 2870.0,
+      "protein_g": 226.0,
+      "carbs_g": 25.0,
+      "fat_g": 201.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 8040.0,
+      "serving_note": "per 24 wings serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/wings.html"
+      }
+    },
+    {
+      "id": "bacon-cheesy-burger-papa-bites-8-pieces",
+      "name": "Bacon Cheesy Burger Papa Bites - 8 Pieces",
+      "description": null,
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 4.0,
+      "carbs_g": 10.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "1 Papa Bite 8 Papa Bites per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "calzones-papa-bites-8-pieces",
+      "name": "Calzones Papa Bites - 8 Pieces",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 10.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "1 Papa Bite 8 Papa Bites per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "chicken-parmesan-papa-bites-8-pieces",
+      "name": "Chicken Parmesan Papa Bites - 8 Pieces",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 6.0,
+      "carbs_g": 10.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "1 Papa Bite 8 Papa Bites per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "jalape-o-papa-bites-8-pieces",
+      "name": "Jalapeño Papa Bites - 8 Pieces",
+      "description": null,
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 3.0,
+      "carbs_g": 10.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "1 Papa Bite 8 Papa Bites per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "cheesesticks",
+      "name": "Cheesesticks",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 13.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0,
+      "serving_note": "1 stick 16 sticks per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "bacon-cheesesticks",
+      "name": "Bacon Cheesesticks",
+      "description": null,
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 5.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 330.0,
+      "serving_note": "1 stick 16 sticks per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "cheesy-garlic-bread",
+      "name": "Cheesy Garlic Bread",
+      "description": null,
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 6.0,
+      "carbs_g": 12.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 460.0,
+      "serving_note": "1 stick (44g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "tuscan-6-cheese-cheesesticks",
+      "name": "Tuscan 6-Cheese Cheesesticks",
+      "description": null,
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 5.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 310.0,
+      "serving_note": "1 stick 16 sticks per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "breadsticks",
+      "name": "Breadsticks",
+      "description": null,
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 4.0,
+      "carbs_g": 27.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 270.0,
+      "serving_note": "1 stick 10 sticks per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "garlic-parmesan-breadsticks",
+      "name": "Garlic Parmesan Breadsticks",
+      "description": null,
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 4.0,
+      "carbs_g": 27.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 360.0,
+      "serving_note": "1 stick 10 sticks per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "garlic-knots-8-pieces",
+      "name": "Garlic Knots - 8 Pieces",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "1 knot 8 knots per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/sides.html"
+      }
+    },
+    {
+      "id": "salted-caramel-blondie",
+      "name": "Salted Caramel Blondie",
+      "description": null,
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "1 slice 8 slices per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/desserts.html"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookie",
+      "name": "Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 105.0,
+      "serving_note": "1 slice 8 slices per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/desserts.html"
+      }
+    },
+    {
+      "id": "double-chocolate-chip-brownie",
+      "name": "Double Chocolate Chip Brownie",
+      "description": null,
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 34.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 70.0,
+      "serving_note": "1 square 9 squares per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/desserts.html"
+      }
+    },
+    {
+      "id": "oreo-cookie-papa-bites-8-pieces",
+      "name": "OREO® Cookie Papa Bites - 8 Pieces",
+      "description": null,
+      "category": "side",
+      "calories": 80.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "1 Papa Bite 8 Papa Bites per order",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/desserts.html"
+      }
+    },
+    {
+      "id": "cheesy-burger-sauce",
+      "name": "Cheesy Burger Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "doritos-cool-ranch-sauce",
+      "name": "Doritos® Cool Ranch® Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 180.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 560.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "special-zesty-sauce",
+      "name": "Special Zesty Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "pizza-sauce",
+      "name": "Pizza Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "cheese-sauce",
+      "name": "Cheese Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "honey-mustard",
+      "name": "Honey Mustard",
+      "description": null,
+      "category": "condiment",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "buffalo-sauce",
+      "name": "Buffalo Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 900.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "ranch-sauce",
+      "name": "Ranch Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "blue-cheese",
+      "name": "Blue Cheese",
+      "description": null,
+      "category": "condiment",
+      "calories": 160.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "rootin-tootin-ranch",
+      "name": "Rootin' Tootin' Ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "1 cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "creamy-garlic-parm-dip-cup",
+      "name": "Creamy Garlic Parm Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "37g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "roasted-garlic-parm-dip-cup",
+      "name": "Roasted Garlic Parm Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "37g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/dipping-sauces.html"
+      }
+    },
+    {
+      "id": "parmesan-cheese",
+      "name": "Parmesan Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "1 packet",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    },
+    {
+      "id": "crushed-red-pepper",
+      "name": "Crushed Red Pepper",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "1 packet",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    },
+    {
+      "id": "special-seasonings",
+      "name": "Special Seasonings",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 420.0,
+      "serving_note": "1 packet",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    },
+    {
+      "id": "pepperoncinis",
+      "name": "Pepperoncinis",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "10g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    },
+    {
+      "id": "anchovies",
+      "name": "Anchovies",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 4.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "14g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    },
+    {
+      "id": "banana-peppers",
+      "name": "Banana Peppers",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "14g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    },
+    {
+      "id": "jalapeno-peppers",
+      "name": "Jalapeno Peppers",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "14g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.papajohns.com/company/nutritional-details/extras.html"
+      }
+    }
+  ]
+}

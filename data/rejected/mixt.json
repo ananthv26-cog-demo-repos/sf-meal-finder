@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "component-86-baby-spinach",
+      "name": "baby spinach",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 3.0,
+      "carbs_g": 11.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per calculator serving (one '+' in Mixt's nutrition calculator)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mixt.com/nutrition-calculator/"
+      }
+    },
+    "reasons": [
+      "mixt/component-86-baby-spinach: macro check failed — stated 15.0 kcal vs computed 56 (delta +41)"
+    ]
+  }
+]

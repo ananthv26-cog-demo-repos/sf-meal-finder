@@ -1,0 +1,2817 @@
+{
+  "id": "proper-food",
+  "name": "Proper Food",
+  "website": "https://properfood.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "100 First Street, San Francisco, CA 94105",
+      "lat": 37.789152,
+      "lng": -122.3976135,
+      "neighborhood": "SoMa"
+    },
+    {
+      "address": "116 Montgomery St, San Francisco, CA 94102",
+      "lat": 37.790377,
+      "lng": -122.4019257,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "180 Howard St, San Francisco, CA 94105",
+      "lat": 37.791073,
+      "lng": -122.393397,
+      "neighborhood": "SoMa"
+    },
+    {
+      "address": "2 Embarcadero Center, San Francisco, CA 94111",
+      "lat": 37.7947881,
+      "lng": -122.3984101,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "35 Spear St, San Francisco, CA 94104",
+      "lat": 37.7920497,
+      "lng": -122.393204,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "45 Fremont St, San Francisco, CA 94105",
+      "lat": 37.7912489,
+      "lng": -122.3971488,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "525 Market St, San Francisco, CA 94105",
+      "lat": 37.790507,
+      "lng": -122.3990375,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "555 California Street, San Francisco, CA 94104",
+      "lat": 37.7920903,
+      "lng": -122.4036761,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "588 Mission Bay Blvd N, San Francisco, CA 94158",
+      "lat": 37.7712778,
+      "lng": -122.3906509,
+      "neighborhood": "Mission Bay"
+    },
+    {
+      "address": "655 Montgomery St, San Francisco, CA 94111",
+      "lat": 37.7968158,
+      "lng": -122.4049119,
+      "neighborhood": "Financial District"
+    },
+    {
+      "address": "Toni Stone Crossing (Mission Rock), San Francisco, CA 94158",
+      "lat": 37.7754184,
+      "lng": -122.3889959,
+      "neighborhood": "Mission Bay"
+    }
+  ],
+  "items": [
+    {
+      "id": "everything-croissant-sandwich-with-bacon",
+      "name": "Everything Croissant Sandwich with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 21,
+      "carbs_g": 26,
+      "fat_g": 39,
+      "fiber_g": 0,
+      "sodium_mg": 540,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "everything-croissant-sandwich",
+      "name": "Everything Croissant Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 18,
+      "carbs_g": 26,
+      "fat_g": 31,
+      "fiber_g": 0,
+      "sodium_mg": 400,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "rustic-breakfast-wrap-with-chicken-sausage",
+      "name": "Rustic Breakfast Wrap with Chicken Sausage",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 30,
+      "carbs_g": 46,
+      "fat_g": 37,
+      "fiber_g": 2,
+      "sodium_mg": 980,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "rustic-veggie-breakfast-wrap",
+      "name": "Rustic Veggie Breakfast Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 26,
+      "carbs_g": 45,
+      "fat_g": 34,
+      "fiber_g": 2,
+      "sodium_mg": 830,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "a-proper-fruit-cup",
+      "name": "A Proper Fruit Cup",
+      "description": null,
+      "category": "side",
+      "calories": 90,
+      "protein_g": 1,
+      "carbs_g": 23,
+      "fat_g": 0,
+      "fiber_g": 2,
+      "sodium_mg": 15,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-yogurt-parfait-with-strawberry-compote",
+      "name": "Proper Yogurt Parfait with Strawberry Compote",
+      "description": null,
+      "category": "side",
+      "calories": 310,
+      "protein_g": 8,
+      "carbs_g": 50,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 25,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "coconut-chia-pudding",
+      "name": "Coconut Chia Pudding",
+      "description": null,
+      "category": "side",
+      "calories": 170,
+      "protein_g": 2,
+      "carbs_g": 29,
+      "fat_g": 6,
+      "fiber_g": 3,
+      "sodium_mg": 200,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "hearty-breakfast-plate-with-bacon",
+      "name": "Hearty Breakfast Plate with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 28,
+      "carbs_g": 22,
+      "fat_g": 29,
+      "fiber_g": 4,
+      "sodium_mg": 585,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "white-cheddar",
+      "name": "white cheddar",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "protein_g": 5,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 115,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "avocado-puree",
+      "name": "avocado puree",
+      "description": null,
+      "category": "component",
+      "calories": 80,
+      "protein_g": 1,
+      "carbs_g": 4,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 20,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "hearty-breakfast-plate",
+      "name": "Hearty Breakfast Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 23,
+      "carbs_g": 24,
+      "fat_g": 16,
+      "fiber_g": 5,
+      "sodium_mg": 345,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "overnight-oats",
+      "name": "Overnight Oats",
+      "description": null,
+      "category": "side",
+      "calories": 290,
+      "protein_g": 8,
+      "carbs_g": 50,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 75,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "matcha-horchata-overnight-oats",
+      "name": "Matcha Horchata Overnight Oats",
+      "description": null,
+      "category": "side",
+      "calories": 290,
+      "protein_g": 8,
+      "carbs_g": 55,
+      "fat_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 45,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "hardboiled-eggs",
+      "name": "Hardboiled Eggs",
+      "description": null,
+      "category": "side",
+      "calories": 70,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 65,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "egg-white-avocado-plate-with-steak",
+      "name": "Egg White & Avocado Plate with Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 34,
+      "carbs_g": 20,
+      "fat_g": 18,
+      "fiber_g": 3,
+      "sodium_mg": 640,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "feta-cheese",
+      "name": "feta cheese",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 110,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "egg-white-avocado-plate-with-chicken-sausage",
+      "name": "Egg White & Avocado Plate with Chicken Sausage",
+      "description": null,
+      "category": "meal",
+      "calories": 290,
+      "protein_g": 23,
+      "carbs_g": 22,
+      "fat_g": 10,
+      "fiber_g": 3,
+      "sodium_mg": 730,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "farmers-cheese-cup",
+      "name": "Farmers Cheese Cup",
+      "description": null,
+      "category": "side",
+      "calories": 170,
+      "protein_g": 14,
+      "carbs_g": 24,
+      "fat_g": 3,
+      "fiber_g": 1,
+      "sodium_mg": 400,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "summer-salad-with-salmon",
+      "name": "Summer Salad with Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 240,
+      "protein_g": 29,
+      "carbs_g": 11,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 130,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "candied-walnuts",
+      "name": "candied walnuts",
+      "description": null,
+      "category": "component",
+      "calories": 60,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 40,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "feta-cheese-2",
+      "name": "feta cheese",
+      "description": null,
+      "category": "component",
+      "calories": 30,
+      "protein_g": 2,
+      "carbs_g": 0,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 110,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "watermelon-poppy-vinaigrette",
+      "name": "watermelon poppy vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 240,
+      "protein_g": 1,
+      "carbs_g": 7,
+      "fat_g": 24,
+      "fiber_g": 0,
+      "sodium_mg": 430,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "summer-salad-with-salmon-with-watermelon-poppy-vinaigrette",
+      "name": "Summer Salad with Salmon (with watermelon poppy vinaigrette)",
+      "description": "Recipe sum of the published Summer Salad with Salmon row and the full watermelon poppy vinaigrette packet.",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 30,
+      "carbs_g": 18,
+      "fat_g": 32,
+      "fiber_g": 3,
+      "sodium_mg": 560,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "summer-salad-with-chicken",
+      "name": "Summer Salad with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 200,
+      "protein_g": 33,
+      "carbs_g": 11,
+      "fat_g": 2,
+      "fiber_g": 3,
+      "sodium_mg": 430,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "summer-salad-with-chicken-with-watermelon-poppy-vinaigrette",
+      "name": "Summer Salad with Chicken (with watermelon poppy vinaigrette)",
+      "description": "Recipe sum of the published Summer Salad with Chicken row and the full watermelon poppy vinaigrette packet.",
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 34,
+      "carbs_g": 18,
+      "fat_g": 26,
+      "fiber_g": 3,
+      "sodium_mg": 860,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "summer-salad",
+      "name": "Summer Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 150,
+      "protein_g": 12,
+      "carbs_g": 14,
+      "fat_g": 5,
+      "fiber_g": 4,
+      "sodium_mg": 80,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "summer-salad-with-watermelon-poppy-vinaigrette",
+      "name": "Summer Salad (with watermelon poppy vinaigrette)",
+      "description": "Recipe sum of the published Summer Salad row and the full watermelon poppy vinaigrette packet.",
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 13,
+      "carbs_g": 21,
+      "fat_g": 29,
+      "fiber_g": 4,
+      "sodium_mg": 510,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "couscous-spinach-salad-with-salmon",
+      "name": "Couscous & Spinach Salad with Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 630,
+      "protein_g": 31,
+      "carbs_g": 51,
+      "fat_g": 32,
+      "fiber_g": 4,
+      "sodium_mg": 690,
+      "serving_note": "per entire item; heartier portion, often enjoyed as multiple servings, nutrition shown for the entire item; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lemon-vinaigrette",
+      "name": "lemon vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 94,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 64,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "couscous-spinach-salad-with-salmon-with-lemon-vinaigrette",
+      "name": "Couscous & Spinach Salad with Salmon (with lemon vinaigrette)",
+      "description": "Recipe sum of the published Couscous & Spinach Salad with Salmon row and the full lemon vinaigrette packet.",
+      "category": "meal",
+      "calories": 724,
+      "protein_g": 32,
+      "carbs_g": 53,
+      "fat_g": 42,
+      "fiber_g": 4,
+      "sodium_mg": 754,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "couscous-spinach-salad-with-chicken",
+      "name": "Couscous & Spinach Salad with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 616,
+      "protein_g": 38,
+      "carbs_g": 55,
+      "fat_g": 27,
+      "fiber_g": 5,
+      "sodium_mg": 980,
+      "serving_note": "per entire item; heartier portion, often enjoyed as multiple servings, nutrition shown for the entire item; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "couscous-spinach-salad-with-chicken-with-lemon-vinaigrette",
+      "name": "Couscous & Spinach Salad with Chicken (with lemon vinaigrette)",
+      "description": "Recipe sum of the published Couscous & Spinach Salad with Chicken row and the full lemon vinaigrette packet.",
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 39,
+      "carbs_g": 57,
+      "fat_g": 37,
+      "fiber_g": 5,
+      "sodium_mg": 1044,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chinese-chicken-salad",
+      "name": "Chinese Chicken Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 291,
+      "protein_g": 37,
+      "carbs_g": 22,
+      "fat_g": 6,
+      "fiber_g": 4,
+      "sodium_mg": 440,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "sesame-green-onion-dressing",
+      "name": "sesame & green onion dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 239,
+      "protein_g": 3,
+      "carbs_g": 7,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 830,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chinese-chicken-salad-with-sesame-green-onion-dressing",
+      "name": "Chinese Chicken Salad (with sesame & green onion dressing)",
+      "description": "Recipe sum of the published Chinese Chicken Salad row and the full sesame & green onion dressing packet.",
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 40,
+      "carbs_g": 29,
+      "fat_g": 29,
+      "fiber_g": 6,
+      "sodium_mg": 1270,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "wontons",
+      "name": "wontons",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 4.5,
+      "fiber_g": 0,
+      "sodium_mg": 70,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chinese-salad-with-tofu",
+      "name": "Chinese Salad with Tofu",
+      "description": null,
+      "category": "meal",
+      "calories": 241,
+      "protein_g": 15,
+      "carbs_g": 25,
+      "fat_g": 10,
+      "fiber_g": 4,
+      "sodium_mg": 390,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chinese-salad-with-tofu-with-sesame-green-onion-dressing",
+      "name": "Chinese Salad with Tofu (with sesame & green onion dressing)",
+      "description": "Recipe sum of the published Chinese Salad with Tofu row and the full sesame & green onion dressing packet.",
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 18,
+      "carbs_g": 32,
+      "fat_g": 33,
+      "fiber_g": 6,
+      "sodium_mg": 1220,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-salad-with-shrimp",
+      "name": "Green Goodness Salad with Shrimp",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "protein_g": 21,
+      "carbs_g": 25,
+      "fat_g": 7,
+      "fiber_g": 9,
+      "sodium_mg": 680,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-dressing",
+      "name": "green goodness dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 210,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 22,
+      "fiber_g": 0,
+      "sodium_mg": 310,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-salad-with-shrimp-with-green-goodness-dressing",
+      "name": "Green Goodness Salad with Shrimp (with green goodness dressing)",
+      "description": "Recipe sum of the published Green Goodness Salad with Shrimp row and the full green goodness dressing packet.",
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 22,
+      "carbs_g": 31,
+      "fat_g": 29,
+      "fiber_g": 9,
+      "sodium_mg": 990,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-salad-with-chicken",
+      "name": "Green Goodness Salad with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "protein_g": 32,
+      "carbs_g": 24,
+      "fat_g": 3,
+      "fiber_g": 9,
+      "sodium_mg": 310,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-salad-with-chicken-with-green-goodness-dressing",
+      "name": "Green Goodness Salad with Chicken (with green goodness dressing)",
+      "description": "Recipe sum of the published Green Goodness Salad with Chicken row and the full green goodness dressing packet.",
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 33,
+      "carbs_g": 30,
+      "fat_g": 25,
+      "fiber_g": 9,
+      "sodium_mg": 620,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-salad-with-chickpeas",
+      "name": "Green Goodness Salad with Chickpeas",
+      "description": null,
+      "category": "meal",
+      "calories": 190,
+      "protein_g": 12,
+      "carbs_g": 30,
+      "fat_g": 2,
+      "fiber_g": 10,
+      "sodium_mg": 40,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "green-goodness-salad-with-chickpeas-with-green-goodness-dressing",
+      "name": "Green Goodness Salad with Chickpeas (with green goodness dressing)",
+      "description": "Recipe sum of the published Green Goodness Salad with Chickpeas row and the full green goodness dressing packet.",
+      "category": "meal",
+      "calories": 400,
+      "protein_g": 13,
+      "carbs_g": 36,
+      "fat_g": 24,
+      "fiber_g": 10,
+      "sodium_mg": 350,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lemon-quinoa-salad-with-steak",
+      "name": "Lemon Quinoa Salad with Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 33,
+      "carbs_g": 57,
+      "fat_g": 20,
+      "fiber_g": 7,
+      "sodium_mg": 210,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lemon-quinoa-salad",
+      "name": "Lemon Quinoa Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 15,
+      "carbs_g": 68,
+      "fat_g": 13,
+      "fiber_g": 8,
+      "sodium_mg": 180,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "thai-salad-with-chicken",
+      "name": "Thai Salad with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 150,
+      "protein_g": 15,
+      "carbs_g": 15,
+      "fat_g": 4,
+      "fiber_g": 5,
+      "sodium_mg": 370,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "agave-almonds",
+      "name": "agave almonds",
+      "description": null,
+      "category": "component",
+      "calories": 70,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fat_g": 5,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "ginger-vinaigrette",
+      "name": "ginger vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 180,
+      "protein_g": 1,
+      "carbs_g": 18,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 290,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "thai-salad-with-chicken-with-ginger-vinaigrette",
+      "name": "Thai Salad with Chicken (with ginger vinaigrette)",
+      "description": "Recipe sum of the published Thai Salad with Chicken row and the full ginger vinaigrette packet.",
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 16,
+      "carbs_g": 33,
+      "fat_g": 16,
+      "fiber_g": 6,
+      "sodium_mg": 660,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "thai-salad-with-shrimp",
+      "name": "Thai Salad with Shrimp",
+      "description": null,
+      "category": "meal",
+      "calories": 180,
+      "protein_g": 11,
+      "carbs_g": 25,
+      "fat_g": 5,
+      "fiber_g": 6,
+      "sodium_mg": 500,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "thai-salad-with-shrimp-with-ginger-vinaigrette",
+      "name": "Thai Salad with Shrimp (with ginger vinaigrette)",
+      "description": "Recipe sum of the published Thai Salad with Shrimp row and the full ginger vinaigrette packet.",
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 12,
+      "carbs_g": 43,
+      "fat_g": 17,
+      "fiber_g": 7,
+      "sodium_mg": 790,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "thai-salad-with-tofu",
+      "name": "Thai Salad with Tofu",
+      "description": null,
+      "category": "meal",
+      "calories": 140,
+      "protein_g": 9,
+      "carbs_g": 23,
+      "fat_g": 5,
+      "fiber_g": 8,
+      "sodium_mg": 180,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "thai-salad-with-tofu-with-ginger-vinaigrette",
+      "name": "Thai Salad with Tofu (with ginger vinaigrette)",
+      "description": "Recipe sum of the published Thai Salad with Tofu row and the full ginger vinaigrette packet.",
+      "category": "meal",
+      "calories": 320,
+      "protein_g": 10,
+      "carbs_g": 41,
+      "fat_g": 17,
+      "fiber_g": 9,
+      "sodium_mg": 470,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "seared-lemon-pepper-tuna",
+      "name": "Seared Lemon Pepper Tuna",
+      "description": null,
+      "category": "meal",
+      "calories": 500,
+      "protein_g": 32,
+      "carbs_g": 43,
+      "fat_g": 23,
+      "fiber_g": 3,
+      "sodium_mg": 1280,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "sherry-vinaigrette",
+      "name": "sherry vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 90,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "seared-lemon-pepper-tuna-with-sherry-vinaigrette",
+      "name": "Seared Lemon Pepper Tuna (with sherry vinaigrette)",
+      "description": "Recipe sum of the published Seared Lemon Pepper Tuna row and the full sherry vinaigrette packet.",
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 32,
+      "carbs_g": 47,
+      "fat_g": 30,
+      "fiber_g": 3,
+      "sodium_mg": 1490,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chipotle-salmon",
+      "name": "Chipotle Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 340,
+      "protein_g": 31,
+      "carbs_g": 30,
+      "fat_g": 11,
+      "fiber_g": 4,
+      "sodium_mg": 380,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chiptole-cream",
+      "name": "chiptole cream",
+      "description": null,
+      "category": "condiment",
+      "calories": 80,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chipotle-salmon-with-chiptole-cream",
+      "name": "Chipotle Salmon (with chiptole cream)",
+      "description": "Recipe sum of the published Chipotle Salmon row and the full chiptole cream packet.",
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 32,
+      "carbs_g": 31,
+      "fat_g": 18,
+      "fiber_g": 4,
+      "sodium_mg": 400,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chipotle-chicken",
+      "name": "Chipotle Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 280,
+      "protein_g": 31,
+      "carbs_g": 30,
+      "fat_g": 4,
+      "fiber_g": 4,
+      "sodium_mg": 640,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chipotle-chicken-with-chiptole-cream",
+      "name": "Chipotle Chicken (with chiptole cream)",
+      "description": "Recipe sum of the published Chipotle Chicken row and the full chiptole cream packet.",
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 32,
+      "carbs_g": 31,
+      "fat_g": 11,
+      "fiber_g": 4,
+      "sodium_mg": 660,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chipotle-tofu-hot-plate",
+      "name": "Chipotle Tofu Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 250,
+      "protein_g": 12,
+      "carbs_g": 35,
+      "fat_g": 9,
+      "fiber_g": 5,
+      "sodium_mg": 550,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chipotle-tofu-hot-plate-with-chiptole-cream",
+      "name": "Chipotle Tofu Hot Plate (with chiptole cream)",
+      "description": "Recipe sum of the published Chipotle Tofu Hot Plate row and the full chiptole cream packet.",
+      "category": "meal",
+      "calories": 330,
+      "protein_g": 13,
+      "carbs_g": 36,
+      "fat_g": 16,
+      "fiber_g": 5,
+      "sodium_mg": 570,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "salmon-teriyaki-hot-plate",
+      "name": "Salmon Teriyaki Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 449,
+      "protein_g": 37,
+      "carbs_g": 50,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 690,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "teriyaki-sauce",
+      "name": "teriyaki sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 71,
+      "protein_g": 1,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 370,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "salmon-teriyaki-hot-plate-with-teriyaki-sauce",
+      "name": "Salmon Teriyaki Hot Plate (with teriyaki sauce)",
+      "description": "Recipe sum of the published Salmon Teriyaki Hot Plate row and the full teriyaki sauce packet.",
+      "category": "meal",
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 66,
+      "fat_g": 13,
+      "fiber_g": 3,
+      "sodium_mg": 1060,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-enchilada",
+      "name": "Chicken Enchilada",
+      "description": null,
+      "category": "meal",
+      "calories": 539,
+      "protein_g": 48,
+      "carbs_g": 45,
+      "fat_g": 20,
+      "fiber_g": 3,
+      "sodium_mg": 1390,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "iceberg-lettuce",
+      "name": "iceberg lettuce",
+      "description": null,
+      "category": "component",
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "creme-fraiche",
+      "name": "crème fraiche",
+      "description": null,
+      "category": "condiment",
+      "calories": 96,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-enchilada-with-creme-fraiche",
+      "name": "Chicken Enchilada (with crème fraiche)",
+      "description": "Recipe sum of the published Chicken Enchilada row and the full crème fraiche packet.",
+      "category": "meal",
+      "calories": 635,
+      "protein_g": 49,
+      "carbs_g": 46,
+      "fat_g": 30,
+      "fiber_g": 3,
+      "sodium_mg": 1400,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "sweet-potato-enchilada",
+      "name": "Sweet Potato Enchilada",
+      "description": null,
+      "category": "meal",
+      "calories": 519,
+      "protein_g": 17,
+      "carbs_g": 81,
+      "fat_g": 18,
+      "fiber_g": 6,
+      "sodium_mg": 960,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "sweet-potato-enchilada-with-creme-fraiche",
+      "name": "Sweet Potato Enchilada (with crème fraiche)",
+      "description": "Recipe sum of the published Sweet Potato Enchilada row and the full crème fraiche packet.",
+      "category": "meal",
+      "calories": 615,
+      "protein_g": 18,
+      "carbs_g": 82,
+      "fat_g": 28,
+      "fiber_g": 6,
+      "sodium_mg": 970,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "steak-enchilada",
+      "name": "Steak Enchilada",
+      "description": null,
+      "category": "meal",
+      "calories": 649,
+      "protein_g": 47,
+      "carbs_g": 44,
+      "fat_g": 32,
+      "fiber_g": 3,
+      "sodium_mg": 1070,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "steak-enchilada-with-creme-fraiche",
+      "name": "Steak Enchilada (with crème fraiche)",
+      "description": "Recipe sum of the published Steak Enchilada row and the full crème fraiche packet.",
+      "category": "meal",
+      "calories": 745,
+      "protein_g": 48,
+      "carbs_g": 45,
+      "fat_g": 42,
+      "fiber_g": 3,
+      "sodium_mg": 1080,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-steak",
+      "name": "Chimichurri Steak",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 29,
+      "carbs_g": 25,
+      "fat_g": 28,
+      "fiber_g": 4,
+      "sodium_mg": 610,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-sauce",
+      "name": "chimichurri sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 150,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 17,
+      "fiber_g": 0,
+      "sodium_mg": 320,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-steak-with-chimichurri-sauce",
+      "name": "Chimichurri Steak (with chimichurri sauce)",
+      "description": "Recipe sum of the published Chimichurri Steak row and the full chimichurri sauce packet.",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 29,
+      "carbs_g": 27,
+      "fat_g": 45,
+      "fiber_g": 4,
+      "sodium_mg": 930,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-salmon",
+      "name": "Chimichurri Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 410,
+      "protein_g": 35,
+      "carbs_g": 25,
+      "fat_g": 19,
+      "fiber_g": 3,
+      "sodium_mg": 400,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chimichurri-salmon-with-chimichurri-sauce",
+      "name": "Chimichurri Salmon (with chimichurri sauce)",
+      "description": "Recipe sum of the published Chimichurri Salmon row and the full chimichurri sauce packet.",
+      "category": "meal",
+      "calories": 560,
+      "protein_g": 35,
+      "carbs_g": 27,
+      "fat_g": 36,
+      "fiber_g": 3,
+      "sodium_mg": 720,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lean-clean-chicken-hot-plate",
+      "name": "Lean & Clean Chicken Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 405,
+      "protein_g": 42,
+      "carbs_g": 44,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 750,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "bone-broth-sauce",
+      "name": "bone broth sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 15,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lean-clean-chicken-hot-plate-with-bone-broth-sauce",
+      "name": "Lean & Clean Chicken Hot Plate (with bone broth sauce)",
+      "description": "Recipe sum of the published Lean & Clean Chicken Hot Plate row and the full bone broth sauce packet.",
+      "category": "meal",
+      "calories": 420,
+      "protein_g": 43,
+      "carbs_g": 45,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 910,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lean-clean-salmon-hot-plate",
+      "name": "Lean & Clean Salmon Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 375,
+      "protein_g": 26,
+      "carbs_g": 44,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 360,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lean-clean-salmon-hot-plate-with-bone-broth-sauce",
+      "name": "Lean & Clean Salmon Hot Plate (with bone broth sauce)",
+      "description": "Recipe sum of the published Lean & Clean Salmon Hot Plate row and the full bone broth sauce packet.",
+      "category": "meal",
+      "calories": 390,
+      "protein_g": 27,
+      "carbs_g": 45,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 520,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lean-clean-steak-hot-plate",
+      "name": "Lean & Clean Steak Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 595,
+      "protein_g": 39,
+      "carbs_g": 44,
+      "fat_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 660,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lean-clean-steak-hot-plate-with-bone-broth-sauce",
+      "name": "Lean & Clean Steak Hot Plate (with bone broth sauce)",
+      "description": "Recipe sum of the published Lean & Clean Steak Hot Plate row and the full bone broth sauce packet.",
+      "category": "meal",
+      "calories": 610,
+      "protein_g": 40,
+      "carbs_g": 45,
+      "fat_g": 31,
+      "fiber_g": 2,
+      "sodium_mg": 820,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-teriyaki",
+      "name": "Chicken Teriyaki",
+      "description": null,
+      "category": "meal",
+      "calories": 360,
+      "protein_g": 30,
+      "carbs_g": 55,
+      "fat_g": 4,
+      "fiber_g": 3,
+      "sodium_mg": 820,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "teriyaki-sauce-2",
+      "name": "teriyaki sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 1,
+      "carbs_g": 15,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 360,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-teriyaki-with-teriyaki-sauce",
+      "name": "Chicken Teriyaki (with teriyaki sauce)",
+      "description": "Recipe sum of the published Chicken Teriyaki row and the full teriyaki sauce packet.",
+      "category": "meal",
+      "calories": 430,
+      "protein_g": 31,
+      "carbs_g": 70,
+      "fat_g": 4,
+      "fiber_g": 3,
+      "sodium_mg": 1180,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "korean-bbq-beef-stir-fry",
+      "name": "Korean BBQ Beef Stir Fry",
+      "description": null,
+      "category": "meal",
+      "calories": 520,
+      "protein_g": 28,
+      "carbs_g": 63,
+      "fat_g": 16,
+      "fiber_g": 4,
+      "sodium_mg": 290,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "stir-fy-sauce",
+      "name": "stir fy sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70,
+      "protein_g": 1,
+      "carbs_g": 16,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 600,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "korean-bbq-beef-stir-fry-with-stir-fy-sauce",
+      "name": "Korean BBQ Beef Stir Fry (with stir fy sauce)",
+      "description": "Recipe sum of the published Korean BBQ Beef Stir Fry row and the full stir fy sauce packet.",
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 29,
+      "carbs_g": 79,
+      "fat_g": 16,
+      "fiber_g": 4,
+      "sodium_mg": 890,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "coconut-curry-tofu-hot-plate",
+      "name": "Coconut Curry Tofu Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 440,
+      "protein_g": 13,
+      "carbs_g": 60,
+      "fat_g": 15.5,
+      "fiber_g": 2,
+      "sodium_mg": 1120,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "coconut-curry-sauce",
+      "name": "coconut-curry sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 50,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 4.5,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "coconut-curry-tofu-hot-plate-with-coconut-curry-sauce",
+      "name": "Coconut Curry Tofu Hot Plate (with coconut-curry sauce)",
+      "description": "Recipe sum of the published Coconut Curry Tofu Hot Plate row and the full coconut-curry sauce packet.",
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 14,
+      "carbs_g": 61,
+      "fat_g": 20.0,
+      "fiber_g": 2,
+      "sodium_mg": 1250,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "coconut-curry-chicken-hot-plate",
+      "name": "Coconut Curry Chicken Hot Plate",
+      "description": null,
+      "category": "meal",
+      "calories": 480,
+      "protein_g": 27,
+      "carbs_g": 59,
+      "fat_g": 14.5,
+      "fiber_g": 2,
+      "sodium_mg": 1340,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "coconut-curry-chicken-hot-plate-with-coconut-curry-sauce",
+      "name": "Coconut Curry Chicken Hot Plate (with coconut-curry sauce)",
+      "description": "Recipe sum of the published Coconut Curry Chicken Hot Plate row and the full coconut-curry sauce packet.",
+      "category": "meal",
+      "calories": 530,
+      "protein_g": 28,
+      "carbs_g": 60,
+      "fat_g": 19.0,
+      "fiber_g": 2,
+      "sodium_mg": 1470,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "the-mediterranean-salmon",
+      "name": "The Mediterranean Salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 525,
+      "protein_g": 35,
+      "carbs_g": 67,
+      "fat_g": 13,
+      "fiber_g": 8,
+      "sodium_mg": 130,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "tahini-lemon-dressing",
+      "name": "tahini lemon dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 170,
+      "protein_g": 6,
+      "carbs_g": 2,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per full dressing packet provided with the salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "the-mediterranean-salmon-with-tahini-lemon-dressing",
+      "name": "The Mediterranean Salmon (with tahini lemon dressing)",
+      "description": "Recipe sum of the published The Mediterranean Salmon row and the full tahini lemon dressing packet.",
+      "category": "meal",
+      "calories": 695,
+      "protein_g": 41,
+      "carbs_g": 69,
+      "fat_g": 28,
+      "fiber_g": 8,
+      "sodium_mg": 260,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "labneh",
+      "name": "labneh",
+      "description": null,
+      "category": "component",
+      "calories": 45,
+      "protein_g": 3,
+      "carbs_g": 2,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "the-mediterranean-chicken",
+      "name": "The Mediterranean Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 485,
+      "protein_g": 37,
+      "carbs_g": 67,
+      "fat_g": 8,
+      "fiber_g": 8,
+      "sodium_mg": 360,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "the-mediterranean-chicken-with-tahini-lemon-dressing",
+      "name": "The Mediterranean Chicken (with tahini lemon dressing)",
+      "description": "Recipe sum of the published The Mediterranean Chicken row and the full tahini lemon dressing packet.",
+      "category": "meal",
+      "calories": 655,
+      "protein_g": 43,
+      "carbs_g": 69,
+      "fat_g": 23,
+      "fiber_g": 8,
+      "sodium_mg": 490,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "the-mediterranean-veggie",
+      "name": "The Mediterranean Veggie",
+      "description": null,
+      "category": "meal",
+      "calories": 455,
+      "protein_g": 18,
+      "carbs_g": 77,
+      "fat_g": 9,
+      "fiber_g": 11,
+      "sodium_mg": 140,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "the-mediterranean-veggie-with-tahini-lemon-dressing",
+      "name": "The Mediterranean Veggie (with tahini lemon dressing)",
+      "description": "Recipe sum of the published The Mediterranean Veggie row and the full tahini lemon dressing packet.",
+      "category": "meal",
+      "calories": 625,
+      "protein_g": 24,
+      "carbs_g": 79,
+      "fat_g": 24,
+      "fiber_g": 11,
+      "sodium_mg": 270,
+      "serving_note": "salad/plate plus the full dressing packet as provided",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "pasta-salad-with-roasted-artichokes",
+      "name": "Pasta Salad with Roasted Artichokes",
+      "description": null,
+      "category": "side",
+      "calories": 250,
+      "protein_g": 7,
+      "carbs_g": 33,
+      "fat_g": 10,
+      "fiber_g": 2,
+      "sodium_mg": 530,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-breast-add-on-protein",
+      "name": "Grilled Chicken Breast (add-on protein)",
+      "description": null,
+      "category": "component",
+      "calories": 120,
+      "protein_g": 27,
+      "carbs_g": 0,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 330,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "grilled-hanger-steak-add-on-protein",
+      "name": "Grilled Hanger Steak (add-on protein)",
+      "description": null,
+      "category": "component",
+      "calories": 200,
+      "protein_g": 24,
+      "carbs_g": 0,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 470,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "lemon-pepper-organic-tofu-add-on-protein",
+      "name": "Lemon Pepper Organic Tofu (add-on protein)",
+      "description": null,
+      "category": "component",
+      "calories": 130,
+      "protein_g": 10,
+      "carbs_g": 4,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 460,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "line-caught-salmon-add-on-protein",
+      "name": "Line-caught Salmon (add-on protein)",
+      "description": null,
+      "category": "component",
+      "calories": 179,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 10,
+      "fiber_g": 0,
+      "sodium_mg": 47,
+      "serving_note": "per add-on portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "spicy-salmon-poke-go-go",
+      "name": "Spicy Salmon Poke Go-Go",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "protein_g": 15,
+      "carbs_g": 30,
+      "fat_g": 12,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "spicy-tuna-poke-go-go",
+      "name": "Spicy Tuna Poke Go-Go",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 16,
+      "carbs_g": 33,
+      "fat_g": 9,
+      "fiber_g": 2,
+      "sodium_mg": 410,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-chicken-salad-go-go",
+      "name": "Proper Chicken Salad Go-Go",
+      "description": null,
+      "category": "side",
+      "calories": 320,
+      "protein_g": 14,
+      "carbs_g": 11,
+      "fat_g": 22,
+      "fiber_g": 1,
+      "sodium_mg": 580,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chilled-noodle-salad-go-go",
+      "name": "Chilled Noodle Salad Go-Go",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 3,
+      "carbs_g": 19,
+      "fat_g": 17,
+      "fiber_g": 2,
+      "sodium_mg": 360,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "turmeric-paprika-poached-chickpea-salad",
+      "name": "Turmeric-Paprika Poached Chickpea Salad",
+      "description": null,
+      "category": "side",
+      "calories": 280,
+      "protein_g": 12,
+      "carbs_g": 38,
+      "fat_g": 10,
+      "fiber_g": 10,
+      "sodium_mg": 460,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "turkey-avocado-sandwich",
+      "name": "Turkey Avocado Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 44,
+      "carbs_g": 45,
+      "fat_g": 27,
+      "fiber_g": 5,
+      "sodium_mg": 940,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "veggie-garden-sandwich",
+      "name": "Veggie Garden Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 450,
+      "protein_g": 15,
+      "carbs_g": 55,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 650,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-wrap",
+      "name": "Crispy Chicken Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 710,
+      "protein_g": 33,
+      "carbs_g": 75,
+      "fat_g": 29,
+      "fiber_g": 4,
+      "sodium_mg": 2140,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "buffalo-wrap-chicken-with-proper-ranch",
+      "name": "Buffalo Wrap - Chicken with Proper Ranch",
+      "description": null,
+      "category": "meal",
+      "calories": 690,
+      "protein_g": 35,
+      "carbs_g": 65,
+      "fat_g": 32,
+      "fiber_g": 2,
+      "sodium_mg": 1280,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-pb-j",
+      "name": "Proper PB&J",
+      "description": null,
+      "category": "meal",
+      "calories": 490,
+      "protein_g": 14,
+      "carbs_g": 72,
+      "fat_g": 19,
+      "fiber_g": 5,
+      "sodium_mg": 430,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "caprese-sandwich-with-chicken",
+      "name": "Caprese Sandwich with Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 550,
+      "protein_g": 39,
+      "carbs_g": 59,
+      "fat_g": 21,
+      "fiber_g": 3,
+      "sodium_mg": 790,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "caprese-sandwich",
+      "name": "Caprese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 460,
+      "protein_g": 19,
+      "carbs_g": 58,
+      "fat_g": 20,
+      "fiber_g": 3,
+      "sodium_mg": 560,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-salad-sandwich",
+      "name": "Chicken Salad Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 580,
+      "protein_g": 35,
+      "carbs_g": 66,
+      "fat_g": 23,
+      "fiber_g": 1,
+      "sodium_mg": 640,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "moroccan-spiced-steak-sandwich",
+      "name": "Moroccan-Spiced Steak Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 640,
+      "protein_g": 34,
+      "carbs_g": 65,
+      "fat_g": 29,
+      "fiber_g": 2,
+      "sodium_mg": 780,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "moroccan-veggie-wrap",
+      "name": "Moroccan-Veggie Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 15,
+      "carbs_g": 58,
+      "fat_g": 28,
+      "fiber_g": 6,
+      "sodium_mg": 400,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "moroccan-spiced-chicken-wrap",
+      "name": "Moroccan-Spiced Chicken Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 620,
+      "protein_g": 41,
+      "carbs_g": 49,
+      "fat_g": 28,
+      "fiber_g": 5,
+      "sodium_mg": 950,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "harissa-cauliflower-wrap",
+      "name": "Harissa Cauliflower Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 470,
+      "protein_g": 11,
+      "carbs_g": 45,
+      "fat_g": 30,
+      "fiber_g": 3,
+      "sodium_mg": 440,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "beef-sprout-sandwich",
+      "name": "Beef & Sprout Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 670,
+      "protein_g": 41,
+      "carbs_g": 52,
+      "fat_g": 35,
+      "fiber_g": 2,
+      "sodium_mg": 760,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "vegan-wrap",
+      "name": "Vegan Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 510,
+      "protein_g": 18,
+      "carbs_g": 64,
+      "fat_g": 15,
+      "fiber_g": 1,
+      "sodium_mg": 1030,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "turkey-gruyere-croissant-sandwich",
+      "name": "Turkey Gruyere Croissant Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 41,
+      "carbs_g": 25,
+      "fat_g": 30,
+      "fiber_g": 0,
+      "sodium_mg": 480,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-wrap",
+      "name": "Chicken Pesto Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 590,
+      "protein_g": 29,
+      "carbs_g": 45,
+      "fat_g": 33,
+      "fiber_g": 2,
+      "sodium_mg": 1160,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "ham-gruyere-sandwich",
+      "name": "Ham & Gruyere Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 640,
+      "protein_g": 33,
+      "carbs_g": 62,
+      "fat_g": 30,
+      "fiber_g": 1,
+      "sodium_mg": 1970,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-caesar-wrap",
+      "name": "Chicken Caesar Wrap",
+      "description": null,
+      "category": "meal",
+      "calories": 630,
+      "protein_g": 50,
+      "carbs_g": 53,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 1500,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "tomato-soup-with-lemon-oil",
+      "name": "Tomato Soup with Lemon Oil",
+      "description": null,
+      "category": "side",
+      "calories": 60,
+      "protein_g": 2,
+      "carbs_g": 12,
+      "fat_g": 1,
+      "fiber_g": 3,
+      "sodium_mg": 510,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chicken-pozole",
+      "name": "Chicken Pozole",
+      "description": null,
+      "category": "side",
+      "calories": 160,
+      "protein_g": 19,
+      "carbs_g": 13,
+      "fat_g": 5,
+      "fiber_g": 2,
+      "sodium_mg": 740,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-daily-green-jiuce",
+      "name": "Proper Daily Green Jiuce",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 5,
+      "carbs_g": 45,
+      "fat_g": 0,
+      "fiber_g": 10,
+      "sodium_mg": 110,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-gold-juice",
+      "name": "Proper Gold Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 240,
+      "protein_g": 3,
+      "carbs_g": 58,
+      "fat_g": 0.5,
+      "fiber_g": 11,
+      "sodium_mg": 0,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-orange-carrot-ginger-juice",
+      "name": "Proper Orange Carrot Ginger Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 230,
+      "protein_g": 4,
+      "carbs_g": 55,
+      "fat_g": 0,
+      "fiber_g": 10,
+      "sodium_mg": 55,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "strawberry-chia-lemon-aid-with-sea-moss",
+      "name": "Strawberry Chia Lemon-Aid with Sea Moss",
+      "description": null,
+      "category": "drink",
+      "calories": 120,
+      "protein_g": 1,
+      "carbs_g": 31,
+      "fat_g": 0,
+      "fiber_g": 4,
+      "sodium_mg": 5,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-mango-iced-tea",
+      "name": "Proper Mango Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 15,
+      "protein_g": 3,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "oat-milk-cold-brew-coffee",
+      "name": "Oat Milk Cold Brew Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 50,
+      "protein_g": 1,
+      "carbs_g": 8,
+      "fat_g": 0.5,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "cold-brew-coffee",
+      "name": "Cold Brew Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 5,
+      "protein_g": 1,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "cinnamon-mocha-cold-brew-coffee",
+      "name": "Cinnamon Mocha Cold Brew Coffee",
+      "description": null,
+      "category": "drink",
+      "calories": 80,
+      "protein_g": 3,
+      "carbs_g": 14,
+      "fat_g": 1.5,
+      "fiber_g": 1,
+      "sodium_mg": 360,
+      "serving_note": "per bottle",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-cookie",
+      "name": "Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 260,
+      "protein_g": 3,
+      "carbs_g": 35,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 300,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "gluten-free-chocolate-chip-cookie",
+      "name": "Gluten-Free Chocolate Chip Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 290,
+      "protein_g": 3,
+      "carbs_g": 39,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "oatmeal-cookie",
+      "name": "Oatmeal Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 320,
+      "protein_g": 5,
+      "carbs_g": 41,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sodium_mg": 290,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-energy-bar",
+      "name": "Proper Energy Bar",
+      "description": null,
+      "category": "side",
+      "calories": 380,
+      "protein_g": 11,
+      "carbs_g": 45,
+      "fat_g": 18,
+      "fiber_g": 6,
+      "sodium_mg": 210,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "dried-mango",
+      "name": "Dried Mango",
+      "description": null,
+      "category": "side",
+      "calories": 171,
+      "protein_g": 2,
+      "carbs_g": 43,
+      "fat_g": 0,
+      "fiber_g": 1.5,
+      "sodium_mg": 15,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-cheese-plate",
+      "name": "Proper Cheese Plate",
+      "description": null,
+      "category": "side",
+      "calories": 420,
+      "protein_g": 20,
+      "carbs_g": 31,
+      "fat_g": 25,
+      "fiber_g": 1,
+      "sodium_mg": 650,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    },
+    {
+      "id": "proper-hummus-plate",
+      "name": "Proper Hummus Plate",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 11,
+      "carbs_g": 20,
+      "fat_g": 16,
+      "fiber_g": 6,
+      "sodium_mg": 400,
+      "serving_note": "per item, as packaged; dressing/add-ons listed separately",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://properfood.com/wp-content/uploads/2015/05/Nutrition_Allergen_CA.pdf"
+      }
+    }
+  ]
+}

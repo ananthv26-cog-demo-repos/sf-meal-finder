@@ -1,0 +1,417 @@
+{
+  "id": "eriks-delicafe",
+  "name": "Erik's DeliCafé",
+  "website": "https://www.eriksdelicafe.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "425 Mission St, San Francisco, CA 94105",
+      "lat": 37.7897,
+      "lng": -122.3969,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "sour-dough-bread",
+      "name": "Sour Dough Bread",
+      "description": null,
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 8.0,
+      "carbs_g": 46.0,
+      "fat_g": 1.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/sour-dough-bread"
+      }
+    },
+    {
+      "id": "9-grain-wheat-bread",
+      "name": "9-Grain Wheat Bread",
+      "description": null,
+      "category": "side",
+      "calories": 216.0,
+      "protein_g": 7.0,
+      "carbs_g": 47.0,
+      "fat_g": 3.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/9-grain-wheat-bread"
+      }
+    },
+    {
+      "id": "wheat-pita-bread",
+      "name": "Wheat Pita Bread",
+      "description": null,
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/wheat-pita-bread"
+      }
+    },
+    {
+      "id": "6-sweet-french-roll",
+      "name": "6\" Sweet French Roll",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 7.0,
+      "carbs_g": 35.0,
+      "fat_g": 3.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/6-sweet-french-roll"
+      }
+    },
+    {
+      "id": "chicken-salad",
+      "name": "Chicken Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 300.0,
+      "protein_g": 20.0,
+      "carbs_g": 2.0,
+      "fat_g": 23.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/chicken-salad"
+      }
+    },
+    {
+      "id": "chinese-chicken-salad",
+      "name": "Chinese Chicken Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 49.0,
+      "carbs_g": 14.0,
+      "fat_g": 58.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/chinese-chicken-salad"
+      }
+    },
+    {
+      "id": "blue-cheese-salad-dressing",
+      "name": "Blue Cheese Salad Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 100.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 10.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/blue-cheese-salad-dressing"
+      }
+    },
+    {
+      "id": "house-salad-without-dressing",
+      "name": "House Salad without Dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 250.0,
+      "protein_g": 5.0,
+      "carbs_g": 20.0,
+      "fat_g": 17.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/house-salad-without-dressing"
+      }
+    },
+    {
+      "id": "ranch-dressing",
+      "name": "Ranch Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 12.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/ranch-dressing"
+      }
+    },
+    {
+      "id": "tuna-salad",
+      "name": "Tuna Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 230.0,
+      "protein_g": 17.0,
+      "carbs_g": 3.0,
+      "fat_g": 16.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/tuna-salad"
+      }
+    },
+    {
+      "id": "pasta-salad",
+      "name": "Pasta Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 300.0,
+      "protein_g": 7.0,
+      "carbs_g": 29.0,
+      "fat_g": 17.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/pasta-salad"
+      }
+    },
+    {
+      "id": "fruit-salad",
+      "name": "Fruit Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 60.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/fruit-salad"
+      }
+    },
+    {
+      "id": "chicken-pesto-sandwich",
+      "name": "Chicken Pesto Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 57.0,
+      "carbs_g": 53.0,
+      "fat_g": 32.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/chicken-pesto-sandwich"
+      }
+    },
+    {
+      "id": "pilgrim-s-progress-sandwich",
+      "name": "Pilgrim's Progress Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 26.0,
+      "carbs_g": 57.0,
+      "fat_g": 27.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/pilgrims-progress-sandwich"
+      }
+    },
+    {
+      "id": "rio-grande-club",
+      "name": "Rio Grande Club",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 42.0,
+      "carbs_g": 56.0,
+      "fat_g": 38.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/rio-grande-club"
+      }
+    },
+    {
+      "id": "del-monte-special-sandwich",
+      "name": "Del Monte Special Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 860.0,
+      "protein_g": 20.0,
+      "carbs_g": 49.0,
+      "fat_g": 69.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/del-monte-special-sandwich"
+      }
+    },
+    {
+      "id": "raging-bull",
+      "name": "Raging Bull",
+      "description": null,
+      "category": "component",
+      "calories": 650.0,
+      "protein_g": 45.0,
+      "carbs_g": 58.0,
+      "fat_g": 24.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/raging-bull"
+      }
+    },
+    {
+      "id": "pot-belly-sandwich",
+      "name": "Pot Belly Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 52.0,
+      "carbs_g": 57.0,
+      "fat_g": 45.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/pot-belly-sandwich"
+      }
+    },
+    {
+      "id": "chicken-vegetable-with-rice-soup-bowl",
+      "name": "Chicken Vegetable with Rice Soup (Bowl)",
+      "description": null,
+      "category": "meal",
+      "calories": 170.0,
+      "protein_g": 8.0,
+      "carbs_g": 24.0,
+      "fat_g": 6.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/chicken-vegetable-with-rice-soup-(bowl)"
+      }
+    },
+    {
+      "id": "butternut-squash-soup",
+      "name": "Butternut Squash Soup",
+      "description": null,
+      "category": "meal",
+      "calories": 180.0,
+      "protein_g": 3.0,
+      "carbs_g": 21.0,
+      "fat_g": 11.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/butternut-squash-soup"
+      }
+    },
+    {
+      "id": "chicken-vegetable-with-rice-soup-cup",
+      "name": "Chicken Vegetable with Rice Soup (Cup)",
+      "description": null,
+      "category": "meal",
+      "calories": 100.0,
+      "protein_g": 4.0,
+      "carbs_g": 14.0,
+      "fat_g": 3.5,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/chicken-vegetable-with-rice-soup-(cup)"
+      }
+    },
+    {
+      "id": "vegetarian-vegetable-soup",
+      "name": "Vegetarian Vegetable Soup",
+      "description": null,
+      "category": "meal",
+      "calories": 70.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/eriks-delicafe/vegetarian-vegetable-soup"
+      }
+    }
+  ]
+}

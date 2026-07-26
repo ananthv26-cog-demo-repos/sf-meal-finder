@@ -1,0 +1,75 @@
+{
+  "id": "little-caesars",
+  "name": "Little Caesars",
+  "website": "https://littlecaesars.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.datocms-assets.com/95658/1779298904-cr0027232_lj_nutri-info-allergen-ingredient_flyer_mgjur_minew-page-001.jpg",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "955 Geneva Avenue, San Francisco, CA 94112",
+      "lat": 37.7160701,
+      "lng": -122.4399662,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "verified-1",
+      "name": "Large Classic Pepperoni",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.datocms-assets.com/95658/1779298904-cr0027232_lj_nutri-info-allergen-ingredient_flyer_mgjur_minew-page-001.jpg"
+      },
+      "calories": 2300,
+      "protein_g": 109,
+      "carbs_g": 250,
+      "fat_g": 97,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per whole large pizza (8 slices)"
+    },
+    {
+      "id": "verified-2",
+      "name": "Large Classic Cheese",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.datocms-assets.com/95658/1779298904-cr0027232_lj_nutri-info-allergen-ingredient_flyer_mgjur_minew-page-001.jpg"
+      },
+      "calories": 1950,
+      "protein_g": 95,
+      "carbs_g": 248,
+      "fat_g": 65,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per whole large pizza (8 slices)"
+    },
+    {
+      "id": "verified-3",
+      "name": "Large Classic Italian Sausage",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.datocms-assets.com/95658/1779298904-cr0027232_lj_nutri-info-allergen-ingredient_flyer_mgjur_minew-page-001.jpg"
+      },
+      "calories": 2270,
+      "protein_g": 104,
+      "carbs_g": 255,
+      "fat_g": 91,
+      "fiber_g": 0,
+      "sodium_mg": null,
+      "serving_note": "per whole large pizza (8 slices)"
+    }
+  ]
+}

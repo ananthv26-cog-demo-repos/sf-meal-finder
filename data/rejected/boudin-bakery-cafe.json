@@ -1,0 +1,324 @@
+[
+  {
+    "item": {
+      "id": "bacon-peppers-per-serving",
+      "name": "Bacon & Peppers",
+      "description": null,
+      "category": "meal",
+      "calories": 592,
+      "fat_g": 65,
+      "protein_g": 38,
+      "carbs_g": 39,
+      "fiber_g": 5,
+      "sodium_mg": 1478,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/bacon-peppers-per-serving: macro check failed — stated 592 kcal vs computed 893 (delta +301)"
+    ]
+  },
+  {
+    "item": {
+      "id": "turkey-broccoli-per-serving",
+      "name": "Turkey & Broccoli",
+      "description": null,
+      "category": "meal",
+      "calories": 467,
+      "fat_g": 52,
+      "protein_g": 39,
+      "carbs_g": 35,
+      "fiber_g": 5,
+      "sodium_mg": 1585,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/turkey-broccoli-per-serving: macro check failed — stated 467 kcal vs computed 764 (delta +297)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vegetable-per-serving",
+      "name": "Vegetable",
+      "description": null,
+      "category": "meal",
+      "calories": 336,
+      "fat_g": 45,
+      "protein_g": 23,
+      "carbs_g": 35,
+      "fiber_g": 5,
+      "sodium_mg": 1132,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/vegetable-per-serving: macro check failed — stated 336 kcal vs computed 637 (delta +301)"
+    ]
+  },
+  {
+    "item": {
+      "id": "add-chicken-3-5-oz-per-serving",
+      "name": "Add Chicken - 3.5 oz.",
+      "description": null,
+      "category": "component",
+      "calories": 139,
+      "fat_g": 36,
+      "protein_g": 23,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sodium_mg": 397,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/add-chicken-3-5-oz-per-serving: macro check failed — stated 139 kcal vs computed 420 (delta +281)"
+    ]
+  },
+  {
+    "item": {
+      "id": "chili-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Chili with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 655,
+      "fat_g": 18,
+      "protein_g": 32,
+      "carbs_g": 36,
+      "fiber_g": 13,
+      "sodium_mg": 1628,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/chili-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 655 kcal vs computed 434 (delta -221)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vegetarian-chili-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Vegetarian Chili with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 615,
+      "fat_g": 14,
+      "protein_g": 21,
+      "carbs_g": 47,
+      "fiber_g": 13,
+      "sodium_mg": 2068,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/vegetarian-chili-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 615 kcal vs computed 398 (delta -217)"
+    ]
+  },
+  {
+    "item": {
+      "id": "broccoli-cheddar-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Broccoli Cheddar with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 615,
+      "fat_g": 25,
+      "protein_g": 22,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sodium_mg": 1958,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/broccoli-cheddar-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 615 kcal vs computed 385 (delta -230)"
+    ]
+  },
+  {
+    "item": {
+      "id": "butternut-squash-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Butternut Squash with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 595,
+      "fat_g": 18,
+      "protein_g": 13,
+      "carbs_g": 41,
+      "fiber_g": 3,
+      "sodium_mg": 1598,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/butternut-squash-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 595 kcal vs computed 378 (delta -217)"
+    ]
+  },
+  {
+    "item": {
+      "id": "clam-chowder-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Clam Chowder with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 575,
+      "fat_g": 14,
+      "protein_g": 24,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sodium_mg": 1788,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/clam-chowder-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 575 kcal vs computed 342 (delta -233)"
+    ]
+  },
+  {
+    "item": {
+      "id": "garlic-tomato-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Garlic Tomato with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 595,
+      "fat_g": 23,
+      "protein_g": 16,
+      "carbs_g": 23,
+      "fiber_g": 3,
+      "sodium_mg": 1498,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/garlic-tomato-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 595 kcal vs computed 363 (delta -232)"
+    ]
+  },
+  {
+    "item": {
+      "id": "rustic-tomato-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl",
+      "name": "Rustic Tomato with Sourdough Bread Bowl Top",
+      "description": null,
+      "category": "meal",
+      "calories": 515,
+      "fat_g": 17,
+      "protein_g": 14,
+      "carbs_g": 22,
+      "fiber_g": 3,
+      "sodium_mg": 1598,
+      "serving_note": "per sourdough bread bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/rustic-tomato-with-sourdough-bread-bowl-top-per-sourdough-bread-bowl: macro check failed — stated 515 kcal vs computed 297 (delta -218)"
+    ]
+  },
+  {
+    "item": {
+      "id": "chicken-pesto-per-entr-e",
+      "name": "Chicken Pesto",
+      "description": null,
+      "category": "meal",
+      "calories": 660,
+      "fat_g": 30,
+      "protein_g": 41,
+      "carbs_g": 56,
+      "fiber_g": 6,
+      "sodium_mg": 1510,
+      "serving_note": "per entrée",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/chicken-pesto-per-entr-e: duplicate item id"
+    ]
+  },
+  {
+    "item": {
+      "id": "farro-asparagussalad-vegetarian-add-for-2-oz-dressing-per-entr-e-salad",
+      "name": "Farro & AsparagusSalad - (vegetarian) - add for 2 oz. dressing",
+      "description": null,
+      "category": "meal",
+      "calories": 463,
+      "fat_g": 11,
+      "protein_g": 20,
+      "carbs_g": 51,
+      "fiber_g": 10,
+      "sodium_mg": 86,
+      "serving_note": "per entrée salad",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/farro-asparagussalad-vegetarian-add-for-2-oz-dressing-per-entr-e-salad: macro check failed — stated 463 kcal vs computed 383 (delta -80)"
+    ]
+  },
+  {
+    "item": {
+      "id": "oatmeal-raisin-per-serving",
+      "name": "Oatmeal Raisin",
+      "description": null,
+      "category": "side",
+      "calories": 330,
+      "fat_g": 6,
+      "protein_g": 5,
+      "carbs_g": 54,
+      "fiber_g": 3,
+      "sodium_mg": 270,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://boudinbakery.com/wp-content/uploads/2017/06/Boudin-Nutritional-Brochure-2.pdf"
+      }
+    },
+    "reasons": [
+      "boudin-bakery-cafe/oatmeal-raisin-per-serving: macro check failed — stated 330 kcal vs computed 290 (delta -40)"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "fish-chips",
+      "name": "Fish & Chips",
+      "description": null,
+      "category": "meal",
+      "calories": 1112.63,
+      "protein_g": 26.0,
+      "fat_g": 50.0,
+      "carbs_g": 143.0,
+      "fiber_g": 16.64,
+      "sodium_mg": 13644.0,
+      "serving_note": "per 752 g serving (as served)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://drive.usercontent.google.com/download?id=1qvcWmJjT0oXq9dyjquepuwKjdnEVSR9w&export=download&confirm=t"
+      }
+    },
+    "reasons": [
+      "kitava/fish-chips: sodium_mg 13644.0 implausibly high"
+    ]
+  }
+]

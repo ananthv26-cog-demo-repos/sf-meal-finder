@@ -1,0 +1,831 @@
+{
+  "id": "vitality-bowls",
+  "name": "Vitality Bowls",
+  "website": "https://vitalitybowls.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "270 5th St, San Francisco, CA 94103",
+      "lat": 37.7807381,
+      "lng": -122.4041191,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "dragonbowl-s",
+      "name": "DragonBowl (S)",
+      "description": null,
+      "category": "meal",
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 37.0,
+      "fat_g": 4.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "dragonbowl-m",
+      "name": "DragonBowl (M)",
+      "description": null,
+      "category": "meal",
+      "calories": 270.0,
+      "protein_g": 4.0,
+      "carbs_g": 52.0,
+      "fat_g": 4.5,
+      "fiber_g": 17.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per M bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "dragonbowl-l",
+      "name": "DragonBowl (L)",
+      "description": null,
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 5.0,
+      "carbs_g": 83.0,
+      "fat_g": 5.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per L bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "nuttybowl-s",
+      "name": "NuttyBowl (S)",
+      "description": null,
+      "category": "meal",
+      "calories": 360.0,
+      "protein_g": 7.0,
+      "carbs_g": 46.0,
+      "fat_g": 14.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "nuttybowl-m",
+      "name": "NuttyBowl (M)",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 10.0,
+      "carbs_g": 70.0,
+      "fat_g": 18.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per M bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "nuttybowl-l",
+      "name": "NuttyBowl (L)",
+      "description": null,
+      "category": "meal",
+      "calories": 830.0,
+      "protein_g": 17.0,
+      "carbs_g": 115.0,
+      "fat_g": 30.0,
+      "fiber_g": 23.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per L bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "superfoodbowl-s",
+      "name": "SuperfoodBowl (S)",
+      "description": null,
+      "category": "meal",
+      "calories": 330.0,
+      "protein_g": 5.0,
+      "carbs_g": 54.0,
+      "fat_g": 9.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "superfoodbowl-m",
+      "name": "SuperfoodBowl (M)",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 7.0,
+      "carbs_g": 74.0,
+      "fat_g": 11.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per M bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "superfoodbowl-l",
+      "name": "SuperfoodBowl (L)",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 10.0,
+      "carbs_g": 109.0,
+      "fat_g": 17.0,
+      "fiber_g": 26.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per L bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "tropical-bowl-s",
+      "name": "Tropical Bowl (S)",
+      "description": null,
+      "category": "meal",
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 45.0,
+      "fat_g": 7.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "tropical-bowl-m",
+      "name": "Tropical Bowl (M)",
+      "description": null,
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 6.0,
+      "carbs_g": 77.0,
+      "fat_g": 12.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per M bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "vitalitybowl-l",
+      "name": "VitalityBowl (L)",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 8.0,
+      "carbs_g": 107.0,
+      "fat_g": 13.0,
+      "fiber_g": 23.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per L bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "warrior-bowl-s",
+      "name": "Warrior Bowl (S)",
+      "description": null,
+      "category": "meal",
+      "calories": 280.0,
+      "protein_g": 5.0,
+      "carbs_g": 44.0,
+      "fat_g": 8.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per S bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "warrior-bowl-m",
+      "name": "Warrior Bowl (M)",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 7.0,
+      "carbs_g": 69.0,
+      "fat_g": 12.0,
+      "fiber_g": 17.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per M bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "warrior-bowl-l",
+      "name": "Warrior Bowl (L)",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 10.0,
+      "carbs_g": 105.0,
+      "fat_g": 18.0,
+      "fiber_g": 25.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per L bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "side-of-fruit",
+      "name": "Side of Fruit",
+      "description": null,
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "almond-butter",
+      "name": "Almond Butter",
+      "description": null,
+      "category": "component",
+      "calories": 42.0,
+      "protein_g": 1.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "description": null,
+      "category": "component",
+      "calories": 12.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "bee-pollen",
+      "name": "Bee Pollen",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "cacao-nibs",
+      "name": "Cacao Nibs",
+      "description": null,
+      "category": "component",
+      "calories": 47.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "chia-seeds",
+      "name": "Chia Seeds",
+      "description": null,
+      "category": "component",
+      "calories": 34.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "goji-berries",
+      "name": "Goji Berries",
+      "description": null,
+      "category": "component",
+      "calories": 11.0,
+      "protein_g": 0.0,
+      "carbs_g": 0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 2.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "hemp-seeds",
+      "name": "Hemp Seeds",
+      "description": null,
+      "category": "component",
+      "calories": 11.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "pina-colada-s",
+      "name": "Pina Colada (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 5.0,
+      "carbs_g": 52.0,
+      "fat_g": 2.5,
+      "fiber_g": 15.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "pina-colada-l",
+      "name": "Pina Colada (L)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 10.0,
+      "carbs_g": 64.0,
+      "fat_g": 4.5,
+      "fiber_g": 22.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per L smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "acai-elixir-s",
+      "name": "Acai Elixir (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 4.0,
+      "carbs_g": 58.0,
+      "fat_g": 1.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per S juice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "acai-elixir-l",
+      "name": "Acai Elixir (L)",
+      "description": null,
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 7.0,
+      "carbs_g": 77.0,
+      "fat_g": 1.5,
+      "fiber_g": 17.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per L juice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "dragon-s",
+      "name": "Dragon (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 47.0,
+      "fat_g": 1.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "dragon-l",
+      "name": "Dragon (L)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 1.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per L smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "go-green-l",
+      "name": "Go Green (L)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 6.0,
+      "carbs_g": 44.0,
+      "fat_g": 4.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per L juice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "go-green-s",
+      "name": "Go Green (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 6.0,
+      "carbs_g": 48.0,
+      "fat_g": 2.5,
+      "fiber_g": 12.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per S juice",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "matcha-madness-l",
+      "name": "Matcha Madness (L)",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 10.0,
+      "carbs_g": 83.0,
+      "fat_g": 4.0,
+      "fiber_g": 25.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per L smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "temptation-s",
+      "name": "Temptation (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 5.0,
+      "carbs_g": 67.0,
+      "fat_g": 2.5,
+      "fiber_g": 10.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "temptation-l",
+      "name": "Temptation (L)",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 9.0,
+      "carbs_g": 87.0,
+      "fat_g": 4.5,
+      "fiber_g": 17.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per L smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "tropical-paradise-s",
+      "name": "Tropical Paradise (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 5.0,
+      "carbs_g": 53.0,
+      "fat_g": 1.5,
+      "fiber_g": 13.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "power-protein-s",
+      "name": "Power Protein (S)",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 5.0,
+      "carbs_g": 61.0,
+      "fat_g": 1.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per S smoothie",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "superseed-avocado",
+      "name": "Superseed Avocado",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 14.0,
+      "carbs_g": 44.0,
+      "fat_g": 15.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "wholesome",
+      "name": "Wholesome",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 28.0,
+      "carbs_g": 89.0,
+      "fat_g": 37.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1701.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "pb-chia-jam",
+      "name": "PB & Chia Jam",
+      "description": null,
+      "category": "meal",
+      "calories": 750.0,
+      "protein_g": 22.0,
+      "carbs_g": 108.0,
+      "fat_g": 30.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "kids-pb-j",
+      "name": "Kids PB&J",
+      "description": null,
+      "category": "side",
+      "calories": 530.0,
+      "protein_g": 25.0,
+      "carbs_g": 75.0,
+      "fat_g": 15.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 920.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "chimichurri",
+      "name": "Chimichurri",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 21.0,
+      "carbs_g": 46.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 730.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "supergreen",
+      "name": "Supergreen",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 18.0,
+      "carbs_g": 54.0,
+      "fat_g": 28.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1580.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "mighty-med",
+      "name": "Mighty Med",
+      "description": null,
+      "category": "meal",
+      "calories": 550.0,
+      "protein_g": 16.0,
+      "carbs_g": 47.0,
+      "fat_g": 33.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1610.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "power-pesto",
+      "name": "Power Pesto",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 27.0,
+      "carbs_g": 43.0,
+      "fat_g": 29.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1490.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    },
+    {
+      "id": "green-glow",
+      "name": "Green Glow",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 34.0,
+      "carbs_g": 49.0,
+      "fat_g": 26.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1580.0,
+      "serving_note": "per portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://vitalitybowls.com/wp-content/uploads/2025/05/Nutritional-Guide-VB_MAY-2025_new-granola.pdf"
+      }
+    }
+  ]
+}

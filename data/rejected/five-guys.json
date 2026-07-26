@@ -1,0 +1,140 @@
+[
+  {
+    "item": {
+      "id": "published-hamburger-patty",
+      "name": "Hamburger Patty",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 65 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 302.0,
+      "protein_g": 16.0,
+      "carbs_g": 0.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    "reasons": [
+      "five-guys/published-hamburger-patty: macro check failed — stated 302.0 kcal vs computed 217 (delta -85)"
+    ]
+  },
+  {
+    "item": {
+      "id": "published-hot-dog-supplier-k",
+      "name": "Hot Dog (Supplier K)",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 90 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 260.0,
+      "protein_g": 11.0,
+      "carbs_g": 460.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0
+    },
+    "reasons": [
+      "five-guys/published-hot-dog-supplier-k: macro check failed — stated 260.0 kcal vs computed 2100 (delta +1840)"
+    ]
+  },
+  {
+    "item": {
+      "id": "published-banana",
+      "name": "Banana",
+      "description": null,
+      "category": "component",
+      "serving_note": "per 80 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 160.0,
+      "protein_g": 1.0,
+      "carbs_g": 51.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 5.0
+    },
+    "reasons": [
+      "five-guys/published-banana: macro check failed — stated 160.0 kcal vs computed 217 (delta +57)"
+    ]
+  },
+  {
+    "item": {
+      "id": "hamburger",
+      "name": "Hamburger",
+      "description": "Derived standard build: 2 x Hamburger Patty, 1 x Bun. Sum of Five Guys published component nutrition.",
+      "category": "meal",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 844.0,
+      "protein_g": 39.0,
+      "carbs_g": 39.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 430.0
+    },
+    "reasons": [
+      "five-guys/hamburger: macro check failed — stated 844.0 kcal vs computed 699 (delta -145)"
+    ]
+  },
+  {
+    "item": {
+      "id": "cheeseburger",
+      "name": "Cheeseburger",
+      "description": "Derived standard build: 2 x Hamburger Patty, 1 x Bun, 2 x Cheese (1 slice) (Supplier S). Sum of Five Guys published component nutrition.",
+      "category": "meal",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 984.0,
+      "protein_g": 45.0,
+      "carbs_g": 41.0,
+      "fat_g": 55.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1090.0
+    },
+    "reasons": [
+      "five-guys/cheeseburger: macro check failed — stated 984.0 kcal vs computed 839 (delta -145)"
+    ]
+  },
+  {
+    "item": {
+      "id": "bacon-cheeseburger",
+      "name": "Bacon Cheeseburger",
+      "description": "Derived standard build: 2 x Hamburger Patty, 1 x Bun, 2 x Cheese (1 slice) (Supplier S), 1 x Bacon (2 pieces) (Supplier S). Sum of Five Guys published component nutrition.",
+      "category": "meal",
+      "serving_note": "per standard assembled order",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.fiveguys.com/wp-content/uploads/2025/07/five-guys-us-nutrition-allergen-guide-english-1-final.pdf"
+      },
+      "calories": 1054.0,
+      "protein_g": 50.0,
+      "carbs_g": 41.0,
+      "fat_g": 61.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1300.0
+    },
+    "reasons": [
+      "five-guys/bacon-cheeseburger: macro check failed — stated 1054.0 kcal vs computed 913 (delta -141)"
+    ]
+  }
+]

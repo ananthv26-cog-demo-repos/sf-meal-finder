@@ -1,0 +1,99 @@
+{
+  "id": "joe-and-the-juice",
+  "name": "Joe & The Juice",
+  "website": "https://joejuice.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "525 Market St, San Francisco, CA 94105",
+      "lat": 37.7897,
+      "lng": -122.4008,
+      "neighborhood": "SoMa"
+    },
+    {
+      "address": "50 California St, San Francisco, CA 94111",
+      "lat": 37.7935,
+      "lng": -122.397,
+      "neighborhood": "Financial District"
+    }
+  ],
+  "items": [
+    {
+      "id": "avocado-sandwich",
+      "name": "Avocado Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 485.0,
+      "protein_g": 22.0,
+      "carbs_g": 46.0,
+      "fat_g": 27.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice/avocado-sandwich"
+      }
+    },
+    {
+      "id": "eggcado-bowl",
+      "name": "Eggcado Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 159.0,
+      "protein_g": 6.0,
+      "carbs_g": 4.0,
+      "fat_g": 13.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice/eggcado-bowl"
+      }
+    },
+    {
+      "id": "tunacado",
+      "name": "Tunacado",
+      "description": null,
+      "category": "meal",
+      "calories": 463.0,
+      "protein_g": 25.0,
+      "carbs_g": 42.0,
+      "fat_g": 22.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice/tunacado"
+      }
+    },
+    {
+      "id": "spicy-tuna-sandwich",
+      "name": "Spicy Tuna Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 415.0,
+      "protein_g": 15.0,
+      "carbs_g": 48.0,
+      "fat_g": 19.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by FatSecret)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/joe-the-juice/spicy-tuna-sandwich"
+      }
+    }
+  ]
+}

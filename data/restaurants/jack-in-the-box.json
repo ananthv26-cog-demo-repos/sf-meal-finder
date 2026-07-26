@@ -1,0 +1,1653 @@
+{
+  "id": "jack-in-the-box",
+  "name": "Jack in the Box",
+  "website": "https://www.jackinthebox.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "366 Bayshore Blvd, San Francisco, CA 94124",
+      "lat": 37.74195,
+      "lng": -122.40585,
+      "neighborhood": null
+    },
+    {
+      "address": "400 Geary St, San Francisco, CA 94102",
+      "lat": 37.787232,
+      "lng": -122.409985,
+      "neighborhood": null
+    },
+    {
+      "address": "4649 Geary Blvd, San Francisco, CA 94118",
+      "lat": 37.78071,
+      "lng": -122.469109,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "bacon-swiss-buttery-jack",
+      "name": "Bacon & Swiss Buttery Jack",
+      "description": null,
+      "category": "condiment",
+      "calories": 800.0,
+      "protein_g": 34.0,
+      "carbs_g": 48.0,
+      "fat_g": 53.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per 221 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "bacon-ultimate-cheeseburger",
+      "name": "Bacon Ultimate Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 930.0,
+      "protein_g": 55.0,
+      "carbs_g": 32.0,
+      "fat_g": 65.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1960.0,
+      "serving_note": "per 273 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "cheeseburger",
+      "name": "Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per 120 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "hamburger",
+      "name": "Hamburger",
+      "description": null,
+      "category": "meal",
+      "calories": 330.0,
+      "protein_g": 13.0,
+      "carbs_g": 30.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per 108 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jr-bacon-cheeseburger",
+      "name": "Jr. Bacon Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 470.0,
+      "protein_g": 18.0,
+      "carbs_g": 30.0,
+      "fat_g": 31.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 130 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jr-jumbo-jack",
+      "name": "Jr. Jumbo Jack",
+      "description": null,
+      "category": "meal",
+      "calories": 400.0,
+      "protein_g": 14.0,
+      "carbs_g": 31.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 151 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jr-jumbo-jack-cheeseburger",
+      "name": "Jr. Jumbo Jack Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 16.0,
+      "carbs_g": 31.0,
+      "fat_g": 29.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 900.0,
+      "serving_note": "per 162 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jumbo-jack",
+      "name": "Jumbo Jack",
+      "description": null,
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 23.0,
+      "carbs_g": 32.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 216 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "teriyaki-grilled-chicken-bowl",
+      "name": "Teriyaki Grilled Chicken Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 590.0,
+      "protein_g": 28.0,
+      "carbs_g": 100.0,
+      "fat_g": 8.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1910.0,
+      "serving_note": "per 461 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "teriyaki-grilled-chicken-bowl-brown-rice",
+      "name": "Teriyaki Grilled Chicken Bowl (Brown Rice)",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 29.0,
+      "carbs_g": 95.0,
+      "fat_g": 10.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1910.0,
+      "serving_note": "per 461 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chicken-nuggets-4-pc",
+      "name": "Chicken Nuggets (4 pc.)",
+      "description": null,
+      "category": "meal",
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 10.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 61 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chicken-nuggets-8-pc",
+      "name": "Chicken Nuggets (8 pc.)",
+      "description": null,
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 15.0,
+      "carbs_g": 20.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per 122 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chicken-sandwich",
+      "name": "Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 15.0,
+      "carbs_g": 40.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 940.0,
+      "serving_note": "per 181 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chicken-sandwich-with-bacon",
+      "name": "Chicken Sandwich with Bacon",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 19.0,
+      "carbs_g": 40.0,
+      "fat_g": 42.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per 190 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "crispy-chicken-strips-5-pc",
+      "name": "Crispy Chicken Strips (5 pc.)",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 54.0,
+      "carbs_g": 53.0,
+      "fat_g": 38.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2940.0,
+      "serving_note": "per 301 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "fish-sandwich-seasonal",
+      "name": "Fish Sandwich (seasonal)",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 16.0,
+      "carbs_g": 47.0,
+      "fat_g": 23.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 185 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "homestyle-ranch-chicken-club",
+      "name": "Homestyle Ranch Chicken Club",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 35.0,
+      "carbs_g": 69.0,
+      "fat_g": 42.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1930.0,
+      "serving_note": "per 306 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jack-s-spicy-chicken-sandwich",
+      "name": "Jack's Spicy Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 27.0,
+      "carbs_g": 51.0,
+      "fat_g": 42.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1360.0,
+      "serving_note": "per 265 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jack-s-spicy-chicken-sandwich-with-cheese",
+      "name": "Jack's Spicy Chicken Sandwich with Cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 29.0,
+      "carbs_g": 51.0,
+      "fat_g": 45.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1510.0,
+      "serving_note": "per 277 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "southwest-salad-with-grilled-chicken",
+      "name": "Southwest Salad with Grilled Chicken*",
+      "description": null,
+      "category": "meal",
+      "calories": 290.0,
+      "protein_g": 30.0,
+      "carbs_g": 25.0,
+      "fat_g": 9.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 800.0,
+      "serving_note": "per 334 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "egg-roll-1-pc",
+      "name": "Egg Roll (1 pc.)",
+      "description": null,
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 7.0,
+      "carbs_g": 20.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per 88 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "egg-roll-3-pc",
+      "name": "Egg Roll (3 pc.)",
+      "description": null,
+      "category": "side",
+      "calories": 570.0,
+      "protein_g": 21.0,
+      "carbs_g": 60.0,
+      "fat_g": 30.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1470.0,
+      "serving_note": "per 258 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "french-fries-small",
+      "name": "French Fries (Small)",
+      "description": null,
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 40.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per 94 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "french-fries-medium",
+      "name": "French Fries (Medium)",
+      "description": null,
+      "category": "side",
+      "calories": 430.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per 137 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "french-fries-large",
+      "name": "French Fries (Large)",
+      "description": null,
+      "category": "side",
+      "calories": 550.0,
+      "protein_g": 6.0,
+      "carbs_g": 75.0,
+      "fat_g": 25.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1010.0,
+      "serving_note": "per 176 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "panko-onion-rings",
+      "name": "Panko Onion Rings",
+      "description": null,
+      "category": "side",
+      "calories": 440.0,
+      "protein_g": 6.0,
+      "carbs_g": 52.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per 118 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "seasoned-curly-fries-small",
+      "name": "Seasoned Curly Fries (Small)",
+      "description": null,
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 3.0,
+      "carbs_g": 30.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 610.0,
+      "serving_note": "per 85 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "bacon-breakfast-jack",
+      "name": "Bacon Breakfast Jack",
+      "description": null,
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 17.0,
+      "carbs_g": 30.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per 123 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "breakfast-jack",
+      "name": "Breakfast Jack",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 16.0,
+      "carbs_g": 26.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1180.0,
+      "serving_note": "per 128 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "extreme-sausage-sandwich",
+      "name": "Extreme Sausage Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 5.0,
+      "carbs_g": 25.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per 68 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "grande-sausage-burrito-with-salsa",
+      "name": "Grande Sausage Burrito (with salsa)",
+      "description": null,
+      "category": "meal",
+      "calories": 1040.0,
+      "protein_g": 39.0,
+      "carbs_g": 68.0,
+      "fat_g": 69.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1900.0,
+      "serving_note": "per 368 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "grande-sausage-burrito-no-salsa",
+      "name": "Grande Sausage Burrito (no salsa)",
+      "description": null,
+      "category": "meal",
+      "calories": 1040.0,
+      "protein_g": 39.0,
+      "carbs_g": 66.0,
+      "fat_g": 69.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1780.0,
+      "serving_note": "per 344 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "hash-brown",
+      "name": "Hash Brown",
+      "description": null,
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 64 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "loaded-breakfast-sandwich",
+      "name": "Loaded Breakfast Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 35.0,
+      "carbs_g": 36.0,
+      "fat_g": 46.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1620.0,
+      "serving_note": "per 239 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "meat-lovers-breakfast-burrito-no-salsa",
+      "name": "Meat Lovers Breakfast Burrito (no salsa)",
+      "description": null,
+      "category": "meal",
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 17.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 64 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "sausage-breakfast-jack",
+      "name": "Sausage Breakfast Jack",
+      "description": null,
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 21.0,
+      "carbs_g": 47.0,
+      "fat_g": 39.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per 267 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "sausage-croissant",
+      "name": "Sausage Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 36.0,
+      "carbs_g": 36.0,
+      "fat_g": 47.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1690.0,
+      "serving_note": "per 242 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "ultimate-breakfast-sandwich",
+      "name": "Ultimate Breakfast Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 29.0,
+      "carbs_g": 30.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1470.0,
+      "serving_note": "per 211 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "the-cluck-chicken-sandwich",
+      "name": "The Cluck Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 28.0,
+      "carbs_g": 68.0,
+      "fat_g": 37.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1610.0,
+      "serving_note": "per 229 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "ultimate-cheeseburger",
+      "name": "Ultimate Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 47.0,
+      "carbs_g": 31.0,
+      "fat_g": 59.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1550.0,
+      "serving_note": "per 254 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "halfsies-a-al-carte",
+      "name": "Halfsies (a al carte)",
+      "description": null,
+      "category": "meal",
+      "calories": 390.0,
+      "protein_g": 5.0,
+      "carbs_g": 46.0,
+      "fat_g": 21.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per 122 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "halfsies-in-munchie-meal",
+      "name": "Halfsies (in Munchie Meal)",
+      "description": null,
+      "category": "meal",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 53.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per 140 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "onion-rings-4-pc",
+      "name": "Onion Rings (4 pc)",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 26.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per 59 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "two-tacos",
+      "name": "Two Tacos",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 12.0,
+      "carbs_g": 33.0,
+      "fat_g": 19.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 167 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chocolate-overload-cake",
+      "name": "Chocolate Overload Cake",
+      "description": null,
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 4.0,
+      "carbs_g": 57.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 93 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "mini-churros-5-pc",
+      "name": "Mini Churros (5 pc.)",
+      "description": null,
+      "category": "side",
+      "calories": 350.0,
+      "protein_g": 4.0,
+      "carbs_g": 42.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per 86 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "new-york-style-cheesecake",
+      "name": "New York Style Cheesecake",
+      "description": null,
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 7.0,
+      "carbs_g": 32.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 92 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "rg-chocolate-shake-with-whipped-topping-16-oz",
+      "name": "Rg Chocolate Shake with Whipped Topping - 16 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 670.0,
+      "protein_g": 14.0,
+      "carbs_g": 106.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per 376 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "lg-chocolate-shake-with-whipped-topping-24-oz",
+      "name": "Lg Chocolate Shake with Whipped Topping - 24 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 970.0,
+      "protein_g": 20.0,
+      "carbs_g": 157.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per 549 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "rg-oreo-shake-with-whipped-topping-16-oz",
+      "name": "Rg Oreo Shake with Whipped Topping - 16 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 690.0,
+      "protein_g": 14.0,
+      "carbs_g": 99.0,
+      "fat_g": 27.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 361 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "lg-oreo-shake-with-whipped-topping-24oz",
+      "name": "Lg Oreo Shake with Whipped Topping - 24oz",
+      "description": null,
+      "category": "drink",
+      "calories": 990.0,
+      "protein_g": 20.0,
+      "carbs_g": 146.0,
+      "fat_g": 37.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 690.0,
+      "serving_note": "per 526 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "rg-strawberry-shake-with-whipped-topping-16-oz",
+      "name": "Rg Strawberry Shake with Whipped Topping - 16 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 640.0,
+      "protein_g": 13.0,
+      "carbs_g": 99.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per 369 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "lg-strawberry-shake-with-whipped-topping-24-oz",
+      "name": "Lg Strawberry Shake with Whipped Topping- 24 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 930.0,
+      "protein_g": 19.0,
+      "carbs_g": 146.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 538 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "rg-vanilla-shake-with-whipped-topping-16-oz",
+      "name": "Rg Vanilla Shake with Whipped Topping - 16 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 580.0,
+      "protein_g": 13.0,
+      "carbs_g": 82.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per 338 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "lg-vanilla-shake-with-whipped-topping-24-oz",
+      "name": "Lg Vanilla Shake with Whipped Topping - 24 oz",
+      "description": null,
+      "category": "drink",
+      "calories": 820.0,
+      "protein_g": 19.0,
+      "carbs_g": 121.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 491 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "shake-vanilla-with-boba-whipped-topping-16-fl-oz",
+      "name": "Shake, Vanilla with Boba & Whipped Topping - 16 fl. oz.",
+      "description": null,
+      "category": "drink",
+      "calories": 710.0,
+      "protein_g": 13.0,
+      "carbs_g": 117.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 403 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "breakfast-jack-132-g",
+      "name": "Breakfast Jack (132 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 840.0,
+      "serving_note": "per 132 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "cheeseburger-120-g",
+      "name": "Cheeseburger (120 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 16.0,
+      "carbs_g": 30.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per 120 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chicken-nuggets-4-pc-61-g",
+      "name": "Chicken Nuggets (4 pc.) (61 g)",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 10.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "per 61 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "chicken-sandwich-with-bacon-190-g",
+      "name": "Chicken Sandwich with Bacon (190 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 19.0,
+      "carbs_g": 40.0,
+      "fat_g": 42.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per 190 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "grilled-cheese-sandwich",
+      "name": "Grilled Cheese Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 330.0,
+      "protein_g": 11.0,
+      "carbs_g": 34.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 800.0,
+      "serving_note": "per 94 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jr-bacon-cheeseburger-130-g",
+      "name": "Jr. Bacon Cheeseburger (130 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 470.0,
+      "protein_g": 18.0,
+      "carbs_g": 30.0,
+      "fat_g": 31.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 130 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jr-jumbo-jack-151-g",
+      "name": "Jr. Jumbo Jack (151 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 400.0,
+      "protein_g": 14.0,
+      "carbs_g": 31.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 151 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jr-jumbo-jack-cheeseburger-162-g",
+      "name": "Jr. Jumbo Jack Cheeseburger (162 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 16.0,
+      "carbs_g": 31.0,
+      "fat_g": 29.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 900.0,
+      "serving_note": "per 162 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jumbo-jack-216-g",
+      "name": "Jumbo Jack (216 g)",
+      "description": null,
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 23.0,
+      "carbs_g": 32.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 216 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jumbo-jack-cheeseburger",
+      "name": "Jumbo Jack Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 28.0,
+      "carbs_g": 33.0,
+      "fat_g": 40.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1110.0,
+      "serving_note": "per 238 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "tacos-regular-2-tacos",
+      "name": "Tacos, Regular (2 Tacos)",
+      "description": null,
+      "category": "meal",
+      "calories": 340.0,
+      "protein_g": 12.0,
+      "carbs_g": 33.0,
+      "fat_g": 19.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 720.0,
+      "serving_note": "per 162 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "value-french-fries",
+      "name": "Value French Fries",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 2.0,
+      "carbs_g": 30.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 410.0,
+      "serving_note": "per 71 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jack-wrap-classic-grilled",
+      "name": "Jack Wrap- Classic Grilled",
+      "description": null,
+      "category": "meal",
+      "calories": 270.0,
+      "protein_g": 15.0,
+      "carbs_g": 25.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 980.0,
+      "serving_note": "per 137 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jack-wrap-spicy-grilled",
+      "name": "Jack Wrap - Spicy Grilled",
+      "description": null,
+      "category": "meal",
+      "calories": 270.0,
+      "protein_g": 15.0,
+      "carbs_g": 25.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per 130 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "american-cheese",
+      "name": "American Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 40.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 11 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "real-swiss-cheese",
+      "name": "Real Swiss Cheese",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 0.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 18 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "bbq-sauce-dip-cup",
+      "name": "BBQ Sauce Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 21 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "buttermilk-house-dipping-sauce",
+      "name": "Buttermilk House Dipping Sauce",
+      "description": null,
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 21 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "creamy-avocado-lime-dipping-sauce",
+      "name": "Creamy Avocado Lime Dipping Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per 21 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jack-s-bacony-buttermilk-ranch-dip-cup",
+      "name": "Jack’s Bacony Buttermilk Ranch Dip Cup",
+      "description": null,
+      "category": "drink",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 21 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "jack-s-good-good-dipping-cup",
+      "name": "Jack’s Good Good Dipping Cup",
+      "description": null,
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 21 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "gold-peak-fresh-brewed-iced-tea-30-fl-oz",
+      "name": "Gold Peak Fresh Brewed Iced Tea - 30 fl. oz.",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 850 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "gold-peak-fresh-brewed-iced-tea-40-fl-oz",
+      "name": "Gold Peak Fresh Brewed Iced Tea - 40 fl. oz.",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 120.0,
+      "serving_note": "per 1134 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "berry-purple-daze-red-bull-infusion-w-red-bull-energy",
+      "name": "Berry Purple Daze Red Bull Infusion w/Red Bull Energy",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 293 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "strawberry-red-daze-red-bull-infusion-w-red-bull-energy",
+      "name": "Strawberry Red Daze Red Bull Infusion w/Red Bull Energy",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 293 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "strawberry-red-daze-white-peach-red-bull-infusion",
+      "name": "Strawberry Red Daze White Peach Red Bull Infusion",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 294 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "high-mountain-arabica-coffee-rg",
+      "name": "High Mountain Arabica Coffee - Rg.",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 340 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "high-mountain-arabica-coffee-lg",
+      "name": "High Mountain Arabica Coffee - Lg.",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 454 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "mocha-sweet-cream-iced-coffee-lg",
+      "name": "Mocha Sweet Cream Iced Coffee - Lg.",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 5.0,
+      "carbs_g": 54.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 454 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "vanilla-sweet-cream-iced-coffee-rg",
+      "name": "Vanilla Sweet Cream Iced Coffee - Rg.",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 4.0,
+      "carbs_g": 23.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 295 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "vanilla-sweet-cream-iced-coffee-lg",
+      "name": "Vanilla Sweet Cream Iced Coffee - Lg.",
+      "description": null,
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 6.0,
+      "carbs_g": 34.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 455 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "sweet-cream-iced-coffee-with-boba-rg",
+      "name": "Sweet Cream Iced Coffee with Boba - Rg.",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 4.0,
+      "carbs_g": 57.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 361 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "milk-tea-with-boba-rg",
+      "name": "Milk Tea with Boba - Rg.",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 3.0,
+      "carbs_g": 58.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 356 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    },
+    {
+      "id": "simply-orange-juice",
+      "name": "Simply Orange Juice",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 37.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 326 g serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://images.ctfassets.net/5hs630wuugof/5YPXJN6p8U0Esf31agJxUK/05534c155563a67b239740ef0bc51866/Nutrition_Information_2026.PDF"
+      }
+    }
+  ]
+}

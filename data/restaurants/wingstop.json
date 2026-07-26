@@ -1,0 +1,2721 @@
+{
+  "id": "wingstop",
+  "name": "Wingstop",
+  "website": "https://www.wingstop.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "1200 Market St, San Francisco, CA 94102",
+      "lat": 37.7786745,
+      "lng": -122.4152914,
+      "neighborhood": null
+    },
+    {
+      "address": "1507 Sloat Blvd, San Francisco, CA 94132",
+      "lat": 37.733543,
+      "lng": -122.4895675,
+      "neighborhood": null
+    },
+    {
+      "address": "60 Morris St, San Francisco, CA 94107",
+      "lat": 37.7771739,
+      "lng": -122.4031815,
+      "neighborhood": null
+    },
+    {
+      "address": "90 Charter Oak Ave, San Francisco, CA 94124",
+      "lat": 37.7368189,
+      "lng": -122.405298,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "classic-wings-atomic-1ea-38-77g",
+      "name": "Atomic Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 10.0,
+      "carbs_g": 1.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per wing (38.77 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-cajun-1ea-38-86g",
+      "name": "Cajun Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0,
+      "serving_note": "per wing (38.86 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-garlic-parmesan-1ea-35-65g",
+      "name": "Garlic Parmesan Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 10.0,
+      "carbs_g": 1.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per wing (35.65 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-hawaiian-1ea-39-28g",
+      "name": "Hawaiian Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 10.0,
+      "carbs_g": 3.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per wing (39.28 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-hickory-smoked-bbq-1ea-39-78g",
+      "name": "Hickory Smoked BBQ Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 10.0,
+      "carbs_g": 4.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per wing (39.78 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-hot-honey-rub-1ea-36g",
+      "name": "Hot Honey Rub Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 10.0,
+      "carbs_g": 2.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per wing (36 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-lemon-pepper-1ea-34-91g",
+      "name": "Lemon Pepper Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per wing (34.91 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-louisiana-rub-1ea-33-99g",
+      "name": "Louisiana Rub Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per wing (33.99 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-mango-habanero-1ea-39-28g",
+      "name": "Mango Habanero Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 10.0,
+      "carbs_g": 4.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per wing (39.28 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-mild-1ea-38-04g",
+      "name": "Mild Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per wing (38.04 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-original-hot-1ea-38-29g",
+      "name": "Original Hot Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per wing (38.29 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-plain-1ea-30-78g",
+      "name": "Plain Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per wing (30.78 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "classic-wings-spicy-korean-q-1ea-39-11g",
+      "name": "Spicy Korean Q Classic Wing",
+      "description": "Wingstop nutritional guide section: Classic Wings.",
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 10.0,
+      "carbs_g": 3.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per wing (39.11 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-atomic-1ea-33-53g",
+      "name": "Atomic Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 7.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per boneless wing (33.53 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-cajun-1ea-33-6g",
+      "name": "Cajun Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per boneless wing (33.6 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-garlic-parmesan-1ea-31-04g",
+      "name": "Garlic Parmesan Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per boneless wing (31.04 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-hawaiian-1ea-33-94g",
+      "name": "Hawaiian Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per boneless wing (33.94 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-hickory-smoked-bbq-1ea-34-34g",
+      "name": "Hickory Smoked BBQ Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 5.0,
+      "carbs_g": 9.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per boneless wing (34.34 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-hot-honey-rub-1ea-32g",
+      "name": "Hot Honey Rub Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 8.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 360.0,
+      "serving_note": "per boneless wing (32 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-lemon-pepper-1ea-29-98g",
+      "name": "Lemon Pepper Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per boneless wing (29.98 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-louisiana-rub-1ea-29-25g",
+      "name": "Louisiana Rub Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per boneless wing (29.25 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-mango-habanero-1ea-33-94g",
+      "name": "Mango Habanero Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 9.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per boneless wing (33.94 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-mild-1ea-32-94g",
+      "name": "Mild Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per boneless wing (32.94 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-original-hot-1ea-33-15g",
+      "name": "Original Hot Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per boneless wing (33.15 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-plain-1ea-27-14g",
+      "name": "Plain Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 4.0,
+      "carbs_g": 6.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per boneless wing (27.14 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "boneless-wings-spicy-korean-q-1ea-33-81g",
+      "name": "Spicy Korean Q Boneless Wing",
+      "description": "Wingstop nutritional guide section: Boneless Wings.",
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 5.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 320.0,
+      "serving_note": "per boneless wing (33.81 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-atomic-1ea-73-81g",
+      "name": "Atomic Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 10.0,
+      "carbs_g": 12.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per tender (73.81 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-cajun-1ea-74g",
+      "name": "Cajun Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 10.0,
+      "carbs_g": 11.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1020.0,
+      "serving_note": "per tender (74 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-garlic-parmesan-1ea-67-58g",
+      "name": "Garlic Parmesan Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 10.0,
+      "carbs_g": 11.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 550.0,
+      "serving_note": "per tender (67.58 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-hawaiian-1ea-74-85g",
+      "name": "Hawaiian Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 10.0,
+      "carbs_g": 16.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per tender (74.85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-hickory-smoked-bbq-1ea-75-84g",
+      "name": "Hickory Smoked BBQ Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per tender (75.84 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-hot-honey-rub-1ea-70g",
+      "name": "Hot Honey Rub Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 10.0,
+      "carbs_g": 14.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per tender (70 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-lemon-pepper-1ea-64-93g",
+      "name": "Lemon Pepper Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 10.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per tender (64.93 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-louisiana-rub-1ea-63-12g",
+      "name": "Louisiana Rub Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 10.0,
+      "carbs_g": 10.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per tender (63.12 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-mango-habanero-1ea-74-85g",
+      "name": "Mango Habanero Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per tender (74.85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-mild-1ea-72-35g",
+      "name": "Mild Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 10.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 730.0,
+      "serving_note": "per tender (72.35 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-original-hot-1ea-72-86g",
+      "name": "Original Hot Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 10.0,
+      "carbs_g": 10.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 870.0,
+      "serving_note": "per tender (72.86 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-plain-1ea-57-84g",
+      "name": "Plain Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 10.0,
+      "carbs_g": 10.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per tender (57.84 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-tenders-spicy-korean-q-1ea-74-51g",
+      "name": "Spicy Korean Q Crispy Tender",
+      "description": "Wingstop nutritional guide section: Chicken Tenders.",
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 16.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per tender (74.51 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-atomic-1ea-305g",
+      "name": "Atomic Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 33.0,
+      "carbs_g": 74.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3230.0,
+      "serving_note": "per sandwich (305 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-cajun-1ea-306g",
+      "name": "Cajun Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 33.0,
+      "carbs_g": 70.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3940.0,
+      "serving_note": "per sandwich (306 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-garlic-parmesan-1ea-280g",
+      "name": "Garlic Parmesan Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 34.0,
+      "carbs_g": 71.0,
+      "fat_g": 52.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2060.0,
+      "serving_note": "per sandwich (280 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-hawaiian-1ea-309g",
+      "name": "Hawaiian Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 33.0,
+      "carbs_g": 90.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2150.0,
+      "serving_note": "per sandwich (309 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-hickory-smoked-bbq-1ea-313g",
+      "name": "Hickory Smoked BBQ Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 730.0,
+      "protein_g": 34.0,
+      "carbs_g": 96.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2680.0,
+      "serving_note": "per sandwich (313 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-hot-honey-rub-1ea-289g",
+      "name": "Hot Honey Rub Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 930.0,
+      "protein_g": 33.0,
+      "carbs_g": 81.0,
+      "fat_g": 51.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2970.0,
+      "serving_note": "per sandwich (289 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-lemon-pepper-1ea-270g",
+      "name": "Lemon Pepper Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 850.0,
+      "protein_g": 32.0,
+      "carbs_g": 67.0,
+      "fat_g": 50.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2320.0,
+      "serving_note": "per sandwich (270 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-louisiana-rub-1ea-263g",
+      "name": "Louisiana Rub Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 32.0,
+      "carbs_g": 67.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2020.0,
+      "serving_note": "per sandwich (263 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-mango-habanero-1ea-309g",
+      "name": "Mango Habanero Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 740.0,
+      "protein_g": 32.0,
+      "carbs_g": 94.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2120.0,
+      "serving_note": "per sandwich (309 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-mild-1ea-299g",
+      "name": "Mild Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 870.0,
+      "protein_g": 32.0,
+      "carbs_g": 67.0,
+      "fat_g": 52.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2750.0,
+      "serving_note": "per sandwich (299 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-original-hot-1ea-301g",
+      "name": "Original Hot Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 33.0,
+      "carbs_g": 68.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 3340.0,
+      "serving_note": "per sandwich (301 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-plain-1ea-241g",
+      "name": "Plain Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 32.0,
+      "carbs_g": 66.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per sandwich (241 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-spicy-korean-q-1ea-308g",
+      "name": "Spicy Korean Q Chicken Sandwich",
+      "description": "Wingstop nutritional guide section: Chicken Sandwich.",
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 34.0,
+      "carbs_g": 90.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2570.0,
+      "serving_note": "per sandwich (308 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-veggie-sticks-celery-5-sticks-56g",
+      "name": "Veggie Sticks Celery",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.5,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 5 Sticks serving (56 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-veggie-sticks-carrots-5-sticks-66g",
+      "name": "Veggie Sticks Carrots",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 25.0,
+      "protein_g": 1.0,
+      "carbs_g": 6.5,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 5 Sticks serving (66 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-ranch-dip-3-25oz-cup-85g",
+      "name": "Ranch Dip",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "condiment",
+      "calories": 320.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 34.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 870.0,
+      "serving_note": "per 3.25oz Cup serving (85 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-blue-cheese-dip-3-25oz-cup-86g",
+      "name": "Blue Cheese Dip",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "condiment",
+      "calories": 330.0,
+      "protein_g": 4.0,
+      "carbs_g": 4.0,
+      "fat_g": 33.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per 3.25oz Cup serving (86 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-honey-mustard-dip-3-25oz-cup-93g",
+      "name": "Honey Mustard Dip",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "condiment",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 33.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per 3.25oz Cup serving (93 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-cheddar-cheese-sauce-dip-3-25oz-cup-96g",
+      "name": "Cheddar Cheese Sauce Dip",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 2.0,
+      "carbs_g": 8.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per 3.25oz Cup serving (96 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-seasoned-fries-regular-10oz-191g",
+      "name": "Seasoned Fries Regular",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 500.0,
+      "protein_g": 8.0,
+      "carbs_g": 69.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per 10oz serving (191 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-seasoned-fries-large-18oz-346g",
+      "name": "Seasoned Fries Large",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 900.0,
+      "protein_g": 14.0,
+      "carbs_g": 126.0,
+      "fat_g": 37.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1060.0,
+      "serving_note": "per 18oz serving (346 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-cheese-fries-regular-10oz-255g",
+      "name": "Cheese Fries Regular",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 580.0,
+      "protein_g": 9.0,
+      "carbs_g": 75.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per 10oz serving (255 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-cheese-fries-large-18oz-442g",
+      "name": "Cheese Fries Large",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 1020.0,
+      "protein_g": 15.0,
+      "carbs_g": 134.0,
+      "fat_g": 47.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1910.0,
+      "serving_note": "per 18oz serving (442 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-buffalo-ranch-fries-regular-10oz-249g",
+      "name": "Buffalo Ranch Fries Regular",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 610.0,
+      "protein_g": 8.0,
+      "carbs_g": 71.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per 10oz serving (249 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-buffalo-ranch-fries-large-18oz-434g",
+      "name": "Buffalo Ranch Fries Large",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 1070.0,
+      "protein_g": 15.0,
+      "carbs_g": 129.0,
+      "fat_g": 55.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2710.0,
+      "serving_note": "per 18oz serving (434 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-louisiana-voodoo-fries-regular-10oz-283g",
+      "name": "Louisiana Voodoo Fries Regular",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 680.0,
+      "protein_g": 9.0,
+      "carbs_g": 75.0,
+      "fat_g": 38.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1270.0,
+      "serving_note": "per 10oz serving (283 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-louisiana-voodoo-fries-large-18oz-483g",
+      "name": "Louisiana Voodoo Fries Large",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 1180.0,
+      "protein_g": 16.0,
+      "carbs_g": 133.0,
+      "fat_g": 64.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1870.0,
+      "serving_note": "per 18oz serving (483 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-fried-corn-regular-5ea-154g",
+      "name": "Fried Corn Regular",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 6.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 5ea serving (154 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-fried-corn-large-10ea-308g",
+      "name": "Fried Corn Large",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 400.0,
+      "protein_g": 12.0,
+      "carbs_g": 48.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per 10ea serving (308 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "sides-brownie-1ea-98g",
+      "name": "Brownie",
+      "description": "Wingstop nutritional guide section: Sides.",
+      "category": "side",
+      "calories": 430.0,
+      "protein_g": 6.0,
+      "carbs_g": 49.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per item (98 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-dr-pepper-20oz-regular",
+      "name": "Dr Pepper",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 75.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-dr-pepper-32oz-large",
+      "name": "Dr Pepper",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 0.0,
+      "carbs_g": 104.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 120.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-coke-20oz-regular",
+      "name": "Coke",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 68.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 5.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-coke-32oz-large",
+      "name": "Coke",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 400.0,
+      "protein_g": 0.0,
+      "carbs_g": 108.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 8.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-diet-coke-20oz-regular",
+      "name": "Diet Coke",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 25.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-diet-coke-32oz-large",
+      "name": "Diet Coke",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 40.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-sprite-20oz-regular",
+      "name": "Sprite",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-sprite-32oz-large",
+      "name": "Sprite",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 104.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 88.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-fanta-orange-20oz-regular",
+      "name": "Fanta Orange",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 75.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 35.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-fanta-orange-32oz-large",
+      "name": "Fanta Orange",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 0.0,
+      "carbs_g": 120.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 56.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-fanta-strawberry-20oz-regular",
+      "name": "Fanta Strawberry",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 78.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 23.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-fanta-strawberry-32oz-large",
+      "name": "Fanta Strawberry",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 450.0,
+      "protein_g": 0.0,
+      "carbs_g": 124.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 36.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-lipton-tea-sweet-20oz-regular",
+      "name": "Lipton Tea - Sweet",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-lipton-tea-sweet-32oz-large",
+      "name": "Lipton Tea - Sweet",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 72.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-lipton-tea-plain-20oz-regular",
+      "name": "Lipton Tea - Plain",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-lipton-tea-plain-32oz-large",
+      "name": "Lipton Tea - Plain",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-minute-maid-lemonade-20oz-regular",
+      "name": "Minute Maid Lemonade",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 103.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-minute-maid-lemonade-32oz-large",
+      "name": "Minute Maid Lemonade",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 104.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 164.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-nestea-raspberry-tea-20oz-regular",
+      "name": "Nestea Raspberry Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 20.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-nestea-raspberry-tea-32oz-large",
+      "name": "Nestea Raspberry Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 84.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 32.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-gold-peak-sweet-green-tea-20oz-regular",
+      "name": "Gold Peak Sweet Green Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 19.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-gold-peak-sweet-green-tea-32oz-large",
+      "name": "Gold Peak Sweet Green Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 88.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 30.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-gold-peak-unsweet-tea-20oz-regular",
+      "name": "Gold Peak Unsweet Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 20.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-gold-peak-unsweet-tea-32oz-large",
+      "name": "Gold Peak Unsweet Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 32.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-gold-peak-southern-tea-20oz-regular",
+      "name": "Gold Peak Southern Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 66.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 20.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-gold-peak-southern-tea-32oz-large",
+      "name": "Gold Peak Southern Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 105.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 32.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-nestea-peach-tea-20oz-regular",
+      "name": "Nestea Peach Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 20.0,
+      "serving_note": "per 20oz regular cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "beverages-nestea-peach-tea-32oz-large",
+      "name": "Nestea Peach Tea",
+      "description": "Wingstop nutritional guide section: Beverages.",
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 80.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 30.0,
+      "serving_note": "per 32oz large cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      }
+    },
+    {
+      "id": "atomic-10-pc-classic-wings",
+      "name": "Atomic 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Atomic classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 100.0,
+      "carbs_g": 10.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2200.0
+    },
+    {
+      "id": "cajun-10-pc-classic-wings",
+      "name": "Cajun 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Cajun classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 100.0,
+      "carbs_g": 0.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3100.0
+    },
+    {
+      "id": "garlic-parmesan-10-pc-classic-wings",
+      "name": "Garlic Parmesan 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Garlic Parmesan classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1200.0,
+      "protein_g": 100.0,
+      "carbs_g": 10.0,
+      "fat_g": 80.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0
+    },
+    {
+      "id": "hawaiian-10-pc-classic-wings",
+      "name": "Hawaiian 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Hawaiian classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1000.0,
+      "protein_g": 100.0,
+      "carbs_g": 30.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 850.0
+    },
+    {
+      "id": "hickory-smoked-bbq-10-pc-classic-wings",
+      "name": "Hickory Smoked BBQ 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Hickory Smoked BBQ classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1000.0,
+      "protein_g": 100.0,
+      "carbs_g": 40.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1500.0
+    },
+    {
+      "id": "hot-honey-rub-10-pc-classic-wings",
+      "name": "Hot Honey Rub 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Hot Honey Rub classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1200.0,
+      "protein_g": 100.0,
+      "carbs_g": 20.0,
+      "fat_g": 80.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1600.0
+    },
+    {
+      "id": "lemon-pepper-10-pc-classic-wings",
+      "name": "Lemon Pepper 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Lemon Pepper classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1200.0,
+      "protein_g": 100.0,
+      "carbs_g": 0.0,
+      "fat_g": 80.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2100.0
+    },
+    {
+      "id": "louisiana-rub-10-pc-classic-wings",
+      "name": "Louisiana Rub 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Louisiana Rub classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1100.0,
+      "protein_g": 100.0,
+      "carbs_g": 0.0,
+      "fat_g": 70.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1400.0
+    },
+    {
+      "id": "mango-habanero-10-pc-classic-wings",
+      "name": "Mango Habanero 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Mango Habanero classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1000.0,
+      "protein_g": 100.0,
+      "carbs_g": 40.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 800.0
+    },
+    {
+      "id": "mild-10-pc-classic-wings",
+      "name": "Mild 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Mild classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1200.0,
+      "protein_g": 100.0,
+      "carbs_g": 0.0,
+      "fat_g": 80.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1600.0
+    },
+    {
+      "id": "original-hot-10-pc-classic-wings",
+      "name": "Original Hot 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Original Hot classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 100.0,
+      "carbs_g": 0.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2300.0
+    },
+    {
+      "id": "plain-10-pc-classic-wings",
+      "name": "Plain 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Plain classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 100.0,
+      "carbs_g": 0.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0
+    },
+    {
+      "id": "spicy-korean-q-10-pc-classic-wings",
+      "name": "Spicy Korean Q 10 pc Classic Wings",
+      "description": "Standard build: 10 classic (bone-in) wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Spicy Korean Q classic wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1000.0,
+      "protein_g": 100.0,
+      "carbs_g": 30.0,
+      "fat_g": 50.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1350.0
+    },
+    {
+      "id": "atomic-10-pc-classic-wing-combo",
+      "name": "Atomic 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Atomic classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1720.0,
+      "protein_g": 109.0,
+      "carbs_g": 81.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3690.0
+    },
+    {
+      "id": "cajun-10-pc-classic-wing-combo",
+      "name": "Cajun 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Cajun classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1720.0,
+      "protein_g": 109.0,
+      "carbs_g": 71.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4590.0
+    },
+    {
+      "id": "garlic-parmesan-10-pc-classic-wing-combo",
+      "name": "Garlic Parmesan 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Garlic Parmesan classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 2020.0,
+      "protein_g": 109.0,
+      "carbs_g": 81.0,
+      "fat_g": 135.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2240.0
+    },
+    {
+      "id": "hawaiian-10-pc-classic-wing-combo",
+      "name": "Hawaiian 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Hawaiian classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1820.0,
+      "protein_g": 109.0,
+      "carbs_g": 101.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2340.0
+    },
+    {
+      "id": "hickory-smoked-bbq-10-pc-classic-wing-combo",
+      "name": "Hickory Smoked BBQ 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Hickory Smoked BBQ classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1820.0,
+      "protein_g": 109.0,
+      "carbs_g": 111.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2990.0
+    },
+    {
+      "id": "hot-honey-rub-10-pc-classic-wing-combo",
+      "name": "Hot Honey Rub 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Hot Honey Rub classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 2020.0,
+      "protein_g": 109.0,
+      "carbs_g": 91.0,
+      "fat_g": 135.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3090.0
+    },
+    {
+      "id": "lemon-pepper-10-pc-classic-wing-combo",
+      "name": "Lemon Pepper 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Lemon Pepper classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 2020.0,
+      "protein_g": 109.0,
+      "carbs_g": 71.0,
+      "fat_g": 135.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3590.0
+    },
+    {
+      "id": "louisiana-rub-10-pc-classic-wing-combo",
+      "name": "Louisiana Rub 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Louisiana Rub classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1920.0,
+      "protein_g": 109.0,
+      "carbs_g": 71.0,
+      "fat_g": 125.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2890.0
+    },
+    {
+      "id": "mango-habanero-10-pc-classic-wing-combo",
+      "name": "Mango Habanero 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Mango Habanero classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1820.0,
+      "protein_g": 109.0,
+      "carbs_g": 111.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2290.0
+    },
+    {
+      "id": "mild-10-pc-classic-wing-combo",
+      "name": "Mild 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Mild classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 2020.0,
+      "protein_g": 109.0,
+      "carbs_g": 71.0,
+      "fat_g": 135.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3090.0
+    },
+    {
+      "id": "original-hot-10-pc-classic-wing-combo",
+      "name": "Original Hot 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Original Hot classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1720.0,
+      "protein_g": 109.0,
+      "carbs_g": 71.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3790.0
+    },
+    {
+      "id": "plain-10-pc-classic-wing-combo",
+      "name": "Plain 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Plain classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1720.0,
+      "protein_g": 109.0,
+      "carbs_g": 71.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1790.0
+    },
+    {
+      "id": "spicy-korean-q-10-pc-classic-wing-combo",
+      "name": "Spicy Korean Q 10 pc Classic Wing Combo",
+      "description": "Standard build: 10 classic wings with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (10 x Spicy Korean Q classic wings + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1820.0,
+      "protein_g": 109.0,
+      "carbs_g": 101.0,
+      "fat_g": 105.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2840.0
+    },
+    {
+      "id": "atomic-10-pc-boneless-wings",
+      "name": "Atomic 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Atomic boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 40.0,
+      "carbs_g": 70.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3800.0
+    },
+    {
+      "id": "cajun-10-pc-boneless-wings",
+      "name": "Cajun 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Cajun boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 800.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4500.0
+    },
+    {
+      "id": "garlic-parmesan-10-pc-boneless-wings",
+      "name": "Garlic Parmesan 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Garlic Parmesan boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1100.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 70.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2600.0
+    },
+    {
+      "id": "hawaiian-10-pc-boneless-wings",
+      "name": "Hawaiian 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Hawaiian boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 40.0,
+      "carbs_g": 80.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2700.0
+    },
+    {
+      "id": "hickory-smoked-bbq-10-pc-boneless-wings",
+      "name": "Hickory Smoked BBQ 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Hickory Smoked BBQ boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 50.0,
+      "carbs_g": 90.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3300.0
+    },
+    {
+      "id": "hot-honey-rub-10-pc-boneless-wings",
+      "name": "Hot Honey Rub 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Hot Honey Rub boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1100.0,
+      "protein_g": 40.0,
+      "carbs_g": 80.0,
+      "fat_g": 70.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3600.0
+    },
+    {
+      "id": "lemon-pepper-10-pc-boneless-wings",
+      "name": "Lemon Pepper 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Lemon Pepper boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1100.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 70.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2900.0
+    },
+    {
+      "id": "louisiana-rub-10-pc-boneless-wings",
+      "name": "Louisiana Rub 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Louisiana Rub boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1000.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 60.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2600.0
+    },
+    {
+      "id": "mango-habanero-10-pc-boneless-wings",
+      "name": "Mango Habanero 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Mango Habanero boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 40.0,
+      "carbs_g": 90.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2700.0
+    },
+    {
+      "id": "mild-10-pc-boneless-wings",
+      "name": "Mild 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Mild boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1100.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 70.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3300.0
+    },
+    {
+      "id": "original-hot-10-pc-boneless-wings",
+      "name": "Original Hot 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Original Hot boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 800.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3900.0
+    },
+    {
+      "id": "plain-10-pc-boneless-wings",
+      "name": "Plain 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Plain boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 800.0,
+      "protein_g": 40.0,
+      "carbs_g": 60.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2300.0
+    },
+    {
+      "id": "spicy-korean-q-10-pc-boneless-wings",
+      "name": "Spicy Korean Q 10 pc Boneless Wings",
+      "description": "Standard build: 10 boneless wings, one flavor. Sum of Wingstop's published per-piece nutrition (10 x Spicy Korean Q boneless wings).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 900.0,
+      "protein_g": 50.0,
+      "carbs_g": 80.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3200.0
+    },
+    {
+      "id": "atomic-3-pc-crispy-tender-combo",
+      "name": "Atomic 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Atomic chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1270.0,
+      "protein_g": 39.0,
+      "carbs_g": 107.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4040.0
+    },
+    {
+      "id": "cajun-3-pc-crispy-tender-combo",
+      "name": "Cajun 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Cajun chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1270.0,
+      "protein_g": 39.0,
+      "carbs_g": 104.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4550.0
+    },
+    {
+      "id": "garlic-parmesan-3-pc-crispy-tender-combo",
+      "name": "Garlic Parmesan 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Garlic Parmesan chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1450.0,
+      "protein_g": 39.0,
+      "carbs_g": 104.0,
+      "fat_g": 97.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3140.0
+    },
+    {
+      "id": "hawaiian-3-pc-crispy-tender-combo",
+      "name": "Hawaiian 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Hawaiian chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1300.0,
+      "protein_g": 39.0,
+      "carbs_g": 119.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3230.0
+    },
+    {
+      "id": "hickory-smoked-bbq-3-pc-crispy-tender-combo",
+      "name": "Hickory Smoked BBQ 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Hickory Smoked BBQ chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1330.0,
+      "protein_g": 39.0,
+      "carbs_g": 122.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3620.0
+    },
+    {
+      "id": "hot-honey-rub-3-pc-crispy-tender-combo",
+      "name": "Hot Honey Rub 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Hot Honey Rub chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1480.0,
+      "protein_g": 39.0,
+      "carbs_g": 113.0,
+      "fat_g": 97.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3830.0
+    },
+    {
+      "id": "lemon-pepper-3-pc-crispy-tender-combo",
+      "name": "Lemon Pepper 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Lemon Pepper chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1420.0,
+      "protein_g": 39.0,
+      "carbs_g": 101.0,
+      "fat_g": 94.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3350.0
+    },
+    {
+      "id": "louisiana-rub-3-pc-crispy-tender-combo",
+      "name": "Louisiana Rub 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Louisiana Rub chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1360.0,
+      "protein_g": 39.0,
+      "carbs_g": 101.0,
+      "fat_g": 91.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3110.0
+    },
+    {
+      "id": "mango-habanero-3-pc-crispy-tender-combo",
+      "name": "Mango Habanero 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Mango Habanero chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1330.0,
+      "protein_g": 39.0,
+      "carbs_g": 122.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3200.0
+    },
+    {
+      "id": "mild-3-pc-crispy-tender-combo",
+      "name": "Mild 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Mild chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1420.0,
+      "protein_g": 39.0,
+      "carbs_g": 101.0,
+      "fat_g": 97.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3680.0
+    },
+    {
+      "id": "original-hot-3-pc-crispy-tender-combo",
+      "name": "Original Hot 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Original Hot chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1240.0,
+      "protein_g": 39.0,
+      "carbs_g": 101.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 4100.0
+    },
+    {
+      "id": "plain-3-pc-crispy-tender-combo",
+      "name": "Plain 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Plain chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1240.0,
+      "protein_g": 39.0,
+      "carbs_g": 101.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 2900.0
+    },
+    {
+      "id": "spicy-korean-q-3-pc-crispy-tender-combo",
+      "name": "Spicy Korean Q 3 pc Crispy Tender Combo",
+      "description": "Standard build: 3 crispy tenders with regular seasoned fries and a ranch dip. Sum of Wingstop's published per-piece nutrition (3 x Spicy Korean Q chicken tenders + Seasoned Fries Regular + Ranch Dip).",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard build",
+      "source": {
+        "type": "derived",
+        "url": "https://s3.amazonaws.com/wingstop.com/assets/static/WSR18-0009-Corporate-NutritionalGuide-JumboWings-HR_OFFICAL.pdf"
+      },
+      "calories": 1330.0,
+      "protein_g": 39.0,
+      "carbs_g": 119.0,
+      "fat_g": 76.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3530.0
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+[
+  {
+    "item": {
+      "id": "side-crispy-cauliflower",
+      "name": "Crispy Cauliflower",
+      "description": null,
+      "category": "side",
+      "calories": 382.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 21.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/side-crispy-cauliflower: macro check failed — stated 382.0 kcal vs computed 329 (delta -53)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-sesame-tofu-supergreens",
+      "name": "Sesame Tofu Supergreens",
+      "description": null,
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 34.0,
+      "carbs_g": 68.0,
+      "fat_g": 24.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 977.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-sesame-tofu-supergreens: macro check failed — stated 720.0 kcal vs computed 624 (delta -96)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-b-wing-salad",
+      "name": "B-wing Salad",
+      "description": null,
+      "category": "meal",
+      "calories": 782.0,
+      "protein_g": 67.0,
+      "carbs_g": 47.0,
+      "fat_g": 63.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2155.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-b-wing-salad: macro check failed — stated 782.0 kcal vs computed 1023 (delta +241)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-moroccan-lentil-soup-bowl",
+      "name": "Moroccan Lentil Soup (Bowl)",
+      "description": null,
+      "category": "meal",
+      "calories": 333.0,
+      "protein_g": 15.0,
+      "carbs_g": 41.0,
+      "fat_g": 6.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 595.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-moroccan-lentil-soup-bowl: macro check failed — stated 333.0 kcal vs computed 278 (delta -55)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-far-east-thai-chick-n-bowl",
+      "name": "Far East Thai Chick'n Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 844.0,
+      "protein_g": 2563.0,
+      "carbs_g": 108.0,
+      "fat_g": 21.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1856.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-far-east-thai-chick-n-bowl: macro check failed — stated 844.0 kcal vs computed 10873 (delta +10029)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-sonoran-bowl",
+      "name": "Sonoran Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 615.0,
+      "protein_g": 2343.0,
+      "carbs_g": 93.0,
+      "fat_g": 19.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 1470.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-sonoran-bowl: macro check failed — stated 615.0 kcal vs computed 9915 (delta +9300)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-add-asada-steak",
+      "name": "add Asada Steak",
+      "description": null,
+      "category": "component",
+      "calories": 192.0,
+      "protein_g": 24.0,
+      "carbs_g": 8.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 338.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-add-asada-steak: macro check failed — stated 192.0 kcal vs computed 137 (delta -55)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-bahn-mi-sandwich",
+      "name": "Bahn Mi Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 542.0,
+      "protein_g": 2349.0,
+      "carbs_g": 42.0,
+      "fat_g": 23.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1307.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-bahn-mi-sandwich: macro check failed — stated 542.0 kcal vs computed 9771 (delta +9229)"
+    ]
+  },
+  {
+    "item": {
+      "id": "side-mac-n-cheese",
+      "name": "Mac N Cheese",
+      "description": null,
+      "category": "side",
+      "calories": 429.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 29.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 712.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/side-mac-n-cheese: macro check failed — stated 429.0 kcal vs computed 297 (delta -132)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-with-beyond-steak",
+      "name": "with Beyond Steak",
+      "description": null,
+      "category": "component",
+      "calories": 219.0,
+      "protein_g": 27.0,
+      "carbs_g": 9.0,
+      "fat_g": 1.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 387.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-with-beyond-steak: macro check failed — stated 219.0 kcal vs computed 153 (delta -66)"
+    ]
+  },
+  {
+    "item": {
+      "id": "meal-kids-mac-n-cheese",
+      "name": "Kids Mac N Cheese",
+      "description": null,
+      "category": "side",
+      "calories": 429.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 712.0,
+      "serving_note": "per listed serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://media-cdn.getbento.com/accounts/0879d48e96f07deb9c3248ba98650536/media/8bZYDfc2Q4mY44qC1X25_VG%20Nutrition%20Info_4.6.24.pdf"
+      }
+    },
+    "reasons": [
+      "next-level-burger/meal-kids-mac-n-cheese: macro check failed — stated 429.0 kcal vs computed 45 (delta -384)"
+    ]
+  }
+]

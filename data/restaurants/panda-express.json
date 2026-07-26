@@ -1,0 +1,5823 @@
+{
+  "id": "panda-express",
+  "name": "Panda Express",
+  "website": "https://www.pandaexpress.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.pandaexpress.com/nutritioninformation",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "1480 Fillmore St., San Francisco, CA 94115",
+      "lat": 37.7830234,
+      "lng": -122.4325198,
+      "neighborhood": null
+    },
+    {
+      "address": "3519 California St, San Francisco, CA 94118",
+      "lat": 37.786581,
+      "lng": -122.451721,
+      "neighborhood": null
+    },
+    {
+      "address": "500 Parnassus Ave, San Francisco, CA 94143",
+      "lat": 37.7637371,
+      "lng": -122.4583642,
+      "neighborhood": null
+    },
+    {
+      "address": "3801 3rd Street, #300, San Francisco, CA 94124",
+      "lat": 37.741569,
+      "lng": -122.387276,
+      "neighborhood": null
+    },
+    {
+      "address": "3251 20th Ave. #250h, San Francisco, CA 94132",
+      "lat": 37.727863,
+      "lng": -122.4769858,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "published-chow-fun",
+      "name": "Chow Fun",
+      "description": null,
+      "category": "component",
+      "calories": 410.0,
+      "protein_g": 9.0,
+      "carbs_g": 73.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1110.0,
+      "serving_note": "per 8.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-chow-fun-cub-meal",
+      "name": "Chow Fun - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 6.0,
+      "carbs_g": 53.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per 6.2 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-chow-mein",
+      "name": "Chow Mein",
+      "description": null,
+      "category": "component",
+      "calories": 600.0,
+      "protein_g": 15.0,
+      "carbs_g": 94.0,
+      "fat_g": 23.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 11 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-chow-mein-cub-meal",
+      "name": "Chow Mein - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 440.0,
+      "protein_g": 11.0,
+      "carbs_g": 57.0,
+      "fat_g": 19.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 860.0,
+      "serving_note": "per 8.25 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fried-rice",
+      "name": "Fried Rice",
+      "description": null,
+      "category": "component",
+      "calories": 620.0,
+      "protein_g": 13.0,
+      "carbs_g": 101.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "per 11 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fried-rice-cub-meal",
+      "name": "Fried Rice - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 466.0,
+      "protein_g": 9.0,
+      "carbs_g": 76.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per 8.25 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-super-greens",
+      "name": "Super Greens",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 9.0,
+      "carbs_g": 14.0,
+      "fat_g": 4.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 10 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-super-greens-cub-meal",
+      "name": "Super Greens - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 6.0,
+      "carbs_g": 10.0,
+      "fat_g": 3.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 7.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-white-steamed-rice",
+      "name": "White Steamed Rice",
+      "description": null,
+      "category": "component",
+      "calories": 520.0,
+      "protein_g": 10.0,
+      "carbs_g": 118.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 11 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-white-steamed-rice-cub-meal",
+      "name": "White Steamed Rice - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 390.0,
+      "protein_g": 8.0,
+      "carbs_g": 87.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 8.25 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-eggplant-tofu",
+      "name": "Eggplant Tofu",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 7.0,
+      "carbs_g": 23.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 6.1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-eggplant-tofu-cub-meal",
+      "name": "Eggplant Tofu - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 5.0,
+      "carbs_g": 17.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 4.6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-super-greens-cub-meal-entree",
+      "name": "Super Greens - Cub Meal Entree",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 4.0,
+      "carbs_g": 7.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 5.25 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-super-greens-entree",
+      "name": "Super Greens Entree",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 6.0,
+      "carbs_g": 10.0,
+      "fat_g": 3.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 7 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-pepper-chicken",
+      "name": "Black Pepper Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 13.0,
+      "carbs_g": 15.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1130.0,
+      "serving_note": "per 6.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-grilled-teriyaki-chicken",
+      "name": "Grilled Teriyaki Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 275.0,
+      "protein_g": 33.0,
+      "carbs_g": 14.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-grilled-teriyaki-chicken-cub-meal",
+      "name": "Grilled Teriyaki Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 24.75,
+      "carbs_g": 10.5,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 4.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hot-orange-chicken",
+      "name": "Hot Orange Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 550.0,
+      "protein_g": 17.0,
+      "carbs_g": 59.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 950.0,
+      "serving_note": "per 5.92 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hot-orange-chicken-cub-meal",
+      "name": "Hot Orange Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 415.0,
+      "protein_g": 13.0,
+      "carbs_g": 44.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per 4.44 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-kung-pao-chicken",
+      "name": "Kung Pao Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 320.0,
+      "protein_g": 17.0,
+      "carbs_g": 15.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1050.0,
+      "serving_note": "per 6.73 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-kung-pao-chicken-cub-meal",
+      "name": "Kung Pao Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 12.0,
+      "carbs_g": 11.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per 5.05 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-mushroom-chicken",
+      "name": "Mushroom Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 13.0,
+      "carbs_g": 10.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 840.0,
+      "serving_note": "per 5.7 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-mushroom-chicken-cub-meal",
+      "name": "Mushroom Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 8.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 650.0,
+      "serving_note": "per 4.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-orange-chicken",
+      "name": "Orange Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 510.0,
+      "protein_g": 16.0,
+      "carbs_g": 53.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 850.0,
+      "serving_note": "per 5.92 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-orange-chicken-cub-meal",
+      "name": "Orange Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 380.0,
+      "protein_g": 14.0,
+      "carbs_g": 39.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 645.0,
+      "serving_note": "per 4.44 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-potato-chicken",
+      "name": "Potato Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 8.0,
+      "carbs_g": 18.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 5.2 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-potato-chicken-cub-meal",
+      "name": "Potato Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 6.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per 3.9 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-teriyaki-chicken",
+      "name": "Teriyaki Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 41.0,
+      "carbs_g": 14.0,
+      "fat_g": 13.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-teriyaki-chicken-cub-meal",
+      "name": "Teriyaki Chicken - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 31.0,
+      "carbs_g": 10.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per 4.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-honey-sesame-chicken-breast",
+      "name": "Honey Sesame Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 340.0,
+      "protein_g": 16.0,
+      "carbs_g": 35.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per 5.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-honey-sesame-chicken-breast-cub-meal",
+      "name": "Honey Sesame Chicken Breast - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 12.0,
+      "carbs_g": 26.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per 4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-string-bean-chicken-breast",
+      "name": "String Bean Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 12.0,
+      "carbs_g": 13.0,
+      "fat_g": 12.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 5.6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-string-bean-chicken-breast-cub-meal",
+      "name": "String Bean Chicken Breast - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 160.0,
+      "protein_g": 9.0,
+      "carbs_g": 10.0,
+      "fat_g": 9.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 4.2 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-sour-chicken-breast",
+      "name": "Sweet & Sour Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 300.0,
+      "protein_g": 10.0,
+      "carbs_g": 40.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 5.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-sour-chicken-breast-cub-meal",
+      "name": "Sweet & Sour Chicken Breast - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 270.0,
+      "protein_g": 9.0,
+      "carbs_g": 35.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 4.1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweetfire-chicken-breast",
+      "name": "Sweetfire Chicken Breast",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 15.0,
+      "carbs_g": 40.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 5.8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweetfire-chicken-breast-cub-meal",
+      "name": "Sweetfire Chicken Breast - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 270.0,
+      "protein_g": 11.0,
+      "carbs_g": 30.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per 4.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-beijing-beef",
+      "name": "Beijing Beef",
+      "description": null,
+      "category": "component",
+      "calories": 470.0,
+      "protein_g": 14.0,
+      "carbs_g": 46.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per 5.6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-beijing-beef-cub-meal",
+      "name": "Beijing Beef - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 360.0,
+      "protein_g": 11.0,
+      "carbs_g": 35.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per 4.2 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-pepper-sirloin-steak",
+      "name": "Black Pepper Sirloin Steak",
+      "description": null,
+      "category": "component",
+      "calories": 180.0,
+      "protein_g": 19.0,
+      "carbs_g": 12.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per 5.1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-pepper-sirloin-steak-cub-meal",
+      "name": "Black Pepper Sirloin Steak - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 14.0,
+      "carbs_g": 9.0,
+      "fat_g": 4.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 440.0,
+      "serving_note": "per 3.85 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-broccoli-beef",
+      "name": "Broccoli Beef",
+      "description": null,
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 15.0,
+      "carbs_g": 12.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 5.44 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-broccoli-beef-cub-meal",
+      "name": "Broccoli Beef - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 11.0,
+      "carbs_g": 9.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 4.1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-honey-walnut-shrimp",
+      "name": "Honey Walnut Shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 430.0,
+      "protein_g": 13.0,
+      "carbs_g": 32.0,
+      "fat_g": 28.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 4.39 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-honey-walnut-shrimp-cub-meal",
+      "name": "Honey Walnut Shrimp - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 240.0,
+      "protein_g": 7.0,
+      "carbs_g": 17.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 3.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-steamed-ginger-fish",
+      "name": "Steamed Ginger Fish",
+      "description": null,
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 15.0,
+      "carbs_g": 8.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1990.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-steamed-ginger-fish-cub-meal",
+      "name": "Steamed Ginger Fish - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 5.0,
+      "carbs_g": 3.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 660.0,
+      "serving_note": "per 2 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-wok-fired-shrimp",
+      "name": "Wok-Fired Shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 17.0,
+      "carbs_g": 19.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1140.0,
+      "serving_note": "per 6 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-wok-fired-shrimp-cub-meal",
+      "name": "Wok-Fired Shrimp - Cub Meal",
+      "description": null,
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 13.0,
+      "carbs_g": 15.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 860.0,
+      "serving_note": "per 4.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-chicken-egg-roll-1-roll",
+      "name": "Chicken Egg Roll (1 Roll)",
+      "description": null,
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 6.0,
+      "carbs_g": 20.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per 2.75 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-chicken-potsticker-3-pcs",
+      "name": "Chicken Potsticker (3 Pcs)",
+      "description": null,
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 6.0,
+      "carbs_g": 20.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 3.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-cream-cheese-rangoon-3-pcs",
+      "name": "Cream Cheese Rangoon (3 Pcs)",
+      "description": null,
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 5.0,
+      "carbs_g": 24.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 2.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-vegetable-spring-roll-2-rolls",
+      "name": "Vegetable Spring Roll (2 Rolls)",
+      "description": null,
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 4.0,
+      "carbs_g": 24.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per 3.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-broccoli-beef-cub-meal-white-rice-super-greens-broccoli-beef-apple-crisps-bottled-water",
+      "name": "Broccoli Beef Cub Meal (White Rice, Super Greens, Broccoli Beef, Apple Crisps, Bottled Water)",
+      "description": null,
+      "category": "meal",
+      "calories": 300.0,
+      "protein_g": 11.0,
+      "carbs_g": 49.0,
+      "fat_g": 7.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 9.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-grilled-teriyaki-chicken-cub-meal-chow-mein-super-greens-grilled-teriyaki-chicken-apple-crisps-bottled-water",
+      "name": "Grilled Teriyaki Chicken Cub Meal (Chow Mein, Super Greens, Grilled Teriyaki Chicken, Apple Crisps, Bottled Water)",
+      "description": null,
+      "category": "meal",
+      "calories": 400.0,
+      "protein_g": 28.0,
+      "carbs_g": 36.0,
+      "fat_g": 16.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 700.0,
+      "serving_note": "per 9.3 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-orange-chicken-cub-meal-white-rice-super-greens-orange-chicken-apple-crisps-bottled-water",
+      "name": "Orange Chicken Cub Meal (White Rice, Super Greens, Orange Chicken, Apple Crisps, Bottled Water)",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 22.0,
+      "carbs_g": 84.0,
+      "fat_g": 17.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 705.0,
+      "serving_note": "per 9.5 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-apple-pie-roll",
+      "name": "Apple Pie Roll",
+      "description": null,
+      "category": "side",
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 30.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 1.94 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-chili-sauce",
+      "name": "Chili Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 0.25 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fortune-cookie",
+      "name": "Fortune Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.18 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hot-mustard",
+      "name": "Hot Mustard",
+      "description": null,
+      "category": "condiment",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 0.25 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-potsticker-sauce",
+      "name": "Potsticker Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 0.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-soy-sauce",
+      "name": "Soy Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 375.0,
+      "serving_note": "per 0.21 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-sour-sauce",
+      "name": "Sweet & Sour Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 1.8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-teriyaki-sauce",
+      "name": "Teriyaki Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 1.8 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-tree-top-apple-crisps",
+      "name": "Tree Top Apple Crisps",
+      "description": null,
+      "category": "side",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.34 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hot-sour-soup-bowl",
+      "name": "Hot & Sour Soup - Bowl",
+      "description": null,
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 10.0,
+      "carbs_g": 20.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per 17.4 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hot-sour-soup-cup",
+      "name": "Hot & Sour Soup - Cup",
+      "description": null,
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 7.0,
+      "carbs_g": 14.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per 12.2 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-barq-s-root-beer-kids",
+      "name": "Barq'S Root Beer - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 44.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-barq-s-root-beer-large",
+      "name": "Barq'S Root Beer - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 560.0,
+      "protein_g": 0.0,
+      "carbs_g": 153.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-barq-s-root-beer-small",
+      "name": "Barq'S Root Beer - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 80.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-tea-kids",
+      "name": "Black Tea - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-tea-large",
+      "name": "Black Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 40 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-tea-medium",
+      "name": "Black Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 32 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-black-tea-small",
+      "name": "Black Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-cherry-coca-cola-kids",
+      "name": "Cherry Coca-Cola - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-cherry-coca-cola-large",
+      "name": "Cherry Coca-Cola - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 540.0,
+      "protein_g": 0.0,
+      "carbs_g": 147.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-cherry-coca-cola-medium",
+      "name": "Cherry Coca-Cola - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 0.0,
+      "carbs_g": 105.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-cherry-coca-cola-small",
+      "name": "Cherry Coca-Cola - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 77.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-kids",
+      "name": "Coca-Cola - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-large",
+      "name": "Coca-Cola - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 510.0,
+      "protein_g": 0.0,
+      "carbs_g": 140.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-medium",
+      "name": "Coca-Cola - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 0.0,
+      "carbs_g": 100.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-small",
+      "name": "Coca-Cola - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-zero-sugar-kids",
+      "name": "Coca-Cola Zero Sugar - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-zero-sugar-large",
+      "name": "Coca-Cola Zero Sugar - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-zero-sugar-medium",
+      "name": "Coca-Cola Zero Sugar - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-coca-cola-zero-sugar-small",
+      "name": "Coca-Cola Zero Sugar - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-diet-coke-kids",
+      "name": "Diet Coke - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-diet-coke-large",
+      "name": "Diet Coke - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-diet-coke-medium",
+      "name": "Diet Coke - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-diet-coke-small",
+      "name": "Diet Coke - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-dr-pepper-kids",
+      "name": "Dr Pepper - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-dr-pepper-large",
+      "name": "Dr Pepper - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 500.0,
+      "protein_g": 0.0,
+      "carbs_g": 137.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-dr-pepper-medium",
+      "name": "Dr Pepper - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 0.0,
+      "carbs_g": 98.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-dr-pepper-small",
+      "name": "Dr Pepper - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 72.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-fruit-punch-kids",
+      "name": "Fanta Fruit Punch - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-fruit-punch-large",
+      "name": "Fanta Fruit Punch - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 530.0,
+      "protein_g": 0.0,
+      "carbs_g": 145.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-fruit-punch-medium",
+      "name": "Fanta Fruit Punch - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 380.0,
+      "protein_g": 0.0,
+      "carbs_g": 104.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-fruit-punch-small",
+      "name": "Fanta Fruit Punch - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 76.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-pr-only-kids",
+      "name": "Fanta Orange (Pr Only) - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-pr-only-large",
+      "name": "Fanta Orange (Pr Only) - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 570.0,
+      "protein_g": 0.0,
+      "carbs_g": 147.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-pr-only-medium",
+      "name": "Fanta Orange (Pr Only) - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 0.0,
+      "carbs_g": 105.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-pr-only-small",
+      "name": "Fanta Orange (Pr Only) - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 77.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-kids",
+      "name": "Fanta Orange - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-large",
+      "name": "Fanta Orange - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 520.0,
+      "protein_g": 0.0,
+      "carbs_g": 142.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-medium",
+      "name": "Fanta Orange - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 0.0,
+      "carbs_g": 101.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-orange-small",
+      "name": "Fanta Orange - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 74.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-tx-only-kids",
+      "name": "Fanta Strawberry (Tx Only) - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 44.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-tx-only-large",
+      "name": "Fanta Strawberry (Tx Only) - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 570.0,
+      "protein_g": 0.0,
+      "carbs_g": 155.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-tx-only-medium",
+      "name": "Fanta Strawberry (Tx Only) - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 0.0,
+      "carbs_g": 111.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-tx-only-small",
+      "name": "Fanta Strawberry (Tx Only) - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 81.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-kids",
+      "name": "Fanta Strawberry - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-large",
+      "name": "Fanta Strawberry - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 550.0,
+      "protein_g": 0.0,
+      "carbs_g": 150.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-medium",
+      "name": "Fanta Strawberry - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 107.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fanta-strawberry-small",
+      "name": "Fanta Strawberry - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 79.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-lemon-black-tea-kids",
+      "name": "Fuze Lemon Black Tea - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-lemon-black-tea-large",
+      "name": "Fuze Lemon Black Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 78.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-lemon-black-tea-medium",
+      "name": "Fuze Lemon Black Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 56.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-lemon-black-tea-small",
+      "name": "Fuze Lemon Black Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-raspberry-tea-kids",
+      "name": "Fuze Raspberry Tea - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-raspberry-tea-large",
+      "name": "Fuze Raspberry Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 78.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-raspberry-tea-medium",
+      "name": "Fuze Raspberry Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 56.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-fuze-raspberry-tea-small",
+      "name": "Fuze Raspberry Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-glaceau-vitaminwater-squeezed-zero-kids",
+      "name": "Glaceau Vitaminwater Squeezed Zero - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-glaceau-vitaminwater-squeezed-zero-large",
+      "name": "Glaceau Vitaminwater Squeezed Zero - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-glaceau-vitaminwater-squeezed-zero-medium",
+      "name": "Glaceau Vitaminwater Squeezed Zero - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-glaceau-vitaminwater-squeezed-zero-small",
+      "name": "Glaceau Vitaminwater Squeezed Zero - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-gold-peak-premium-unsweetened-tea-kids",
+      "name": "Gold Peak Premium Unsweetened Tea - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-gold-peak-premium-unsweetened-tea-large",
+      "name": "Gold Peak Premium Unsweetened Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-gold-peak-premium-unsweetened-tea-medium",
+      "name": "Gold Peak Premium Unsweetened Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-gold-peak-premium-unsweetened-tea-small",
+      "name": "Gold Peak Premium Unsweetened Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hi-c-flashin-fruit-punch-kids",
+      "name": "Hi-C Flashin Fruit Punch - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hi-c-flashin-fruit-punch-large",
+      "name": "Hi-C Flashin Fruit Punch - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 540.0,
+      "protein_g": 0.0,
+      "carbs_g": 148.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hi-c-flashin-fruit-punch-medium",
+      "name": "Hi-C Flashin Fruit Punch - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 106.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-hi-c-flashin-fruit-punch-small",
+      "name": "Hi-C Flashin Fruit Punch - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 78.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-lemon-green-tea-large",
+      "name": "Lemon Green Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 40 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-lemon-green-tea-medium",
+      "name": "Lemon Green Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 32 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-lemon-green-tea-small",
+      "name": "Lemon Green Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-mango-guava-tea",
+      "name": "Mango Guava Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 195.0,
+      "protein_g": 0.0,
+      "carbs_g": 46.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 24 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-lemonade-kids",
+      "name": "Minute Maid Lemonade - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-lemonade-large",
+      "name": "Minute Maid Lemonade - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 550.0,
+      "protein_g": 0.0,
+      "carbs_g": 138.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-lemonade-medium",
+      "name": "Minute Maid Lemonade - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 99.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-lemonade-small",
+      "name": "Minute Maid Lemonade - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 72.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-light-lemonade-kids",
+      "name": "Minute Maid Light Lemonade - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-light-lemonade-large",
+      "name": "Minute Maid Light Lemonade - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-light-lemonade-medium",
+      "name": "Minute Maid Light Lemonade - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 105.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-minute-maid-light-lemonade-small",
+      "name": "Minute Maid Light Lemonade - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-passionfruit-mango-black-tea-kids",
+      "name": "Passionfruit Mango Black Tea - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-passionfruit-mango-black-tea-large",
+      "name": "Passionfruit Mango Black Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 40 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-passionfruit-mango-black-tea-medium",
+      "name": "Passionfruit Mango Black Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 32 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-passionfruit-mango-black-tea-small",
+      "name": "Passionfruit Mango Black Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-peach-lychee-refresher",
+      "name": "Peach Lychee Refresher",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 24 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-pomegranate-pineapple-lemonade",
+      "name": "Pomegranate Pineapple Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 62.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 24 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-fruit-punch-kids",
+      "name": "Powerade Fruit Punch - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-fruit-punch-large",
+      "name": "Powerade Fruit Punch - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 75.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-fruit-punch-medium",
+      "name": "Powerade Fruit Punch - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-fruit-punch-small",
+      "name": "Powerade Fruit Punch - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-mountain-berry-blast-kids",
+      "name": "Powerade Mountain Berry Blast - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-mountain-berry-blast-large",
+      "name": "Powerade Mountain Berry Blast - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 77.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-mountain-berry-blast-medium",
+      "name": "Powerade Mountain Berry Blast - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 55.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-powerade-mountain-berry-blast-small",
+      "name": "Powerade Mountain Berry Blast - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-seagram-s-ginger-ale-kids",
+      "name": "Seagram'S Ginger Ale - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 35.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-seagram-s-ginger-ale-large",
+      "name": "Seagram'S Ginger Ale - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 450.0,
+      "protein_g": 0.0,
+      "carbs_g": 121.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-seagram-s-ginger-ale-medium",
+      "name": "Seagram'S Ginger Ale - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 87.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-seagram-s-ginger-ale-small",
+      "name": "Seagram'S Ginger Ale - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 64.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-kids",
+      "name": "Sprite - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 37.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-large",
+      "name": "Sprite - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 470.0,
+      "protein_g": 0.0,
+      "carbs_g": 129.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-meddium",
+      "name": "Sprite - Meddium",
+      "description": null,
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 0.0,
+      "carbs_g": 92.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-small",
+      "name": "Sprite - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 68.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-zero-kids",
+      "name": "Sprite Zero - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-zero-large",
+      "name": "Sprite Zero - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 42 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-zero-medium",
+      "name": "Sprite Zero - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per 30 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sprite-zero-small",
+      "name": "Sprite Zero - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-tea-kids",
+      "name": "Sweet Tea - Kids",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 12 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-tea-large",
+      "name": "Sweet Tea - Large",
+      "description": null,
+      "category": "drink",
+      "calories": 510.0,
+      "protein_g": 0.0,
+      "carbs_g": 129.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 40 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-tea-medium",
+      "name": "Sweet Tea - Medium",
+      "description": null,
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 0.0,
+      "carbs_g": 103.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 32 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-sweet-tea-small",
+      "name": "Sweet Tea - Small",
+      "description": null,
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 71.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 22 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "published-watermelon-mango-refresher",
+      "name": "Watermelon Mango Refresher",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 24 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      }
+    },
+    {
+      "id": "beijing-beef-chow-mein-bowl",
+      "name": "Beijing Beef Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1070.0,
+      "protein_g": 29.0,
+      "carbs_g": 140.0,
+      "fat_g": 50.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1600.0
+    },
+    {
+      "id": "beijing-beef-chow-mein-plate",
+      "name": "Beijing Beef Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1540.0,
+      "protein_g": 43.0,
+      "carbs_g": 186.0,
+      "fat_g": 77.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2200.0
+    },
+    {
+      "id": "beijing-beef-fried-rice-bowl",
+      "name": "Beijing Beef Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1090.0,
+      "protein_g": 27.0,
+      "carbs_g": 147.0,
+      "fat_g": 46.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1600.0
+    },
+    {
+      "id": "beijing-beef-fried-rice-plate",
+      "name": "Beijing Beef Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1560.0,
+      "protein_g": 41.0,
+      "carbs_g": 193.0,
+      "fat_g": 73.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2200.0
+    },
+    {
+      "id": "beijing-beef-super-greens-bowl",
+      "name": "Beijing Beef Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 600.0,
+      "protein_g": 23.0,
+      "carbs_g": 60.0,
+      "fat_g": 31.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 970.0
+    },
+    {
+      "id": "beijing-beef-super-greens-plate",
+      "name": "Beijing Beef Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1070.0,
+      "protein_g": 37.0,
+      "carbs_g": 106.0,
+      "fat_g": 58.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1570.0
+    },
+    {
+      "id": "beijing-beef-white-steamed-rice-bowl",
+      "name": "Beijing Beef Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 990.0,
+      "protein_g": 24.0,
+      "carbs_g": 164.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 600.0
+    },
+    {
+      "id": "beijing-beef-white-steamed-rice-plate",
+      "name": "Beijing Beef Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of beijing beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1460.0,
+      "protein_g": 38.0,
+      "carbs_g": 210.0,
+      "fat_g": 54.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1200.0
+    },
+    {
+      "id": "black-pepper-chicken-chow-mein-bowl",
+      "name": "Black Pepper Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 880.0,
+      "protein_g": 28.0,
+      "carbs_g": 109.0,
+      "fat_g": 42.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2130.0
+    },
+    {
+      "id": "black-pepper-chicken-chow-mein-plate",
+      "name": "Black Pepper Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1160.0,
+      "protein_g": 41.0,
+      "carbs_g": 124.0,
+      "fat_g": 61.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 3260.0
+    },
+    {
+      "id": "black-pepper-chicken-fried-rice-bowl",
+      "name": "Black Pepper Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 900.0,
+      "protein_g": 26.0,
+      "carbs_g": 116.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2130.0
+    },
+    {
+      "id": "black-pepper-chicken-fried-rice-plate",
+      "name": "Black Pepper Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1180.0,
+      "protein_g": 39.0,
+      "carbs_g": 131.0,
+      "fat_g": 57.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 3260.0
+    },
+    {
+      "id": "black-pepper-chicken-super-greens-bowl",
+      "name": "Black Pepper Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 410.0,
+      "protein_g": 22.0,
+      "carbs_g": 29.0,
+      "fat_g": 23.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1500.0
+    },
+    {
+      "id": "black-pepper-chicken-super-greens-plate",
+      "name": "Black Pepper Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 690.0,
+      "protein_g": 35.0,
+      "carbs_g": 44.0,
+      "fat_g": 42.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2630.0
+    },
+    {
+      "id": "black-pepper-chicken-white-steamed-rice-bowl",
+      "name": "Black Pepper Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 800.0,
+      "protein_g": 23.0,
+      "carbs_g": 133.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1130.0
+    },
+    {
+      "id": "black-pepper-chicken-white-steamed-rice-plate",
+      "name": "Black Pepper Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of black pepper chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1080.0,
+      "protein_g": 36.0,
+      "carbs_g": 148.0,
+      "fat_g": 38.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2260.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-chow-mein-bowl",
+      "name": "Black Pepper Sirloin Steak Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 780.0,
+      "protein_g": 34.0,
+      "carbs_g": 106.0,
+      "fat_g": 29.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1590.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-chow-mein-plate",
+      "name": "Black Pepper Sirloin Steak Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 960.0,
+      "protein_g": 53.0,
+      "carbs_g": 118.0,
+      "fat_g": 35.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2180.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-fried-rice-bowl",
+      "name": "Black Pepper Sirloin Steak Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 800.0,
+      "protein_g": 32.0,
+      "carbs_g": 113.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1590.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-fried-rice-plate",
+      "name": "Black Pepper Sirloin Steak Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 980.0,
+      "protein_g": 51.0,
+      "carbs_g": 125.0,
+      "fat_g": 31.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2180.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-super-greens-bowl",
+      "name": "Black Pepper Sirloin Steak Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 310.0,
+      "protein_g": 28.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 960.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-super-greens-plate",
+      "name": "Black Pepper Sirloin Steak Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 490.0,
+      "protein_g": 47.0,
+      "carbs_g": 38.0,
+      "fat_g": 16.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1550.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-white-steamed-rice-bowl",
+      "name": "Black Pepper Sirloin Steak Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 700.0,
+      "protein_g": 29.0,
+      "carbs_g": 130.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 590.0
+    },
+    {
+      "id": "black-pepper-sirloin-steak-white-steamed-rice-plate",
+      "name": "Black Pepper Sirloin Steak Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of black pepper sirloin steak; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 880.0,
+      "protein_g": 48.0,
+      "carbs_g": 142.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1180.0
+    },
+    {
+      "id": "broccoli-beef-chow-mein-bowl",
+      "name": "Broccoli Beef Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 750.0,
+      "protein_g": 30.0,
+      "carbs_g": 106.0,
+      "fat_g": 29.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1520.0
+    },
+    {
+      "id": "broccoli-beef-chow-mein-plate",
+      "name": "Broccoli Beef Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 900.0,
+      "protein_g": 45.0,
+      "carbs_g": 118.0,
+      "fat_g": 35.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2040.0
+    },
+    {
+      "id": "broccoli-beef-fried-rice-bowl",
+      "name": "Broccoli Beef Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 770.0,
+      "protein_g": 28.0,
+      "carbs_g": 113.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1520.0
+    },
+    {
+      "id": "broccoli-beef-fried-rice-plate",
+      "name": "Broccoli Beef Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 920.0,
+      "protein_g": 43.0,
+      "carbs_g": 125.0,
+      "fat_g": 31.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2040.0
+    },
+    {
+      "id": "broccoli-beef-super-greens-bowl",
+      "name": "Broccoli Beef Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 280.0,
+      "protein_g": 24.0,
+      "carbs_g": 26.0,
+      "fat_g": 10.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 890.0
+    },
+    {
+      "id": "broccoli-beef-super-greens-plate",
+      "name": "Broccoli Beef Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 430.0,
+      "protein_g": 39.0,
+      "carbs_g": 38.0,
+      "fat_g": 16.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1410.0
+    },
+    {
+      "id": "broccoli-beef-white-steamed-rice-bowl",
+      "name": "Broccoli Beef Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 670.0,
+      "protein_g": 25.0,
+      "carbs_g": 130.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 520.0
+    },
+    {
+      "id": "broccoli-beef-white-steamed-rice-plate",
+      "name": "Broccoli Beef Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of broccoli beef; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.44 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 820.0,
+      "protein_g": 40.0,
+      "carbs_g": 142.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1040.0
+    },
+    {
+      "id": "eggplant-tofu-chow-mein-bowl",
+      "name": "Eggplant Tofu Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 940.0,
+      "protein_g": 22.0,
+      "carbs_g": 117.0,
+      "fat_g": 47.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1520.0
+    },
+    {
+      "id": "eggplant-tofu-chow-mein-plate",
+      "name": "Eggplant Tofu Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1280.0,
+      "protein_g": 29.0,
+      "carbs_g": 140.0,
+      "fat_g": 71.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 2040.0
+    },
+    {
+      "id": "eggplant-tofu-fried-rice-bowl",
+      "name": "Eggplant Tofu Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 960.0,
+      "protein_g": 20.0,
+      "carbs_g": 124.0,
+      "fat_g": 43.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1520.0
+    },
+    {
+      "id": "eggplant-tofu-fried-rice-plate",
+      "name": "Eggplant Tofu Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1300.0,
+      "protein_g": 27.0,
+      "carbs_g": 147.0,
+      "fat_g": 67.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2040.0
+    },
+    {
+      "id": "eggplant-tofu-super-greens-bowl",
+      "name": "Eggplant Tofu Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 470.0,
+      "protein_g": 16.0,
+      "carbs_g": 37.0,
+      "fat_g": 28.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 890.0
+    },
+    {
+      "id": "eggplant-tofu-super-greens-plate",
+      "name": "Eggplant Tofu Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 810.0,
+      "protein_g": 23.0,
+      "carbs_g": 60.0,
+      "fat_g": 52.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 1410.0
+    },
+    {
+      "id": "eggplant-tofu-white-steamed-rice-bowl",
+      "name": "Eggplant Tofu Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 860.0,
+      "protein_g": 17.0,
+      "carbs_g": 141.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 520.0
+    },
+    {
+      "id": "eggplant-tofu-white-steamed-rice-plate",
+      "name": "Eggplant Tofu Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of eggplant tofu; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.1 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1200.0,
+      "protein_g": 24.0,
+      "carbs_g": 164.0,
+      "fat_g": 48.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1040.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-chow-mein-bowl",
+      "name": "Grilled Teriyaki Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 875.0,
+      "protein_g": 48.0,
+      "carbs_g": 108.0,
+      "fat_g": 33.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1470.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-chow-mein-plate",
+      "name": "Grilled Teriyaki Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1150.0,
+      "protein_g": 81.0,
+      "carbs_g": 122.0,
+      "fat_g": 43.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1940.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-fried-rice-bowl",
+      "name": "Grilled Teriyaki Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 895.0,
+      "protein_g": 46.0,
+      "carbs_g": 115.0,
+      "fat_g": 29.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1470.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-fried-rice-plate",
+      "name": "Grilled Teriyaki Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1170.0,
+      "protein_g": 79.0,
+      "carbs_g": 129.0,
+      "fat_g": 39.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1940.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-super-greens-bowl",
+      "name": "Grilled Teriyaki Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 405.0,
+      "protein_g": 42.0,
+      "carbs_g": 28.0,
+      "fat_g": 14.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 840.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-super-greens-plate",
+      "name": "Grilled Teriyaki Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 680.0,
+      "protein_g": 75.0,
+      "carbs_g": 42.0,
+      "fat_g": 24.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1310.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-white-steamed-rice-bowl",
+      "name": "Grilled Teriyaki Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 795.0,
+      "protein_g": 43.0,
+      "carbs_g": 132.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 470.0
+    },
+    {
+      "id": "grilled-teriyaki-chicken-white-steamed-rice-plate",
+      "name": "Grilled Teriyaki Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of grilled teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1070.0,
+      "protein_g": 76.0,
+      "carbs_g": 146.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 940.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-chow-mein-bowl",
+      "name": "Honey Sesame Chicken Breast Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 940.0,
+      "protein_g": 31.0,
+      "carbs_g": 129.0,
+      "fat_g": 38.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1540.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-chow-mein-plate",
+      "name": "Honey Sesame Chicken Breast Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1280.0,
+      "protein_g": 47.0,
+      "carbs_g": 164.0,
+      "fat_g": 53.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2080.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-fried-rice-bowl",
+      "name": "Honey Sesame Chicken Breast Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 960.0,
+      "protein_g": 29.0,
+      "carbs_g": 136.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1540.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-fried-rice-plate",
+      "name": "Honey Sesame Chicken Breast Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1300.0,
+      "protein_g": 45.0,
+      "carbs_g": 171.0,
+      "fat_g": 49.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2080.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-super-greens-bowl",
+      "name": "Honey Sesame Chicken Breast Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 470.0,
+      "protein_g": 25.0,
+      "carbs_g": 49.0,
+      "fat_g": 19.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 910.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-super-greens-plate",
+      "name": "Honey Sesame Chicken Breast Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 810.0,
+      "protein_g": 41.0,
+      "carbs_g": 84.0,
+      "fat_g": 34.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1450.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-white-steamed-rice-bowl",
+      "name": "Honey Sesame Chicken Breast Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 860.0,
+      "protein_g": 26.0,
+      "carbs_g": 153.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 540.0
+    },
+    {
+      "id": "honey-sesame-chicken-breast-white-steamed-rice-plate",
+      "name": "Honey Sesame Chicken Breast Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of honey sesame chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.3 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1200.0,
+      "protein_g": 42.0,
+      "carbs_g": 188.0,
+      "fat_g": 30.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1080.0
+    },
+    {
+      "id": "honey-walnut-shrimp-chow-mein-bowl",
+      "name": "Honey Walnut Shrimp Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1030.0,
+      "protein_g": 28.0,
+      "carbs_g": 126.0,
+      "fat_g": 51.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1700.0
+    },
+    {
+      "id": "honey-walnut-shrimp-chow-mein-plate",
+      "name": "Honey Walnut Shrimp Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1460.0,
+      "protein_g": 41.0,
+      "carbs_g": 158.0,
+      "fat_g": 79.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2400.0
+    },
+    {
+      "id": "honey-walnut-shrimp-fried-rice-bowl",
+      "name": "Honey Walnut Shrimp Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1050.0,
+      "protein_g": 26.0,
+      "carbs_g": 133.0,
+      "fat_g": 47.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1700.0
+    },
+    {
+      "id": "honey-walnut-shrimp-fried-rice-plate",
+      "name": "Honey Walnut Shrimp Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1480.0,
+      "protein_g": 39.0,
+      "carbs_g": 165.0,
+      "fat_g": 75.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2400.0
+    },
+    {
+      "id": "honey-walnut-shrimp-super-greens-bowl",
+      "name": "Honey Walnut Shrimp Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 560.0,
+      "protein_g": 22.0,
+      "carbs_g": 46.0,
+      "fat_g": 32.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1070.0
+    },
+    {
+      "id": "honey-walnut-shrimp-super-greens-plate",
+      "name": "Honey Walnut Shrimp Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 990.0,
+      "protein_g": 35.0,
+      "carbs_g": 78.0,
+      "fat_g": 60.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1770.0
+    },
+    {
+      "id": "honey-walnut-shrimp-white-steamed-rice-bowl",
+      "name": "Honey Walnut Shrimp Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 950.0,
+      "protein_g": 23.0,
+      "carbs_g": 150.0,
+      "fat_g": 28.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 700.0
+    },
+    {
+      "id": "honey-walnut-shrimp-white-steamed-rice-plate",
+      "name": "Honey Walnut Shrimp Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of honey walnut shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 4.39 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1380.0,
+      "protein_g": 36.0,
+      "carbs_g": 182.0,
+      "fat_g": 56.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1400.0
+    },
+    {
+      "id": "hot-orange-chicken-chow-mein-bowl",
+      "name": "Hot Orange Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1150.0,
+      "protein_g": 32.0,
+      "carbs_g": 153.0,
+      "fat_g": 50.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1950.0
+    },
+    {
+      "id": "hot-orange-chicken-chow-mein-plate",
+      "name": "Hot Orange Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1700.0,
+      "protein_g": 49.0,
+      "carbs_g": 212.0,
+      "fat_g": 77.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2900.0
+    },
+    {
+      "id": "hot-orange-chicken-fried-rice-bowl",
+      "name": "Hot Orange Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1170.0,
+      "protein_g": 30.0,
+      "carbs_g": 160.0,
+      "fat_g": 46.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1950.0
+    },
+    {
+      "id": "hot-orange-chicken-fried-rice-plate",
+      "name": "Hot Orange Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1720.0,
+      "protein_g": 47.0,
+      "carbs_g": 219.0,
+      "fat_g": 73.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2900.0
+    },
+    {
+      "id": "hot-orange-chicken-super-greens-bowl",
+      "name": "Hot Orange Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 680.0,
+      "protein_g": 26.0,
+      "carbs_g": 73.0,
+      "fat_g": 31.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1320.0
+    },
+    {
+      "id": "hot-orange-chicken-super-greens-plate",
+      "name": "Hot Orange Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1230.0,
+      "protein_g": 43.0,
+      "carbs_g": 132.0,
+      "fat_g": 58.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2270.0
+    },
+    {
+      "id": "hot-orange-chicken-white-steamed-rice-bowl",
+      "name": "Hot Orange Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1070.0,
+      "protein_g": 27.0,
+      "carbs_g": 177.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 950.0
+    },
+    {
+      "id": "hot-orange-chicken-white-steamed-rice-plate",
+      "name": "Hot Orange Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of hot orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1620.0,
+      "protein_g": 44.0,
+      "carbs_g": 236.0,
+      "fat_g": 54.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1900.0
+    },
+    {
+      "id": "kung-pao-chicken-chow-mein-bowl",
+      "name": "Kung Pao Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 920.0,
+      "protein_g": 32.0,
+      "carbs_g": 109.0,
+      "fat_g": 44.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2050.0
+    },
+    {
+      "id": "kung-pao-chicken-chow-mein-plate",
+      "name": "Kung Pao Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1240.0,
+      "protein_g": 49.0,
+      "carbs_g": 124.0,
+      "fat_g": 65.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 3100.0
+    },
+    {
+      "id": "kung-pao-chicken-fried-rice-bowl",
+      "name": "Kung Pao Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 940.0,
+      "protein_g": 30.0,
+      "carbs_g": 116.0,
+      "fat_g": 40.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2050.0
+    },
+    {
+      "id": "kung-pao-chicken-fried-rice-plate",
+      "name": "Kung Pao Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1260.0,
+      "protein_g": 47.0,
+      "carbs_g": 131.0,
+      "fat_g": 61.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 3100.0
+    },
+    {
+      "id": "kung-pao-chicken-super-greens-bowl",
+      "name": "Kung Pao Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 450.0,
+      "protein_g": 26.0,
+      "carbs_g": 29.0,
+      "fat_g": 25.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1420.0
+    },
+    {
+      "id": "kung-pao-chicken-super-greens-plate",
+      "name": "Kung Pao Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 770.0,
+      "protein_g": 43.0,
+      "carbs_g": 44.0,
+      "fat_g": 46.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2470.0
+    },
+    {
+      "id": "kung-pao-chicken-white-steamed-rice-bowl",
+      "name": "Kung Pao Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 840.0,
+      "protein_g": 27.0,
+      "carbs_g": 133.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1050.0
+    },
+    {
+      "id": "kung-pao-chicken-white-steamed-rice-plate",
+      "name": "Kung Pao Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of kung pao chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6.73 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1160.0,
+      "protein_g": 44.0,
+      "carbs_g": 148.0,
+      "fat_g": 42.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2100.0
+    },
+    {
+      "id": "mushroom-chicken-chow-mein-bowl",
+      "name": "Mushroom Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 820.0,
+      "protein_g": 28.0,
+      "carbs_g": 104.0,
+      "fat_g": 37.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1840.0
+    },
+    {
+      "id": "mushroom-chicken-chow-mein-plate",
+      "name": "Mushroom Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1040.0,
+      "protein_g": 41.0,
+      "carbs_g": 114.0,
+      "fat_g": 51.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2680.0
+    },
+    {
+      "id": "mushroom-chicken-fried-rice-bowl",
+      "name": "Mushroom Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 840.0,
+      "protein_g": 26.0,
+      "carbs_g": 111.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1840.0
+    },
+    {
+      "id": "mushroom-chicken-fried-rice-plate",
+      "name": "Mushroom Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1060.0,
+      "protein_g": 39.0,
+      "carbs_g": 121.0,
+      "fat_g": 47.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2680.0
+    },
+    {
+      "id": "mushroom-chicken-super-greens-bowl",
+      "name": "Mushroom Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 350.0,
+      "protein_g": 22.0,
+      "carbs_g": 24.0,
+      "fat_g": 18.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1210.0
+    },
+    {
+      "id": "mushroom-chicken-super-greens-plate",
+      "name": "Mushroom Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 570.0,
+      "protein_g": 35.0,
+      "carbs_g": 34.0,
+      "fat_g": 32.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2050.0
+    },
+    {
+      "id": "mushroom-chicken-white-steamed-rice-bowl",
+      "name": "Mushroom Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 740.0,
+      "protein_g": 23.0,
+      "carbs_g": 128.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 840.0
+    },
+    {
+      "id": "mushroom-chicken-white-steamed-rice-plate",
+      "name": "Mushroom Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of mushroom chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.7 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 960.0,
+      "protein_g": 36.0,
+      "carbs_g": 138.0,
+      "fat_g": 28.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1680.0
+    },
+    {
+      "id": "orange-chicken-chow-mein-bowl",
+      "name": "Orange Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1110.0,
+      "protein_g": 31.0,
+      "carbs_g": 147.0,
+      "fat_g": 47.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1850.0
+    },
+    {
+      "id": "orange-chicken-chow-mein-plate",
+      "name": "Orange Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1620.0,
+      "protein_g": 47.0,
+      "carbs_g": 200.0,
+      "fat_g": 71.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2700.0
+    },
+    {
+      "id": "orange-chicken-fried-rice-bowl",
+      "name": "Orange Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1130.0,
+      "protein_g": 29.0,
+      "carbs_g": 154.0,
+      "fat_g": 43.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1850.0
+    },
+    {
+      "id": "orange-chicken-fried-rice-plate",
+      "name": "Orange Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1640.0,
+      "protein_g": 45.0,
+      "carbs_g": 207.0,
+      "fat_g": 67.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2700.0
+    },
+    {
+      "id": "orange-chicken-super-greens-bowl",
+      "name": "Orange Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 640.0,
+      "protein_g": 25.0,
+      "carbs_g": 67.0,
+      "fat_g": 28.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1220.0
+    },
+    {
+      "id": "orange-chicken-super-greens-plate",
+      "name": "Orange Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1150.0,
+      "protein_g": 41.0,
+      "carbs_g": 120.0,
+      "fat_g": 52.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2070.0
+    },
+    {
+      "id": "orange-chicken-white-steamed-rice-bowl",
+      "name": "Orange Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1030.0,
+      "protein_g": 26.0,
+      "carbs_g": 171.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 850.0
+    },
+    {
+      "id": "orange-chicken-white-steamed-rice-plate",
+      "name": "Orange Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of orange chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.92 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1540.0,
+      "protein_g": 42.0,
+      "carbs_g": 224.0,
+      "fat_g": 48.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1700.0
+    },
+    {
+      "id": "steamed-ginger-fish-chow-mein-bowl",
+      "name": "Steamed Ginger Fish Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 800.0,
+      "protein_g": 30.0,
+      "carbs_g": 102.0,
+      "fat_g": 35.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2990.0
+    },
+    {
+      "id": "steamed-ginger-fish-chow-mein-plate",
+      "name": "Steamed Ginger Fish Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1000.0,
+      "protein_g": 45.0,
+      "carbs_g": 110.0,
+      "fat_g": 47.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 4980.0
+    },
+    {
+      "id": "steamed-ginger-fish-fried-rice-bowl",
+      "name": "Steamed Ginger Fish Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 820.0,
+      "protein_g": 28.0,
+      "carbs_g": 109.0,
+      "fat_g": 31.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2990.0
+    },
+    {
+      "id": "steamed-ginger-fish-fried-rice-plate",
+      "name": "Steamed Ginger Fish Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1020.0,
+      "protein_g": 43.0,
+      "carbs_g": 117.0,
+      "fat_g": 43.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 4980.0
+    },
+    {
+      "id": "steamed-ginger-fish-super-greens-bowl",
+      "name": "Steamed Ginger Fish Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 330.0,
+      "protein_g": 24.0,
+      "carbs_g": 22.0,
+      "fat_g": 16.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2360.0
+    },
+    {
+      "id": "steamed-ginger-fish-super-greens-plate",
+      "name": "Steamed Ginger Fish Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 530.0,
+      "protein_g": 39.0,
+      "carbs_g": 30.0,
+      "fat_g": 28.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 4350.0
+    },
+    {
+      "id": "steamed-ginger-fish-white-steamed-rice-bowl",
+      "name": "Steamed Ginger Fish Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 720.0,
+      "protein_g": 25.0,
+      "carbs_g": 126.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1990.0
+    },
+    {
+      "id": "steamed-ginger-fish-white-steamed-rice-plate",
+      "name": "Steamed Ginger Fish Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of steamed ginger fish; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 920.0,
+      "protein_g": 40.0,
+      "carbs_g": 134.0,
+      "fat_g": 24.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3980.0
+    },
+    {
+      "id": "string-bean-chicken-breast-chow-mein-bowl",
+      "name": "String Bean Chicken Breast Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 810.0,
+      "protein_g": 27.0,
+      "carbs_g": 107.0,
+      "fat_g": 35.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 1560.0
+    },
+    {
+      "id": "string-bean-chicken-breast-chow-mein-plate",
+      "name": "String Bean Chicken Breast Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1020.0,
+      "protein_g": 39.0,
+      "carbs_g": 120.0,
+      "fat_g": 47.0,
+      "fiber_g": 17.0,
+      "sodium_mg": 2120.0
+    },
+    {
+      "id": "string-bean-chicken-breast-fried-rice-bowl",
+      "name": "String Bean Chicken Breast Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 830.0,
+      "protein_g": 25.0,
+      "carbs_g": 114.0,
+      "fat_g": 31.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1560.0
+    },
+    {
+      "id": "string-bean-chicken-breast-fried-rice-plate",
+      "name": "String Bean Chicken Breast Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1040.0,
+      "protein_g": 37.0,
+      "carbs_g": 127.0,
+      "fat_g": 43.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 2120.0
+    },
+    {
+      "id": "string-bean-chicken-breast-super-greens-bowl",
+      "name": "String Bean Chicken Breast Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 340.0,
+      "protein_g": 21.0,
+      "carbs_g": 27.0,
+      "fat_g": 16.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 930.0
+    },
+    {
+      "id": "string-bean-chicken-breast-super-greens-plate",
+      "name": "String Bean Chicken Breast Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 550.0,
+      "protein_g": 33.0,
+      "carbs_g": 40.0,
+      "fat_g": 28.0,
+      "fiber_g": 17.0,
+      "sodium_mg": 1490.0
+    },
+    {
+      "id": "string-bean-chicken-breast-white-steamed-rice-bowl",
+      "name": "String Bean Chicken Breast Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 730.0,
+      "protein_g": 22.0,
+      "carbs_g": 131.0,
+      "fat_g": 12.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 560.0
+    },
+    {
+      "id": "string-bean-chicken-breast-white-steamed-rice-plate",
+      "name": "String Bean Chicken Breast Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of string bean chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 940.0,
+      "protein_g": 34.0,
+      "carbs_g": 144.0,
+      "fat_g": 24.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1120.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-chow-mein-bowl",
+      "name": "Sweet & Sour Chicken Breast Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 900.0,
+      "protein_g": 25.0,
+      "carbs_g": 134.0,
+      "fat_g": 35.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1260.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-chow-mein-plate",
+      "name": "Sweet & Sour Chicken Breast Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1200.0,
+      "protein_g": 35.0,
+      "carbs_g": 174.0,
+      "fat_g": 47.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1520.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-fried-rice-bowl",
+      "name": "Sweet & Sour Chicken Breast Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 920.0,
+      "protein_g": 23.0,
+      "carbs_g": 141.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1260.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-fried-rice-plate",
+      "name": "Sweet & Sour Chicken Breast Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1220.0,
+      "protein_g": 33.0,
+      "carbs_g": 181.0,
+      "fat_g": 43.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1520.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-super-greens-bowl",
+      "name": "Sweet & Sour Chicken Breast Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 430.0,
+      "protein_g": 19.0,
+      "carbs_g": 54.0,
+      "fat_g": 16.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 630.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-super-greens-plate",
+      "name": "Sweet & Sour Chicken Breast Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 730.0,
+      "protein_g": 29.0,
+      "carbs_g": 94.0,
+      "fat_g": 28.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 890.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-white-steamed-rice-bowl",
+      "name": "Sweet & Sour Chicken Breast Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 820.0,
+      "protein_g": 20.0,
+      "carbs_g": 158.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 260.0
+    },
+    {
+      "id": "sweet-sour-chicken-breast-white-steamed-rice-plate",
+      "name": "Sweet & Sour Chicken Breast Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of sweet & sour chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.5 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1120.0,
+      "protein_g": 30.0,
+      "carbs_g": 198.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 520.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-chow-mein-bowl",
+      "name": "Sweetfire Chicken Breast Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 960.0,
+      "protein_g": 30.0,
+      "carbs_g": 134.0,
+      "fat_g": 38.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 1370.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-chow-mein-plate",
+      "name": "Sweetfire Chicken Breast Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1320.0,
+      "protein_g": 45.0,
+      "carbs_g": 174.0,
+      "fat_g": 53.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1740.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-fried-rice-bowl",
+      "name": "Sweetfire Chicken Breast Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 980.0,
+      "protein_g": 28.0,
+      "carbs_g": 141.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1370.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-fried-rice-plate",
+      "name": "Sweetfire Chicken Breast Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1340.0,
+      "protein_g": 43.0,
+      "carbs_g": 181.0,
+      "fat_g": 49.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1740.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-super-greens-bowl",
+      "name": "Sweetfire Chicken Breast Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 490.0,
+      "protein_g": 24.0,
+      "carbs_g": 54.0,
+      "fat_g": 19.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 740.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-super-greens-plate",
+      "name": "Sweetfire Chicken Breast Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 850.0,
+      "protein_g": 39.0,
+      "carbs_g": 94.0,
+      "fat_g": 34.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1110.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-white-steamed-rice-bowl",
+      "name": "Sweetfire Chicken Breast Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 880.0,
+      "protein_g": 25.0,
+      "carbs_g": 158.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "sweetfire-chicken-breast-white-steamed-rice-plate",
+      "name": "Sweetfire Chicken Breast Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of sweetfire chicken breast; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 5.8 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1240.0,
+      "protein_g": 40.0,
+      "carbs_g": 198.0,
+      "fat_g": 30.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 740.0
+    },
+    {
+      "id": "teriyaki-chicken-chow-mein-bowl",
+      "name": "Teriyaki Chicken Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 940.0,
+      "protein_g": 56.0,
+      "carbs_g": 108.0,
+      "fat_g": 36.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1630.0
+    },
+    {
+      "id": "teriyaki-chicken-chow-mein-plate",
+      "name": "Teriyaki Chicken Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1280.0,
+      "protein_g": 97.0,
+      "carbs_g": 122.0,
+      "fat_g": 49.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 2260.0
+    },
+    {
+      "id": "teriyaki-chicken-fried-rice-bowl",
+      "name": "Teriyaki Chicken Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 960.0,
+      "protein_g": 54.0,
+      "carbs_g": 115.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1630.0
+    },
+    {
+      "id": "teriyaki-chicken-fried-rice-plate",
+      "name": "Teriyaki Chicken Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1300.0,
+      "protein_g": 95.0,
+      "carbs_g": 129.0,
+      "fat_g": 45.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2260.0
+    },
+    {
+      "id": "teriyaki-chicken-super-greens-bowl",
+      "name": "Teriyaki Chicken Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 470.0,
+      "protein_g": 50.0,
+      "carbs_g": 28.0,
+      "fat_g": 17.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1000.0
+    },
+    {
+      "id": "teriyaki-chicken-super-greens-plate",
+      "name": "Teriyaki Chicken Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 810.0,
+      "protein_g": 91.0,
+      "carbs_g": 42.0,
+      "fat_g": 30.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 1630.0
+    },
+    {
+      "id": "teriyaki-chicken-white-steamed-rice-bowl",
+      "name": "Teriyaki Chicken Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 860.0,
+      "protein_g": 51.0,
+      "carbs_g": 132.0,
+      "fat_g": 13.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 630.0
+    },
+    {
+      "id": "teriyaki-chicken-white-steamed-rice-plate",
+      "name": "Teriyaki Chicken Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of teriyaki chicken; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1200.0,
+      "protein_g": 92.0,
+      "carbs_g": 146.0,
+      "fat_g": 26.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1260.0
+    },
+    {
+      "id": "wok-fired-shrimp-chow-mein-bowl",
+      "name": "Wok-Fired Shrimp Bowl with Chow Mein",
+      "description": "Derived canonical bowl: one standard serving of chow mein plus 1 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 790.0,
+      "protein_g": 32.0,
+      "carbs_g": 113.0,
+      "fat_g": 28.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 2140.0
+    },
+    {
+      "id": "wok-fired-shrimp-chow-mein-plate",
+      "name": "Wok-Fired Shrimp Plate with Chow Mein",
+      "description": "Derived canonical plate: one standard serving of chow mein plus 2 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 980.0,
+      "protein_g": 49.0,
+      "carbs_g": 132.0,
+      "fat_g": 33.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 3280.0
+    },
+    {
+      "id": "wok-fired-shrimp-fried-rice-bowl",
+      "name": "Wok-Fired Shrimp Bowl with Fried Rice",
+      "description": "Derived canonical bowl: one standard serving of fried rice plus 1 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 810.0,
+      "protein_g": 30.0,
+      "carbs_g": 120.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2140.0
+    },
+    {
+      "id": "wok-fired-shrimp-fried-rice-plate",
+      "name": "Wok-Fired Shrimp Plate with Fried Rice",
+      "description": "Derived canonical plate: one standard serving of fried rice plus 2 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 1000.0,
+      "protein_g": 47.0,
+      "carbs_g": 139.0,
+      "fat_g": 29.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 3280.0
+    },
+    {
+      "id": "wok-fired-shrimp-super-greens-bowl",
+      "name": "Wok-Fired Shrimp Bowl with Super Greens",
+      "description": "Derived canonical bowl: one standard serving of super greens plus 1 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (10 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 320.0,
+      "protein_g": 26.0,
+      "carbs_g": 33.0,
+      "fat_g": 9.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1510.0
+    },
+    {
+      "id": "wok-fired-shrimp-super-greens-plate",
+      "name": "Wok-Fired Shrimp Plate with Super Greens",
+      "description": "Derived canonical plate: one standard serving of super greens plus 2 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (10 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 510.0,
+      "protein_g": 43.0,
+      "carbs_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 2650.0
+    },
+    {
+      "id": "wok-fired-shrimp-white-steamed-rice-bowl",
+      "name": "Wok-Fired Shrimp Bowl with White Steamed Rice",
+      "description": "Derived canonical bowl: one standard serving of white steamed rice plus 1 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per bowl (11 oz side + 1 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 710.0,
+      "protein_g": 27.0,
+      "carbs_g": 137.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1140.0
+    },
+    {
+      "id": "wok-fired-shrimp-white-steamed-rice-plate",
+      "name": "Wok-Fired Shrimp Plate with White Steamed Rice",
+      "description": "Derived canonical plate: one standard serving of white steamed rice plus 2 standard serving(s) of wok-fired shrimp; summed from Panda's published nutrition.",
+      "category": "meal",
+      "serving_note": "per plate (11 oz side + 2 x 6 oz entree)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.pandaexpress.com/nutritioninformation"
+      },
+      "calories": 900.0,
+      "protein_g": 44.0,
+      "carbs_g": 156.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2280.0
+    }
+  ]
+}

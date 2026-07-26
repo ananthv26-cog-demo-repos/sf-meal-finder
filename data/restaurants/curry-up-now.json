@@ -1,0 +1,57 @@
+{
+  "id": "curry-up-now",
+  "name": "Curry Up Now",
+  "website": "https://www.curryupnow.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://platform.fatsecret.com/rest/server.api?method=foods.search&search_expression=Curry+Up+Now&max_results=50&page_number=0",
+    "vendor": "fatsecret",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "659 Valencia St, San Francisco, CA 94110",
+      "lat": 37.7622411,
+      "lng": -122.4213894,
+      "neighborhood": "Mission"
+    }
+  ],
+  "items": [
+    {
+      "id": "chicken-tikka-masala-burrito-5043255",
+      "name": "Chicken Tikka Masala Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 707.0,
+      "protein_g": 33.0,
+      "carbs_g": 120.0,
+      "fat_g": 10.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per 1 burrito (crowd-submitted; Curry Up Now publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/curry-up-now/chicken-tikka-masala-burrito"
+      }
+    },
+    {
+      "id": "paneer-tikka-masala-burrito-54755212",
+      "name": "Paneer Tikka Masala Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 707.0,
+      "protein_g": 15.0,
+      "carbs_g": 120.0,
+      "fat_g": 10.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per 1 burrito (crowd-submitted; Curry Up Now publishes no nutrition)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://foods.fatsecret.com/calories-nutrition/curry-up-now/paneer-tikka-masala-burrito"
+      }
+    }
+  ]
+}

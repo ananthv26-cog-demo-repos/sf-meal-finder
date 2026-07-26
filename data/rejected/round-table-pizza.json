@@ -1,0 +1,623 @@
+[
+  {
+    "item": {
+      "id": "pizza-10",
+      "name": "Chicken & Garlic Gourmet™ (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 220.0,
+      "protein_g": 12.0,
+      "carbs_g": 14.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-10: macro check failed — stated 220.0 kcal vs computed 185 (delta -35)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-15",
+      "name": "Gourmet Veggie™ (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 210.0,
+      "protein_g": 10.0,
+      "carbs_g": 15.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 470.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-15: macro check failed — stated 210.0 kcal vs computed 181 (delta -29)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-20",
+      "name": "Guinevere’s Garden Delight® (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 10.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-20: macro check failed — stated 200.0 kcal vs computed 172 (delta -28)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-25",
+      "name": "Hawaiian™ (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 200.0,
+      "protein_g": 11.0,
+      "carbs_g": 16.0,
+      "fat_g": 7.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-25: macro check failed — stated 200.0 kcal vs computed 171 (delta -29)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-30",
+      "name": "Italian Garlic Supreme® (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 250.0,
+      "protein_g": 11.0,
+      "carbs_g": 14.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 590.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-30: macro check failed — stated 250.0 kcal vs computed 217 (delta -33)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-35",
+      "name": "King Arthur’s Supreme® (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 240.0,
+      "protein_g": 12.0,
+      "carbs_g": 15.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-35: macro check failed — stated 240.0 kcal vs computed 207 (delta -33)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-40",
+      "name": "Maui Zaui™ (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 230.0,
+      "protein_g": 11.0,
+      "carbs_g": 16.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 640.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-40: macro check failed — stated 230.0 kcal vs computed 189 (delta -41)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-44",
+      "name": "Montague’s All Meat Marvel® (small, original crust)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 270.0,
+      "protein_g": 13.0,
+      "carbs_g": 14.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per slice of small original-crust pizza"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-44: macro check failed — stated 270.0 kcal vs computed 234 (delta -36)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-203",
+      "name": "Onion Rings,",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1.0,
+      "protein_g": 10.0,
+      "carbs_g": 1430.0,
+      "fat_g": 420.0,
+      "fiber_g": 63.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 12 count serving"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-203: macro check failed — stated 1.0 kcal vs computed 9540 (delta +9539)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-204",
+      "name": "Onion Rings,",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1.0,
+      "protein_g": 5.0,
+      "carbs_g": 715.0,
+      "fat_g": 210.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 8.0,
+      "serving_note": "per 6 count serving"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-204: macro check failed — stated 1.0 kcal vs computed 4770 (delta +4769)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-218",
+      "name": "Spinach Salad - Party Pack",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 470.0,
+      "protein_g": 32.0,
+      "carbs_g": 41.0,
+      "fat_g": 42.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per 1 serving"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-218: macro check failed — stated 470.0 kcal vs computed 670 (delta +200)"
+    ]
+  },
+  {
+    "item": {
+      "id": "pizza-229",
+      "name": "Applewood Smoked Bacon",
+      "description": null,
+      "category": "meal",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 110.0,
+      "protein_g": 6.0,
+      "carbs_g": 0.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per 0.75 oz serving"
+    },
+    "reasons": [
+      "round-table-pizza/pizza-229: macro check failed — stated 110.0 kcal vs computed 294 (delta +184)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-5",
+      "name": "BBQ Chicken (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4160.0,
+      "protein_g": 208.0,
+      "carbs_g": 448.0,
+      "fat_g": 176.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 11200.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-5: sodium_mg 11200.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-10",
+      "name": "Chicken & Garlic Gourmet™ (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1320.0,
+      "protein_g": 72.0,
+      "carbs_g": 84.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3180.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-10: macro check failed — stated 1320.0 kcal vs computed 1110 (delta -210)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-15",
+      "name": "Gourmet Veggie™ (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1260.0,
+      "protein_g": 60.0,
+      "carbs_g": 90.0,
+      "fat_g": 54.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 2820.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-15: macro check failed — stated 1260.0 kcal vs computed 1086 (delta -174)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-20",
+      "name": "Guinevere’s Garden Delight® (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1200.0,
+      "protein_g": 60.0,
+      "carbs_g": 90.0,
+      "fat_g": 48.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 2760.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-20: macro check failed — stated 1200.0 kcal vs computed 1032 (delta -168)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-25",
+      "name": "Hawaiian™ (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1200.0,
+      "protein_g": 66.0,
+      "carbs_g": 96.0,
+      "fat_g": 42.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 3360.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-25: macro check failed — stated 1200.0 kcal vs computed 1026 (delta -174)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-30",
+      "name": "Italian Garlic Supreme® (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1500.0,
+      "protein_g": 66.0,
+      "carbs_g": 84.0,
+      "fat_g": 78.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3540.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-30: macro check failed — stated 1500.0 kcal vs computed 1302 (delta -198)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-35",
+      "name": "King Arthur’s Supreme® (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1440.0,
+      "protein_g": 72.0,
+      "carbs_g": 90.0,
+      "fat_g": 66.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 3720.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-35: macro check failed — stated 1440.0 kcal vs computed 1242 (delta -198)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-38",
+      "name": "King Arthur’s Supreme® (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4160.0,
+      "protein_g": 208.0,
+      "carbs_g": 416.0,
+      "fat_g": 192.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 10560.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-38: sodium_mg 10560.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-40",
+      "name": "Maui Zaui™ (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1380.0,
+      "protein_g": 66.0,
+      "carbs_g": 96.0,
+      "fat_g": 54.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 3840.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-40: macro check failed — stated 1380.0 kcal vs computed 1134 (delta -246)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-42",
+      "name": "Maui Zaui™ (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4160.0,
+      "protein_g": 192.0,
+      "carbs_g": 464.0,
+      "fat_g": 160.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 11040.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-42: sodium_mg 11040.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-44",
+      "name": "Montague’s All Meat Marvel® (small, original crust)",
+      "description": "Derived whole pizza from 6 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 1620.0,
+      "protein_g": 78.0,
+      "carbs_g": 84.0,
+      "fat_g": 84.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 4260.0,
+      "serving_note": "per whole pizza (6 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-44: macro check failed — stated 1620.0 kcal vs computed 1404 (delta -216)"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-47",
+      "name": "Montague’s All Meat Marvel® (x-large, original crust)",
+      "description": "Derived whole pizza from 16 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4480.0,
+      "protein_g": 224.0,
+      "carbs_g": 384.0,
+      "fat_g": 240.0,
+      "fiber_g": 32.0,
+      "sodium_mg": 12160.0,
+      "serving_note": "per whole pizza (16 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-47: sodium_mg 12160.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-159",
+      "name": "BBQ Chicken (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 3840.0,
+      "protein_g": 180.0,
+      "carbs_g": 468.0,
+      "fat_g": 144.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 10080.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-159: sodium_mg 10080.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-183",
+      "name": "Maui Zaui™ (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4080.0,
+      "protein_g": 192.0,
+      "carbs_g": 492.0,
+      "fat_g": 144.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 10800.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-183: sodium_mg 10800.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "derived-pizza-186",
+      "name": "Montague’s All Meat Marvel® (x-large, pan crust)",
+      "description": "Derived whole pizza from 12 published slices; base values are per-slice published nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.roundtablepizza.com/wp-content/uploads/2024/08/Round-Table-Pizza-Nutritional-Information-Guide-August.pdf"
+      },
+      "calories": 4080.0,
+      "protein_g": 192.0,
+      "carbs_g": 420.0,
+      "fat_g": 192.0,
+      "fiber_g": 24.0,
+      "sodium_mg": 10800.0,
+      "serving_note": "per whole pizza (12 x per-slice nutrition)"
+    },
+    "reasons": [
+      "round-table-pizza/derived-pizza-186: sodium_mg 10800.0 implausibly high"
+    ]
+  }
+]

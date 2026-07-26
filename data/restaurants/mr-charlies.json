@@ -1,0 +1,75 @@
+{
+  "id": "mr-charlies",
+  "name": "Mr. Charlie's",
+  "website": "https://mrcharlies.co",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://mrcharlies.co/nutrition",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "432 Sutter St, San Francisco, CA 94108",
+      "lat": 37.789956,
+      "lng": -122.407116,
+      "neighborhood": "Union Square"
+    }
+  ],
+  "items": [
+    {
+      "id": "not-a-cheeseburger",
+      "name": "Not a Cheeseburger",
+      "description": null,
+      "category": "meal",
+      "calories": 304.0,
+      "protein_g": 7.8,
+      "carbs_g": 34.0,
+      "fat_g": 14.5,
+      "fiber_g": 2.25,
+      "sodium_mg": 702.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://mrcharlies.co/nutrition"
+      }
+    },
+    {
+      "id": "double-not",
+      "name": "Double Not",
+      "description": null,
+      "category": "meal",
+      "calories": 428.0,
+      "protein_g": 11.6,
+      "carbs_g": 42.0,
+      "fat_g": 22.5,
+      "fiber_g": 3.5,
+      "sodium_mg": 1164.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://mrcharlies.co/nutrition"
+      }
+    },
+    {
+      "id": "not-a-chicken-sandwich",
+      "name": "Not a Chicken Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 13.6,
+      "carbs_g": 46.9,
+      "fat_g": 26.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 755.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://mrcharlies.co/nutrition"
+      }
+    }
+  ]
+}

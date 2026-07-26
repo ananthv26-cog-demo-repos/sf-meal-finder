@@ -1,0 +1,1857 @@
+{
+  "id": "tender-greens",
+  "name": "Tender Greens",
+  "website": "https://www.tendergreens.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "30 Fremont St, San Francisco, CA 94105",
+      "lat": 37.7908283,
+      "lng": -122.397463,
+      "neighborhood": "Financial District"
+    }
+  ],
+  "items": [
+    {
+      "id": "country-style-fried-chicken",
+      "name": "country-style fried chicken",
+      "description": null,
+      "category": "component",
+      "calories": 318,
+      "protein_g": 37,
+      "carbs_g": 23,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 1389,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chipotle-bbq-chicken",
+      "name": "chipotle bbq chicken",
+      "description": null,
+      "category": "component",
+      "calories": 183,
+      "protein_g": 27,
+      "carbs_g": 3,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 365,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chicken-katsu",
+      "name": "chicken katsu",
+      "description": null,
+      "category": "component",
+      "calories": 323,
+      "protein_g": 37,
+      "carbs_g": 23,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 1389,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-salmon",
+      "name": "grilled salmon",
+      "description": null,
+      "category": "component",
+      "calories": 291,
+      "protein_g": 24,
+      "carbs_g": 1,
+      "fat_g": 21,
+      "fiber_g": 0,
+      "sodium_mg": 444,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-shrimp",
+      "name": "grilled shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 146,
+      "protein_g": 26,
+      "carbs_g": 1,
+      "fat_g": 4,
+      "fiber_g": 0,
+      "sodium_mg": 203,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "salt-pepper-chicken",
+      "name": "salt & pepper chicken",
+      "description": null,
+      "category": "component",
+      "calories": 186,
+      "protein_g": 29,
+      "carbs_g": 0,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 231,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "seared-tuna",
+      "name": "seared tuna",
+      "description": null,
+      "category": "component",
+      "calories": 179,
+      "protein_g": 30,
+      "carbs_g": 0,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 420,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-steak",
+      "name": "grilled steak",
+      "description": null,
+      "category": "component",
+      "calories": 229,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 219,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "baked-falafel",
+      "name": "baked falafel",
+      "description": null,
+      "category": "component",
+      "calories": 208,
+      "protein_g": 9,
+      "carbs_g": 31,
+      "fat_g": 5,
+      "fiber_g": 12,
+      "sodium_mg": 560,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-sea-bass",
+      "name": "grilled sea bass",
+      "description": null,
+      "category": "component",
+      "calories": 161,
+      "protein_g": 21,
+      "carbs_g": 0,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 684,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "short-rib",
+      "name": "short rib",
+      "description": null,
+      "category": "component",
+      "calories": 562,
+      "protein_g": 23,
+      "carbs_g": 6,
+      "fat_g": 49,
+      "fiber_g": 0,
+      "sodium_mg": 1179,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "burger-patty",
+      "name": "burger patty",
+      "description": null,
+      "category": "component",
+      "calories": 318,
+      "protein_g": 30,
+      "carbs_g": 1,
+      "fat_g": 21,
+      "fiber_g": 0,
+      "sodium_mg": 857,
+      "serving_note": "per protein portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "baby-arugula",
+      "name": "baby arugula",
+      "description": null,
+      "category": "side",
+      "calories": 206,
+      "protein_g": 5,
+      "carbs_g": 5,
+      "fat_g": 18,
+      "fiber_g": 3,
+      "sodium_mg": 221,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "baby-greens",
+      "name": "baby greens",
+      "description": null,
+      "category": "side",
+      "calories": 162,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 16,
+      "fiber_g": 1,
+      "sodium_mg": 382,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "baby-spinach",
+      "name": "baby spinach",
+      "description": null,
+      "category": "side",
+      "calories": 260,
+      "protein_g": 5,
+      "carbs_g": 4,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 183,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "romaine-hearts",
+      "name": "romaine hearts",
+      "description": null,
+      "category": "side",
+      "calories": 643,
+      "protein_g": 7,
+      "carbs_g": 16,
+      "fat_g": 61,
+      "fiber_g": 2,
+      "sodium_mg": 563,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "mashed-potatoes",
+      "name": "mashed potatoes",
+      "description": null,
+      "category": "side",
+      "calories": 315,
+      "protein_g": 5,
+      "carbs_g": 42,
+      "fat_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 638,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "mashed-potatoes-w-gravy",
+      "name": "mashed potatoes w/gravy",
+      "description": null,
+      "category": "side",
+      "calories": 374,
+      "protein_g": 5,
+      "carbs_g": 47,
+      "fat_g": 16,
+      "fiber_g": 4,
+      "sodium_mg": 910,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "roasted-potatoes",
+      "name": "roasted potatoes",
+      "description": null,
+      "category": "side",
+      "calories": 215,
+      "protein_g": 3,
+      "carbs_g": 34,
+      "fat_g": 8,
+      "fiber_g": 3,
+      "sodium_mg": 226,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "seasoned-fries",
+      "name": "seasoned fries",
+      "description": null,
+      "category": "side",
+      "calories": 283,
+      "protein_g": 3,
+      "carbs_g": 47,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 2076,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "seasonal-vegetables",
+      "name": "seasonal vegetables",
+      "description": null,
+      "category": "side",
+      "calories": 151,
+      "protein_g": 2,
+      "carbs_g": 10,
+      "fat_g": 11,
+      "fiber_g": 3,
+      "sodium_mg": 279,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "brown-rice",
+      "name": "brown rice",
+      "description": null,
+      "category": "side",
+      "calories": 182,
+      "protein_g": 3,
+      "carbs_g": 31,
+      "fat_g": 6,
+      "fiber_g": 3,
+      "sodium_mg": 192,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "sushi-rice",
+      "name": "sushi rice",
+      "description": null,
+      "category": "side",
+      "calories": 251,
+      "protein_g": 4,
+      "carbs_g": 53,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 752,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "farro-salad",
+      "name": "farro salad",
+      "description": null,
+      "category": "side",
+      "calories": 480,
+      "protein_g": 10,
+      "carbs_g": 50,
+      "fat_g": 27,
+      "fiber_g": 5,
+      "sodium_mg": 582,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "mac-cheese",
+      "name": "mac & cheese",
+      "description": null,
+      "category": "side",
+      "calories": 785,
+      "protein_g": 23,
+      "carbs_g": 54,
+      "fat_g": 50,
+      "fiber_g": 3,
+      "sodium_mg": 423,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "crostini",
+      "name": "crostini",
+      "description": null,
+      "category": "side",
+      "calories": 55,
+      "protein_g": 1,
+      "carbs_g": 7,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 76,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "braised-beans",
+      "name": "braised beans",
+      "description": null,
+      "category": "side",
+      "calories": 643,
+      "protein_g": 22,
+      "carbs_g": 67,
+      "fat_g": 36,
+      "fiber_g": 22,
+      "sodium_mg": 1335,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "roasted-beets",
+      "name": "roasted beets",
+      "description": null,
+      "category": "side",
+      "calories": 417,
+      "protein_g": 5,
+      "carbs_g": 17,
+      "fat_g": 36,
+      "fiber_g": 5,
+      "sodium_mg": 983,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "bolognese-sauce",
+      "name": "bolognese sauce",
+      "description": null,
+      "category": "side",
+      "calories": 574,
+      "protein_g": 27,
+      "carbs_g": 24,
+      "fat_g": 40,
+      "fiber_g": 10,
+      "sodium_mg": 724,
+      "serving_note": "per serving; greens include dressing and toppings",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "california-chipotle-bbq-chicken",
+      "name": "california: chipotle bbq chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 1038,
+      "protein_g": 44,
+      "carbs_g": 71,
+      "fat_g": 59,
+      "fiber_g": 9,
+      "sodium_mg": 1454,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "california-grilled-salmon",
+      "name": "california: grilled salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 1146,
+      "protein_g": 41,
+      "carbs_g": 68,
+      "fat_g": 74,
+      "fiber_g": 9,
+      "sodium_mg": 1533,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "pacific-katsu-chicken",
+      "name": "pacific: katsu chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 1172,
+      "protein_g": 47,
+      "carbs_g": 104,
+      "fat_g": 61,
+      "fiber_g": 5,
+      "sodium_mg": 2299,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "pacific-grilled-salmon",
+      "name": "pacific: grilled salmon",
+      "description": null,
+      "category": "meal",
+      "calories": 1050,
+      "protein_g": 30,
+      "carbs_g": 73,
+      "fat_g": 69,
+      "fiber_g": 4,
+      "sodium_mg": 2033,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "thai-grilled-shrimp",
+      "name": "thai: grilled shrimp",
+      "description": null,
+      "category": "meal",
+      "calories": 754,
+      "protein_g": 30,
+      "carbs_g": 88,
+      "fat_g": 31,
+      "fiber_g": 3,
+      "sodium_mg": 3007,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "thai-grilled-steak",
+      "name": "thai: grilled steak",
+      "description": null,
+      "category": "meal",
+      "calories": 851,
+      "protein_g": 34,
+      "carbs_g": 87,
+      "fat_g": 40,
+      "fiber_g": 3,
+      "sodium_mg": 3044,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "happier-vegan",
+      "name": "happier vegan",
+      "description": null,
+      "category": "meal",
+      "calories": 1537,
+      "protein_g": 28,
+      "carbs_g": 121,
+      "fat_g": 105,
+      "fiber_g": 25,
+      "sodium_mg": 2862,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "longevity-braised-beans",
+      "name": "longevity: braised beans",
+      "description": null,
+      "category": "meal",
+      "calories": 1115,
+      "protein_g": 31,
+      "carbs_g": 123,
+      "fat_g": 56,
+      "fiber_g": 29,
+      "sodium_mg": 3471,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "longevity-grilled-sea-bass",
+      "name": "longevity: grilled sea bass",
+      "description": null,
+      "category": "meal",
+      "calories": 692,
+      "protein_g": 30,
+      "carbs_g": 57,
+      "fat_g": 39,
+      "fiber_g": 7,
+      "sodium_mg": 1858,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "bolognese-pasta",
+      "name": "bolognese pasta",
+      "description": null,
+      "category": "meal",
+      "calories": 1156,
+      "protein_g": 46,
+      "carbs_g": 127,
+      "fat_g": 50,
+      "fiber_g": 16,
+      "sodium_mg": 1056,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto-pasta",
+      "name": "chicken pesto pasta",
+      "description": null,
+      "category": "meal",
+      "calories": 1150,
+      "protein_g": 42,
+      "carbs_g": 104,
+      "fat_g": 60,
+      "fiber_g": 9,
+      "sodium_mg": 836,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chipotle-bbq-chicken-salad",
+      "name": "chipotle bbq chicken salad",
+      "description": null,
+      "category": "meal",
+      "calories": 968,
+      "protein_g": 42,
+      "carbs_g": 47,
+      "fat_g": 66,
+      "fiber_g": 11,
+      "sodium_mg": 1463,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-cobb",
+      "name": "grilled chicken cobb",
+      "description": null,
+      "category": "meal",
+      "calories": 1054,
+      "protein_g": 46,
+      "carbs_g": 21,
+      "fat_g": 85,
+      "fiber_g": 7,
+      "sodium_mg": 1624,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "harvest-chicken",
+      "name": "harvest chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 734,
+      "protein_g": 17,
+      "carbs_g": 34,
+      "fat_g": 59,
+      "fiber_g": 8,
+      "sodium_mg": 450,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "tuna-nicoise",
+      "name": "tuna nicoise",
+      "description": null,
+      "category": "meal",
+      "calories": 985,
+      "protein_g": 42,
+      "carbs_g": 40,
+      "fat_g": 73,
+      "fiber_g": 7,
+      "sodium_mg": 1497,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "mediterranean-steak",
+      "name": "mediterranean steak",
+      "description": null,
+      "category": "meal",
+      "calories": 796,
+      "protein_g": 35,
+      "carbs_g": 29,
+      "fat_g": 59,
+      "fiber_g": 6,
+      "sodium_mg": 1427,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "italian-chop",
+      "name": "italian chop",
+      "description": null,
+      "category": "meal",
+      "calories": 843,
+      "protein_g": 21,
+      "carbs_g": 24,
+      "fat_g": 74,
+      "fiber_g": 6,
+      "sodium_mg": 3581,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-salmon-salad",
+      "name": "grilled salmon salad",
+      "description": null,
+      "category": "meal",
+      "calories": 832,
+      "protein_g": 28,
+      "carbs_g": 35,
+      "fat_g": 63,
+      "fiber_g": 9,
+      "sodium_mg": 1112,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "tender-burger",
+      "name": "tender burger",
+      "description": null,
+      "category": "meal",
+      "calories": 806,
+      "protein_g": 46,
+      "carbs_g": 43,
+      "fat_g": 48,
+      "fiber_g": 3,
+      "sodium_mg": 1857,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chipotle-bbq-chicken-sandwich",
+      "name": "chipotle bbq chicken sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 926,
+      "protein_g": 39,
+      "carbs_g": 79,
+      "fat_g": 48,
+      "fiber_g": 6,
+      "sodium_mg": 1605,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chicken-pesto",
+      "name": "chicken pesto",
+      "description": null,
+      "category": "meal",
+      "calories": 1096,
+      "protein_g": 46,
+      "carbs_g": 79,
+      "fat_g": 64,
+      "fiber_g": 6,
+      "sodium_mg": 1775,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "salami-provolone",
+      "name": "salami provolone",
+      "description": null,
+      "category": "meal",
+      "calories": 1486,
+      "protein_g": 41,
+      "carbs_g": 77,
+      "fat_g": 110,
+      "fiber_g": 4,
+      "sodium_mg": 3336,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "tomato-mozzarella",
+      "name": "tomato mozzarella",
+      "description": null,
+      "category": "meal",
+      "calories": 1361,
+      "protein_g": 43,
+      "carbs_g": 78,
+      "fat_g": 92,
+      "fiber_g": 4,
+      "sodium_mg": 1613,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "fried-chicken",
+      "name": "fried chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 992,
+      "protein_g": 53,
+      "carbs_g": 87,
+      "fat_g": 47,
+      "fiber_g": 4,
+      "sodium_mg": 2750,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "avocado-toast",
+      "name": "avocado toast",
+      "description": null,
+      "category": "meal",
+      "calories": 956,
+      "protein_g": 32,
+      "carbs_g": 87,
+      "fat_g": 54,
+      "fiber_g": 10,
+      "sodium_mg": 2473,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "roasted-tomato-bowl",
+      "name": "roasted tomato: bowl",
+      "description": null,
+      "category": "side",
+      "calories": 281,
+      "protein_g": 7,
+      "carbs_g": 33,
+      "fat_g": 14,
+      "fiber_g": 3,
+      "sodium_mg": 1388,
+      "serving_note": "per bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "rustic-chicken-cup",
+      "name": "rustic chicken: cup",
+      "description": null,
+      "category": "side",
+      "calories": 111,
+      "protein_g": 9,
+      "carbs_g": 13,
+      "fat_g": 2,
+      "fiber_g": 2,
+      "sodium_mg": 686,
+      "serving_note": "per cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "rustic-chicken-bowl",
+      "name": "rustic chicken: bowl",
+      "description": null,
+      "category": "side",
+      "calories": 148,
+      "protein_g": 13,
+      "carbs_g": 17,
+      "fat_g": 3,
+      "fiber_g": 3,
+      "sodium_mg": 915,
+      "serving_note": "per bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "green-pozole-cup",
+      "name": "green pozole cup",
+      "description": null,
+      "category": "side",
+      "calories": 159,
+      "protein_g": 3,
+      "carbs_g": 21,
+      "fat_g": 7,
+      "fiber_g": 6,
+      "sodium_mg": 1903,
+      "serving_note": "per green pozole cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "green-pozole-bowl",
+      "name": "green pozole bowl",
+      "description": null,
+      "category": "side",
+      "calories": 195,
+      "protein_g": 4,
+      "carbs_g": 25,
+      "fat_g": 9,
+      "fiber_g": 7,
+      "sodium_mg": 2375,
+      "serving_note": "per green pozole bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "kids-salt-pepper-chicken",
+      "name": "kids: salt & pepper chicken",
+      "description": null,
+      "category": "meal",
+      "calories": 255,
+      "protein_g": 17,
+      "carbs_g": 30,
+      "fat_g": 7,
+      "fiber_g": 2,
+      "sodium_mg": 302,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "kids-chicken-tenders",
+      "name": "kids: chicken tenders",
+      "description": null,
+      "category": "meal",
+      "calories": 393,
+      "protein_g": 22,
+      "carbs_g": 42,
+      "fat_g": 15,
+      "fiber_g": 3,
+      "sodium_mg": 870,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "kids-steak",
+      "name": "kids: steak",
+      "description": null,
+      "category": "meal",
+      "calories": 290,
+      "protein_g": 16,
+      "carbs_g": 30,
+      "fat_g": 11,
+      "fiber_g": 2,
+      "sodium_mg": 308,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-cheese",
+      "name": "grilled cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 809,
+      "protein_g": 33,
+      "carbs_g": 102,
+      "fat_g": 28,
+      "fiber_g": 4,
+      "sodium_mg": 1511,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "kids-bolognese",
+      "name": "kids: bolognese",
+      "description": null,
+      "category": "meal",
+      "calories": 694,
+      "protein_g": 25,
+      "carbs_g": 89,
+      "fat_g": 26,
+      "fiber_g": 9,
+      "sodium_mg": 553,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "kids-nonna-s-pasta",
+      "name": "kids: nonna's pasta",
+      "description": null,
+      "category": "meal",
+      "calories": 464,
+      "protein_g": 13,
+      "carbs_g": 87,
+      "fat_g": 7,
+      "fiber_g": 5,
+      "sodium_mg": 629,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "kids-mac-cheese",
+      "name": "kids: mac & cheese",
+      "description": null,
+      "category": "meal",
+      "calories": 566,
+      "protein_g": 20,
+      "carbs_g": 92,
+      "fat_g": 14,
+      "fiber_g": 5,
+      "sodium_mg": 488,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "short-rib-special",
+      "name": "short rib special",
+      "description": null,
+      "category": "meal",
+      "calories": 1224,
+      "protein_g": 31,
+      "carbs_g": 59,
+      "fat_g": 94,
+      "fiber_g": 8,
+      "sodium_mg": 2035,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "tender-burger-plate",
+      "name": "tender burger plate",
+      "description": null,
+      "category": "meal",
+      "calories": 1021,
+      "protein_g": 48,
+      "carbs_g": 77,
+      "fat_g": 56,
+      "fiber_g": 2,
+      "sodium_mg": 3266,
+      "serving_note": "per menu item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "mint-lemonade",
+      "name": "mint lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 109,
+      "protein_g": 0,
+      "carbs_g": 27,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per beverage",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "the-greens",
+      "name": "the greens",
+      "description": null,
+      "category": "drink",
+      "calories": 62,
+      "protein_g": 1,
+      "carbs_g": 14,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 34,
+      "serving_note": "per beverage",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "hibiscus-tea",
+      "name": "hibiscus tea",
+      "description": null,
+      "category": "drink",
+      "calories": 82,
+      "protein_g": 0,
+      "carbs_g": 20,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 6,
+      "serving_note": "per beverage",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "pineapple-basil-agua-fresca",
+      "name": "pineapple basil agua fresca",
+      "description": null,
+      "category": "drink",
+      "calories": 95,
+      "protein_g": 0,
+      "carbs_g": 24,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 5,
+      "serving_note": "per beverage",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "sherry-vinaigrette",
+      "name": "sherry vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 294,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 32,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "roasted-garlic-vinaigrette",
+      "name": "roasted garlic vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 271,
+      "protein_g": 1,
+      "carbs_g": 4,
+      "fat_g": 28,
+      "fiber_g": 0,
+      "sodium_mg": 186,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "lemon-vinaigrette",
+      "name": "lemon vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 200,
+      "protein_g": 0,
+      "carbs_g": 2,
+      "fat_g": 21,
+      "fiber_g": 0,
+      "sodium_mg": 187,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "tarragon-dressing",
+      "name": "tarragon dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 344,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 37,
+      "fiber_g": 0,
+      "sodium_mg": 394,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "caesar-dressing",
+      "name": "caesar dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 336,
+      "protein_g": 1,
+      "carbs_g": 2,
+      "fat_g": 36,
+      "fiber_g": 0,
+      "sodium_mg": 212,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "cabernet-vinaigrette",
+      "name": "cabernet vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 294,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 32,
+      "fiber_g": 0,
+      "sodium_mg": 240,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "cilantro-lime-dressing",
+      "name": "cilantro lime dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 6,
+      "fat_g": 28,
+      "fiber_g": 0,
+      "sodium_mg": 277,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "balsamic-vinaigrette",
+      "name": "balsamic vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 323,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 34,
+      "fiber_g": 0,
+      "sodium_mg": 156,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "sesame-peanut-dressing",
+      "name": "sesame peanut dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 290,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 29,
+      "fiber_g": 0,
+      "sodium_mg": 613,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "limecrema",
+      "name": "limecrema",
+      "description": null,
+      "category": "condiment",
+      "calories": 153,
+      "protein_g": 2,
+      "carbs_g": 4,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 370,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "ginger-dressing",
+      "name": "ginger dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 174,
+      "protein_g": 2,
+      "carbs_g": 10,
+      "fat_g": 16,
+      "fiber_g": 0,
+      "sodium_mg": 610,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "spicy-mayo",
+      "name": "spicy mayo",
+      "description": null,
+      "category": "condiment",
+      "calories": 257,
+      "protein_g": 1,
+      "carbs_g": 0,
+      "fat_g": 28,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "garlic-aioli",
+      "name": "garlic aioli",
+      "description": null,
+      "category": "condiment",
+      "calories": 419,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 46,
+      "fiber_g": 0,
+      "sodium_mg": 405,
+      "serving_note": "per serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chunk-cookie",
+      "name": "chocolate chunk cookie",
+      "description": null,
+      "category": "side",
+      "calories": 420,
+      "protein_g": 6,
+      "carbs_g": 63,
+      "fat_g": 20,
+      "fiber_g": 2,
+      "sodium_mg": 209,
+      "serving_note": "per dessert item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "salted-caramel-cookie",
+      "name": "salted caramel cookie",
+      "description": null,
+      "category": "side",
+      "calories": 420,
+      "protein_g": 5,
+      "carbs_g": 60,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 660,
+      "serving_note": "per dessert item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "carrot-cupcake",
+      "name": "carrot cupcake",
+      "description": null,
+      "category": "side",
+      "calories": 500,
+      "protein_g": 5,
+      "carbs_g": 67,
+      "fat_g": 25,
+      "fiber_g": 2,
+      "sodium_mg": 430,
+      "serving_note": "per dessert item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "olive-oil-cake",
+      "name": "olive oil cake",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 3,
+      "carbs_g": 33,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per dessert item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "hostess-chocolate-cake",
+      "name": "hostess chocolate cake",
+      "description": null,
+      "category": "side",
+      "calories": 390,
+      "protein_g": 4,
+      "carbs_g": 48,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 330,
+      "serving_note": "per dessert item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "country-style-fried-chicken-plate",
+      "name": "country-style fried chicken plate",
+      "description": "Standard plate build: country-style fried chicken with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 795,
+      "protein_g": 43,
+      "carbs_g": 68,
+      "fat_g": 37,
+      "fiber_g": 5,
+      "sodium_mg": 2409,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chipotle-bbq-chicken-plate",
+      "name": "chipotle bbq chicken plate",
+      "description": "Standard plate build: chipotle bbq chicken with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 660,
+      "protein_g": 33,
+      "carbs_g": 48,
+      "fat_g": 35,
+      "fiber_g": 5,
+      "sodium_mg": 1385,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "chicken-katsu-plate",
+      "name": "chicken katsu plate",
+      "description": "Standard plate build: chicken katsu with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 800,
+      "protein_g": 43,
+      "carbs_g": 68,
+      "fat_g": 37,
+      "fiber_g": 5,
+      "sodium_mg": 2409,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-salmon-plate",
+      "name": "grilled salmon plate",
+      "description": "Standard plate build: grilled salmon with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 768,
+      "protein_g": 30,
+      "carbs_g": 46,
+      "fat_g": 50,
+      "fiber_g": 5,
+      "sodium_mg": 1464,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-shrimp-plate",
+      "name": "grilled shrimp plate",
+      "description": "Standard plate build: grilled shrimp with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 623,
+      "protein_g": 32,
+      "carbs_g": 46,
+      "fat_g": 33,
+      "fiber_g": 5,
+      "sodium_mg": 1223,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "salt-pepper-chicken-plate",
+      "name": "salt & pepper chicken plate",
+      "description": "Standard plate build: salt & pepper chicken with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 663,
+      "protein_g": 35,
+      "carbs_g": 45,
+      "fat_g": 35,
+      "fiber_g": 5,
+      "sodium_mg": 1251,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "seared-tuna-plate",
+      "name": "seared tuna plate",
+      "description": "Standard plate build: seared tuna with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 656,
+      "protein_g": 36,
+      "carbs_g": 45,
+      "fat_g": 35,
+      "fiber_g": 5,
+      "sodium_mg": 1440,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-steak-plate",
+      "name": "grilled steak plate",
+      "description": "Standard plate build: grilled steak with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 706,
+      "protein_g": 32,
+      "carbs_g": 45,
+      "fat_g": 42,
+      "fiber_g": 5,
+      "sodium_mg": 1239,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "baked-falafel-plate",
+      "name": "baked falafel plate",
+      "description": "Standard plate build: baked falafel with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 685,
+      "protein_g": 15,
+      "carbs_g": 76,
+      "fat_g": 34,
+      "fiber_g": 17,
+      "sodium_mg": 1580,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "grilled-sea-bass-plate",
+      "name": "grilled sea bass plate",
+      "description": "Standard plate build: grilled sea bass with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 638,
+      "protein_g": 27,
+      "carbs_g": 45,
+      "fat_g": 38,
+      "fiber_g": 5,
+      "sodium_mg": 1704,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "short-rib-plate",
+      "name": "short rib plate",
+      "description": "Standard plate build: short rib with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 1039,
+      "protein_g": 29,
+      "carbs_g": 51,
+      "fat_g": 78,
+      "fiber_g": 5,
+      "sodium_mg": 2199,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    },
+    {
+      "id": "burger-patty-plate",
+      "name": "burger patty plate",
+      "description": "Standard plate build: burger patty with mashed potatoes and baby greens (simply dressed). Sum of published component nutrition.",
+      "category": "meal",
+      "calories": 795,
+      "protein_g": 36,
+      "carbs_g": 46,
+      "fat_g": 50,
+      "fiber_g": 5,
+      "sodium_mg": 1877,
+      "serving_note": "per plate: one protein portion, mashed potatoes, and baby greens",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.tendergreens.com/wp-content/uploads/2026/03/TG-Nutrition-03.11.26.pdf"
+      }
+    }
+  ]
+}

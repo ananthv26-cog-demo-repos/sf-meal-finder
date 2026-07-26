@@ -1,0 +1,324 @@
+[
+  {
+    "item": {
+      "id": "platters-regular-beef-gyro-1",
+      "name": "Beef Gyro",
+      "description": "The source publishes two unlabeled rows for Beef Gyro; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 6 oz (170 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 680,
+      "protein_g": 32,
+      "carbs_g": 36,
+      "fat_g": 32,
+      "fiber_g": null,
+      "sodium_mg": 2142
+    },
+    "reasons": [
+      "the-halal-guys/platters-regular-beef-gyro-1: macro check failed — stated 680 kcal vs computed 560 (delta -120)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-regular-chicken-2",
+      "name": "Chicken",
+      "description": "The source publishes two unlabeled rows for Chicken; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 6 oz (170 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 228,
+      "protein_g": 33,
+      "carbs_g": 2,
+      "fat_g": 6,
+      "fiber_g": null,
+      "sodium_mg": 744
+    },
+    "reasons": [
+      "the-halal-guys/platters-regular-chicken-2: macro check failed — stated 228 kcal vs computed 194 (delta -34)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-regular-falafel-1",
+      "name": "Falafel",
+      "description": "The source publishes two unlabeled rows for Falafel; this is row 1, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 7 oz (198 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 707,
+      "protein_g": 19,
+      "carbs_g": 56,
+      "fat_g": 6,
+      "fiber_g": 23,
+      "sodium_mg": 1027
+    },
+    "reasons": [
+      "the-halal-guys/platters-regular-falafel-1: macro check failed — stated 707 kcal vs computed 354 (delta -353)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-regular-bbq-chicken-2",
+      "name": "BBQ Chicken",
+      "description": "The source publishes two unlabeled rows for BBQ Chicken; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) portion as served in a regular platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 187,
+      "protein_g": 27,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 687
+    },
+    "reasons": [
+      "the-halal-guys/platters-regular-bbq-chicken-2: macro check failed — stated 187 kcal vs computed 161 (delta -26)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-small-beef-gyro-1",
+      "name": "Beef Gyro",
+      "description": "The source publishes two unlabeled rows for Beef Gyro; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 454,
+      "protein_g": 21,
+      "carbs_g": 24,
+      "fat_g": 21,
+      "fiber_g": null,
+      "sodium_mg": 1428
+    },
+    "reasons": [
+      "the-halal-guys/platters-small-beef-gyro-1: macro check failed — stated 454 kcal vs computed 369 (delta -85)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-small-chicken-2",
+      "name": "Chicken",
+      "description": "The source publishes two unlabeled rows for Chicken; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 152,
+      "protein_g": 22,
+      "carbs_g": 1,
+      "fat_g": 4,
+      "fiber_g": null,
+      "sodium_mg": 496
+    },
+    "reasons": [
+      "the-halal-guys/platters-small-chicken-2: macro check failed — stated 152 kcal vs computed 128 (delta -24)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-small-falafel-1",
+      "name": "Falafel",
+      "description": "The source publishes two unlabeled rows for Falafel; this is row 1, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (111 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 396,
+      "protein_g": 10,
+      "carbs_g": 31,
+      "fat_g": 3,
+      "fiber_g": 13,
+      "sodium_mg": 575
+    },
+    "reasons": [
+      "the-halal-guys/platters-small-falafel-1: macro check failed — stated 396 kcal vs computed 191 (delta -205)"
+    ]
+  },
+  {
+    "item": {
+      "id": "platters-small-bbq-chicken-2",
+      "name": "BBQ Chicken",
+      "description": "The source publishes two unlabeled rows for BBQ Chicken; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) portion as served in a small platter",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 187,
+      "protein_g": 27,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 687
+    },
+    "reasons": [
+      "the-halal-guys/platters-small-bbq-chicken-2: macro check failed — stated 187 kcal vs computed 161 (delta -26)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sandwiches-beef-gyro-1",
+      "name": "Beef Gyro",
+      "description": "The source publishes two unlabeled rows for Beef Gyro; this is row 1, which carries the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 454,
+      "protein_g": 21,
+      "carbs_g": 24,
+      "fat_g": 21,
+      "fiber_g": null,
+      "sodium_mg": 1428
+    },
+    "reasons": [
+      "the-halal-guys/sandwiches-beef-gyro-1: macro check failed — stated 454 kcal vs computed 369 (delta -85)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sandwiches-chicken-2",
+      "name": "Chicken",
+      "description": "The source publishes two unlabeled rows for Chicken; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (113 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 152,
+      "protein_g": 22,
+      "carbs_g": 1,
+      "fat_g": 4,
+      "fiber_g": null,
+      "sodium_mg": 496
+    },
+    "reasons": [
+      "the-halal-guys/sandwiches-chicken-2: macro check failed — stated 152 kcal vs computed 128 (delta -24)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sandwiches-falafel-1",
+      "name": "Falafel",
+      "description": "The source publishes two unlabeled rows for Falafel; this is row 1, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz (111 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 396,
+      "protein_g": 10,
+      "carbs_g": 31,
+      "fat_g": 3,
+      "fiber_g": 13,
+      "sodium_mg": 575
+    },
+    "reasons": [
+      "the-halal-guys/sandwiches-falafel-1: macro check failed — stated 396 kcal vs computed 191 (delta -205)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sandwiches-bbq-chicken-2",
+      "name": "BBQ Chicken",
+      "description": "The source publishes two unlabeled rows for BBQ Chicken; this is row 2, which does not carry the site-logo marker.",
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 5 oz (142 g) sandwich portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 187,
+      "protein_g": 27,
+      "carbs_g": 2,
+      "fat_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 687
+    },
+    "reasons": [
+      "the-halal-guys/sandwiches-bbq-chicken-2: macro check failed — stated 187 kcal vs computed 161 (delta -26)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sides-falafel",
+      "name": "Falafel",
+      "description": null,
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 2 oz (57 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 202,
+      "protein_g": 5,
+      "carbs_g": 16,
+      "fat_g": 2,
+      "fiber_g": 7,
+      "sodium_mg": 294
+    },
+    "reasons": [
+      "the-halal-guys/sides-falafel: macro check failed — stated 202 kcal vs computed 102 (delta -100)"
+    ]
+  },
+  {
+    "item": {
+      "id": "desserts-baklava-cheesecake",
+      "name": "Baklava Cheesecake",
+      "description": "The published value is implausibly large for the stated portion and appears to represent a whole cake or batch; it is kept as published.",
+      "category": "side",
+      "is_estimate": false,
+      "serving_note": "per 4.50 oz (128 g) portion",
+      "source": {
+        "type": "published",
+        "url": "https://thehalalguys.com/nutritional-guide/"
+      },
+      "calories": 1980,
+      "protein_g": 27,
+      "carbs_g": 140,
+      "fat_g": 45,
+      "fiber_g": 0,
+      "sodium_mg": 945
+    },
+    "reasons": [
+      "the-halal-guys/desserts-baklava-cheesecake: macro check failed — stated 1980 kcal vs computed 1073 (delta -907)"
+    ]
+  }
+]

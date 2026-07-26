@@ -1,0 +1,615 @@
+{
+  "id": "everbowl",
+  "name": "Everbowl",
+  "website": "https://everbowl.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "170 O'Farrell St, San Francisco, CA 94102",
+      "lat": 37.7873246,
+      "lng": -122.4075665,
+      "neighborhood": "Union Square"
+    }
+  ],
+  "items": [
+    {
+      "id": "everbowl-regular",
+      "name": "EVERBOWL (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 630.0,
+      "protein_g": 7.0,
+      "carbs_g": 127.0,
+      "fat_g": 12.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "everbowl-large",
+      "name": "EVERBOWL (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 7.0,
+      "carbs_g": 144.0,
+      "fat_g": 13.0,
+      "fiber_g": 21.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pb-everbowl-regular",
+      "name": "PB EVERBOWL (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 10.0,
+      "carbs_g": 129.0,
+      "fat_g": 17.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pb-everbowl-large",
+      "name": "PB EVERBOWL (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 10.0,
+      "carbs_g": 146.0,
+      "fat_g": 18.0,
+      "fiber_g": 21.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "berry-boost-regular",
+      "name": "BERRY BOOST (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 3.0,
+      "carbs_g": 100.0,
+      "fat_g": 7.0,
+      "fiber_g": 17.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "berry-boost-large",
+      "name": "BERRY BOOST (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 3.0,
+      "carbs_g": 117.0,
+      "fat_g": 8.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "blue-lagoon-regular",
+      "name": "BLUE LAGOON (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 3.0,
+      "carbs_g": 65.0,
+      "fat_g": 17.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "blue-lagoon-large",
+      "name": "BLUE LAGOON (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 4.0,
+      "carbs_g": 78.0,
+      "fat_g": 22.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pitayum-regular",
+      "name": "PITAYUM (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 8.0,
+      "carbs_g": 118.0,
+      "fat_g": 18.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pitayum-large",
+      "name": "PITAYUM (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 8.0,
+      "carbs_g": 135.0,
+      "fat_g": 19.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pina-coolada-regular",
+      "name": "PINA COOLADA (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 9.0,
+      "carbs_g": 103.0,
+      "fat_g": 32.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pina-coolada-large",
+      "name": "PINA COOLADA (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 10.0,
+      "carbs_g": 115.0,
+      "fat_g": 38.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "full-moon-regular",
+      "name": "FULL MOON (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 860.0,
+      "protein_g": 12.0,
+      "carbs_g": 117.0,
+      "fat_g": 43.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "full-moon-large",
+      "name": "FULL MOON (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 960.0,
+      "protein_g": 13.0,
+      "carbs_g": 130.0,
+      "fat_g": 49.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "nutty-butty-regular",
+      "name": "NUTTY BUTTY (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 880.0,
+      "protein_g": 12.0,
+      "carbs_g": 109.0,
+      "fat_g": 46.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "nutty-butty-large",
+      "name": "NUTTY BUTTY (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 1010.0,
+      "protein_g": 13.0,
+      "carbs_g": 124.0,
+      "fat_g": 54.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 70.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "perfect-date-regular",
+      "name": "PERFECT DATE (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 12.0,
+      "carbs_g": 119.0,
+      "fat_g": 37.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "perfect-date-large",
+      "name": "PERFECT DATE (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 918.0,
+      "protein_g": 12.0,
+      "carbs_g": 132.0,
+      "fat_g": 43.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "apple-up-regular",
+      "name": "APPLE UP (Regular)",
+      "description": null,
+      "category": "meal",
+      "calories": 920.0,
+      "protein_g": 10.0,
+      "carbs_g": 166.0,
+      "fat_g": 27.0,
+      "fiber_g": 20.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per regular bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "apple-up-large",
+      "name": "APPLE UP (Large)",
+      "description": null,
+      "category": "meal",
+      "calories": 1060.0,
+      "protein_g": 11.0,
+      "carbs_g": 181.0,
+      "fat_g": 34.0,
+      "fiber_g": 20.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per large bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "nanaberry-portion",
+      "name": "NANABERRY (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 3.0,
+      "carbs_g": 51.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pb-cacao-dream-portion",
+      "name": "PB CACAO DREAM (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 10.0,
+      "carbs_g": 70.0,
+      "fat_g": 37.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pitaya-paradise-portion",
+      "name": "PITAYA PARADISE (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 1.0,
+      "carbs_g": 40.0,
+      "fat_g": 11.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "blue-tropical-portion",
+      "name": "BLUE TROPICAL (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 320.0,
+      "protein_g": 2.0,
+      "carbs_g": 37.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "go-greens-portion",
+      "name": "GO GREENS (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 4.0,
+      "carbs_g": 64.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "unbeetable-portion",
+      "name": "UNBEETABLE (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 320.0,
+      "protein_g": 3.0,
+      "carbs_g": 36.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "that-s-my-jam-portion",
+      "name": "THAT’S MY JAM (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 9.0,
+      "carbs_g": 74.0,
+      "fat_g": 35.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "spirulina-out-portion",
+      "name": "SPIRULINA OUT (Portion)",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 4.0,
+      "carbs_g": 64.0,
+      "fat_g": 25.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per portion bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "acai-portion",
+      "name": "ACAI (Portion)",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 17.0,
+      "fat_g": 1.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "pitaya-portion",
+      "name": "PITAYA (Portion)",
+      "description": null,
+      "category": "component",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "blue-majic-portion",
+      "name": "BLUE MAJIC (Portion)",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per portion serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "coco-love-portion",
+      "name": "COCO LOVE (Portion)",
+      "description": null,
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    },
+    {
+      "id": "cacao-wow-portion",
+      "name": "CACAO WOW (Portion)",
+      "description": null,
+      "category": "component",
+      "calories": 100.0,
+      "protein_g": 1.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per portion serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://admin.everbowl.com/uploads/Nutritional_Information_Chart_091d1f7dec.pdf"
+      }
+    }
+  ]
+}

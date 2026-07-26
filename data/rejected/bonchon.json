@@ -1,0 +1,326 @@
+[
+  {
+    "item": {
+      "id": "large-boneless-spicy",
+      "name": "Large Boneless SPICY",
+      "description": null,
+      "category": "meal",
+      "calories": 5305.0,
+      "protein_g": 613.0,
+      "carbs_g": 352.0,
+      "fat_g": 304.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 12441.0,
+      "serving_note": "per 36 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/large-boneless-spicy: sodium_mg 12441.0 implausibly high",
+      "bonchon/large-boneless-spicy: calories 5305.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-boneless-soy-garlic",
+      "name": "Large Boneless SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 5328.0,
+      "protein_g": 613.0,
+      "carbs_g": 351.0,
+      "fat_g": 304.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 12670.0,
+      "serving_note": "per 36 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/large-boneless-soy-garlic: sodium_mg 12670.0 implausibly high",
+      "bonchon/large-boneless-soy-garlic: calories 5328.0 implausibly high — check what the row is per"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-combo-soy-garlic",
+      "name": "Large Combo SOY GARLIC",
+      "description": null,
+      "category": "meal",
+      "calories": 2883.0,
+      "protein_g": 126.0,
+      "carbs_g": 54.0,
+      "fat_g": 120.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 3135.0,
+      "serving_note": "per 23 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/large-combo-soy-garlic: macro check failed — stated 2883.0 kcal vs computed 1800 (delta -1083)"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-strips-classic-crunch",
+      "name": "Large Strips Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 2638.0,
+      "protein_g": 245.0,
+      "carbs_g": 293.0,
+      "fat_g": 60.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 11014.0,
+      "serving_note": "per 30 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/large-strips-classic-crunch: sodium_mg 11014.0 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "large-combo-classic-crunch",
+      "name": "Large Combo Classic Crunch",
+      "description": null,
+      "category": "meal",
+      "calories": 2360.0,
+      "protein_g": 1881.0,
+      "carbs_g": 57.0,
+      "fat_g": 146.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 4130.0,
+      "serving_note": "per 23 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/large-combo-classic-crunch: macro check failed — stated 2360.0 kcal vs computed 9066 (delta +6706)"
+    ]
+  },
+  {
+    "item": {
+      "id": "shrimp-shumai-fried",
+      "name": "Shrimp Shumai (Fried)",
+      "description": null,
+      "category": "side",
+      "calories": 321.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 30.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per 7 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/shrimp-shumai-fried: macro check failed — stated 321.0 kcal vs computed 478 (delta +157)"
+    ]
+  },
+  {
+    "item": {
+      "id": "sesame-ginger-salad",
+      "name": "Sesame Ginger Salad",
+      "description": null,
+      "category": "side",
+      "calories": 475.0,
+      "protein_g": 8.0,
+      "carbs_g": 23.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 185.0,
+      "serving_note": "per 8.1 oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/sesame-ginger-salad: macro check failed — stated 475.0 kcal vs computed 340 (delta -135)"
+    ]
+  },
+  {
+    "item": {
+      "id": "azuki-red-bean",
+      "name": "Azuki Red Bean",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/azuki-red-bean: macro check failed — stated 110.0 kcal vs computed 150 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "matcha-green-tea-chocolate-chip",
+      "name": "Matcha Green Tea Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/matcha-green-tea-chocolate-chip: macro check failed — stated 110.0 kcal vs computed 150 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "mochaccino-chip",
+      "name": "Mochaccino Chip",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/mochaccino-chip: macro check failed — stated 110.0 kcal vs computed 150 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "raspberry-white-chocolate-crunch",
+      "name": "Raspberry White Chocolate Crunch",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/raspberry-white-chocolate-crunch: macro check failed — stated 110.0 kcal vs computed 150 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/strawberry: macro check failed — stated 110.0 kcal vs computed 150 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "vanilla-chocolate-chip",
+      "name": "Vanilla Chocolate Chip",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 23.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/vanilla-chocolate-chip: macro check failed — stated 110.0 kcal vs computed 150 (delta +40)"
+    ]
+  },
+  {
+    "item": {
+      "id": "yuzu-mojito",
+      "name": "Yuzu Mojito",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 1.0,
+      "carbs_g": 20.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 68.0,
+      "serving_note": "per 1 piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://bonchon-brand.files.svdcdn.com/production/Downloads/Nutrition-Facts_2026.pdf?dm=1771966496"
+      }
+    },
+    "reasons": [
+      "bonchon/yuzu-mojito: macro check failed — stated 110.0 kcal vs computed 147 (delta +37)"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "item": {
+      "id": "spaghetti-party-pack-serves-8-10-116-0-oz-3289-g",
+      "name": "Spaghetti Party Pack (Serves 8-10)",
+      "description": null,
+      "category": "component",
+      "calories": 4890,
+      "protein_g": 181,
+      "carbs_g": 606,
+      "fat_g": 183,
+      "fiber_g": 34,
+      "sodium_mg": 10710,
+      "serving_note": "per 116.0 oz (3289 g); serves 8-10",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    "reasons": [
+      "jollibee/spaghetti-party-pack-serves-8-10-116-0-oz-3289-g: sodium_mg 10710 implausibly high"
+    ]
+  },
+  {
+    "item": {
+      "id": "adobo-rice-8-0-oz-227-g",
+      "name": "Adobo Rice",
+      "description": null,
+      "category": "side",
+      "calories": 230,
+      "protein_g": 8,
+      "carbs_g": 54,
+      "fat_g": 4.5,
+      "fiber_g": 1,
+      "sodium_mg": 630,
+      "serving_note": "per 8.0 oz 227 g",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    "reasons": [
+      "jollibee/adobo-rice-8-0-oz-227-g: macro check failed — stated 230 kcal vs computed 288 (delta +58)"
+    ]
+  },
+  {
+    "item": {
+      "id": "biscuit-1-piece-70-g",
+      "name": "Biscuit",
+      "description": null,
+      "category": "side",
+      "calories": 270,
+      "protein_g": 4,
+      "carbs_g": 30,
+      "fat_g": 11,
+      "fiber_g": 1,
+      "sodium_mg": 800,
+      "serving_note": "per 1 piece (70 g)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://jollibee-prod-media.s3.us-west-2.amazonaws.com/JB_USA_Nutrition_Facts_2025_101525_f94493117b.pdf"
+      }
+    },
+    "reasons": [
+      "jollibee/biscuit-1-piece-70-g: macro check failed — stated 270 kcal vs computed 235 (delta -35)"
+    ]
+  }
+]

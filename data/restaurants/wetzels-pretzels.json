@@ -1,0 +1,1491 @@
+{
+  "id": "wetzels-pretzels",
+  "name": "Wetzel's Pretzels",
+  "website": "https://www.wetzels.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "170 O'Farrell St, Space B1, San Francisco, CA 94102",
+      "lat": 37.787006,
+      "lng": -122.4072604,
+      "neighborhood": "San Francisco"
+    },
+    {
+      "address": "170 O'Farrell St, Space S1, San Francisco, CA 94102",
+      "lat": 37.787006,
+      "lng": -122.4072604,
+      "neighborhood": "San Francisco"
+    },
+    {
+      "address": "3251 20th Ave, #102, San Francisco, CA 94132",
+      "lat": 37.7270364,
+      "lng": -122.4776106,
+      "neighborhood": "San Francisco"
+    }
+  ],
+  "items": [
+    {
+      "id": "almond-crunch-pretzel-1-each",
+      "name": "Almond Crunch Pretzel (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 500,
+      "protein_g": 13,
+      "carbs_g": 88,
+      "fat_g": 9,
+      "fiber_g": 4,
+      "sodium_mg": 510,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "cheese-meltdown-1-each",
+      "name": "Cheese Meltdown (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 540,
+      "protein_g": 17,
+      "carbs_g": 84,
+      "fat_g": 13,
+      "fiber_g": 4,
+      "sodium_mg": 710,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "grateful-garlic-1-each",
+      "name": "Grateful Garlic (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 560,
+      "protein_g": 17,
+      "carbs_g": 84,
+      "fat_g": 15,
+      "fiber_g": 3,
+      "sodium_mg": 730,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "jalapeno-cheese-melt-1-each",
+      "name": "Jalapeno Cheese Melt (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 560,
+      "protein_g": 17,
+      "carbs_g": 86,
+      "fat_g": 14,
+      "fiber_g": 4,
+      "sodium_mg": 1310,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "jalaroni-1-each",
+      "name": "Jalaroni (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 590,
+      "protein_g": 18,
+      "carbs_g": 85,
+      "fat_g": 17,
+      "fiber_g": 4,
+      "sodium_mg": 1130,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "original-pretzel-no-butter-no-salt-1-each",
+      "name": "Original Pretzel (no butter, no salt) (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 400,
+      "protein_g": 13,
+      "carbs_g": 83,
+      "fat_g": 0,
+      "fiber_g": 4,
+      "sodium_mg": 510,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "original-pretzel-no-butter-salted-1-each",
+      "name": "Original Pretzel (no butter, salted) (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 400,
+      "protein_g": 13,
+      "carbs_g": 83,
+      "fat_g": 0,
+      "fiber_g": 4,
+      "sodium_mg": 900,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "original-pretzel-with-butter-no-salt-1-each",
+      "name": "Original Pretzel (with butter, no salt) (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 470,
+      "protein_g": 13,
+      "carbs_g": 83,
+      "fat_g": 8,
+      "fiber_g": 4,
+      "sodium_mg": 510,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "original-pretzel-with-butter-salted-1-each",
+      "name": "Original Pretzel (with butter, salted) (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 470,
+      "protein_g": 13,
+      "carbs_g": 83,
+      "fat_g": 8,
+      "fiber_g": 4,
+      "sodium_mg": 900,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pepperoni-twist-1-each",
+      "name": "Pepperoni Twist (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 620,
+      "protein_g": 20,
+      "carbs_g": 85,
+      "fat_g": 20,
+      "fiber_g": 4,
+      "sodium_mg": 950,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "sinful-cinnamon-pretzel-1-each",
+      "name": "Sinful Cinnamon Pretzel (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 510,
+      "protein_g": 13,
+      "carbs_g": 92,
+      "fat_g": 8,
+      "fiber_g": 4,
+      "sodium_mg": 510,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "almond-crunch-bitz-1-bag",
+      "name": "Almond Crunch Bitz (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 880,
+      "protein_g": 22,
+      "carbs_g": 160,
+      "fat_g": 14,
+      "fiber_g": 6,
+      "sodium_mg": 840,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "cin-a-bitz-1-bag",
+      "name": "Cin-A-Bitz (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 860,
+      "protein_g": 21,
+      "carbs_g": 162,
+      "fat_g": 12,
+      "fiber_g": 6,
+      "sodium_mg": 830,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pizza-bitz-1-bag",
+      "name": "Pizza Bitz (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 630,
+      "protein_g": 20,
+      "carbs_g": 85,
+      "fat_g": 21,
+      "fiber_g": 4,
+      "sodium_mg": 990,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "wetzel-bitz-no-butter-no-salt-1-bag",
+      "name": "Wetzel Bitz (no butter, no salt) (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 670,
+      "protein_g": 21,
+      "carbs_g": 139,
+      "fat_g": 0,
+      "fiber_g": 6,
+      "sodium_mg": 830,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "wetzel-bitz-no-butter-salted-1-bag",
+      "name": "Wetzel Bitz (no butter, salted) (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 670,
+      "protein_g": 21,
+      "carbs_g": 139,
+      "fat_g": 0,
+      "fiber_g": 6,
+      "sodium_mg": 1620,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "wetzel-bitz-with-butter-no-salt-1-bag",
+      "name": "Wetzel Bitz (with butter, no salt) (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 780,
+      "protein_g": 21,
+      "carbs_g": 139,
+      "fat_g": 12,
+      "fiber_g": 6,
+      "sodium_mg": 830,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "wetzel-bitz-with-butter-salted-1-bag",
+      "name": "Wetzel Bitz (with butter, salted) (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 780,
+      "protein_g": 21,
+      "carbs_g": 139,
+      "fat_g": 12,
+      "fiber_g": 6,
+      "sodium_mg": 1620,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "bacon-ranch-1-serving",
+      "name": "Bacon Ranch (1 serving)",
+      "description": null,
+      "category": "side",
+      "calories": 1180,
+      "protein_g": 24,
+      "carbs_g": 146,
+      "fat_g": 47,
+      "fiber_g": 6,
+      "sodium_mg": 2350,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "choco-churro-bitz-1-serving",
+      "name": "Choco Churro Bitz (1 serving)",
+      "description": null,
+      "category": "side",
+      "calories": 1030,
+      "protein_g": 24,
+      "carbs_g": 196,
+      "fat_g": 15,
+      "fiber_g": 8,
+      "sodium_mg": 890,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "s-mores-1-serving",
+      "name": "S'mores (1 serving)",
+      "description": null,
+      "category": "side",
+      "calories": 1110,
+      "protein_g": 24,
+      "carbs_g": 203,
+      "fat_g": 22,
+      "fiber_g": 10,
+      "sodium_mg": 910,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "cheese-dog-1-each",
+      "name": "Cheese Dog (1 each)",
+      "description": null,
+      "category": "meal",
+      "calories": 630,
+      "protein_g": 22,
+      "carbs_g": 41,
+      "fat_g": 42,
+      "fiber_g": 1,
+      "sodium_mg": 1370,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "cheesy-dog-bites-1-bag",
+      "name": "Cheesy Dog Bites (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 920,
+      "protein_g": 31,
+      "carbs_g": 69,
+      "fat_g": 58,
+      "fiber_g": 3,
+      "sodium_mg": 1780,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "dog-bites-1-bag",
+      "name": "Dog Bites (1 bag)",
+      "description": null,
+      "category": "side",
+      "calories": 800,
+      "protein_g": 24,
+      "carbs_g": 67,
+      "fat_g": 48,
+      "fiber_g": 3,
+      "sodium_mg": 1410,
+      "serving_note": "per 1 bag",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "wetzel-dog-1-each",
+      "name": "Wetzel Dog (1 each)",
+      "description": null,
+      "category": "meal",
+      "calories": 540,
+      "protein_g": 17,
+      "carbs_g": 39,
+      "fat_g": 35,
+      "fiber_g": 1,
+      "sodium_mg": 1090,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "mozzarella-stickz-1-serving",
+      "name": "Mozzarella Stickz (1 serving)",
+      "description": null,
+      "category": "side",
+      "calories": 760,
+      "protein_g": 27,
+      "carbs_g": 83,
+      "fat_g": 29,
+      "fiber_g": 3,
+      "sodium_mg": 1080,
+      "serving_note": "per 1 serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pizza-bomb-1-each",
+      "name": "Pizza Bomb (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 550,
+      "protein_g": 24,
+      "carbs_g": 60,
+      "fat_g": 22,
+      "fiber_g": 3,
+      "sodium_mg": 1090,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "triple-grilled-cheese-1-each",
+      "name": "Triple Grilled Cheese (1 each)",
+      "description": null,
+      "category": "side",
+      "calories": 540,
+      "protein_g": 22,
+      "carbs_g": 58,
+      "fat_g": 23,
+      "fiber_g": 2,
+      "sodium_mg": 910,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "caramel-1-each",
+      "name": "Caramel (1 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 33,
+      "fat_g": 1.5,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "cheddar-cheese-1-each",
+      "name": "Cheddar Cheese (1 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 130,
+      "protein_g": 2,
+      "carbs_g": 6,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 700,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "cream-cheese-2-each",
+      "name": "Cream Cheese (2 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 140,
+      "protein_g": 4,
+      "carbs_g": 4,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 230,
+      "serving_note": "per 2 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "jalapeno-cheese-1-each",
+      "name": "Jalapeno Cheese (1 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 130,
+      "protein_g": 2,
+      "carbs_g": 6,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sodium_mg": 720,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pizza-sauce-1-each",
+      "name": "Pizza Sauce (1 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 25,
+      "protein_g": 0,
+      "carbs_g": 6,
+      "fat_g": 0,
+      "fiber_g": 2,
+      "sodium_mg": 150,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "ranch-1-each",
+      "name": "Ranch (1 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 150,
+      "protein_g": 1,
+      "carbs_g": 1,
+      "fat_g": 16,
+      "fiber_g": 0,
+      "sodium_mg": 370,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "sweet-glaze-1-each",
+      "name": "Sweet Glaze (1 each)",
+      "description": null,
+      "category": "condiment",
+      "calories": 230,
+      "protein_g": 1,
+      "carbs_g": 27,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per 1 each",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "frozen-granita-blue-raspberry-24-fl-oz",
+      "name": "Frozen Granita - Blue Raspberry (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "frozen-granita-kiwi-strawberry-24-fl-oz",
+      "name": "Frozen Granita - Kiwi Strawberry (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 47,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "frozen-lemonade-boba-24-fl-oz",
+      "name": "Frozen Lemonade - Boba (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 340,
+      "protein_g": 0,
+      "carbs_g": 82,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 10,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "frozen-lemonade-original-24-fl-oz",
+      "name": "Frozen Lemonade - Original (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 62,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "frozen-lemonade-strawberry-24-fl-oz",
+      "name": "Frozen Lemonade - Strawberry (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 250,
+      "protein_g": 0,
+      "carbs_g": 61,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "guava-mangonada-24-fl-oz",
+      "name": "Guava Mangonada (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 420,
+      "protein_g": 0,
+      "carbs_g": 106,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 1160,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "icee-blue-raspberry-regular-22-fl-oz",
+      "name": "ICEE - Blue Raspberry (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 73,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "icee-blue-raspberry-large-32-fl-oz",
+      "name": "ICEE - Blue Raspberry (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 450,
+      "protein_g": 0,
+      "carbs_g": 109,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-boba-regular-22-fl-oz",
+      "name": "Lemonade - Boba (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 340,
+      "protein_g": 0,
+      "carbs_g": 84,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-boba-large-32-fl-oz",
+      "name": "Lemonade - Boba (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 440,
+      "protein_g": 0,
+      "carbs_g": 109,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-boba-x-large-44-fl-oz",
+      "name": "Lemonade - Boba (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 590,
+      "protein_g": 0,
+      "carbs_g": 146,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-original-regular-22-fl-oz",
+      "name": "Lemonade - Original (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 68,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-original-large-32-fl-oz",
+      "name": "Lemonade - Original (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 0,
+      "carbs_g": 99,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 25,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-original-x-large-44-fl-oz",
+      "name": "Lemonade - Original (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 550,
+      "protein_g": 1,
+      "carbs_g": 136,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-strawberry-regular-22-fl-oz",
+      "name": "Lemonade - Strawberry (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 68,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 15,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-strawberry-large-32-fl-oz",
+      "name": "Lemonade - Strawberry (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 0,
+      "carbs_g": 98,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 20,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "lemonade-strawberry-x-large-44-fl-oz",
+      "name": "Lemonade - Strawberry (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 550,
+      "protein_g": 1,
+      "carbs_g": 135,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "mangonada-24-fl-oz",
+      "name": "Mangonada (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 520,
+      "protein_g": 1,
+      "carbs_g": 130,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 1300,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "mocha-chiller-24-fl-oz",
+      "name": "Mocha Chiller (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 430,
+      "protein_g": 5,
+      "carbs_g": 77,
+      "fat_g": 13,
+      "fiber_g": 2,
+      "sodium_mg": 310,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "peach-matcha-palmer-24-fl-oz",
+      "name": "Peach Matcha Palmer (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 310,
+      "protein_g": 0,
+      "carbs_g": 77,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 10,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "strawberry-coco-dream-24-fl-oz",
+      "name": "Strawberry Coco Dream (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 1,
+      "carbs_g": 85,
+      "fat_g": 6,
+      "fiber_g": 0,
+      "sodium_mg": 40,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "brisk-raspberry-regular-22-fl-oz",
+      "name": "Brisk Raspberry (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130,
+      "protein_g": 0,
+      "carbs_g": 32,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "brisk-raspberry-large-32-fl-oz",
+      "name": "Brisk Raspberry (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 190,
+      "protein_g": 0,
+      "carbs_g": 49,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 130,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "brisk-raspberry-x-large-44-fl-oz",
+      "name": "Brisk Raspberry (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 66,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 180,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "caramel-root-beer-24-fl-oz",
+      "name": "Caramel Root Beer (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 330,
+      "protein_g": 0,
+      "carbs_g": 81,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "diet-pepsi-regular-22-fl-oz",
+      "name": "Diet Pepsi (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 100,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "diet-pepsi-large-32-fl-oz",
+      "name": "Diet Pepsi (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 150,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "diet-pepsi-x-large-44-fl-oz",
+      "name": "Diet Pepsi (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 0,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 210,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "dr-coco-berry-24-fl-oz",
+      "name": "Dr.Coco Berry (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 370,
+      "protein_g": 0,
+      "carbs_g": 83,
+      "fat_g": 3,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "dr-pepper-regular-22-fl-oz",
+      "name": "Dr.Pepper (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 80,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "dr-pepper-large-32-fl-oz",
+      "name": "Dr.Pepper (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 390,
+      "protein_g": 0,
+      "carbs_g": 106,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "dr-pepper-x-large-44-fl-oz",
+      "name": "Dr.Pepper (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 530,
+      "protein_g": 0,
+      "carbs_g": 143,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 160,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "malibu-24-fl-oz",
+      "name": "Malibu (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 280,
+      "protein_g": 0,
+      "carbs_g": 68,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 50,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "mt-dew-regular-22-fl-oz",
+      "name": "Mt.Dew (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 300,
+      "protein_g": 0,
+      "carbs_g": 79,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 95,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "mt-dew-large-32-fl-oz",
+      "name": "Mt.Dew (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 460,
+      "protein_g": 0,
+      "carbs_g": 119,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 140,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "mt-dew-x-large-44-fl-oz",
+      "name": "Mt.Dew (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 620,
+      "protein_g": 0,
+      "carbs_g": 161,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 190,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pepsi-regular-22-fl-oz",
+      "name": "Pepsi (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 270,
+      "protein_g": 0,
+      "carbs_g": 75,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 55,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pepsi-large-32-fl-oz",
+      "name": "Pepsi (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 410,
+      "protein_g": 0,
+      "carbs_g": 112,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "pepsi-x-large-44-fl-oz",
+      "name": "Pepsi (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 560,
+      "protein_g": 0,
+      "carbs_g": 152,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 120,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "root-beer-regular-22-fl-oz",
+      "name": "Root Beer (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 72,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 85,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "root-beer-large-32-fl-oz",
+      "name": "Root Beer (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 470,
+      "protein_g": 0,
+      "carbs_g": 119,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 180,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "root-beer-x-large-44-fl-oz",
+      "name": "Root Beer (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 530,
+      "protein_g": 0,
+      "carbs_g": 144,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 170,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "starry-regular-22-fl-oz",
+      "name": "Starry (Regular) (22 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 70,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 60,
+      "serving_note": "per 22 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "starry-large-32-fl-oz",
+      "name": "Starry (Large) (32 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 400,
+      "protein_g": 0,
+      "carbs_g": 105,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 90,
+      "serving_note": "per 32 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "starry-x-large-44-fl-oz",
+      "name": "Starry (X-Large) (44 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 540,
+      "protein_g": 0,
+      "carbs_g": 143,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sodium_mg": 125,
+      "serving_note": "per 44 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    },
+    {
+      "id": "strawberry-cream-24-fl-oz",
+      "name": "Strawberry Cream (24 fl.oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 260,
+      "protein_g": 0,
+      "carbs_g": 61,
+      "fat_g": 2,
+      "fiber_g": 0,
+      "sodium_mg": 30,
+      "serving_note": "per 24 fl.oz",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.wetzels.com/assets/pdf/Nutrition-Info.pdf"
+      }
+    }
+  ]
+}

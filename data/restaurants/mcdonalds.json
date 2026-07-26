@@ -1,0 +1,4047 @@
+{
+  "id": "mcdonalds",
+  "name": "McDonald's",
+  "website": "https://www.mcdonalds.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=<itemId>",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "1100 Fillmore St, San Francisco, CA 94102",
+      "lat": 37.779861,
+      "lng": -122.431717,
+      "neighborhood": null
+    },
+    {
+      "address": "1201 Ocean Ave, San Francisco, CA 94112-1830",
+      "lat": 37.723492,
+      "lng": -122.45546,
+      "neighborhood": null
+    },
+    {
+      "address": "2801 Mission St, San Francisco, CA 94110-3907",
+      "lat": 37.752127,
+      "lng": -122.418215,
+      "neighborhood": null
+    },
+    {
+      "address": "302 Potrero Ave, San Francisco, CA 94110",
+      "lat": 37.765404,
+      "lng": -122.407924,
+      "neighborhood": null
+    },
+    {
+      "address": "345 Bayshore Blvd, San Francisco, CA 94124-1506",
+      "lat": 37.742161,
+      "lng": -122.405205,
+      "neighborhood": null
+    },
+    {
+      "address": "441 Sutter St, San Francisco, CA 94108",
+      "lat": 37.789217,
+      "lng": -122.407641,
+      "neighborhood": null
+    },
+    {
+      "address": "5411 3rd Street, San Francisco, CA 94124",
+      "lat": 37.728005,
+      "lng": -122.392781,
+      "neighborhood": null
+    },
+    {
+      "address": "5454 Mission St, San Francisco, CA 94110",
+      "lat": 37.713135,
+      "lng": -122.444542,
+      "neighborhood": null
+    },
+    {
+      "address": "609 Market St, San Francisco, CA 94105-3301",
+      "lat": 37.788946,
+      "lng": -122.401488,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "item-200007",
+      "name": "Baked Hot Apple Pie",
+      "description": "McDonald's Baked Apple Pie recipe features 100% American-grown apples, and a lattice crust baked to perfection and topped with sprinkled sugar. There are 230 calories in McDonald's apple pie. Pair it with a Hot Caramel Sundae for your own twist on Apple Pie A-La-Mode! Order a Baked Apple Pie today and get it curbside with Mobile Order & Pay ! Get it delivered with McDelivery® !",
+      "category": "side",
+      "serving_note": "per 1 Baked Hot Apple Pie as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200007"
+      },
+      "calories": 230.0,
+      "protein_g": 2.0,
+      "carbs_g": 33.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 100.0
+    },
+    {
+      "id": "item-200009",
+      "name": "Chocolate Chip Cookie",
+      "description": "McDonald's classic chocolate chip cookie, loaded with chocolate chips. It's a soft baked cookie and warmed to perfection. Treat yourself today using Mobile Order & Pay .",
+      "category": "side",
+      "serving_note": "per 1 Chocolate Chip Cookie as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200009"
+      },
+      "calories": 170.0,
+      "protein_g": 2.0,
+      "carbs_g": 22.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "item-200020",
+      "name": "Coffee (Small)",
+      "description": "Treat yourself to a cup of our simple, satisfying McCafé® Premium Roast Coffee. Made with 100% Arabica beans, McCafé® Premium Roast Coffee is expertly roasted and freshly brewed every 30 minutes. Enjoy your hot coffee black or with your choice of sugar, sweetener, and dairy or creamer. Available in small, medium, and large. There are 0 calories in a small coffee at McDonald's. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required",
+      "category": "drink",
+      "serving_note": "per 1 Coffee (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200020"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-200052",
+      "name": "Chocolate Shake (Medium)",
+      "description": "Try the McDonald’s Chocolate Shake, the perfect sweet treat for any time of the day. Our chocolate shake is made with delicious soft serve, chocolate syrup and finished off with a creamy whipped topping. McDonald's Chocolate Shake is available in small, medium and large. Explore other delicious desserts on the McDonald’s Desserts & Shakes Menu .",
+      "category": "drink",
+      "serving_note": "per 1 Chocolate Shake (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200052"
+      },
+      "calories": 650.0,
+      "protein_g": 15.0,
+      "carbs_g": 107.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 310.0
+    },
+    {
+      "id": "item-200058",
+      "name": "Chocolate Shake (Large)",
+      "description": "Try the McDonald’s Chocolate Shake, the perfect sweet treat for any time of the day. Our chocolate shake is made with delicious soft serve, chocolate syrup and finished off with a creamy whipped topping. McDonald's Chocolate Shake is available in small, medium and large. Explore other delicious desserts on the McDonald’s Desserts & Shakes Menu .",
+      "category": "drink",
+      "serving_note": "per 1 Chocolate Shake (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200058"
+      },
+      "calories": 800.0,
+      "protein_g": 18.0,
+      "carbs_g": 134.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 390.0
+    },
+    {
+      "id": "item-200062",
+      "name": "Vanilla Cone",
+      "description": "Enjoy our creamy vanilla soft serve in a crispy cone! It's the perfect sweet treat in addition to any McDonald's meal or on its own! There are 200 calories in McDonald's soft serve cones! Order one today with Mobile Order & Pay , only on the McDonald's App! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Vanilla Cone.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "side",
+      "serving_note": "per 1 Vanilla Cone as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200062"
+      },
+      "calories": 200.0,
+      "protein_g": 5.0,
+      "carbs_g": 33.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "item-200066",
+      "name": "Small French Fries",
+      "description": "McDonald's World Famous Fries® are made with premium potatoes such as the Russet Burbank and the Shepody. With 0g of trans fat per labeled serving, these epic fries are crispy and golden on the outside and fluffy on the inside. Best of all, you can get medium Fries for free every Friday with any $1 purchase, exclusively in the McDonald’s App . Grab our World Famous Fries® and pair with one of our classic McDonald’s Burgers today! There are 220 calories in a small McDonald's fries. Order your fries today with McDelivery® or get them with curbside pickup using Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free World Famous Fries®.^ ^Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. Offer valid 1x use each Friday thru 3/31/22 with minimum purchase of $1 (excluding tax). McD App download and registration required. Offer only available through Mobile Order & Pay. Mobile Order & Pay at participating McDonald's. © 2022 McDonald's",
+      "category": "side",
+      "serving_note": "per 1 Small French Fries as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200066"
+      },
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 31.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 190.0
+    },
+    {
+      "id": "item-200068",
+      "name": "Apple Slices",
+      "description": "McDonald’s Apple Slices are a wholesome, tasty side made from real apples. Specially selected varieties mean our apple slices are always crisp and juicy, making for a tasty snack with 15 calories per labelled serving. Enjoy it as a Snack or Side to your meal!",
+      "category": "side",
+      "serving_note": "per 1 Apple Slices as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200068"
+      },
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "item-200074",
+      "name": "Hot Fudge Sundae",
+      "description": "Our classic hot fudge sundae is made with creamy vanilla soft serve and smothered in chocolaty hot fudge topping. There are 330 calories in a Hot Fudge Sundae at McDonald's. Order one today with Mobile Order & Pay !",
+      "category": "side",
+      "serving_note": "per 1 Hot Fudge Sundae as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200074"
+      },
+      "calories": 330.0,
+      "protein_g": 8.0,
+      "carbs_g": 51.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 170.0
+    },
+    {
+      "id": "item-200081",
+      "name": "Hot Caramel Sundae",
+      "description": "Treat yourself to a Hot Caramel Sundae at McDonald's! This Caramel Sundae combines creamy vanilla soft serve and warm, buttery caramel topping. Order it to complete your McDonald's meal using Mobile Order & Pay !",
+      "category": "side",
+      "serving_note": "per 1 Hot Caramel Sundae as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200081"
+      },
+      "calories": 330.0,
+      "protein_g": 7.0,
+      "carbs_g": 58.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0
+    },
+    {
+      "id": "item-200083",
+      "name": "Large French Fries",
+      "description": "McDonald's World Famous Fries® are made with premium potatoes such as the Russet Burbank and the Shepody. With 0g of trans fat per labeled serving, these epic fries are crispy and golden on the outside and fluffy on the inside. Best of all, you can get medium Fries for free every Friday with any $1 purchase, exclusively in the McDonald’s App . Grab our World Famous Fries® and pair with one of our classic McDonald’s Burgers today! There are 490 calories in a large McDonald's fries. Order your fries today with McDelivery® or get them with curbside pickup using Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free World Famous Fries®.^ ^Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. Offer valid 1x use each Friday thru 3/31/22 with minimum purchase of $1 (excluding tax). McD App download and registration required. Offer only available through Mobile Order & Pay. Mobile Order & Pay at participating McDonald's. © 2022 McDonald's",
+      "category": "side",
+      "serving_note": "per 1 Large French Fries as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200083"
+      },
+      "calories": 480.0,
+      "protein_g": 7.0,
+      "carbs_g": 65.0,
+      "fat_g": 23.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 400.0
+    },
+    {
+      "id": "item-200092",
+      "name": "Kids Fries",
+      "description": "McDonald's World Famous Fries® are made with premium potatoes such as the Russet Burbank and the Shepody. With 0g of trans fat per labeled serving, these epic fries are crispy and golden on the outside and fluffy on the inside. Best of all, you can get medium Fries for free every Friday with any $1 purchase, exclusively in the McDonald’s App . Grab our World Famous Fries® and pair with one of our classic McDonald’s Burgers today! There are 110 calories in a kids size McDonald's fries. Order your fries today with McDelivery® or get them with curbside pickup using Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free World Famous Fries®.^ ^Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. Offer valid 1x use each Friday thru 3/31/22 with minimum purchase of $1 (excluding tax). McD App download and registration required. Offer only available through Mobile Order & Pay. Mobile Order & Pay at participating McDonald's. © 2022 McDonald's",
+      "category": "side",
+      "serving_note": "per 1 Kids Fries as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200092"
+      },
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "item-200096",
+      "name": "McFlurry with M&M'S Chocolate Candies",
+      "description": "The McDonald’s M&M ® McFlurry® is a sweet, creamy M&M’S® dessert of vanilla soft serve with M&M’S® chocolate candies swirled in. Available in Regular Size and Snack Size. Check out all of McDonald's McFlurry® Flavors .",
+      "category": "side",
+      "serving_note": "per 1 McFlurry with M&M'S Chocolate Candies as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200096"
+      },
+      "calories": 570.0,
+      "protein_g": 11.0,
+      "carbs_g": 85.0,
+      "fat_g": 19.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 170.0
+    },
+    {
+      "id": "item-200101",
+      "name": "McFlurry with Oreo Cookies",
+      "description": "The McDonald’s McFlurry® with OREO® Cookies is an popular combination of OREO® pieces and vanilla soft serve! Available in Regular Size and Snack Size on the McDonald's Desserts & Shakes menu. OREO® is a trademark of Mondel?z International group, use under license.",
+      "category": "side",
+      "serving_note": "per 1 McFlurry with Oreo Cookies as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200101"
+      },
+      "calories": 410.0,
+      "protein_g": 10.0,
+      "carbs_g": 64.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "item-200107",
+      "name": "Chocolate Shake (Small)",
+      "description": "Try the McDonald’s Chocolate Shake, the perfect sweet treat for any time of the day. Our chocolate shake is made with delicious soft serve, chocolate syrup and finished off with a creamy whipped topping. McDonald's Chocolate Shake is available in small, medium and large. Explore other delicious desserts on the McDonald’s Desserts & Shakes Menu .",
+      "category": "drink",
+      "serving_note": "per 1 Chocolate Shake (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200107"
+      },
+      "calories": 520.0,
+      "protein_g": 12.0,
+      "carbs_g": 85.0,
+      "fat_g": 14.0,
+      "fiber_g": null,
+      "sodium_mg": 250.0
+    },
+    {
+      "id": "item-200108",
+      "name": "Vanilla Shake (Small)",
+      "description": "McDonald's vanilla shake is made with our creamy vanilla soft serve and topped with whipped topping for a cool, tasty treat. Available in small, medium, and large. There are 510 calories in a small vanilla shake at McDonald's. Check out all of McDonald’s Shakes and Desserts . Get a vanilla shake delivered with McDelivery® or get it with curbside pickup using Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Vanilla Shake (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200108"
+      },
+      "calories": 480.0,
+      "protein_g": 10.0,
+      "carbs_g": 80.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "item-200109",
+      "name": "Strawberry Shake (Small)",
+      "description": "McDonald's Strawberry Shake is made with creamy vanilla soft serve, blended with strawberry syrup and topped with whipped topping. There are 530 calories in a small Strawberry Shake at McDonald's. Available in small, medium, and large. Get your Strawberry Shake through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Shake (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200109"
+      },
+      "calories": 470.0,
+      "protein_g": 10.0,
+      "carbs_g": 77.0,
+      "fat_g": 13.0,
+      "fiber_g": null,
+      "sodium_mg": 160.0
+    },
+    {
+      "id": "item-200120",
+      "name": "Iced Latte (Medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced Latte (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200120"
+      },
+      "calories": 120.0,
+      "protein_g": 6.0,
+      "carbs_g": 11.0,
+      "fat_g": 6.0,
+      "fiber_g": null,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "item-200122",
+      "name": "Coffee (Large)",
+      "description": "Treat yourself to a cup of our simple, satisfying McCafé® Premium Roast Coffee. Made with 100% Arabica beans, McCafé® Premium Roast Coffee is expertly roasted and freshly brewed every 30 minutes. Enjoy your hot coffee black or with your choice of sugar, sweetener, and dairy or creamer. Available in small, medium, and large. There are 0 calories in a large coffee at McDonald's. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required",
+      "category": "drink",
+      "serving_note": "per 1 Coffee (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200122"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-200145",
+      "name": "Steak, Egg & Cheese Bagel",
+      "description": "A bagel freshly toasted with real butter that holds a tender, juicy steak patty, a fluffy folded egg, melty American cheese and savory grilled onions",
+      "category": "meal",
+      "serving_note": "per 1 Steak, Egg & Cheese Bagel as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200145"
+      },
+      "calories": 680.0,
+      "protein_g": 34.0,
+      "carbs_g": 57.0,
+      "fat_g": 35.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1510.0
+    },
+    {
+      "id": "item-200148",
+      "name": "Frappe Mocha (Small)",
+      "description": "Made with rich chocolate flavor and a hint of coffee, our Mocha Frappé recipe is blended with ice and covered with whipped topping and chocolatey drizzle. Available in small, medium and large. There are 430 calories in a small Mocha Frappé. Order a McDonald's Frappé today and pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Frappe Mocha (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200148"
+      },
+      "calories": 430.0,
+      "protein_g": 7.0,
+      "carbs_g": 61.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0
+    },
+    {
+      "id": "item-200149",
+      "name": "Frappe Caramel (Small)",
+      "description": "McDonald's Caramel Frappé recipe is made with rich caramel flavor and a hint of coffee, blended with ice, and topped with whipped topping and caramel drizzle. Available in Small, Medium, and Large. There are 420 calories in a small Caramel Frappé. Order a Caramel Frappé using Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Frappe Caramel (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200149"
+      },
+      "calories": 420.0,
+      "protein_g": 7.0,
+      "carbs_g": 60.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "item-200152",
+      "name": "Strawberry Banana Smoothie (Small)",
+      "description": "The McCafé® Strawberry Banana Smoothie recipe features the perfect combination of fruit purees and fruit juices, such as strawberry and banana, blended with creamy low fat yogurt and ice. Our Strawberry Banana Smoothie is available in small, medium and large. There are 190 calories in a small McDonald's strawberry banana smoothie. Order one today using Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Banana Smoothie (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200152"
+      },
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 44.0,
+      "fat_g": 0.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-200155",
+      "name": "Mango Pineapple Smoothie (Small)",
+      "description": "The McDonald’s Mango Pineapple Smoothie recipe features the sweet combination of fruit juices and purees such as mango and pineapple, blended with creamy low fat yogurt and ice. Find all our smoothies on the McCafé® Menu in small, medium and large. There are 200 calories in a small mango pineapple smoothie at McDonald's. Get one today with Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Mango Pineapple Smoothie (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200155"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.5,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "item-200161",
+      "name": "Sausage McMuffin® with Egg",
+      "description": "McDonald’s Sausage McMuffin® with Egg features a savory hot sausage, a slice of melty American cheese, and a delicious freshly cracked egg all on a freshly toasted English muffin. There are 480 calories in Sausage McMuffin® with Egg at McDonald's. Use Mobile Order & Pay to pass the line, only on the McDonald’s App! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Sausage McMuffin® with Egg.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. Mobile Order & Pay at participating McDonald's. McD app download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Sausage McMuffin® with Egg as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200161"
+      },
+      "calories": 480.0,
+      "protein_g": 20.0,
+      "carbs_g": 30.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 830.0
+    },
+    {
+      "id": "item-200181",
+      "name": "Caramel Cappuccino (Small)",
+      "description": "Our McCafé® Caramel Cappuccino recipe features whole steamed milk, bold espresso made from sustainably-sourced beans, fluffy foam, and buttery caramel flavor. There are 210 calories in a small caramel cappuccino with whole milk at McDonald's. Order one today with Mobile Order & Pay and pick it up at the drive thru or with curbside pickup! Want your McDonald's delivered? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 Caramel Cappuccino (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200181"
+      },
+      "calories": 210.0,
+      "protein_g": 7.0,
+      "carbs_g": 35.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0
+    },
+    {
+      "id": "item-200184",
+      "name": "French Vanilla Cappuccino (Large)",
+      "description": "Our McCafé® French Vanilla Cappuccino recipe features whole or nonfat steamed milk, bold espresso made from sustainably-sourced beans, fluffy foam, and rich French Vanilla flavor. There are 190 calories in a small French Vanilla Cappuccino with whole milk at McDonald's. Try it today when you Mobile Order & Pay and pickup at the drive thru or with curbside pickup! Looking for McDonald's delivery? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 French Vanilla Cappuccino (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200184"
+      },
+      "calories": 340.0,
+      "protein_g": 9.0,
+      "carbs_g": 58.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0
+    },
+    {
+      "id": "item-200185",
+      "name": "Vanilla Cappuccino (Medium)",
+      "description": "Our McCafé® French Vanilla Cappuccino recipe features whole or nonfat steamed milk, bold espresso made from sustainably-sourced beans, fluffy foam, and rich French Vanilla flavor. There are 190 calories in a small French Vanilla Cappuccino with whole milk at McDonald's. Try it today when you Mobile Order & Pay and pickup at the drive thru or with curbside pickup! Looking for McDonald's delivery? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 Vanilla Cappuccino (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200185"
+      },
+      "calories": 260.0,
+      "protein_g": 7.0,
+      "carbs_g": 47.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "item-200186",
+      "name": "Vanilla Cappuccino (Small)",
+      "description": "Our McCafé® French Vanilla Cappuccino recipe features whole steamed milk, bold espresso made from sustainably-sourced beans, fluffy foam, and rich French Vanilla flavor. There are 190 calories in a small French Vanilla Cappuccino with whole milk at McDonald's. Try it today when you Mobile Order & Pay and pickup at the drive thru or with curbside pickup! Looking for McDonald's delivery? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 Vanilla Cappuccino (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200186"
+      },
+      "calories": 210.0,
+      "protein_g": 5.0,
+      "carbs_g": 37.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "item-200258",
+      "name": "Hotcakes and Sausage",
+      "description": "When you're craving pancakes and sausage, McDonald's has you covered with our Hotcakes and Sausage breakfast. Featuring 3 golden brown hotcakes and real butter, topped with sweet maple flavored hotcake syrup. On the side, you get a hot McDonald's sausage patty. Pair it with a Premium Roast Coffee for a perfect breakfast combo.",
+      "category": "meal",
+      "serving_note": "per 1 Hotcakes and Sausage as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200258"
+      },
+      "calories": 770.0,
+      "protein_g": 15.0,
+      "carbs_g": 102.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0
+    },
+    {
+      "id": "item-200267",
+      "name": "Sausage Burrito",
+      "description": "The Sausage Burrito is McDonald's Breakfast Burrito and is loaded with fluffy scrambled egg, pork sausage, melty cheese, green chiles and onion! It's wrapped in a soft tortilla, making it the perfect grab and go breakfast. There are 310 calories in a McDonald's sausage burrito. Order a McDonald's Sausage Burrito using the McDonald's App to Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Sausage Burrito.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. Mobile Order & Pay at participating McDonald's. McD app download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Sausage Burrito as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200267"
+      },
+      "calories": 310.0,
+      "protein_g": 13.0,
+      "carbs_g": 25.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 800.0
+    },
+    {
+      "id": "item-200284",
+      "name": "Fruit & Maple Oatmeal",
+      "description": "Our Fruit and Maple Oatmeal has two full servings of whole-grain oats with a touch of cream and brown sugar. Loaded with red and green apples, cranberries and two varieties of raisins, our oatmeal makes for a hearty, wholesome breakfast of whole grains and fruit. There are 320 calories in a McDonald's Fruit and Maple Oatmeal. Pair it with a McCafé® Premium Roast Coffee to complete your meal. Enjoy oatmeal for breakfast with Mobile Order & Pay or get it delivered with McDelivery® !",
+      "category": "meal",
+      "serving_note": "per 1 Fruit & Maple Oatmeal as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200284"
+      },
+      "calories": 320.0,
+      "protein_g": 6.0,
+      "carbs_g": 64.0,
+      "fat_g": 4.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 150.0
+    },
+    {
+      "id": "item-200298",
+      "name": "Egg McMuffin",
+      "description": "Our Egg McMuffin® breakfast sandwich is an excellent source of protein and oh so delicious. We place a freshly cracked Grade A egg on a toasted English Muffin topped with real butter and add lean Canadian bacon and melty American cheese. There are 300 calories in an Egg McMuffin®. Pair it with a Premium Roast Coffee and pass the line when you use Mobile Order & Pay , only on the McDonald’s App!",
+      "category": "meal",
+      "serving_note": "per 1 Egg McMuffin as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200298"
+      },
+      "calories": 310.0,
+      "protein_g": 17.0,
+      "carbs_g": 30.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 770.0
+    },
+    {
+      "id": "item-200300",
+      "name": "Bacon, Egg & Cheese Biscuit",
+      "description": "The McDonald's Bacon, Egg & Cheese Biscuit breakfast sandwich features a warm, buttermilk biscuit brushed with real butter, thick cut Applewood smoked bacon, a fluffy folded egg, and a slice of melty American cheese. There are 460 calories in a Bacon, Egg & Cheese Biscuit at McDonald's. Try one today with a Premium Roast Coffee and order with Mobile Order & Pay on the McDonald's App! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Bacon, Egg & Cheese Biscuit.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. Mobile Order & Pay at participating McDonald's. McD app download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Bacon, Egg & Cheese Biscuit as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200300"
+      },
+      "calories": 460.0,
+      "protein_g": 17.0,
+      "carbs_g": 39.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1330.0
+    },
+    {
+      "id": "item-200301",
+      "name": "Sausage Biscuit",
+      "description": "McDonald’s Sausage Biscuit is the perfect sausage breakfast sandwich, made with sizzling hot sausage on a warm buttermilk biscuit that’s topped with real butter and baked to perfection. There are 460 calories in a McDonald's Sausage Biscuit. Get it today in the App using Mobile Order & Pay !",
+      "category": "meal",
+      "serving_note": "per 1 Sausage Biscuit as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200301"
+      },
+      "calories": 460.0,
+      "protein_g": 11.0,
+      "carbs_g": 37.0,
+      "fat_g": 30.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1090.0
+    },
+    {
+      "id": "item-200302",
+      "name": "Sausage Biscuit with Egg",
+      "description": "McDonald's Sausage and Egg Biscuit features a warm, flaky biscuit brushed with real butter, a sizzling hot pork sausage patty, and a classic McDonald's folded egg. It's the perfect savory breakfast sandwich when you're looking for a quick, easy breakfast. Pair it with small McCafé® Premium Roast Coffee to complete your meal!",
+      "category": "meal",
+      "serving_note": "per 1 Sausage Biscuit with Egg as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200302"
+      },
+      "calories": 530.0,
+      "protein_g": 17.0,
+      "carbs_g": 38.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0
+    },
+    {
+      "id": "item-200304",
+      "name": "Bacon, Egg & Cheese McGriddles",
+      "description": "Bacon, Egg & Cheese McGriddles® feature soft, warm griddle cakes with the sweet taste of maple. McDonald's McGriddles® recipe features thick-cut Applewood smoked bacon, a fluffy folded egg, and a slice of melty American cheese. McGriddles® cakes have no artificial preservatives or flavors and no colors from artificial sources. The Bacon, Egg, & Cheese McGriddles® is 430 calories. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Bacon, Egg & Cheese McGriddles as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200304"
+      },
+      "calories": 430.0,
+      "protein_g": 17.0,
+      "carbs_g": 44.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1230.0
+    },
+    {
+      "id": "item-200306",
+      "name": "Sausage McGriddles",
+      "description": "Our Sausage McGriddles® breakfast sandwich features soft, warm griddle cakes—with the taste of sweet maple—that hold our savory, sizzling hot sausage. McGriddles® cakes have no artificial preservatives or flavors and no colors from artificial sources. There are 430 calories in Sausage McGriddles® at McDonald's. Order one today using Mobile Order & Pay on the McDonald's App.",
+      "category": "meal",
+      "serving_note": "per 1 Sausage McGriddles as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200306"
+      },
+      "calories": 430.0,
+      "protein_g": 11.0,
+      "carbs_g": 41.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 990.0
+    },
+    {
+      "id": "item-200307",
+      "name": "Sausage, Egg & Cheese McGriddles",
+      "description": "Sausage, Egg & Cheese McGriddles® feature soft, warm griddle cakes—with the sweet taste of maple—that hold a fluffy folded egg, savory sausage, and melty American cheese. McGriddles® cakes have no artificial preservatives or flavors and no colors from artificial sources. There are 550 calories in a Sausage, Egg, and Cheese McGriddles®. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Sausage, Egg & Cheese McGriddles as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200307"
+      },
+      "calories": 550.0,
+      "protein_g": 19.0,
+      "carbs_g": 44.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1290.0
+    },
+    {
+      "id": "item-200322",
+      "name": "Big Breakfast",
+      "description": "Our full, satisfying Big Breakfast® is perfect for any morning. Wake up to a breakfast meal with a warm biscuit, fluffy scrambled eggs, savory McDonald's sausage, and crispy golden hash browns. There are 750 calories in Big Breakfast® at McDonald's. Want it quick? Use the McDonald’s App to Mobile Order & Pay !",
+      "category": "meal",
+      "serving_note": "per 1 Big Breakfast as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200322"
+      },
+      "calories": 1060.0,
+      "protein_g": 26.0,
+      "carbs_g": 131.0,
+      "fat_g": 48.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1540.0
+    },
+    {
+      "id": "item-200323",
+      "name": "Big Breakfast with Hotcakes",
+      "description": "McDonald’s Big Breakfast® with Hotcakes satisfies with both sweet and savory breakfast favorites. Fill up with a warm biscuit, savory hot sausage, fluffy scrambled eggs, crispy hash browns, and golden brown hotcakes with a side of real butter and the sweet flavor of maple. There are 1,340 calories in McDonald's Big Breakfast with Hotcakes. Want to pass the line? Use the McDonald’s App to Mobile Order & Pay ! Looking for McDonald's delivery? Order a McDonald's Big Breakfast® with Hotcakes using McDelivery® !",
+      "category": "meal",
+      "serving_note": "per 1 Big Breakfast with Hotcakes as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200323"
+      },
+      "calories": 1340.0,
+      "protein_g": 36.0,
+      "carbs_g": 158.0,
+      "fat_g": 63.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2070.0
+    },
+    {
+      "id": "item-200325",
+      "name": "Hotcakes",
+      "description": "If you love pancakes, you've got to try McDonald's hotcakes with a side of real butter and sweet maple flavored hotcake syrup. This McDonald's breakfast comes with 3 golden brown hotcakes. There are 580 calories in McDonald's hotcakes. Order it with a Premium Roast Coffee for the perfect breakfast combo. Get an order of McDonald's hotcakes for breakfast using Mobile Order & Pay in the McDonald's App.",
+      "category": "meal",
+      "serving_note": "per 1 Hotcakes as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200325"
+      },
+      "calories": 580.0,
+      "protein_g": 9.0,
+      "carbs_g": 101.0,
+      "fat_g": 15.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 530.0
+    },
+    {
+      "id": "item-200332",
+      "name": "Iced Latte (Large)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced Latte (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200332"
+      },
+      "calories": 170.0,
+      "protein_g": 9.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0
+    },
+    {
+      "id": "item-200336",
+      "name": "Iced Caramel Latte (Medium)",
+      "description": "Cool off with a refreshing McCafé® Iced Caramel Latte. Our Iced Caramel Latte recipe features Rainforest Alliance Certified™ espresso and buttery caramel flavor. There are 180 calories in a small Iced Caramel Latte with whole milk at McDonald's. Customized for you with cold whole or nonfat milk, mixed with your choice of flavor at certain locations. Try our Iced Caramel Latte with Mobile Order & Pay and grab it at the drive thru or with curbside pickup! Trying to get McDonald's delivery? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Latte (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200336"
+      },
+      "calories": 220.0,
+      "protein_g": 7.0,
+      "carbs_g": 36.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0
+    },
+    {
+      "id": "item-200340",
+      "name": "Hash Browns",
+      "description": "Our Hash Browns are deliciously tasty and perfectly crispy. These shredded potato hash brown patties are prepared so they’re fluffy on the inside and crispy and toasty on the outside. There are 140 calories in McDonald's Hash Browns. Pair our Hash Browns with your favorites McDonald's Breakfast Menu Items. Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Hash Browns.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required.",
+      "category": "side",
+      "serving_note": "per 1 Hash Browns as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200340"
+      },
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 18.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 310.0
+    },
+    {
+      "id": "item-200385",
+      "name": "Caramel Cappuccino (Large)",
+      "description": "Our McCafé® Caramel Cappuccino recipe features whole steamed milk, bold espresso made from sustainably-sourced beans, fluffy foam, and buttery caramel flavor. There are 340 calories in a large caramel cappuccino with whole milk at McDonald's. Order one today with Mobile Order & Pay and pick it up at the drive thru or with curbside pickup! Want your McDonald's delivered? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 Caramel Cappuccino (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200385"
+      },
+      "calories": 340.0,
+      "protein_g": 11.0,
+      "carbs_g": 55.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 460.0
+    },
+    {
+      "id": "item-200386",
+      "name": "Caramel Cappuccino (Medium)",
+      "description": "Our McCafé® Caramel Cappuccino recipe features whole or nonfat steamed milk, bold espresso made from sustainably-sourced beans, fluffy foam, and buttery caramel flavor. There are 210 calories in a small caramel cappuccino with whole milk at McDonald's. Order one today with Mobile Order & Pay and pick it up at the drive thru or with curbside pickup! Want your McDonald's delivered? Order McDelivery® through Uber Eats or DoorDash!",
+      "category": "drink",
+      "serving_note": "per 1 Caramel Cappuccino (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200386"
+      },
+      "calories": 260.0,
+      "protein_g": 8.0,
+      "carbs_g": 44.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 370.0
+    },
+    {
+      "id": "item-200424",
+      "name": "Bacon, Egg & Cheese Bagel",
+      "description": "Craving a breakfast sandwich at McDonald's? Our Bacon, Egg and Cheese bagel features a toasted bagel with butter, thick-cut Applewood smoked bacon, a fluffy folded egg, and two slices of melty American cheese. There are 550 calories in a Bacon, Egg and Cheese Bagel. Order one today using Mobile Order & Pay ! Pair it with a Premium Roast Coffee for the perfect breakfast combination.",
+      "category": "meal",
+      "serving_note": "per 1 Bacon, Egg & Cheese Bagel as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200424"
+      },
+      "calories": 590.0,
+      "protein_g": 25.0,
+      "carbs_g": 56.0,
+      "fat_g": 30.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1320.0
+    },
+    {
+      "id": "item-200438",
+      "name": "McChicken",
+      "description": "It’s a classic for a reason. Savor the satisfying crunch of our juicy chicken patty, topped with shredded lettuce and just the right amount of creamy mayonnaise, all served on a perfectly toasted bun.* The McChicken® has 400 calories. Get your McChicken® at the drive thru or with McDonald's Curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free McChicken.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. *Available at participating restaurants",
+      "category": "meal",
+      "serving_note": "per 1 McChicken as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200438"
+      },
+      "calories": 390.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0
+    },
+    {
+      "id": "item-200445",
+      "name": "Filet-O-Fish",
+      "description": "Dive into our wild-caught Filet-O-Fish®! This McDonald’s fish sandwich has fish sourced from sustainably managed fisheries, on melty American cheese and topped with creamy McDonald’s tartar sauce, all served on a soft, steamed bun. There are 380 calories in McDonald's Filet-O-Fish. Learn what kind of fish is in Filet-O-Fish® ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Filet-O-Fish®.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Filet-O-Fish as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200445"
+      },
+      "calories": 380.0,
+      "protein_g": 16.0,
+      "carbs_g": 38.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 580.0
+    },
+    {
+      "id": "item-200449",
+      "name": "Sausage McMuffin",
+      "description": "McDonald's Sausage McMuffin® recipe features a warm, freshly toasted English muffin, topped with a savory hot sausage patty and a slice of melty American cheese. There are 400 calories in a Sausage McMuffin® at McDonald's. Try this McDonald's breakfast sandwich today with a Premium Roast Coffee and order with Mobile Order & Pay on the McDonald's App!",
+      "category": "meal",
+      "serving_note": "per 1 Sausage McMuffin as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200449"
+      },
+      "calories": 400.0,
+      "protein_g": 14.0,
+      "carbs_g": 29.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 760.0
+    },
+    {
+      "id": "item-200453",
+      "name": "Latte (Large)",
+      "description": "Our McCafé® Latte is made from Rainforest Alliance Certified™ espresso and steamed milk. Customize the Latte that’s made fresh just for you with whole or nonfat milk, mixed with your choice of flavor at certain locations. Available in small, medium and large. There are 140 calories in a small latte with whole milk at McDonald's. Enjoy one today using Mobile Order & Pay or get it delivered with McDelivery® !",
+      "category": "drink",
+      "serving_note": "per 1 Latte (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200453"
+      },
+      "calories": 250.0,
+      "protein_g": 13.0,
+      "carbs_g": 22.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0
+    },
+    {
+      "id": "item-200463",
+      "name": "Big Mac",
+      "description": "Mouthwatering perfection starts with two 100% pure beef patties and Big Mac® sauce sandwiched between a sesame seed bun. It’s topped off with pickles, crisp shredded lettuce, finely chopped onion and American cheese for a 100% beef burger with a taste like no other. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. There are 550 calories in a Big Mac®. Order one today using the McDonald's App to Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Big Mac®.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. Mobile Order & Pay at participating McDonald's. McD app download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Big Mac as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200463"
+      },
+      "calories": 580.0,
+      "protein_g": 25.0,
+      "carbs_g": 45.0,
+      "fat_g": 34.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1060.0
+    },
+    {
+      "id": "item-200464",
+      "name": "Frappe Caramel (Large)",
+      "description": "McDonald's Caramel Frappé recipe is made with rich caramel flavor and a hint of coffee, blended with ice, and topped with whipped topping and caramel drizzle. Available in Small, Medium, and Large. There are 650 calories in a large Caramel Frappé. Order a Caramel Frappé using Mobile Order & Pay ! Download the McDonald's app and earn points on every order with MyMcDonald's Rewards to redeem for a free large Caramel Frappé®.^ ^Refer to MyMcDonald's Program Terms for details. Excludes delivery. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Frappe Caramel (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200464"
+      },
+      "calories": 650.0,
+      "protein_g": 11.0,
+      "carbs_g": 94.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 115.0
+    },
+    {
+      "id": "item-200466",
+      "name": "Quarter Pounder with Cheese",
+      "description": "Each Quarter Pounder® with Cheese burger features a ¼ lb.* of 100% fresh beef that’s hot, deliciously juicy and cooked when you order. It’s seasoned with just a pinch of salt and pepper, sizzled on a flat iron grill, then topped with slivered onions, tangy pickles and two slices of melty American cheese on a sesame seed bun. Our QPC® contains no artificial flavors, preservatives or added colors from artificial sources. **Our pickle contains an artificial preservative, so skip it if you like. A Quarter Pounder® with Cheese has 520 Calories. Order one today with Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free Quarter Pounder with Cheese.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. *Weight before cooking 4 oz. **National sandwiches only. Excludes local and limited time options. Available at most restaurants in contiguous US. Not available in Alaska, Hawaii, and US Territories. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Quarter Pounder with Cheese as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200466"
+      },
+      "calories": 520.0,
+      "protein_g": 30.0,
+      "carbs_g": 42.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1140.0
+    },
+    {
+      "id": "item-200476",
+      "name": "Double Quarter Pounder with Cheese",
+      "description": "Each Double Quarter Pounder with Cheese features two quarter pound* 100% fresh beef burger patties that are hot, deliciously juicy and cooked when you order. McDonald’s beef patties are seasoned with just a pinch of salt and pepper, sizzled on a flat iron grill, then topped with slivered onions, tangy pickles and two slices of melty cheese on a sesame seed bun. It contains no artificial flavors, preservatives or added colors from artificial sources.** Our pickle contains an artificial preservative, so skip it if you like. *Weight before cooking 4 oz. (ea.). **National sandwiches only. Excludes local and limited time options. Fresh beef available at most restaurants in contiguous US. Not available in Alaska, Hawaii, and US Territories.",
+      "category": "meal",
+      "serving_note": "per 1 Double Quarter Pounder with Cheese as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200476"
+      },
+      "calories": 740.0,
+      "protein_g": 48.0,
+      "carbs_g": 43.0,
+      "fat_g": 42.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1360.0
+    },
+    {
+      "id": "item-200477",
+      "name": "Hamburger",
+      "description": "The original burger starts with a 100% pure beef burger seasoned with just a pinch of salt and pepper. Then, the McDonald’s burger is topped with a tangy pickle, chopped onions, ketchup and mustard. McDonald’s hamburger contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. *National sandwiches only. Excludes local and limited time options.",
+      "category": "meal",
+      "serving_note": "per 1 Hamburger as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200477"
+      },
+      "calories": 250.0,
+      "protein_g": 12.0,
+      "carbs_g": 30.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 510.0
+    },
+    {
+      "id": "item-200480",
+      "name": "Cheeseburger",
+      "description": "Our simple, classic cheeseburger begins with a 100% pure beef burger seasoned with just a pinch of salt and pepper. The McDonald’s Cheeseburger is topped with a tangy pickle, chopped onions, ketchup, mustard, and a slice of melty American cheese. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. For more delicious burger variations explore the McDonald’s burger menu . Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free cheeseburger.^ ^Program available at participating McDonald's. Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. *National sandwiches only. Excludes local and limited time options.",
+      "category": "meal",
+      "serving_note": "per 1 Cheeseburger as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200480"
+      },
+      "calories": 300.0,
+      "protein_g": 15.0,
+      "carbs_g": 31.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 720.0
+    },
+    {
+      "id": "item-200486",
+      "name": "Double Cheeseburger",
+      "description": "The McDonald's Double Cheeseburger features two 100% pure beef burger patties seasoned with just a pinch of salt and pepper. It's topped with tangy pickles, chopped onions, ketchup, mustard and two slices of melty American cheese. There are 450 calories in a McDonald's Double Cheeseburger. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. *National sandwiches only. Excludes local and limited time options.",
+      "category": "meal",
+      "serving_note": "per 1 Double Cheeseburger as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200486"
+      },
+      "calories": 440.0,
+      "protein_g": 25.0,
+      "carbs_g": 34.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1120.0
+    },
+    {
+      "id": "item-200491",
+      "name": "McDouble",
+      "description": "The classic McDouble® burger stacks two 100% pure beef patties seasoned with just a pinch of salt and pepper. Wondering what the difference is between a McDouble® and a Double Cheeseburger ? A slice of cheese! It’s topped with tangy pickles, chopped onions, ketchup, mustard and a melty slice of American cheese. The McDouble® contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. Prices and participation may vary. Cannot be combined with any other offer or combo meal. Tax Extra. *National sandwiches only. Excludes local and limited time options. Available at participating restaurants.",
+      "category": "meal",
+      "serving_note": "per 1 McDouble as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200491"
+      },
+      "calories": 390.0,
+      "protein_g": 22.0,
+      "carbs_g": 32.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 920.0
+    },
+    {
+      "id": "item-200497",
+      "name": "Daily Double",
+      "description": "Two 100% beef patties, season to perfection, and melty American cheese topped off with shredded lettuce, slivered onions, mayo and one juicy slice of tomato.",
+      "category": "meal",
+      "serving_note": "per 1 Daily Double as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200497"
+      },
+      "calories": 490.0,
+      "protein_g": 22.0,
+      "carbs_g": 30.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 810.0
+    },
+    {
+      "id": "item-200500",
+      "name": "Cappuccino (Small)",
+      "description": "McCafé® Cappuccino is made with whole steamed milk, bold espresso made from sustainably sourced beans, foamed milk, and your choice of flavor. There are 120 calories in a small McDonald's Cappuccino with whole milk. Pick up your food whatever way you like whether it's the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Cappuccino (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200500"
+      },
+      "calories": 110.0,
+      "protein_g": 6.0,
+      "carbs_g": 10.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0
+    },
+    {
+      "id": "item-200501",
+      "name": "Cappuccino (Medium)",
+      "description": "McCafé® Cappuccino is made with whole or nonfat steamed milk, bold espresso made from sustainably sourced beans, foamed milk, and your choice of flavor. There are 120 calories in a small McDonald's Cappuccino with whole milk. Pick up your food whatever way you like whether it's the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Cappuccino (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200501"
+      },
+      "calories": 160.0,
+      "protein_g": 9.0,
+      "carbs_g": 14.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0
+    },
+    {
+      "id": "item-200502",
+      "name": "Cappuccino (Large)",
+      "description": "McCafé® Cappuccino is made with whole or nonfat steamed milk, bold espresso made from sustainably sourced beans, foamed milk, and your choice of flavor. There are 120 calories in a small McDonald's Cappuccino with whole milk. Pick up your food whatever way you like whether it's the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Cappuccino (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200502"
+      },
+      "calories": 200.0,
+      "protein_g": 11.0,
+      "carbs_g": 18.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0
+    },
+    {
+      "id": "item-200538",
+      "name": "Hot Chocolate (Large)",
+      "description": "Made with steamed whole or nonfat milk, rich chocolate syrup and topped with whipped cream and a chocolate drizzle.",
+      "category": "drink",
+      "serving_note": "per 1 Hot Chocolate (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200538"
+      },
+      "calories": 540.0,
+      "protein_g": 17.0,
+      "carbs_g": 73.0,
+      "fat_g": 20.0,
+      "fiber_g": null,
+      "sodium_mg": 280.0
+    },
+    {
+      "id": "item-200543",
+      "name": "Coffee (Medium)",
+      "description": "Treat yourself to a cup of our simple, satisfying McCafé® Premium Roast Coffee. Made with 100% Arabica beans, McCafé® Premium Roast Coffee is expertly roasted and freshly brewed every 30 minutes. Enjoy your hot coffee black or with your choice of sugar, sweetener, and dairy or creamer. Available in small, medium, and large. There are 0 calories in a medium coffee at McDonald's. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required",
+      "category": "drink",
+      "serving_note": "per 1 Coffee (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200543"
+      },
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-200547",
+      "name": "Mango Pineapple Smoothie (Large)",
+      "description": "The McDonald’s Mango Pineapple Smoothie recipe features the sweet combination of fruit juices and purees such as mango and pineapple, blended with creamy low fat yogurt and ice. Find all our smoothies on the McCafé® Menu in small, medium and large. There are 340 calories in a small mango pineapple smoothie at McDonald's. Get one today with Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Mango Pineapple Smoothie (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200547"
+      },
+      "calories": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 78.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "item-200548",
+      "name": "Mango Pineapple Smoothie (Medium)",
+      "description": "The McDonald’s Mango Pineapple Smoothie recipe features the sweet combination of fruit juices and purees such as mango and pineapple, blended with creamy low fat yogurt and ice. Find all our smoothies on the McCafé® Menu in small, medium and large. There are 250 calories in a small mango pineapple smoothie at McDonald's. Get one today with Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Mango Pineapple Smoothie (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200548"
+      },
+      "calories": 250.0,
+      "protein_g": 3.0,
+      "carbs_g": 57.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "item-200562",
+      "name": "Frappe Mocha (Medium)",
+      "description": "Made with rich chocolate flavor and a hint of coffee, our Mocha Frappé recipe is blended with ice and covered with whipped topping and chocolatey drizzle. Available in small, medium and large. There are 490 calories in a medium Mocha Frappé. Order a McDonald's Frappé today and pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Frappe Mocha (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200562"
+      },
+      "calories": 490.0,
+      "protein_g": 8.0,
+      "carbs_g": 72.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0
+    },
+    {
+      "id": "item-200563",
+      "name": "Frappe Mocha (Large)",
+      "description": "Made with rich chocolate flavor and a hint of coffee, our Mocha Frappé recipe is blended with ice and covered with whipped topping and chocolatey drizzle. Available in small, medium and large. There are 660 calories in a large Mocha Frappé. Order a McDonald's Frappé today and pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free large Mocha Frappé®.^ ^Refer to MyMcDonald’s Program Terms for details. Excludes delivery. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Frappe Mocha (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200563"
+      },
+      "calories": 660.0,
+      "protein_g": 11.0,
+      "carbs_g": 97.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 190.0
+    },
+    {
+      "id": "item-200564",
+      "name": "Frappe Caramel (Medium)",
+      "description": "McDonald's Caramel Frappé recipe is made with rich caramel flavor and a hint of coffee, blended with ice, and topped with whipped topping and caramel drizzle. Available in Small, Medium, and Large. There are 490 calories in a medium Caramel Frappé. Order a Caramel Frappé using Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Frappe Caramel (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200564"
+      },
+      "calories": 490.0,
+      "protein_g": 8.0,
+      "carbs_g": 70.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "item-200565",
+      "name": "Strawberry Banana Smoothie (Medium)",
+      "description": "The McCafé® Strawberry Banana Smoothie recipe features the perfect combination of fruit purees and fruit juices, such as strawberry and banana, blended with creamy low fat yogurt and ice. Our Strawberry Banana Smoothie is available in small, medium and large. There are 240 calories in a medium McDonald's strawberry banana smoothie. Order one today using Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Banana Smoothie (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200565"
+      },
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 55.0,
+      "fat_g": 1.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "item-200566",
+      "name": "Strawberry Banana Smoothie (Large)",
+      "description": "The McCafé® Strawberry Banana Smoothie recipe features the perfect combination of fruit purees and fruit juices, such as strawberry and banana, blended with creamy low fat yogurt and ice. Our Strawberry Banana Smoothie is available in small, medium and large. There are 330 calories in a large McDonald's strawberry banana smoothie. Order one today using Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Banana Smoothie (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200566"
+      },
+      "calories": 330.0,
+      "protein_g": 4.0,
+      "carbs_g": 76.0,
+      "fat_g": 1.0,
+      "fiber_g": null,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "item-200567",
+      "name": "Chicken McNuggets 10 piece",
+      "description": "Our tender, juicy Chicken McNuggets® are made with 100% white meat chicken and no artificial colors, flavors or preservatives. There are 410 calories in a 10 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Chicken McNuggets 10 piece as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200567"
+      },
+      "calories": 410.0,
+      "protein_g": 23.0,
+      "carbs_g": 26.0,
+      "fat_g": 24.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 850.0
+    },
+    {
+      "id": "item-200573",
+      "name": "Chicken McNuggets (20 piece)",
+      "description": "Our tender, juicy Chicken McNuggets® are made with 100% white meat chicken and no artificial colors, flavors or preservatives. There are 830 calories in a 20 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Chicken McNuggets (20 piece) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200573"
+      },
+      "calories": 830.0,
+      "protein_g": 46.0,
+      "carbs_g": 51.0,
+      "fat_g": 49.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1700.0
+    },
+    {
+      "id": "item-200574",
+      "name": "Chicken McNuggets® (6 piece)",
+      "description": "Our tender, juicy Chicken McNuggets® are made with 100% white meat chicken and no artificial colors, flavors or preservatives. There are 250 calories in a 6 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free 6 piece Chicken McNuggets®.^ ^Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Chicken McNuggets® (6 piece) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200574"
+      },
+      "calories": 250.0,
+      "protein_g": 14.0,
+      "carbs_g": 15.0,
+      "fat_g": 15.0,
+      "fiber_g": null,
+      "sodium_mg": 500.0
+    },
+    {
+      "id": "item-200577",
+      "name": "Chicken McNuggets (40 piece)",
+      "description": "Our tender, juicy Chicken McNuggets® are made for sharing, with 100% white meat chicken and no artificial colors, flavors or preservatives. There are 1650 calories in a 40 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Chicken McNuggets (40 piece) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200577"
+      },
+      "calories": 1650.0,
+      "protein_g": 92.0,
+      "carbs_g": 102.0,
+      "fat_g": 98.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 3400.0
+    },
+    {
+      "id": "item-200605",
+      "name": "Iced Coffee (Medium)",
+      "description": "McCafé Iced Coffee is refreshingly cool and made with 100% Arabica beans, cream and your choice of flavored coffee syrup – caramel, hazelnut, French vanilla and sugar-free French vanilla. There are 180 calories in a medium McCafé Iced Coffee with whole milk. Order your Iced Coffee at McDonald's today using Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required. Hazelnut and Sugar-Free French Vanilla available at participating restaurants",
+      "category": "drink",
+      "serving_note": "per 1 Iced Coffee (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200605"
+      },
+      "calories": 190.0,
+      "protein_g": 2.0,
+      "carbs_g": 32.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "item-200607",
+      "name": "Reduced Sugar* Low Fat Chocolate Milk Jug",
+      "description": "Enjoy McDonald's Reduced Sugar Low Fat Chocolate Milk Jug-- a good source of Vitamin A&D! Add it to a Happy Meal® or enjoy on with your meal using Mobile Order & Pay ! *25% less sugar than leading Quick Service Restaurants’ low fat chocolate milk^ ^14g of sugar vs. avg. 23g at leading Quick Service Restaurants Mobile Order & Pay at participating McDonald's. McD app download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Reduced Sugar* Low Fat Chocolate Milk Jug as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200607"
+      },
+      "calories": 130.0,
+      "protein_g": 9.0,
+      "carbs_g": 18.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0
+    },
+    {
+      "id": "item-200609",
+      "name": "Dasani Water",
+      "description": "DASANI is purified water enhanced with minerals for a pure, fresh taste.",
+      "category": "drink",
+      "serving_note": "per 1 Dasani Water as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200609"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0
+    },
+    {
+      "id": "item-200610",
+      "name": "1% Low Fat Milk Jug",
+      "description": "McDonald's Milk Jug is a low fat milk and an excellent source of calcium and a good source of vitamin A&D! Add it to a Happy Meal® as your drink option or order with your meal using Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 1% Low Fat Milk Jug as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200610"
+      },
+      "calories": 100.0,
+      "protein_g": 8.0,
+      "carbs_g": 12.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "item-200612",
+      "name": "Diet Coke (Small)",
+      "description": "Try an icy cold Diet Coke®, with zero calories. It’s a staple to any McDonald's meal available on the $1 $2 $3 Dollar Menu . Wondering why Diet Coke® at McDonald’s tastes so good? We ensure our Coke® products are fresh and always tasting the way they should by following the guidelines set by Coca-Cola®, using a ratio of syrup that allows ice to melt, and pre chilling the Coca-Cola® syrup and water before they enter our soda fountain! Diet Coke® is available in extra small, small, medium and large fountain drink sizes.",
+      "category": "drink",
+      "serving_note": "per 1 Diet Coke (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200612"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "item-200621",
+      "name": "Strawberry Shake (Medium)",
+      "description": "McDonald's Strawberry Shake is made with creamy vanilla soft serve, blended with strawberry syrup and topped with whipped topping. There are 530 calories in a small Strawberry Shake at McDonald's. Available in small, medium, and large. Get your Strawberry Shake through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Shake (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200621"
+      },
+      "calories": 600.0,
+      "protein_g": 13.0,
+      "carbs_g": 99.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "item-200622",
+      "name": "Strawberry Shake (Large)",
+      "description": "McDonald's Strawberry Shake is made with creamy vanilla soft serve, blended with strawberry syrup and topped with whipped topping. There are 530 calories in a small Strawberry Shake at McDonald's. Available in small, medium, and large. Get your Strawberry Shake through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Shake (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200622"
+      },
+      "calories": 850.0,
+      "protein_g": 19.0,
+      "carbs_g": 143.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 310.0
+    },
+    {
+      "id": "item-200623",
+      "name": "Vanilla Shake (Medium)",
+      "description": "McDonald's vanilla shake is made with our creamy vanilla soft serve and topped with whipped topping for a cool, tasty treat. Available in small, medium, and large. There are 610 calories in a medium vanilla shake at McDonald's. Check out all of McDonald’s Shakes and Desserts . Get a vanilla shake delivered with McDelivery® or get it with curbside pickup using Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Vanilla Shake (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200623"
+      },
+      "calories": 570.0,
+      "protein_g": 12.0,
+      "carbs_g": 97.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 260.0
+    },
+    {
+      "id": "item-200624",
+      "name": "Vanilla Shake (Large)",
+      "description": "McDonald's vanilla shake is made with our creamy vanilla soft serve and topped with whipped topping for a cool, tasty treat. Available in small, medium, and large. There are 820 calories in a large vanilla shake at McDonald's. Check out all of McDonald’s Shakes and Desserts . Get a vanilla shake delivered with McDelivery® or get it with curbside pickup using Mobile Order & Pay !",
+      "category": "drink",
+      "serving_note": "per 1 Vanilla Shake (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200624"
+      },
+      "calories": 780.0,
+      "protein_g": 17.0,
+      "carbs_g": 133.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 360.0
+    },
+    {
+      "id": "item-200626",
+      "name": "Unsweetened Iced Tea (Small)",
+      "description": "McDonald’s Iced Tea is made with a brisk blend of orange pekoe black tea, freshly brewed and served ice cold. McDonald’s Unsweet Iced Tea is available in extra small, small, medium and large on the McDonald’s drinks menu .",
+      "category": "drink",
+      "serving_note": "per 1 Unsweetened Iced Tea (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200626"
+      },
+      "calories": 0.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-200630",
+      "name": "Sweet Tea (Medium)",
+      "description": "McDonald’s Sweet Tea is made from a briskly refreshing blend of orange pekoe and pekoe cut black tea, sweetened to perfection. Sweet Tea from McDonald’s is part of the Beverages Menu . Available in extra small, small, medium and large.",
+      "category": "drink",
+      "serving_note": "per 1 Sweet Tea (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200630"
+      },
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "item-200640",
+      "name": "Diet Coke (Extra Small)",
+      "description": "Try an icy cold Diet Coke®, with zero calories. It’s a staple to any McDonald's meal available on the $1 $2 $3 Dollar Menu . Wondering why Diet Coke® at McDonald’s tastes so good? We ensure our Coke® products are fresh and always tasting the way they should by following the guidelines set by Coca-Cola®, using a ratio of syrup that allows ice to melt, and pre chilling the Coca-Cola® syrup and water before they enter our soda fountain! Diet Coke® is available in extra small, small, medium and large fountain drink sizes.",
+      "category": "drink",
+      "serving_note": "per 1 Diet Coke (Extra Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200640"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-200641",
+      "name": "Diet Coke (Large)",
+      "description": "Try an icy cold Diet Coke®, with zero calories. It’s a staple to any McDonald's meal available on the $1 $2 $3 Dollar Menu . Wondering why Diet Coke® at McDonald’s tastes so good? We ensure our Coke® products are fresh and always tasting the way they should by following the guidelines set by Coca-Cola®, using a ratio of syrup that allows ice to melt, and pre chilling the Coca-Cola® syrup and water before they enter our soda fountain! Diet Coke® is available in extra small, small, medium and large fountain drink sizes.",
+      "category": "drink",
+      "serving_note": "per 1 Diet Coke (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200641"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "item-200642",
+      "name": "Diet Coke (Medium)",
+      "description": "Try an icy cold Diet Coke®, with zero calories. It’s a staple to any McDonald's meal available on the $1 $2 $3 Dollar Menu . Wondering why Diet Coke® at McDonald’s tastes so good? We ensure our Coke® products are fresh and always tasting the way they should by following the guidelines set by Coca-Cola®, using a ratio of syrup that allows ice to melt, and pre chilling the Coca-Cola® syrup and water before they enter our soda fountain! Diet Coke® is available in extra small, small, medium and large fountain drink sizes.",
+      "category": "drink",
+      "serving_note": "per 1 Diet Coke (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200642"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-200652",
+      "name": "Iced Mocha (Large)",
+      "description": "Made from 100% Rainforest Alliance Certified espresso, whole or nonfat milk and chocolate syrup, topped with whipped cream and a chocolate drizzle.",
+      "category": "drink",
+      "serving_note": "per 1 Iced Mocha (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200652"
+      },
+      "calories": 440.0,
+      "protein_g": 11.0,
+      "carbs_g": 67.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 190.0
+    },
+    {
+      "id": "item-200660",
+      "name": "Unsweetened Iced Tea (Extra Small)",
+      "description": "McDonald’s Iced Tea is made with a brisk blend of orange pekoe black tea, freshly brewed and served ice cold. McDonald’s Unsweet Iced Tea is available in extra small, small, medium and large on the McDonald’s drinks menu .",
+      "category": "drink",
+      "serving_note": "per 1 Unsweetened Iced Tea (Extra Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200660"
+      },
+      "calories": 0.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-200661",
+      "name": "Unsweetened Iced Tea (Large)",
+      "description": "McDonald’s Iced Tea is made with a brisk blend of orange pekoe black tea, freshly brewed and served ice cold. McDonald’s Unsweet Iced Tea is available in extra small, small, medium and large on the McDonald’s drinks menu .",
+      "category": "drink",
+      "serving_note": "per 1 Unsweetened Iced Tea (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200661"
+      },
+      "calories": 0.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "item-200662",
+      "name": "Unsweetened Iced Tea (Medium)",
+      "description": "McDonald’s Iced Tea is made with a brisk blend of orange pekoe black tea, freshly brewed and served ice cold. McDonald’s Unsweet Iced Tea is available in extra small, small, medium and large on the McDonald’s drinks menu .",
+      "category": "drink",
+      "serving_note": "per 1 Unsweetened Iced Tea (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200662"
+      },
+      "calories": 0.0,
+      "protein_g": 1.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-200663",
+      "name": "Minute Maid Orange Juice (Large)",
+      "description": "100% orange juice, packed with Vitamin C. Available in Small, Medium and Large.",
+      "category": "drink",
+      "serving_note": "per 1 Minute Maid Orange Juice (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200663"
+      },
+      "calories": 270.0,
+      "protein_g": 4.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "item-200675",
+      "name": "Sweet Tea (Extra Small)",
+      "description": "McDonald’s Sweet Tea is made from a briskly refreshing blend of orange pekoe and pekoe cut black tea, sweetened to perfection. Sweet Tea from McDonald’s is part of the Beverages Menu . Available in extra small, small, medium and large.",
+      "category": "drink",
+      "serving_note": "per 1 Sweet Tea (Extra Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200675"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 18.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-200676",
+      "name": "Sweet Tea (Large)",
+      "description": "McDonald’s Sweet Tea is made from a briskly refreshing blend of orange pekoe and pekoe cut black tea, sweetened to perfection. Sweet Tea from McDonald’s is part of the Beverages Menu . Available in extra small, small, medium and large.",
+      "category": "drink",
+      "serving_note": "per 1 Sweet Tea (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200676"
+      },
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "item-200681",
+      "name": "Mocha (Large)",
+      "description": "Our McCafé® Mocha is made with espresso beans that are sustainably sourced from Rainforest Alliance Certified™ farms, steamed whole or nonfat milk, chocolate syrup, and topped with whipped topping and chocolate drizzle. Available in Small, Medium, and Large.",
+      "category": "drink",
+      "serving_note": "per 1 Mocha (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200681"
+      },
+      "calories": 460.0,
+      "protein_g": 14.0,
+      "carbs_g": 68.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "item-200692",
+      "name": "Chicken McNuggets® (4 piece)",
+      "description": "Our tender, juicy Chicken McNuggets® are made with 100% white meat chicken and no artificial colors, flavors or preservatives. There are 170 calories in a 4 piece Chicken McNuggets®. Pair them with your favorite dipping sauces when you Mobile Order & Pay ! Mobile Order & Pay at participating McDonald's. McD App download and registration required.",
+      "category": "meal",
+      "serving_note": "per 1 Chicken McNuggets® (4 piece) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200692"
+      },
+      "calories": 170.0,
+      "protein_g": 9.0,
+      "carbs_g": 10.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0
+    },
+    {
+      "id": "item-200695",
+      "name": "Latte (Medium)",
+      "description": "Warm up with a rich Latte, made from Rainforest Alliance Certified™ espresso. Customize the Latte that’s made fresh just for you with steamed whole or nonfat milk, mixed with your choice of flavor at certain locations. Take a break with a creamy, cozy McCafé treat with your favorite flavor, including a rich vanilla latte, a toasty caramel latte, or a sweet, earthy hazelnut latte. Available in Small, Medium, and Large.",
+      "category": "drink",
+      "serving_note": "per 1 Latte (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200695"
+      },
+      "calories": 190.0,
+      "protein_g": 10.0,
+      "carbs_g": 17.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0
+    },
+    {
+      "id": "item-200765",
+      "name": "Quarter Pounder® with Cheese Deluxe",
+      "description": "McDonald's Quarter Pounder® with Cheese Deluxe is a fresh take on a Quarter Pounder® classic burger. Crisp shredded lettuce and three Roma tomato slices top a ¼ lb.* of 100% McDonald’s fresh beef that’s hot, deliciously juicy and cooked when you order. Seasoned with just a pinch of salt and pepper and sizzled on our flat iron grill. Layered with two slices of melty American cheese, creamy mayo, slivered onions and tangy pickles on a soft, fluffy sesame seed hamburger bun. There are 630 calories in a Quarter Pounder with Cheese Deluxe. Grab your QPC Deluxe through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. *Weight before cooking 4 oz. At participating McDonald's. Fresh Beef available at most restaurants in contiguous US. Not available in Alaska, Hawaii, and US Territories.",
+      "category": "meal",
+      "serving_note": "per 1 Quarter Pounder® with Cheese Deluxe as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200765"
+      },
+      "calories": 630.0,
+      "protein_g": 30.0,
+      "carbs_g": 44.0,
+      "fat_g": 37.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1210.0
+    },
+    {
+      "id": "item-200863",
+      "name": "Dr Pepper (Medium) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dr Pepper (Medium) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200863"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 68.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0
+    },
+    {
+      "id": "item-200876",
+      "name": "Egg and Cheese Bagel",
+      "description": "Egg and Cheese Bagel",
+      "category": "meal",
+      "serving_note": "per 1 Egg and Cheese Bagel as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200876"
+      },
+      "calories": 520.0,
+      "protein_g": 21.0,
+      "carbs_g": 55.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1100.0
+    },
+    {
+      "id": "item-200934",
+      "name": "Dr Pepper (Large) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dr Pepper (Large) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200934"
+      },
+      "calories": 360.0,
+      "protein_g": 0.0,
+      "carbs_g": 98.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0
+    },
+    {
+      "id": "item-200950",
+      "name": "Sprite (Large) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Sprite (Large) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200950"
+      },
+      "calories": 350.0,
+      "protein_g": 0.0,
+      "carbs_g": 91.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0
+    },
+    {
+      "id": "item-200982",
+      "name": "Minute Maid Orange Juice (Small)",
+      "description": "100% orange juice, packed with Vitamin C. Available in Small, Medium and Large.",
+      "category": "drink",
+      "serving_note": "per 1 Minute Maid Orange Juice (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200982"
+      },
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "item-201030",
+      "name": "Sausage Egg and Cheese Bagel",
+      "description": "Sausage Egg and Cheese Bagel",
+      "category": "meal",
+      "serving_note": "per 1 Sausage Egg and Cheese Bagel as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201030"
+      },
+      "calories": 710.0,
+      "protein_g": 27.0,
+      "carbs_g": 56.0,
+      "fat_g": 42.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1380.0
+    },
+    {
+      "id": "item-201191",
+      "name": "Coca-Cola (Medium) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Coca-Cola (Medium) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201191"
+      },
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 70.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "item-201201",
+      "name": "Dr Pepper (Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dr Pepper (Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201201"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 52.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "item-201228",
+      "name": "Sprite (Medium) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Sprite (Medium) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201228"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 64.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 120.0
+    },
+    {
+      "id": "item-201234",
+      "name": "Medium French Fries",
+      "description": "McDonald's World Famous Fries® are made with premium potatoes such as the Russet Burbank and the Shepody. With 0g of trans fat per labeled serving, these epic fries are crispy and golden on the outside and fluffy on the inside. Best of all, you can get medium Fries for free every Friday with any $1 purchase, exclusively in the McDonald’s App . Grab our World Famous Fries® and pair with one of our classic McDonald’s Burgers today! There are 320 calories in a medium McDonald's fries. Order your fries today with McDelivery® or get them with curbside pickup using Mobile Order & Pay ! Download the McDonald’s app and earn points on every order with MyMcDonald's Rewards to redeem for a free World Famous Fries®.^ ^Refer to MyMcDonald’s Program Terms for details. Excludes delivery. McD app download and registration required. Offer valid 1x use each Friday thru 3/31/22 with minimum purchase of $1 (excluding tax). McD App download and registration required. Offer only available through Mobile Order & Pay. Mobile Order & Pay at participating McDonald's. © 2022 McDonald's",
+      "category": "side",
+      "serving_note": "per 1 Medium French Fries as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201234"
+      },
+      "calories": 320.0,
+      "protein_g": 5.0,
+      "carbs_g": 43.0,
+      "fat_g": 15.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 260.0
+    },
+    {
+      "id": "item-201248",
+      "name": "Minute Maid Orange Juice (Medium)",
+      "description": "100% orange juice, packed with Vitamin C. Available in Small, Medium and Large.",
+      "category": "drink",
+      "serving_note": "per 1 Minute Maid Orange Juice (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201248"
+      },
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "item-201256",
+      "name": "Egg and Cheese Biscuit",
+      "description": "Egg and Cheese Biscuit",
+      "category": "meal",
+      "serving_note": "per 1 Egg and Cheese Biscuit as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201256"
+      },
+      "calories": 390.0,
+      "protein_g": 13.0,
+      "carbs_g": 39.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1110.0
+    },
+    {
+      "id": "item-201298",
+      "name": "Coca-Cola (Large) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Coca-Cola (Large) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201298"
+      },
+      "calories": 380.0,
+      "protein_g": 0.0,
+      "carbs_g": 100.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "item-201306",
+      "name": "Bagel Plain",
+      "description": "Bagel Plain",
+      "category": "side",
+      "serving_note": "per 1 Bagel Plain as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201306"
+      },
+      "calories": 270.0,
+      "protein_g": 9.0,
+      "carbs_g": 51.0,
+      "fat_g": 3.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 550.0
+    },
+    {
+      "id": "item-201571",
+      "name": "Iced Mocha (Medium)",
+      "description": "Iced Mocha (Medium)",
+      "category": "drink",
+      "serving_note": "per 1 Iced Mocha (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201571"
+      },
+      "calories": 320.0,
+      "protein_g": 8.0,
+      "carbs_g": 47.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 135.0
+    },
+    {
+      "id": "item-201597",
+      "name": "Coca-Cola (Extra Small) No Ice",
+      "description": "Coca-Cola (Extra Small) No Ice",
+      "category": "drink",
+      "serving_note": "per 1 Coca-Cola (Extra Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201597"
+      },
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-201625",
+      "name": "Sprite (Extra Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Sprite (Extra Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201625"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "item-201651",
+      "name": "Dr Pepper (Extra Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dr Pepper (Extra Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201651"
+      },
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "item-201677",
+      "name": "Coca-Cola (Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Coca-Cola (Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201677"
+      },
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "item-201711",
+      "name": "Sprite (Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Sprite (Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201711"
+      },
+      "calories": 190.0,
+      "protein_g": 0.0,
+      "carbs_g": 49.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "item-201970",
+      "name": "Frozen Fanta Blue Raspberry (Medium)",
+      "description": "Sweet, fruity raspberry flavor with a hint of tartness for a super cool refreshing treat that’s perfect for the summer. Pair it with our World Famous Fries® for a satisfying snack, or make it a meal with your favorite McDonald’s Burgers . Available in small, medium and large sizes. There are 130 calories in a medium Fanta Blue Raspberry. Order one from our full menu in the app using contactless Mobile Order & Pay with Curbside pickup. At participating McDonald’s for a limited time.",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Fanta Blue Raspberry (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201970"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "item-201971",
+      "name": "Frozen Fanta Blue Raspberry (Small)",
+      "description": "Sweet, fruity raspberry flavor with a hint of tartness for a super cool refreshing treat that’s perfect for the summer. Pair it with our World Famous Fries® for a satisfying snack, or make it a meal with your favorite McDonald’s Burgers . Available in small, medium and large sizes. There are 90 calories in a small Fanta Blue Raspberry. Order one from our full menu in the app using contactless Mobile Order & Pay with Curbside pickup. At participating McDonald’s for a limited time.",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Fanta Blue Raspberry (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201971"
+      },
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "item-201972",
+      "name": "Frozen Fanta Blue Raspberry (Large)",
+      "description": "Sweet, fruity raspberry flavor with a hint of tartness for a super cool refreshing treat that’s perfect for the summer. Pair it with our World Famous Fries® for a satisfying snack, or make it a meal with your favorite McDonald’s Burgers . Available in small, medium and large sizes. There are 170 calories in a large Fanta Blue Raspberry. Order one from our full menu in the app using contactless Mobile Order & Pay with Curbside pickup. At participating McDonald’s for a limited time.",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Fanta Blue Raspberry (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=201972"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "item-202115",
+      "name": "Hot Tea (Large)",
+      "description": "McDonald's Hot Tea has a robust black tea flavor with hints of floral and orange notes. There are 15 calories in a large McDonald's Hot Tea. Enjoy a McDonald's hot tea when you order with Mobile Order & Pay ! Pair a hot tea with any of our McCafé® Bakery items for the perfect start to your morning.",
+      "category": "drink",
+      "serving_note": "per 1 Hot Tea (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202115"
+      },
+      "calories": 15.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-202116",
+      "name": "Hot Tea (Small )",
+      "description": "McDonald's Hot Tea has a robust black tea flavor with hints of floral and orange notes. There are 10 calories in a small McDonald's Hot Tea. Enjoy a McDonald's hot tea when you order with Mobile Order & Pay ! Pair a hot tea with any of our McCafé® Bakery items for the perfect start to your morning.",
+      "category": "drink",
+      "serving_note": "per 1 Hot Tea (Small ) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202116"
+      },
+      "calories": 10.0,
+      "protein_g": 2.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "item-202140",
+      "name": "Sweet Tea (Small) No Ice",
+      "description": "Sweet Tea (Small) No Ice",
+      "category": "drink",
+      "serving_note": "per 1 Sweet Tea (Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202140"
+      },
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-202274",
+      "name": "Frozen Coca Cola Classic (Small)",
+      "description": "The great taste of Coca-Cola® in a refreshing frozen drink. It’s the perfect partner for your favorite McDonald’s Burgers and World Famous Fries® . Available in small, medium and large sizes. There are 100 calories in a small frozen Coke. Order one from our full menu in the app using contactless Mobile Order & Pay with Curbside pickup. At participating McDonald’s for a limited time.",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Coca Cola Classic (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202274"
+      },
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 16.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "item-202279",
+      "name": "Frozen Coca Cola Classic (Medium)",
+      "description": "The great taste of Coca-Cola® in a refreshing frozen drink. It’s the perfect partner for your favorite McDonald’s Burgers and World Famous Fries® . Available in small, medium and large sizes. There are 130 calories in a medium frozen Coke. Order one from our full menu in the app using contactless Mobile Order & Pay with Curbside pickup. At participating McDonald’s for a limited time.",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Coca Cola Classic (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202279"
+      },
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 21.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0
+    },
+    {
+      "id": "item-202282",
+      "name": "Frozen Coca Cola Classic (Large)",
+      "description": "The great taste of Coca-Cola® in a refreshing frozen drink. It’s the perfect partner for your favorite McDonald’s Burgers and World Famous Fries® . Available in small, medium and large sizes. There are 180 calories in a large frozen Coke. Order one from our full menu in the app using contactless Mobile Order & Pay with Curbside pickup. At participating McDonald’s for a limited time.",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Coca Cola Classic (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202282"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0
+    },
+    {
+      "id": "item-202371",
+      "name": "Americano Coffee (Large)",
+      "description": "A simple, satisfying Americano made with hot water poured over our Rainforest Alliance Certified™ espresso.",
+      "category": "drink",
+      "serving_note": "per 1 Americano Coffee (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202371"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-202381",
+      "name": "Espresso Americano Coffee (Small)",
+      "description": "A simple, satisfying Americano made with hot water poured over our Rainforest Alliance Certified™ espresso.",
+      "category": "drink",
+      "serving_note": "per 1 Espresso Americano Coffee (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202381"
+      },
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-202383",
+      "name": "Espresso Americano Coffee (Medium)",
+      "description": "A simple, satisfying Americano made with hot water poured over our Rainforest Alliance Certified™ espresso.",
+      "category": "drink",
+      "serving_note": "per 1 Espresso Americano Coffee (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202383"
+      },
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-202764",
+      "name": "Hot Tea (Medium)",
+      "description": "McDonald's Hot Tea has a robust black tea flavor with hints of floral and orange notes. There are 10 calories in a medium McDonald's Hot Tea. Enjoy a McDonald's hot tea when you order with Mobile Order & Pay ! Pair a hot tea with any of our McCafé® Bakery items for the perfect start to your morning.",
+      "category": "drink",
+      "serving_note": "per 1 Hot Tea (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=202764"
+      },
+      "calories": 10.0,
+      "protein_g": 3.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "item-203082",
+      "name": "Honest Kids Appley Ever After (Box 6 fl oz Drink Box)",
+      "description": "Honest Kids Juice drink is sweetened only with fruit juice, and it’s an organic drink perfect for a kids meal! If you’re looking for kids organic juice drink options, add the Honest Kids® Appley Ever After® Organic Juice Drink to any Happy Meal® ! Honest Kids and Appley Ever After are registered trademarks of Honest Tea, Inc.",
+      "category": "drink",
+      "serving_note": "per 1 Honest Kids Appley Ever After (Box 6 fl oz Drink Box) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203082"
+      },
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-203087",
+      "name": "Caramel Macchiato (Small)",
+      "description": "Our McCafé® Caramel Macchiato recipe features rich, dark-roast espresso served with steamed whole milk, mixed with sweet caramel syrup, and topped with ribbons of buttery caramel. Available in small, medium and large. There are 260 calories in a small Caramel Macchiato with whole milk from McDonald's. Try it today when you order with Mobile Order & Pay or get it delivered with McDelivery® !",
+      "category": "drink",
+      "serving_note": "per 1 Caramel Macchiato (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203087"
+      },
+      "calories": 260.0,
+      "protein_g": 9.0,
+      "carbs_g": 41.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 320.0
+    },
+    {
+      "id": "item-203088",
+      "name": "Caramel Macchiato (Large)",
+      "description": "Our McCafé® Caramel Macchiato recipe features rich, dark-roast espresso served with steamed whole or nonfat milk, mixed with sweet caramel syrup, and topped with ribbons of buttery caramel. Available in small, medium and large. There are 260 calories in a small Caramel Macchiato with whole milk from McDonald's. Try it today when you order with Mobile Order & Pay or get it delivered with McDelivery® !",
+      "category": "drink",
+      "serving_note": "per 1 Caramel Macchiato (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203088"
+      },
+      "calories": 400.0,
+      "protein_g": 14.0,
+      "carbs_g": 62.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 490.0
+    },
+    {
+      "id": "item-203098",
+      "name": "Iced Caramel Macchiato (Medium)",
+      "description": "The Iced Caramel Macchiato is made with our rich, dark-roasted roasted McCafe espresso and is served with your choice or whole or nonfat milk, mixed with sweet caramel syrup. Then, it's topped off with buttery caramel drizzle. There are 210 calories in a McDonald's Iced Caramel Macchiato. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Macchiato (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203098"
+      },
+      "calories": 240.0,
+      "protein_g": 8.0,
+      "carbs_g": 41.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 320.0
+    },
+    {
+      "id": "item-203102",
+      "name": "Caramel Macchiato (Medium)",
+      "description": "Our McCafé® Caramel Macchiato recipe features rich, dark-roast espresso served with steamed whole or nonfat milk, mixed with sweet caramel syrup, and topped with ribbons of buttery caramel. Available in small, medium and large. There are 260 calories in a small Caramel Macchiato with whole milk from McDonald's. Try it today when you order with Mobile Order & Pay or get it delivered with McDelivery® !",
+      "category": "drink",
+      "serving_note": "per 1 Caramel Macchiato (Medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203102"
+      },
+      "calories": 320.0,
+      "protein_g": 11.0,
+      "carbs_g": 51.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0
+    },
+    {
+      "id": "item-203109",
+      "name": "Iced Caramel Macchiato (Large)",
+      "description": "The Iced Caramel Macchiato is made with our rich, dark-roasted roasted McCafe espresso and is served with your choice or whole or nonfat milk, mixed with sweet caramel syrup. Then, it's topped off with buttery caramel drizzle. There are 210 calories in a McDonald's Iced Caramel Macchiato. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Macchiato (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203109"
+      },
+      "calories": 360.0,
+      "protein_g": 12.0,
+      "carbs_g": 59.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 480.0
+    },
+    {
+      "id": "item-203275",
+      "name": "Iced Caramel Macchiato (Small)",
+      "description": "The Iced Caramel Macchiato is made with our rich, dark-roasted roasted McCafe espresso and is served with whole milk, mixed with sweet caramel syrup. Then, it's topped off with buttery caramel drizzle. There are 210 calories in a McDonald's Iced Caramel Macchiato. Pick up on your terms through the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required.",
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Macchiato (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203275"
+      },
+      "calories": 200.0,
+      "protein_g": 7.0,
+      "carbs_g": 33.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 250.0
+    },
+    {
+      "id": "item-203410",
+      "name": "Bacon Quarter Pounder with Cheese",
+      "description": "Each Quarter Pounder® with Cheese Bacon burger features thick-cut applewood smoked bacon atop a ¼ lb.* of 100% McDonald's fresh beef that's cooked when you order. It's a hot, deliciously juicy bacon cheeseburger, seasoned with just a pinch of salt and pepper and sizzled on our flat iron grill. Layered with two slices of melty American cheese, slivered onions and tangy pickles on a soft, fluffy sesame seed hamburger bun. There are 630 calories in a Bacon Quarter Pounder with Cheese. Pick up your Bacon QPC in the drive thru or with McDonald's curbside pickup when you Mobile Order & Pay ! McDonald's App download and registration required. *Weight before cooking 4 oz. Fresh Beef available at most restaurants in contiguous US. Not available in Alaska, Hawaii, and US Territories. At participating McDonald's for a limited time only",
+      "category": "meal",
+      "serving_note": "per 1 Bacon Quarter Pounder with Cheese as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203410"
+      },
+      "calories": 630.0,
+      "protein_g": 36.0,
+      "carbs_g": 43.0,
+      "fat_g": 35.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1470.0
+    },
+    {
+      "id": "item-203549",
+      "name": "Hi-C Orange (Extra Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Hi-C Orange (Extra Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203549"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 42.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-203554",
+      "name": "Hi-C Orange (Large) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Hi-C Orange (Large) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203554"
+      },
+      "calories": 410.0,
+      "protein_g": 0.0,
+      "carbs_g": 104.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 100.0
+    },
+    {
+      "id": "item-203557",
+      "name": "Hi-C Orange (Small) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Hi-C Orange (Small) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203557"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 56.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "item-203568",
+      "name": "Hi-C Orange (Medium) No Ice",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Hi-C Orange (Medium) No Ice as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203568"
+      },
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "item-203745",
+      "name": "Deluxe McCrispy®",
+      "description": "Get a little extra with toppings. Go deluxe with shredded lettuce, Roma tomatoes and mayo to take crispy, juicy and tender to the next level. The Deluxe Crispy Chicken sandwich has 530 calories. Check out all the Crispy Chicken Sandwiches . Order one today in the McDonald’s app .",
+      "category": "meal",
+      "serving_note": "per 1 Deluxe McCrispy® as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203745"
+      },
+      "calories": 530.0,
+      "protein_g": 27.0,
+      "carbs_g": 48.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1050.0
+    },
+    {
+      "id": "item-203747",
+      "name": "McCrispy®",
+      "description": "McDonald's Crispy Chicken Sandwich is a southern style fried chicken sandwich that's crispy, juicy and tender perfection. It’s topped with crinkle-cut pickles and served on a toasted, buttered potato roll. The Crispy Chicken sandwich has 470 calories. Check out all the Crispy Chicken Sandwiches . Order one today in the McDonald’s app .",
+      "category": "meal",
+      "serving_note": "per 1 McCrispy® as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203747"
+      },
+      "calories": 470.0,
+      "protein_g": 26.0,
+      "carbs_g": 46.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1140.0
+    },
+    {
+      "id": "item-203873",
+      "name": "Spicy Deluxe McCrispy®",
+      "description": "The Spicy Deluxe Crispy Chicken is big on everything, including heat. Our southern-style fried chicken fillet on a potato roll, topped with shredded lettuce, Roma tomatoes and Spicy Pepper Sauce kicks crispy, juicy and tender up to the highest level. The Spicy Deluxe Crispy Chicken sandwich has 540 calories. Check out all the Crispy Chicken Sandwiches . Order one today in the McDonald’s app .",
+      "category": "meal",
+      "serving_note": "per 1 Spicy Deluxe McCrispy® as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203873"
+      },
+      "calories": 530.0,
+      "protein_g": 27.0,
+      "carbs_g": 49.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1200.0
+    },
+    {
+      "id": "item-203882",
+      "name": "Iced Coffee (Large)",
+      "description": "Iced Coffee (Large)",
+      "category": "drink",
+      "serving_note": "per 1 Iced Coffee (Large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203882"
+      },
+      "calories": 270.0,
+      "protein_g": 2.0,
+      "carbs_g": 47.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "item-203885",
+      "name": "Iced Coffee (Small)",
+      "description": "Iced Coffee (Small)",
+      "category": "drink",
+      "serving_note": "per 1 Iced Coffee (Small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203885"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 25.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "item-203901",
+      "name": "Spicy McCrispy®",
+      "description": "With our Spicy Pepper Sauce topping the southern style fried chicken fillet on a toasted potato roll, this sandwich was made for those who like it crispy, juicy, tender and hot. The Spicy Crispy Chicken sandwich has 530 calories. Check out all the Crispy Chicken Sandwiches . Order one today in the McDonald’s app .",
+      "category": "meal",
+      "serving_note": "per 1 Spicy McCrispy® as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203901"
+      },
+      "calories": 530.0,
+      "protein_g": 27.0,
+      "carbs_g": 48.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1320.0
+    },
+    {
+      "id": "item-203957",
+      "name": "McDonald's Lemonade (16 Oz.)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 McDonald's Lemonade (16 Oz.) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203957"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0
+    },
+    {
+      "id": "item-203958",
+      "name": "McDonald's Lemonade (22 Oz.)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 McDonald's Lemonade (22 Oz.) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203958"
+      },
+      "calories": 190.0,
+      "protein_g": 1.0,
+      "carbs_g": 48.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0
+    },
+    {
+      "id": "item-203962",
+      "name": "McDonald's Lemonade (30 Oz.)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 McDonald's Lemonade (30 Oz.) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=203962"
+      },
+      "calories": 270.0,
+      "protein_g": 1.0,
+      "carbs_g": 68.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0
+    },
+    {
+      "id": "item-204157",
+      "name": "Frozen Hawaiian Punch (medium)",
+      "description": "frozen-hawaiian-punch-medium",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Hawaiian Punch (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204157"
+      },
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0
+    },
+    {
+      "id": "item-204158",
+      "name": "Frozen Hawaiian Punch (large)",
+      "description": "frozen-hawaiian-punch-large",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Hawaiian Punch (large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204158"
+      },
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 28.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "item-204159",
+      "name": "Frozen Hawaiian Punch (small)",
+      "description": "Frozen Hawaiian Punch (Small)",
+      "category": "drink",
+      "serving_note": "per 1 Frozen Hawaiian Punch (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204159"
+      },
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0
+    },
+    {
+      "id": "item-204173",
+      "name": "Latte Iced Caramel (large)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte Iced Caramel (large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204173"
+      },
+      "calories": 330.0,
+      "protein_g": 11.0,
+      "carbs_g": 54.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 460.0
+    },
+    {
+      "id": "item-204178",
+      "name": "Hot Chocolate (medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Hot Chocolate (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204178"
+      },
+      "calories": 440.0,
+      "protein_g": 14.0,
+      "carbs_g": 62.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "item-204183",
+      "name": "Latte Caramel (large)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte Caramel (large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204183"
+      },
+      "calories": 390.0,
+      "protein_g": 14.0,
+      "carbs_g": 60.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 490.0
+    },
+    {
+      "id": "item-204184",
+      "name": "Latte French Vanilla (large)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte French Vanilla (large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204184"
+      },
+      "calories": 400.0,
+      "protein_g": 12.0,
+      "carbs_g": 63.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0
+    },
+    {
+      "id": "item-204189",
+      "name": "Latte Iced Caramel (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte Iced Caramel (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204189"
+      },
+      "calories": 180.0,
+      "protein_g": 6.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0
+    },
+    {
+      "id": "item-204191",
+      "name": "Latte Caramel (medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte Caramel (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204191"
+      },
+      "calories": 320.0,
+      "protein_g": 11.0,
+      "carbs_g": 49.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0
+    },
+    {
+      "id": "item-204193",
+      "name": "Mocha Iced (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Mocha Iced (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204193"
+      },
+      "calories": 270.0,
+      "protein_g": 7.0,
+      "carbs_g": 39.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 115.0
+    },
+    {
+      "id": "item-204195",
+      "name": "Mocha (medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Mocha (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204195"
+      },
+      "calories": 370.0,
+      "protein_g": 10.0,
+      "carbs_g": 56.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 160.0
+    },
+    {
+      "id": "item-204196",
+      "name": "Latte (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204196"
+      },
+      "calories": 140.0,
+      "protein_g": 8.0,
+      "carbs_g": 13.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "item-204199",
+      "name": "Iced Caramel Coffee (large)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Coffee (large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204199"
+      },
+      "calories": 280.0,
+      "protein_g": 5.0,
+      "carbs_g": 46.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 410.0
+    },
+    {
+      "id": "item-204201",
+      "name": "Mocha (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Mocha (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204201"
+      },
+      "calories": 290.0,
+      "protein_g": 8.0,
+      "carbs_g": 45.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 125.0
+    },
+    {
+      "id": "item-204203",
+      "name": "Iced French Vanilla Coffee (medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced French Vanilla Coffee (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204203"
+      },
+      "calories": 200.0,
+      "protein_g": 2.0,
+      "carbs_g": 33.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0
+    },
+    {
+      "id": "item-204205",
+      "name": "Iced Caramel Coffee (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Coffee (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204205"
+      },
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 23.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 210.0
+    },
+    {
+      "id": "item-204206",
+      "name": "Hot Chocolate (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Hot Chocolate (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204206"
+      },
+      "calories": 360.0,
+      "protein_g": 11.0,
+      "carbs_g": 51.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 170.0
+    },
+    {
+      "id": "item-204208",
+      "name": "Latte Caramel (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte Caramel (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204208"
+      },
+      "calories": 250.0,
+      "protein_g": 9.0,
+      "carbs_g": 39.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 320.0
+    },
+    {
+      "id": "item-204209",
+      "name": "Latte French Vanilla (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte French Vanilla (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204209"
+      },
+      "calories": 250.0,
+      "protein_g": 8.0,
+      "carbs_g": 41.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "item-204210",
+      "name": "Iced Caramel Coffee (medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced Caramel Coffee (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204210"
+      },
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 31.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 280.0
+    },
+    {
+      "id": "item-204216",
+      "name": "Latte French Vanilla (medium)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte French Vanilla (medium) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204216"
+      },
+      "calories": 320.0,
+      "protein_g": 10.0,
+      "carbs_g": 52.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0
+    },
+    {
+      "id": "item-204217",
+      "name": "Iced French Vanilla Coffee (large)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced French Vanilla Coffee (large) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204217"
+      },
+      "calories": 280.0,
+      "protein_g": 2.0,
+      "carbs_g": 49.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "item-204219",
+      "name": "Iced French Vanilla Coffee (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Iced French Vanilla Coffee (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204219"
+      },
+      "calories": 150.0,
+      "protein_g": 1.0,
+      "carbs_g": 25.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0
+    },
+    {
+      "id": "item-204221",
+      "name": "Latte Iced (small)",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Latte Iced (small) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204221"
+      },
+      "calories": 80.0,
+      "protein_g": 5.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "item-204314",
+      "name": "McFlurry with M&M'S Chocolate Candies (mini)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 1 McFlurry with M&M'S Chocolate Candies (mini) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204314"
+      },
+      "calories": 340.0,
+      "protein_g": 7.0,
+      "carbs_g": 51.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 95.0
+    },
+    {
+      "id": "item-204315",
+      "name": "McFlurry with Oreo Cookies (mini)",
+      "description": null,
+      "category": "side",
+      "serving_note": "per 1 McFlurry with Oreo Cookies (mini) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204315"
+      },
+      "calories": 240.0,
+      "protein_g": 5.0,
+      "carbs_g": 38.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0
+    },
+    {
+      "id": "item-204385",
+      "name": "Mccrispy Strips (4 Piece)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Mccrispy Strips (4 Piece) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204385"
+      },
+      "calories": 530.0,
+      "protein_g": 41.0,
+      "carbs_g": 32.0,
+      "fat_g": 26.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1760.0
+    },
+    {
+      "id": "item-204386",
+      "name": "Mccrispy Strips (3 Piece)",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Mccrispy Strips (3 Piece) as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204386"
+      },
+      "calories": 400.0,
+      "protein_g": 31.0,
+      "carbs_g": 24.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1320.0
+    },
+    {
+      "id": "item-204401",
+      "name": "Snack Wrap Mccrispy Ranch",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Snack Wrap Mccrispy Ranch as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204401"
+      },
+      "calories": 400.0,
+      "protein_g": 17.0,
+      "carbs_g": 32.0,
+      "fat_g": 23.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 970.0
+    },
+    {
+      "id": "item-204402",
+      "name": "Snack Wrap Mccrispy Spicy",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Snack Wrap Mccrispy Spicy as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204402"
+      },
+      "calories": 390.0,
+      "protein_g": 17.0,
+      "carbs_g": 32.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1000.0
+    },
+    {
+      "id": "item-204450",
+      "name": "Sprite Berry Blast 30 Oz",
+      "description": "Sprite Berry Blast",
+      "category": "drink",
+      "serving_note": "per 1 Sprite Berry Blast 30 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204450"
+      },
+      "calories": 410.0,
+      "protein_g": 0.0,
+      "carbs_g": 85.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0
+    },
+    {
+      "id": "item-204451",
+      "name": "Sprite Berry Blast 22 Oz",
+      "description": "Sprite Berry Blast",
+      "category": "drink",
+      "serving_note": "per 1 Sprite Berry Blast 22 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204451"
+      },
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 64.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 90.0
+    },
+    {
+      "id": "item-204452",
+      "name": "Sprite Berry Blast 16 Oz",
+      "description": "Sprite Berry Blast",
+      "category": "drink",
+      "serving_note": "per 1 Sprite Berry Blast 16 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204452"
+      },
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 47.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0
+    },
+    {
+      "id": "item-204472",
+      "name": "Strawberry Watermelon Lemonade Refresher 16 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Watermelon Lemonade Refresher 16 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204472"
+      },
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 36.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-204481",
+      "name": "Mango Pineapple Lemonade Refresher 30 Oz",
+      "description": "Popping Tropic Refresher",
+      "category": "drink",
+      "serving_note": "per 1 Mango Pineapple Lemonade Refresher 30 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204481"
+      },
+      "calories": 330.0,
+      "protein_g": 0.0,
+      "carbs_g": 77.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0
+    },
+    {
+      "id": "item-204485",
+      "name": "Mango Pineapple Lemonade Refresher 22 Oz",
+      "description": "Popping Tropic Refresher",
+      "category": "drink",
+      "serving_note": "per 1 Mango Pineapple Lemonade Refresher 22 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204485"
+      },
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 58.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "item-204487",
+      "name": "Mango Pineapple Lemonade Refresher 16 Oz",
+      "description": "Popping Tropic Refresher",
+      "category": "drink",
+      "serving_note": "per 1 Mango Pineapple Lemonade Refresher 16 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204487"
+      },
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-204488",
+      "name": "Strawberry Watermelon Lemonade Refresher 22 Oz",
+      "description": "Strawberry Watermelon Refresher",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Watermelon Lemonade Refresher 22 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204488"
+      },
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 50.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "item-204489",
+      "name": "Strawberry Watermelon Lemonade Refresher 30 Oz",
+      "description": "Strawberry Watermelon Lemonade Refresher",
+      "category": "drink",
+      "serving_note": "per 1 Strawberry Watermelon Lemonade Refresher 30 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204489"
+      },
+      "calories": 260.0,
+      "protein_g": 1.0,
+      "carbs_g": 62.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 70.0
+    },
+    {
+      "id": "item-204618",
+      "name": "Blackberry Passion Fruit Lemonade Refresher 16 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Blackberry Passion Fruit Lemonade Refresher 16 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204618"
+      },
+      "calories": 170.0,
+      "protein_g": 1.0,
+      "carbs_g": 40.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-204619",
+      "name": "Blackberry Passion Fruit Lemonade Refresher 22 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Blackberry Passion Fruit Lemonade Refresher 22 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204619"
+      },
+      "calories": 230.0,
+      "protein_g": 1.0,
+      "carbs_g": 54.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "item-204620",
+      "name": "Blackberry Passion Fruit Lemonade Refresher 30 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Blackberry Passion Fruit Lemonade Refresher 30 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204620"
+      },
+      "calories": 270.0,
+      "protein_g": 1.0,
+      "carbs_g": 66.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 75.0
+    },
+    {
+      "id": "item-204626",
+      "name": "Orange Dream 16 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Orange Dream 16 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204626"
+      },
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 50.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-204627",
+      "name": "Orange Dream 22 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Orange Dream 22 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204627"
+      },
+      "calories": 320.0,
+      "protein_g": 0.0,
+      "carbs_g": 70.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0
+    },
+    {
+      "id": "item-204628",
+      "name": "Dirty Dr. Pepper 30 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dirty Dr. Pepper 30 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204628"
+      },
+      "calories": 410.0,
+      "protein_g": 0.0,
+      "carbs_g": 90.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0
+    },
+    {
+      "id": "item-204629",
+      "name": "Dirty Dr. Pepper 22 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dirty Dr. Pepper 22 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204629"
+      },
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 67.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0
+    },
+    {
+      "id": "item-204630",
+      "name": "Dirty Dr. Pepper 16 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Dirty Dr. Pepper 16 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204630"
+      },
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 48.0,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0
+    },
+    {
+      "id": "item-204631",
+      "name": "Orange Dream 30 Oz",
+      "description": null,
+      "category": "drink",
+      "serving_note": "per 1 Orange Dream 30 Oz as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204631"
+      },
+      "calories": 430.0,
+      "protein_g": 0.0,
+      "carbs_g": 94.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0
+    },
+    {
+      "id": "item-204647",
+      "name": "Bacon Caesar Mccrispy",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Bacon Caesar Mccrispy as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204647"
+      },
+      "calories": 750.0,
+      "protein_g": 34.0,
+      "carbs_g": 57.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1630.0
+    },
+    {
+      "id": "item-204648",
+      "name": "Caesar Dip Cup",
+      "description": null,
+      "category": "condiment",
+      "serving_note": "per 1 Caesar Dip Cup as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204648"
+      },
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 150.0
+    },
+    {
+      "id": "item-204649",
+      "name": "Caesar Snack Wrap",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Caesar Snack Wrap as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204649"
+      },
+      "calories": 390.0,
+      "protein_g": 17.0,
+      "carbs_g": 32.0,
+      "fat_g": 22.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 950.0
+    },
+    {
+      "id": "item-204657",
+      "name": "Honey Brown Butter Bacon, Egg And Cheese Biscuit",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Honey Brown Butter Bacon, Egg And Cheese Biscuit as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204657"
+      },
+      "calories": 490.0,
+      "protein_g": 17.0,
+      "carbs_g": 45.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1430.0
+    },
+    {
+      "id": "item-204339",
+      "name": "Sausage Burrito 2",
+      "description": null,
+      "category": "meal",
+      "serving_note": "per 1 Sausage Burrito 2 as listed on the nutrition calculator",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204339"
+      },
+      "calories": 310.0,
+      "protein_g": 13.0,
+      "carbs_g": 25.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 800.0
+    },
+    {
+      "id": "combo-200714",
+      "name": "Sausage, Egg & Cheese McGriddles Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Sausage, Egg & Cheese McGriddles + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Sausage, Egg & Cheese McGriddles + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200714"
+      },
+      "calories": 695.0,
+      "protein_g": 21.0,
+      "carbs_g": 63.0,
+      "fat_g": 41.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1610.0
+    },
+    {
+      "id": "combo-200715",
+      "name": "Bacon, Egg & Cheese McGriddles Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Bacon, Egg & Cheese McGriddles + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Bacon, Egg & Cheese McGriddles + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200715"
+      },
+      "calories": 575.0,
+      "protein_g": 19.0,
+      "carbs_g": 63.0,
+      "fat_g": 29.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1550.0
+    },
+    {
+      "id": "combo-200716",
+      "name": "Sausage Burrito 2 Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Coffee (Small) + Hash Browns + Sausage Burrito 2 + Sausage Burrito. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Coffee (Small) + Hash Browns + Sausage Burrito 2 + Sausage Burrito)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200716"
+      },
+      "calories": 765.0,
+      "protein_g": 28.0,
+      "carbs_g": 69.0,
+      "fat_g": 42.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1920.0
+    },
+    {
+      "id": "combo-200717",
+      "name": "Sausage McGriddles Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Sausage McGriddles + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Sausage McGriddles + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200717"
+      },
+      "calories": 575.0,
+      "protein_g": 13.0,
+      "carbs_g": 60.0,
+      "fat_g": 32.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1310.0
+    },
+    {
+      "id": "combo-200723",
+      "name": "Bacon, Egg & Cheese Biscuit Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Bacon, Egg & Cheese Biscuit + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Bacon, Egg & Cheese Biscuit + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200723"
+      },
+      "calories": 605.0,
+      "protein_g": 19.0,
+      "carbs_g": 58.0,
+      "fat_g": 34.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1650.0
+    },
+    {
+      "id": "combo-200724",
+      "name": "Sausage McMuffin with Egg Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Sausage McMuffin® with Egg + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Sausage McMuffin® with Egg + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200724"
+      },
+      "calories": 625.0,
+      "protein_g": 22.0,
+      "carbs_g": 49.0,
+      "fat_g": 39.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1150.0
+    },
+    {
+      "id": "combo-200731",
+      "name": "Sausage Biscuit with Egg Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Sausage Biscuit with Egg + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Sausage Biscuit with Egg + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200731"
+      },
+      "calories": 675.0,
+      "protein_g": 19.0,
+      "carbs_g": 57.0,
+      "fat_g": 43.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1510.0
+    },
+    {
+      "id": "combo-200739",
+      "name": "Egg McMuffin Meal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Egg McMuffin + Coffee (Small) + Hash Browns. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Egg McMuffin + Coffee (Small) + Hash Browns)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=200739"
+      },
+      "calories": 455.0,
+      "protein_g": 19.0,
+      "carbs_g": 49.0,
+      "fat_g": 21.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1090.0
+    },
+    {
+      "id": "combo-204349",
+      "name": "The McDouble Meal Deal Bundle",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: McDouble + Chicken McNuggets® (4 piece) + Small French Fries + Coca-Cola (Small) No Ice. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (McDouble + Chicken McNuggets® (4 piece) + Small French Fries + Coca-Cola (Small) No Ice)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204349"
+      },
+      "calories": 990.0,
+      "protein_g": 34.0,
+      "carbs_g": 126.0,
+      "fat_g": 41.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1500.0
+    },
+    {
+      "id": "combo-204350",
+      "name": "The McChicken Meal Deal Bundle",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: McChicken + Chicken McNuggets® (4 piece) + Small French Fries + Coca-Cola (Small) No Ice. McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (McChicken + Chicken McNuggets® (4 piece) + Small French Fries + Coca-Cola (Small) No Ice)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204350"
+      },
+      "calories": 990.0,
+      "protein_g": 26.0,
+      "carbs_g": 132.0,
+      "fat_g": 42.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1140.0
+    },
+    {
+      "id": "combo-204650",
+      "name": "Sausage Biscuit Meal Deal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Sausage Biscuit + Hash Browns + Coffee (Small). McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Sausage Biscuit + Hash Browns + Coffee (Small))",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204650"
+      },
+      "calories": 605.0,
+      "protein_g": 13.0,
+      "carbs_g": 56.0,
+      "fat_g": 38.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1410.0
+    },
+    {
+      "id": "combo-204651",
+      "name": "Sausage McMuffin Meal Deal",
+      "description": "Combo meal derived as the sum of McDonald's published nutrition for its components: Sausage McMuffin + Hash Browns + Coffee (Small). McDonald's does not publish a single nutrition row for the combo.",
+      "category": "meal",
+      "serving_note": "per combo meal (Sausage McMuffin + Hash Browns + Coffee (Small))",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://www.mcdonalds.com/dnaapp/itemDetails?country=US&language=en&showLiveData=true&item=204651"
+      },
+      "calories": 545.0,
+      "protein_g": 16.0,
+      "carbs_g": 48.0,
+      "fat_g": 34.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1080.0
+    }
+  ]
+}

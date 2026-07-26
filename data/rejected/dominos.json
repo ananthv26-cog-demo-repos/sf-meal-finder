@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "specialty-spicy-chicken-bacon-ranch-xl-whole",
+      "name": "Spicy Chicken Bacon Ranch — whole extra large 16\" pizza (hand tossed)",
+      "description": "Whole pizza: 8 x Domino's published 1/8-of-pizza row for the extra large 16\" Spicy Chicken Bacon Ranch.",
+      "category": "meal",
+      "serving_note": "per whole extra large 16\" pizza (8 slices)",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cache.dominos.com/olo/6_168_0/assets/build/market/US/_en/pdf/DominosNutritionGuide.pdf"
+      },
+      "calories": 4240.0,
+      "fat_g": 232.0,
+      "sodium_mg": 11280.0,
+      "carbs_g": 352.0,
+      "fiber_g": 8.0,
+      "protein_g": 168.0
+    },
+    "reasons": [
+      "dominos/specialty-spicy-chicken-bacon-ranch-xl-whole: sodium_mg 11280.0 implausibly high"
+    ]
+  }
+]

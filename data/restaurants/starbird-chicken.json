@@ -1,0 +1,1803 @@
+{
+  "id": "starbird-chicken",
+  "name": "Starbird Chicken",
+  "website": "https://starbirdchicken.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "60 Morris Street, San Francisco, CA 94107",
+      "lat": 37.7766868,
+      "lng": -122.4024109,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "starbird-2-0",
+      "name": "Starbird 2.0",
+      "description": null,
+      "category": "meal",
+      "calories": 883.0,
+      "protein_g": 43.0,
+      "carbs_g": 75.0,
+      "fat_g": 45.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1793.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "big-star",
+      "name": "Big Star",
+      "description": null,
+      "category": "meal",
+      "calories": 896.0,
+      "protein_g": 41.0,
+      "carbs_g": 73.0,
+      "fat_g": 49.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1607.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "nashville-hotbird",
+      "name": "Nashville Hotbird",
+      "description": null,
+      "category": "meal",
+      "calories": 1066.0,
+      "protein_g": 41.0,
+      "carbs_g": 83.0,
+      "fat_g": 71.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2234.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "gardenbird",
+      "name": "Gardenbird",
+      "description": null,
+      "category": "meal",
+      "calories": 1141.0,
+      "protein_g": 31.0,
+      "carbs_g": 90.0,
+      "fat_g": 73.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2651.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "cali-gold-bbq",
+      "name": "Cali Gold BBQ",
+      "description": null,
+      "category": "meal",
+      "calories": 937.0,
+      "protein_g": 49.0,
+      "carbs_g": 87.0,
+      "fat_g": 43.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2136.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "thai-chicken-grilled-chicken",
+      "name": "Thai Chicken (grilled chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 28.0,
+      "carbs_g": 31.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "thai-chicken-fried-chicken",
+      "name": "Thai Chicken (fried chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 431.0,
+      "protein_g": 26.0,
+      "carbs_g": 51.0,
+      "fat_g": 18.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1250.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "herb-aioli",
+      "name": "Herb Aioli",
+      "description": null,
+      "category": "condiment",
+      "calories": 296.0,
+      "protein_g": 0.5,
+      "carbs_g": 2.0,
+      "fat_g": 32.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 417.0,
+      "serving_note": "per 2.75 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "green-papaya-dressing",
+      "name": "Green Papaya Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 88.0,
+      "protein_g": 0.5,
+      "carbs_g": 22.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.5,
+      "sodium_mg": 589.0,
+      "serving_note": "per 1.25 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "green-goddess-cobb-grilled-chicken",
+      "name": "Green Goddess Cobb (grilled chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 43.0,
+      "carbs_g": 17.0,
+      "fat_g": 24.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1410.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "green-goddess-cobb-fried-chicken",
+      "name": "Green Goddess Cobb (fried chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 33.0,
+      "carbs_g": 38.0,
+      "fat_g": 27.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1640.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "green-goddess-dressing",
+      "name": "Green Goddess Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 290.0,
+      "protein_g": 3.0,
+      "carbs_g": 2.0,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per 2.75 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chicken-chop-grilled-chicken",
+      "name": "Chicken Chop (grilled chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 581.0,
+      "protein_g": 40.0,
+      "carbs_g": 43.0,
+      "fat_g": 30.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 853.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chicken-chop-fried-chicken",
+      "name": "Chicken Chop (fried chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 752.0,
+      "protein_g": 39.0,
+      "carbs_g": 64.0,
+      "fat_g": 41.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1223.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chipotle-lime-vinaigrette",
+      "name": "Chipotle Lime Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 351.0,
+      "protein_g": 0.5,
+      "carbs_g": 17.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 153.0,
+      "serving_note": "per 2.75 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "elote-chop-grilled-chicken",
+      "name": "Elote Chop (grilled chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 668.0,
+      "protein_g": 39.0,
+      "carbs_g": 75.0,
+      "fat_g": 26.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1593.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "elote-chop-fried-chicken",
+      "name": "Elote Chop (fried chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 840.0,
+      "protein_g": 37.0,
+      "carbs_g": 95.0,
+      "fat_g": 37.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1963.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "jalapeno-lime-dressing",
+      "name": "Jalapeno Lime Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 292.0,
+      "protein_g": 0.5,
+      "carbs_g": 4.0,
+      "fat_g": 30.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 697.0,
+      "serving_note": "per 2.75 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-caesar-grilled-chicken",
+      "name": "Crispy Chicken Caesar (grilled chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 44.0,
+      "carbs_g": 9.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1890.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-caesar-fried-chicken",
+      "name": "Crispy Chicken Caesar (fried chicken)",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 38.0,
+      "carbs_g": 31.0,
+      "fat_g": 19.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2290.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "caesar-dressing",
+      "name": "Caesar Dressing",
+      "description": null,
+      "category": "condiment",
+      "calories": 420.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 3 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chicken-chop-wrap-grilled-chicken",
+      "name": "Chicken Chop Wrap (grilled chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 35.0,
+      "carbs_g": 81.0,
+      "fat_g": 53.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1450.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chicken-chop-wrap-fried-chicken",
+      "name": "Chicken Chop Wrap (fried chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 1060.0,
+      "protein_g": 35.0,
+      "carbs_g": 103.0,
+      "fat_g": 60.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1850.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "thai-chicken-wrap-grilled-chicken",
+      "name": "Thai Chicken Wrap (grilled chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 33.0,
+      "carbs_g": 70.0,
+      "fat_g": 34.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1480.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "thai-chicken-wrap-fried-chicken",
+      "name": "Thai Chicken Wrap (fried chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 27.0,
+      "carbs_g": 94.0,
+      "fat_g": 41.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1890.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-caesar-wrap-grilled-chicken",
+      "name": "Crispy Chicken Caesar Wrap (grilled chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 52.0,
+      "carbs_g": 49.0,
+      "fat_g": 37.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2580.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-caesar-wrap-fried-chicken",
+      "name": "Crispy Chicken Caesar Wrap (fried chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 46.0,
+      "carbs_g": 71.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2980.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "green-goddess-cobb-wrap-grilled-chicken",
+      "name": "Green Goddess Cobb Wrap (grilled chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 43.0,
+      "carbs_g": 56.0,
+      "fat_g": 41.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1790.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "green-goddess-cobb-wrap-fried-chicken",
+      "name": "Green Goddess Cobb Wrap (fried chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 890.0,
+      "protein_g": 37.0,
+      "carbs_g": 78.0,
+      "fat_g": 48.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 2180.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "elote-chop-salad-wrap-grilled-chicken",
+      "name": "Elote Chop Salad Wrap (grilled chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 40.0,
+      "carbs_g": 89.0,
+      "fat_g": 49.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 2310.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "elote-chop-salad-wrap-fried-chicken",
+      "name": "Elote Chop Salad Wrap (fried chicken)",
+      "description": null,
+      "category": "meal",
+      "calories": 1150.0,
+      "protein_g": 34.0,
+      "carbs_g": 111.0,
+      "fat_g": 65.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 3080.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "3-tenders-box",
+      "name": "3 Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 31.0,
+      "carbs_g": 28.0,
+      "fat_g": 19.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 1070.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "4-tenders-box",
+      "name": "4 Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 41.0,
+      "carbs_g": 37.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1420.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "3-nashville-tenders-box",
+      "name": "3 Nashville Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 31.0,
+      "carbs_g": 44.0,
+      "fat_g": 53.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1840.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "4-nashville-tenders-box",
+      "name": "4 Nashville Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 950.0,
+      "protein_g": 41.0,
+      "carbs_g": 59.0,
+      "fat_g": 71.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 2400.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "3-sweet-thai-tenders-box",
+      "name": "3 Sweet Thai Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 31.0,
+      "carbs_g": 52.0,
+      "fat_g": 21.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1710.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "4-sweet-thai-tenders-box",
+      "name": "4 Sweet Thai Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 41.0,
+      "carbs_g": 61.0,
+      "fat_g": 27.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2070.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "3-gardenbird-tenders-box",
+      "name": "3 Gardenbird Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 20.0,
+      "carbs_g": 27.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1290.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "4-gardenbird-tenders-box",
+      "name": "4 Gardenbird Tenders Box",
+      "description": null,
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 26.0,
+      "carbs_g": 35.0,
+      "fat_g": 46.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "nugget",
+      "name": "Nugget",
+      "description": null,
+      "category": "component",
+      "calories": 57.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 195.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "gardenbird-nugget",
+      "name": "Gardenbird Nugget",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 3.0,
+      "carbs_g": 7.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 304.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "cali-gold-bbq-bone-in-wing",
+      "name": "Cali Gold BBQ Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 9.0,
+      "carbs_g": 14.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 300.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "buffalo-bone-in-wing",
+      "name": "Buffalo Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 147.0,
+      "protein_g": 9.0,
+      "carbs_g": 7.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 459.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "sweet-thai-bone-in-wing",
+      "name": "Sweet Thai Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 170.0,
+      "protein_g": 9.0,
+      "carbs_g": 19.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 427.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "garlic-parmesan-bone-in-wing",
+      "name": "Garlic Parmesan Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 175.0,
+      "protein_g": 10.0,
+      "carbs_g": 8.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 243.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "lemon-pepper-bone-in-wing",
+      "name": "Lemon Pepper Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 158.0,
+      "protein_g": 9.0,
+      "carbs_g": 8.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 204.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "nashville-hot-bone-in-wing",
+      "name": "Nashville Hot Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 175.0,
+      "protein_g": 9.0,
+      "carbs_g": 9.0,
+      "fat_g": 12.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 237.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "plain-bone-in-wing",
+      "name": "Plain Bone-In Wing",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 9.0,
+      "carbs_g": 7.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 192.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "cali-gold-bbq-boneless-wing",
+      "name": "Cali Gold BBQ Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 94.0,
+      "protein_g": 5.0,
+      "carbs_g": 11.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 298.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "buffalo-boneless-wing",
+      "name": "Buffalo Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 84.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 476.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "sweet-thai-boneless-wing",
+      "name": "Sweet Thai Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 91.0,
+      "protein_g": 4.0,
+      "carbs_g": 14.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 361.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "garlic-parmesan-boneless-wing",
+      "name": "Garlic Parmesan Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 106.0,
+      "protein_g": 5.0,
+      "carbs_g": 6.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 222.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "lemon-pepper-boneless-wing",
+      "name": "Lemon Pepper Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 57.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 206.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "nashville-hot-boneless-wing",
+      "name": "Nashville Hot Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 112.0,
+      "protein_g": 4.0,
+      "carbs_g": 7.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 255.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "plain-boneless-wing",
+      "name": "Plain Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 57.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 325.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "housemade-lemonade",
+      "name": "Housemade Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 23.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "housemade-iced-tea",
+      "name": "Housemade Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "oaktown-root-beer",
+      "name": "Oaktown Root Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "cable-car-lemon-lime",
+      "name": "Cable Car Lemon Lime",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 39.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "mango-sparkling-water",
+      "name": "Mango Sparkling Water",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "lost-island-ginger-beer",
+      "name": "Lost Island Ginger Beer",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "old-fountain-cream-soda",
+      "name": "Old Fountain Cream Soda",
+      "description": null,
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.0,
+      "carbs_g": 43.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "hanger-25-cola",
+      "name": "Hanger 25 Cola",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "hanger-25-diet-cola",
+      "name": "Hanger 25 Diet Cola",
+      "description": null,
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 160.0,
+      "protein_g": 0.0,
+      "carbs_g": 41.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 15.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "pink-pineapple-lemonade",
+      "name": "Pink Pineapple Lemonade",
+      "description": null,
+      "category": "drink",
+      "calories": 210.0,
+      "protein_g": 4.0,
+      "carbs_g": 38.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 320.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "peach-iced-tea",
+      "name": "Peach Iced Tea",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 25.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "churros",
+      "name": "Churros",
+      "description": null,
+      "category": "side",
+      "calories": 354.0,
+      "protein_g": 9.0,
+      "carbs_g": 57.0,
+      "fat_g": 10.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 870.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "cookie",
+      "name": "Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 363.0,
+      "protein_g": 3.0,
+      "carbs_g": 53.0,
+      "fat_g": 17.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 272.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "it-s-it-sandwich",
+      "name": "It's It Sandwich",
+      "description": null,
+      "category": "side",
+      "calories": 340.0,
+      "protein_g": 4.0,
+      "carbs_g": 39.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "house-fries",
+      "name": "House Fries",
+      "description": null,
+      "category": "side",
+      "calories": 452.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 22.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 557.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "rainbow-slaw",
+      "name": "Rainbow Slaw",
+      "description": null,
+      "category": "side",
+      "calories": 116.0,
+      "protein_g": 2.0,
+      "carbs_g": 9.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 434.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chicken-churros",
+      "name": "Chicken & Churros",
+      "description": null,
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 23.0,
+      "carbs_g": 96.0,
+      "fat_g": 17.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "side-salad",
+      "name": "Side Salad",
+      "description": "Nutrition shown without dressing; dressings are listed separately.",
+      "category": "side",
+      "calories": 98.0,
+      "protein_g": 5.0,
+      "carbs_g": 6.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 113.0,
+      "serving_note": "per salad, no dressing",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "chile-lime-vinaigrette",
+      "name": "Chile Lime Vinaigrette",
+      "description": null,
+      "category": "condiment",
+      "calories": 177.0,
+      "protein_g": 0.5,
+      "carbs_g": 9.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 77.0,
+      "serving_note": "per 1.5 fl oz serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "thai-brussels",
+      "name": "Thai Brussels",
+      "description": null,
+      "category": "side",
+      "calories": 226.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 14.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "street-corn",
+      "name": "Street Corn",
+      "description": null,
+      "category": "side",
+      "calories": 253.0,
+      "protein_g": 7.0,
+      "carbs_g": 35.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 817.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "lil-chicken-box",
+      "name": "Lil' Chicken Box",
+      "description": null,
+      "category": "meal",
+      "calories": 695.0,
+      "protein_g": 23.0,
+      "carbs_g": 80.0,
+      "fat_g": 32.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1384.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "lil-nug-box",
+      "name": "Lil' Nug Box",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 22.0,
+      "carbs_g": 79.0,
+      "fat_g": 31.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1335.0,
+      "serving_note": "per item as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "bone-in-wing",
+      "name": "Bone-in Wing",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 9.0,
+      "carbs_g": 7.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 177.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "boneless-wing",
+      "name": "Boneless Wing",
+      "description": null,
+      "category": "component",
+      "calories": 57.0,
+      "protein_g": 4.0,
+      "carbs_g": 5.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 195.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-tender",
+      "name": "Crispy Chicken Tender",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 9.0,
+      "carbs_g": 11.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 409.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "crispy-chicken-filet",
+      "name": "Crispy Chicken Filet",
+      "description": null,
+      "category": "component",
+      "calories": 387.0,
+      "protein_g": 29.0,
+      "carbs_g": 21.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 1322.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "nashville-tender",
+      "name": "Nashville Tender",
+      "description": null,
+      "category": "component",
+      "calories": 212.0,
+      "protein_g": 8.0,
+      "carbs_g": 15.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 595.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "nashville-filet",
+      "name": "Nashville Filet",
+      "description": null,
+      "category": "component",
+      "calories": 580.0,
+      "protein_g": 29.0,
+      "carbs_g": 30.0,
+      "fat_g": 39.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 1731.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "grilled-chicken-filet",
+      "name": "Grilled Chicken Filet",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 24.0,
+      "carbs_g": 0.5,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 420.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "gardenbird-tender",
+      "name": "Gardenbird Tender",
+      "description": null,
+      "category": "component",
+      "calories": 143.0,
+      "protein_g": 5.0,
+      "carbs_g": 13.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 475.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "gardenbird-filet",
+      "name": "Gardenbird Filet",
+      "description": null,
+      "category": "component",
+      "calories": 538.0,
+      "protein_g": 21.0,
+      "carbs_g": 39.0,
+      "fat_g": 33.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1579.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "blue-cheese",
+      "name": "Blue Cheese",
+      "description": null,
+      "category": "condiment",
+      "calories": 163.0,
+      "protein_g": 4.0,
+      "carbs_g": 2.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 448.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "greek-yogurt-ranch",
+      "name": "Greek Yogurt Ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 98.0,
+      "protein_g": 3.0,
+      "carbs_g": 2.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 157.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "honey-chipotle-bbq",
+      "name": "Honey Chipotle BBQ",
+      "description": null,
+      "category": "condiment",
+      "calories": 89.0,
+      "protein_g": 0.5,
+      "carbs_g": 22.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.5,
+      "sodium_mg": 281.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "honey-mustard",
+      "name": "Honey Mustard",
+      "description": null,
+      "category": "condiment",
+      "calories": 221.0,
+      "protein_g": 0.5,
+      "carbs_g": 7.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 296.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "maple-syrup",
+      "name": "Maple Syrup",
+      "description": null,
+      "category": "condiment",
+      "calories": 113.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 26.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "classic-buffalo",
+      "name": "Classic Buffalo",
+      "description": null,
+      "category": "condiment",
+      "calories": 25.0,
+      "protein_g": 0.5,
+      "carbs_g": 2.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 910.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "star-sauce",
+      "name": "Star Sauce",
+      "description": null,
+      "category": "condiment",
+      "calories": 233.0,
+      "protein_g": 0.5,
+      "carbs_g": 7.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 266.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "herb-aioli-sauces",
+      "name": "Herb Aioli",
+      "description": null,
+      "category": "condiment",
+      "calories": 209.0,
+      "protein_g": 0.5,
+      "carbs_g": 2.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 329.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "blazin-ranch",
+      "name": "Blazin' Ranch",
+      "description": null,
+      "category": "condiment",
+      "calories": 92.0,
+      "protein_g": 2.0,
+      "carbs_g": 2.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 231.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "wasabi-aioli",
+      "name": "Wasabi Aioli",
+      "description": null,
+      "category": "condiment",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 300.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    },
+    {
+      "id": "caesar",
+      "name": "Caesar",
+      "description": null,
+      "category": "condiment",
+      "calories": 420.0,
+      "protein_g": 2.0,
+      "carbs_g": 1.0,
+      "fat_g": 45.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per 1.5 fl oz sauce cup",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.prod.website-files.com/5caa9a34f8e0123d51e50101/6a27b37e85f932c196ff902c_Starbird%20Nutritionals%20-%20June%202026.pdf"
+      }
+    }
+  ]
+}

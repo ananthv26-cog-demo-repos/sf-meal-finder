@@ -1,0 +1,48 @@
+[
+  {
+    "item": {
+      "id": "mr-sunday",
+      "name": "Mr.Sunday",
+      "description": null,
+      "category": "meal",
+      "calories": 560.0,
+      "protein_g": 11.6,
+      "carbs_g": 42.0,
+      "fat_g": 30.5,
+      "fiber_g": 3.5,
+      "sodium_mg": 955.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://mrcharlies.co/nutrition"
+      }
+    },
+    "reasons": [
+      "mr-charlies/mr-sunday: macro check failed — stated 560.0 kcal vs computed 489 (delta -71)"
+    ]
+  },
+  {
+    "item": {
+      "id": "not-chicken-nuggets-7",
+      "name": "Not Chicken Nuggets (7)",
+      "description": null,
+      "category": "side",
+      "calories": 400.0,
+      "protein_g": 2.0,
+      "carbs_g": 34.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 672.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://mrcharlies.co/nutrition"
+      }
+    },
+    "reasons": [
+      "mr-charlies/not-chicken-nuggets-7: macro check failed — stated 400.0 kcal vs computed 288 (delta -112)"
+    ]
+  }
+]

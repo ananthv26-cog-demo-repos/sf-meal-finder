@@ -1,0 +1,2919 @@
+{
+  "id": "pokeworks",
+  "name": "Pokeworks",
+  "website": "https://pokeworks.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "50 Fremont St. #R2A, San Francisco, CA, 94105",
+      "lat": 37.790749,
+      "lng": -122.397131,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "component-protein-ahi-tuna",
+      "name": "Ahi Tuna",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 14.0,
+      "carbs_g": 0.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-salmon",
+      "name": "Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 120.0,
+      "protein_g": 11.0,
+      "carbs_g": 0.0,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 380.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-spicy-salmon",
+      "name": "Spicy Salmon",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 10.0,
+      "carbs_g": 0.5,
+      "fat_g": 9.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-shrimp",
+      "name": "Shrimp",
+      "description": null,
+      "category": "component",
+      "calories": 70.0,
+      "protein_g": 13.0,
+      "carbs_g": 0.5,
+      "fat_g": 1.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-lobster-surimi",
+      "name": "Lobster Surimi",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 7.0,
+      "carbs_g": 7.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 520.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-spicy-tuna",
+      "name": "Spicy Tuna",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 13.0,
+      "carbs_g": 0.5,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-chicken",
+      "name": "Chicken",
+      "description": null,
+      "category": "component",
+      "calories": 90.0,
+      "protein_g": 12.0,
+      "carbs_g": 0.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "component-protein-firm-tofu",
+      "name": "Firm Tofu",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 5.0,
+      "carbs_g": 1.0,
+      "fat_g": 4.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 2 oz scoop",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-white-rice-small-4",
+      "name": "White Rice Small",
+      "description": null,
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 3.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 4 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-white-rice-regular-8",
+      "name": "White Rice Regular",
+      "description": null,
+      "category": "component",
+      "calories": 290.0,
+      "protein_g": 6.0,
+      "carbs_g": 64.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.5,
+      "sodium_mg": 0.0,
+      "serving_note": "per 8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-white-rice-large-8",
+      "name": "White Rice Large",
+      "description": null,
+      "category": "component",
+      "calories": 290.0,
+      "protein_g": 6.0,
+      "carbs_g": 64.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.5,
+      "sodium_mg": 0.0,
+      "serving_note": "per 8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-brown-rice-small-4",
+      "name": "Brown Rice Small",
+      "description": null,
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 3.0,
+      "carbs_g": 27.0,
+      "fat_g": 1.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 4 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-brown-rice-regular-8",
+      "name": "Brown Rice Regular",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 5.0,
+      "carbs_g": 53.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-brown-rice-large-8",
+      "name": "Brown Rice Large",
+      "description": null,
+      "category": "component",
+      "calories": 250.0,
+      "protein_g": 5.0,
+      "carbs_g": 53.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-salad-mix-small-1-5",
+      "name": "Salad Mix Small (1.5)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.5,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-salad-mix-regular-3",
+      "name": "Salad Mix Regular",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 3 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-salad-mix-large-3",
+      "name": "Salad Mix Large",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 3 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-kale-noodles-small-3-5",
+      "name": "Kale Noodles Small (3.5)",
+      "description": null,
+      "category": "component",
+      "calories": 140.0,
+      "protein_g": 3.0,
+      "carbs_g": 20.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 590.0,
+      "serving_note": "per 3.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-kale-noodles-regular-7",
+      "name": "Kale Noodles Regular",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 7.0,
+      "carbs_g": 39.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per 7 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-kale-noodles-large-7",
+      "name": "Kale Noodles Large",
+      "description": null,
+      "category": "component",
+      "calories": 280.0,
+      "protein_g": 7.0,
+      "carbs_g": 39.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1190.0,
+      "serving_note": "per 7 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-ramen-noodles-small-3-5",
+      "name": "Ramen Noodles Small (3.5)",
+      "description": null,
+      "category": "component",
+      "calories": 150.0,
+      "protein_g": 4.0,
+      "carbs_g": 25.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 680.0,
+      "serving_note": "per 3.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-ramen-noodles-regular-5",
+      "name": "Ramen Noodles Regular",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 6.0,
+      "carbs_g": 36.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per 5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "base-ramen-noodles-large-5",
+      "name": "Ramen Noodles Large",
+      "description": null,
+      "category": "component",
+      "calories": 210.0,
+      "protein_g": 6.0,
+      "carbs_g": 36.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per 5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-cilantro-0-2",
+      "name": "Cilantro (0.2)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.2 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-cucumber-0-8",
+      "name": "Cucumber (0.8)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.5,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-diced-pineapple-0-1-cup",
+      "name": "Diced Pineapple (0.1 cup)",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.1 cup portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-diced-mango-1",
+      "name": "Diced Mango",
+      "description": null,
+      "category": "component",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-edamame-0-8",
+      "name": "Edamame (0.8)",
+      "description": null,
+      "category": "component",
+      "calories": 25.0,
+      "protein_g": 3.0,
+      "carbs_g": 2.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-hijiki-seaweed-0-2",
+      "name": "Hijiki Seaweed (0.2)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 0.2 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-sweet-corn-0-1-cup",
+      "name": "Sweet Corn (0.1 cup)",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 0.1 cup portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-shredded-kale-0-5",
+      "name": "Shredded Kale (0.5)",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.5,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 30.0,
+      "serving_note": "per 0.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-shredded-cabbage-0-5",
+      "name": "Shredded Cabbage (0.5)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.5,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-serrano-peppers-0-2",
+      "name": "Serrano Peppers (0.2)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.2 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-mandarin-orange-0-1-cup",
+      "name": "Mandarin Orange (0.1 cup)",
+      "description": null,
+      "category": "component",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.1 cup portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "mix-ins-sliced-onion-0-8",
+      "name": "Sliced Onion (0.8)",
+      "description": null,
+      "category": "component",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.8 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-avocado-1",
+      "name": "Avocado",
+      "description": null,
+      "category": "component",
+      "calories": 45.0,
+      "protein_g": 0.5,
+      "carbs_g": 2.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-soft-tofu-0-5",
+      "name": "Soft Tofu (0.5)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.5,
+      "carbs_g": 0.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-chili-crisp-0-3",
+      "name": "Chili Crisp (0.3)",
+      "description": null,
+      "category": "component",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per 0.3 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-green-onion-0-2",
+      "name": "Green Onion (0.2)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.2 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-masago-0-1",
+      "name": "Masago (0.1)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 0.1 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-pickled-ginger-0-5",
+      "name": "Pickled Ginger (0.5)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 0.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-seaweed-salad-1",
+      "name": "Seaweed Salad",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 300.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-surimi-salad-0-7",
+      "name": "Surimi Salad (0.7)",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 2.0,
+      "carbs_g": 3.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per 0.7 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-thai-chili-0-1",
+      "name": "Thai Chili (0.1)",
+      "description": null,
+      "category": "component",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.1 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-spicy-furikake-0-1",
+      "name": "Spicy Furikake (0.1)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 0.1 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-sesame-seeds-0-1",
+      "name": "Sesame Seeds (0.1)",
+      "description": null,
+      "category": "component",
+      "calories": 15.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.1 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "toppings-wasabi-0-2",
+      "name": "Wasabi (0.2)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per 0.2 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "crunch-nori-furikake-0-7",
+      "name": "Nori Furikake (0.7)",
+      "description": null,
+      "category": "component",
+      "calories": 80.0,
+      "protein_g": 2.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per 0.7 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "crunch-peanuts-0-cup",
+      "name": "Peanuts (0 cup)",
+      "description": null,
+      "category": "component",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 0 cup portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "crunch-shredded-nori-0-1",
+      "name": "Shredded Nori (0.1)",
+      "description": null,
+      "category": "component",
+      "calories": 10.0,
+      "protein_g": 1.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 0.1 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "crunch-wonton-strips-0-5",
+      "name": "Wonton Strips (0.5)",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 1.0,
+      "carbs_g": 8.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 0.5 portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-pokeworks-classic-light",
+      "name": "Pokeworks Classic (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 125.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-pokeworks-classic-medium",
+      "name": "Pokeworks Classic (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-pokeworks-classic-heavy",
+      "name": "Pokeworks Classic (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 8.0,
+      "fat_g": 16.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 340.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-umami-shoyu-light",
+      "name": "Umami Shoyu (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 4.0,
+      "fat_g": 1.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-umami-shoyu-medium",
+      "name": "Umami Shoyu (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 7.0,
+      "fat_g": 2.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-umami-shoyu-heavy",
+      "name": "Umami Shoyu (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 3.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sweet-shoyu-light",
+      "name": "Sweet Shoyu (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sweet-shoyu-medium",
+      "name": "Sweet Shoyu (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 10.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sweet-shoyu-heavy",
+      "name": "Sweet Shoyu (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 15.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 790.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sweet-chili-gochujang-light",
+      "name": "Sweet Chili Gochujang (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 30.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 1.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 230.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sweet-chili-gochujang-medium",
+      "name": "Sweet Chili Gochujang (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.5,
+      "carbs_g": 10.0,
+      "fat_g": 2.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 420.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sweet-chili-gochujang-heavy",
+      "name": "Sweet Chili Gochujang (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 15.0,
+      "fat_g": 2.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sriracha-aioli-light",
+      "name": "Sriracha Aioli (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sriracha-aioli-medium",
+      "name": "Sriracha Aioli (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-sriracha-aioli-heavy",
+      "name": "Sriracha Aioli (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 210.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 22.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 440.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-spicy-serrano-aioli-light",
+      "name": "Spicy Serrano Aioli (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.5,
+      "fat_g": 4.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-spicy-serrano-aioli-medium",
+      "name": "Spicy Serrano Aioli (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 8.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 115.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-spicy-serrano-aioli-heavy",
+      "name": "Spicy Serrano Aioli (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-ponzu-fresh-light",
+      "name": "Ponzu Fresh (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 220.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-ponzu-fresh-medium",
+      "name": "Ponzu Fresh (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 10.0,
+      "protein_g": 0.5,
+      "carbs_g": 3.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-ponzu-fresh-heavy",
+      "name": "Ponzu Fresh (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 20.0,
+      "protein_g": 0.5,
+      "carbs_g": 4.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-o-g-shoyu-sauce-light",
+      "name": "O.G. Shoyu Sauce (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.5,
+      "carbs_g": 5.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-o-g-shoyu-sauce-medium",
+      "name": "O.G. Shoyu Sauce (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 9.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 970.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-o-g-shoyu-sauce-heavy",
+      "name": "O.G. Shoyu Sauce (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 13.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1450.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-hawaiian-salt-chili-light",
+      "name": "Hawaiian Salt & Chili (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.5,
+      "fat_g": 13.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 450.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-hawaiian-salt-chili-medium",
+      "name": "Hawaiian Salt & Chili (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 200.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 23.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-hawaiian-salt-chili-heavy",
+      "name": "Hawaiian Salt & Chili (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1230.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-black-garlic-aioli-light",
+      "name": "Black Garlic Aioli (Light)",
+      "description": null,
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 3.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per 1 pump",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-black-garlic-aioli-medium",
+      "name": "Black Garlic Aioli (Medium)",
+      "description": null,
+      "category": "condiment",
+      "calories": 280.0,
+      "protein_g": 1.0,
+      "carbs_g": 7.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 810.0,
+      "serving_note": "per 2 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "sauce-black-garlic-aioli-heavy",
+      "name": "Black Garlic Aioli (Heavy)",
+      "description": null,
+      "category": "condiment",
+      "calories": 420.0,
+      "protein_g": 2.0,
+      "carbs_g": 10.0,
+      "fat_g": 41.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1210.0,
+      "serving_note": "per 3 pumps",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-spicy-ahi-tuna-large",
+      "name": "Spicy Ahi Tuna (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 790.0,
+      "protein_g": 55.0,
+      "carbs_g": 76.0,
+      "fat_g": 28.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1470.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-spicy-ahi-tuna-regular",
+      "name": "Spicy Ahi Tuna (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 40.0,
+      "carbs_g": 76.0,
+      "fat_g": 26.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1120.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-spicy-ahi-tuna-small",
+      "name": "Spicy Ahi Tuna (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 490.0,
+      "protein_g": 23.0,
+      "carbs_g": 44.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 770.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-yuzu-ponzu-salmon-large",
+      "name": "Yuzu Ponzu Salmon (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 42.0,
+      "carbs_g": 87.0,
+      "fat_g": 31.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2120.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-yuzu-ponzu-salmon-regular",
+      "name": "Yuzu Ponzu Salmon (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 31.0,
+      "carbs_g": 87.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1740.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-yuzu-ponzu-salmon-small",
+      "name": "Yuzu Ponzu Salmon (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 17.0,
+      "carbs_g": 55.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1360.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-hawaiian-ahi-large",
+      "name": "Hawaiian Ahi (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 760.0,
+      "protein_g": 54.0,
+      "carbs_g": 84.0,
+      "fat_g": 22.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1640.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-hawaiian-ahi-regular",
+      "name": "Hawaiian Ahi (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 40.0,
+      "carbs_g": 84.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1300.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-hawaiian-ahi-small",
+      "name": "Hawaiian Ahi (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 460.0,
+      "protein_g": 22.0,
+      "carbs_g": 52.0,
+      "fat_g": 19.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 950.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-umami-ahi-large",
+      "name": "Umami Ahi (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 56.0,
+      "carbs_g": 82.0,
+      "fat_g": 12.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1870.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-umami-ahi-regular",
+      "name": "Umami Ahi (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 41.0,
+      "carbs_g": 82.0,
+      "fat_g": 10.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1520.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-umami-ahi-small",
+      "name": "Umami Ahi (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 24.0,
+      "carbs_g": 50.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1170.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-sweet-sesame-chicken-large",
+      "name": "Sweet Sesame Chicken (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 820.0,
+      "protein_g": 47.0,
+      "carbs_g": 91.0,
+      "fat_g": 27.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 830.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-sweet-sesame-chicken-regular",
+      "name": "Sweet Sesame Chicken (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 730.0,
+      "protein_g": 35.0,
+      "carbs_g": 90.0,
+      "fat_g": 24.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-sweet-sesame-chicken-small",
+      "name": "Sweet Sesame Chicken (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 500.0,
+      "protein_g": 20.0,
+      "carbs_g": 58.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 670.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-luxe-lobster-large",
+      "name": "Luxe Lobster (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 28.0,
+      "carbs_g": 99.0,
+      "fat_g": 19.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2490.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-luxe-lobster-regular",
+      "name": "Luxe Lobster (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 620.0,
+      "protein_g": 21.0,
+      "carbs_g": 93.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1970.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-luxe-lobster-small",
+      "name": "Luxe Lobster (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 410.0,
+      "protein_g": 11.0,
+      "carbs_g": 54.0,
+      "fat_g": 17.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1460.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-sweet-shoyu-tofu-large",
+      "name": "Sweet Shoyu Tofu (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 640.0,
+      "protein_g": 26.0,
+      "carbs_g": 91.0,
+      "fat_g": 20.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1280.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-sweet-shoyu-tofu-regular",
+      "name": "Sweet Shoyu Tofu (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 580.0,
+      "protein_g": 21.0,
+      "carbs_g": 90.0,
+      "fat_g": 16.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1120.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-sweet-shoyu-tofu-small",
+      "name": "Sweet Shoyu Tofu (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 13.0,
+      "carbs_g": 56.0,
+      "fat_g": 12.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 960.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-avocado-salad-large",
+      "name": "Avocado Salad (Large) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 350.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 20.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 790.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-avocado-salad-regular",
+      "name": "Avocado Salad (Regular) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 280.0,
+      "protein_g": 13.0,
+      "carbs_g": 35.0,
+      "fat_g": 14.0,
+      "fiber_g": 17.0,
+      "sodium_mg": 790.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "bowl-avocado-salad-small",
+      "name": "Avocado Salad (Small) Bowl",
+      "description": null,
+      "category": "meal",
+      "calories": 190.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 7.0,
+      "fiber_g": 12.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per 1 bowl",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "plate-charred-salmon-teriyaki",
+      "name": "Charred Salmon Teriyaki (1 plate)",
+      "description": null,
+      "category": "meal",
+      "calories": 1120.0,
+      "protein_g": 46.0,
+      "carbs_g": 94.0,
+      "fat_g": 61.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2800.0,
+      "serving_note": "per 1 plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "plate-dynamite-shrimp",
+      "name": "Dynamite Shrimp (1 plate)",
+      "description": null,
+      "category": "meal",
+      "calories": 960.0,
+      "protein_g": 33.0,
+      "carbs_g": 96.0,
+      "fat_g": 46.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2010.0,
+      "serving_note": "per 1 plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "plate-huli-huli-chicken",
+      "name": "Huli Huli Chicken (1 plate)",
+      "description": null,
+      "category": "meal",
+      "calories": 1000.0,
+      "protein_g": 48.0,
+      "carbs_g": 94.0,
+      "fat_g": 45.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1900.0,
+      "serving_note": "per 1 plate",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-spicy-ahi-tuna-large",
+      "name": "Spicy Ahi Tuna (Large) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 780.0,
+      "protein_g": 56.0,
+      "carbs_g": 73.0,
+      "fat_g": 28.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1500.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-spicy-ahi-tuna-regular",
+      "name": "Spicy Ahi Tuna (Regular) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 710.0,
+      "protein_g": 56.0,
+      "carbs_g": 73.0,
+      "fat_g": 26.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1150.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-yuzu-ponzu-salmon-large",
+      "name": "Yuzu Ponzu Salmon (Large) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 800.0,
+      "protein_g": 43.0,
+      "carbs_g": 84.0,
+      "fat_g": 31.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2150.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-yuzu-ponzu-salmon-regular",
+      "name": "Yuzu Ponzu Salmon (Regular) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 32.0,
+      "carbs_g": 84.0,
+      "fat_g": 22.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1770.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-hawaiian-ahi-large",
+      "name": "Hawaiian Ahi (Large) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 750.0,
+      "protein_g": 55.0,
+      "carbs_g": 81.0,
+      "fat_g": 22.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1670.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-hawaiian-ahi-regular",
+      "name": "Hawaiian Ahi (Regular) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 400.0,
+      "protein_g": 35.0,
+      "carbs_g": 22.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-umami-ahi-large",
+      "name": "Umami Ahi (Large) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 57.0,
+      "carbs_g": 78.0,
+      "fat_g": 12.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1900.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-umami-ahi-regular",
+      "name": "Umami Ahi (Regular) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 600.0,
+      "protein_g": 42.0,
+      "carbs_g": 78.0,
+      "fat_g": 10.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1550.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-sweet-sesame-chicken-large",
+      "name": "Sweet Sesame Chicken (Large) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 810.0,
+      "protein_g": 48.0,
+      "carbs_g": 87.0,
+      "fat_g": 27.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 860.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-sweet-sesame-chicken-regular",
+      "name": "Sweet Sesame Chicken (Regular) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 36.0,
+      "carbs_g": 87.0,
+      "fat_g": 24.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-sweet-shoyu-tofu-large",
+      "name": "Sweet Shoyu Tofu (Large) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 27.0,
+      "carbs_g": 93.0,
+      "fat_g": 20.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 1610.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "burrito-sweet-shoyu-tofu-regular",
+      "name": "Sweet Shoyu Tofu (Regular) Burrito",
+      "description": null,
+      "category": "meal",
+      "calories": 610.0,
+      "protein_g": 22.0,
+      "carbs_g": 91.0,
+      "fat_g": 18.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1450.0,
+      "serving_note": "per 1 burrito",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "side-garlic-spam-musubi-1",
+      "name": "Garlic Spam Musubi",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 7.0,
+      "carbs_g": 31.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 530.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "side-miso-soup-6-5oz",
+      "name": "Miso Soup (6.5oz)",
+      "description": null,
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 7.0,
+      "carbs_g": 15.0,
+      "fat_g": 2.5,
+      "fiber_g": 5.0,
+      "sodium_mg": 4050.0,
+      "serving_note": "per 6.5oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "side-chicken-miso-ramen-soup-6-5oz",
+      "name": "Chicken Miso Ramen Soup (6.5oz)",
+      "description": null,
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 14.0,
+      "carbs_g": 26.0,
+      "fat_g": 5.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 3590.0,
+      "serving_note": "per 6.5oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "side-furikake-mac-salad-6oz",
+      "name": "Furikake Mac Salad (6oz)",
+      "description": null,
+      "category": "side",
+      "calories": 490.0,
+      "protein_g": 5.0,
+      "carbs_g": 31.0,
+      "fat_g": 38.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 740.0,
+      "serving_note": "per 6oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "side-surimi-salad-6-5oz",
+      "name": "Surimi Salad (6.5oz)",
+      "description": null,
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 20.0,
+      "carbs_g": 24.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 1630.0,
+      "serving_note": "per 6.5oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "side-seaweed-salad-6-5oz",
+      "name": "Seaweed Salad (6.5oz)",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 30.0,
+      "fat_g": 12.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1960.0,
+      "serving_note": "per 6.5oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "dessert-coco-mango-haupia-1",
+      "name": "Coco Mango Haupia",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 7.0,
+      "carbs_g": 31.0,
+      "fat_g": 7.0,
+      "fiber_g": null,
+      "sodium_mg": 530.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "dessert-chocolate-chunk-cookie-1",
+      "name": "Chocolate Chunk Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 380.0,
+      "protein_g": 5.0,
+      "carbs_g": 50.0,
+      "fat_g": 19.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 430.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "dessert-marshmallow-bars-1",
+      "name": "Marshmallow Bars",
+      "description": null,
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 2.0,
+      "carbs_g": 45.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "dessert-salted-caramel-cookie-1",
+      "name": "Salted Caramel Cookie",
+      "description": null,
+      "category": "side",
+      "calories": 390.0,
+      "protein_g": 4.0,
+      "carbs_g": 57.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "dessert-peruvian-chocolate-brownie-1",
+      "name": "Peruvian Chocolate Brownie",
+      "description": null,
+      "category": "side",
+      "calories": 350.0,
+      "protein_g": 4.0,
+      "carbs_g": 57.0,
+      "fat_g": 19.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "poke-bomb-ahi-tuna-1",
+      "name": "Ahi Tuna Poke Bomb",
+      "description": null,
+      "category": "side",
+      "calories": 330.0,
+      "protein_g": 22.0,
+      "carbs_g": 43.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 710.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "poke-bomb-california-1",
+      "name": "California Poke Bomb",
+      "description": null,
+      "category": "side",
+      "calories": 320.0,
+      "protein_g": 14.0,
+      "carbs_g": 52.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 890.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "poke-bomb-dynamite-lobster-1",
+      "name": "Dynamite Lobster Poke Bomb",
+      "description": null,
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 14.0,
+      "carbs_g": 50.0,
+      "fat_g": 6.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "poke-bomb-salmon-1",
+      "name": "Salmon Poke Bomb",
+      "description": null,
+      "category": "side",
+      "calories": 380.0,
+      "protein_g": 18.0,
+      "carbs_g": 43.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 740.0,
+      "serving_note": "per single piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-classic-milk-tea-10-9-oz",
+      "name": "Classic Milk Tea (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 0.5,
+      "carbs_g": 36.0,
+      "fat_g": 4.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-green-tea-lemonade-10-5-oz",
+      "name": "Green Tea Lemonade (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 80.0,
+      "protein_g": 0.0,
+      "carbs_g": 22.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-lightly-sweetened-jasmine-green-tea-10-5-oz",
+      "name": "Lightly Sweetened Jasmine Green Tea (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 45.0,
+      "protein_g": 0.0,
+      "carbs_g": 12.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-lilikoi-green-tea-10-9-oz",
+      "name": "Lilikoi Green Tea (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-lilikoi-lemonade-10-9-oz",
+      "name": "Lilikoi Lemonade (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-mango-green-tea-10-9-oz",
+      "name": "Mango Green Tea (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 29.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-mango-lemonade-10-9-oz",
+      "name": "Mango Lemonade (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 32.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-mango-lilikoi-smoothie-7-oz",
+      "name": "Mango Lilikoi Smoothie (7 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 60.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 7 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-matcha-milk-tea-10-9-oz",
+      "name": "Matcha Milk Tea (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 200.0,
+      "protein_g": 0.5,
+      "carbs_g": 39.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-pi-a-colada-smoothie-7-oz",
+      "name": "Piña Colada Smoothie (7 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 310.0,
+      "protein_g": 0.0,
+      "carbs_g": 68.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 7 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-pineapple-iced-tea-10-9-oz",
+      "name": "Pineapple Iced Tea (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 31.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-strawberry-lemonade-10-9-oz",
+      "name": "Strawberry Lemonade (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 0.0,
+      "carbs_g": 37.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-strawberry-lemonade-smoothie-7-oz",
+      "name": "Strawberry Lemonade Smoothie (7 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 72.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 7 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "beverage-ube-latte-10-9-oz",
+      "name": "Ube Latte (10.9 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 190.0,
+      "protein_g": 0.5,
+      "carbs_g": 33.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 10.9 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-jasmine-milk-tea-10-5-oz",
+      "name": "Jasmine Milk Tea (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 7.0,
+      "carbs_g": 28.0,
+      "fat_g": 2.0,
+      "fiber_g": null,
+      "sodium_mg": 90.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-mango-fresh-milk-10-5-oz",
+      "name": "Mango Fresh Milk (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 7.0,
+      "carbs_g": 34.0,
+      "fat_g": 2.0,
+      "fiber_g": null,
+      "sodium_mg": 110.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-ube-milk-tea-10-5-oz",
+      "name": "Ube Milk Tea (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 7.0,
+      "carbs_g": 32.0,
+      "fat_g": 2.0,
+      "fiber_g": null,
+      "sodium_mg": 90.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-pokeworks-p-o-g-10-5-oz",
+      "name": "Pokeworks P.O.G. (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 85.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-strawberry-lemonade-10-5-oz",
+      "name": "Strawberry Lemonade (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 65.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-mango-coconut-fresca-10-5-oz",
+      "name": "Mango Coconut Fresca (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 30.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-mango-lychee-lemonade-10-5-oz",
+      "name": "Mango Lychee Lemonade (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 35.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-passion-lychee-green-tea-10-5-oz",
+      "name": "Passion Lychee Green Tea (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 120.0,
+      "protein_g": 0.0,
+      "carbs_g": 30.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 45.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-strawberry-fresh-milk-10-5-oz",
+      "name": "Strawberry Fresh Milk (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 7.0,
+      "carbs_g": 45.0,
+      "fat_g": 2.0,
+      "fiber_g": null,
+      "sodium_mg": 25.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "signature-drink-strawberry-guava-fresca-10-5-oz",
+      "name": "Strawberry Guava Fresca (10.5 oz)",
+      "description": null,
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 135.0,
+      "serving_note": "per 10.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "add-in-classic-boba-1-69-oz",
+      "name": "Classic Boba (1.69 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 26.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 0.0,
+      "serving_note": "per 1.69 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    },
+    {
+      "id": "add-in-crystal-boba-1-5-oz",
+      "name": "Crystal Boba (1.5 oz)",
+      "description": null,
+      "category": "component",
+      "calories": 40.0,
+      "protein_g": 0.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": null,
+      "sodium_mg": 10.0,
+      "serving_note": "per 1.5 oz portion",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://pokeworks.com/wp-content/uploads/2026/03/Pokeworks-Nutrition-Guide-v.2.0-BGA.pdf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "item": {
+      "id": "cookies-n-cream-p6",
+      "name": "Cookies N Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 3.0,
+      "carbs_g": 34.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    "reasons": [
+      "insomnia-cookies/cookies-n-cream-p6: macro check failed — stated 90.0 kcal vs computed 238 (delta +148)"
+    ]
+  },
+  {
+    "item": {
+      "id": "peanut-butter-chip-p10",
+      "name": "Peanut Butter Chip",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 90.0,
+      "protein_g": 4.0,
+      "carbs_g": 28.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    "reasons": [
+      "insomnia-cookies/peanut-butter-chip-p10: macro check failed — stated 90.0 kcal vs computed 272 (delta +182)"
+    ]
+  },
+  {
+    "item": {
+      "id": "milk-chocolate-chunk-p23",
+      "name": "Milk Chocolate Chunk",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 900.0,
+      "protein_g": 6.0,
+      "carbs_g": 69.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    "reasons": [
+      "insomnia-cookies/milk-chocolate-chunk-p23: macro check failed — stated 900.0 kcal vs computed 525 (delta -375)"
+    ]
+  },
+  {
+    "item": {
+      "id": "brownie-p25",
+      "name": "Brownie",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 900.0,
+      "protein_g": 5.0,
+      "carbs_g": 62.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 180.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    "reasons": [
+      "insomnia-cookies/brownie-p25: macro check failed — stated 900.0 kcal vs computed 520 (delta -380)"
+    ]
+  },
+  {
+    "item": {
+      "id": "blondie-p26",
+      "name": "Blondie",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 910.0,
+      "protein_g": 5.0,
+      "carbs_g": 69.0,
+      "fat_g": 27.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 22.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    "reasons": [
+      "insomnia-cookies/blondie-p26: macro check failed — stated 910.0 kcal vs computed 539 (delta -371)"
+    ]
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "item": {
+      "id": "sicilian-chicken",
+      "name": "Sicilian Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per sandwich as served",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/sicilian-chicken: field 'calories' has wrong type NoneType",
+      "the-melt/sicilian-chicken: field 'protein_g' has wrong type NoneType",
+      "the-melt/sicilian-chicken: field 'carbs_g' has wrong type NoneType",
+      "the-melt/sicilian-chicken: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "strawberry-milkshake",
+      "name": "Strawberry Milkshake",
+      "description": null,
+      "category": "drink",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per shake as served",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/strawberry-milkshake: field 'calories' has wrong type NoneType",
+      "the-melt/strawberry-milkshake: field 'protein_g' has wrong type NoneType",
+      "the-melt/strawberry-milkshake: field 'carbs_g' has wrong type NoneType",
+      "the-melt/strawberry-milkshake: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "mini-mac",
+      "name": "Mini Mac",
+      "description": null,
+      "category": "component",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per add-on portion",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/mini-mac: field 'calories' has wrong type NoneType",
+      "the-melt/mini-mac: field 'protein_g' has wrong type NoneType",
+      "the-melt/mini-mac: field 'carbs_g' has wrong type NoneType",
+      "the-melt/mini-mac: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "melty-mac",
+      "name": "Melty Mac",
+      "description": null,
+      "category": "component",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per add-on portion",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/melty-mac: field 'calories' has wrong type NoneType",
+      "the-melt/melty-mac: field 'protein_g' has wrong type NoneType",
+      "the-melt/melty-mac: field 'carbs_g' has wrong type NoneType",
+      "the-melt/melty-mac: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "bbq-bacon-grilled-chicken",
+      "name": "BBQ Bacon Grilled Chicken",
+      "description": null,
+      "category": "meal",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per sandwich as served",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/bbq-bacon-grilled-chicken: field 'calories' has wrong type NoneType",
+      "the-melt/bbq-bacon-grilled-chicken: field 'protein_g' has wrong type NoneType",
+      "the-melt/bbq-bacon-grilled-chicken: field 'carbs_g' has wrong type NoneType",
+      "the-melt/bbq-bacon-grilled-chicken: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "bbq-bacon-meltburger",
+      "name": "BBQ Bacon MeltBurger",
+      "description": null,
+      "category": "meal",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per sandwich as served",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/bbq-bacon-meltburger: field 'calories' has wrong type NoneType",
+      "the-melt/bbq-bacon-meltburger: field 'protein_g' has wrong type NoneType",
+      "the-melt/bbq-bacon-meltburger: field 'carbs_g' has wrong type NoneType",
+      "the-melt/bbq-bacon-meltburger: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "dark-chocolate-brownie",
+      "name": "Dark Chocolate Brownie",
+      "description": null,
+      "category": "side",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per regular order",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/dark-chocolate-brownie: field 'calories' has wrong type NoneType",
+      "the-melt/dark-chocolate-brownie: field 'protein_g' has wrong type NoneType",
+      "the-melt/dark-chocolate-brownie: field 'carbs_g' has wrong type NoneType",
+      "the-melt/dark-chocolate-brownie: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "brown-butter-marshmallow-bar",
+      "name": "Brown Butter Marshmallow Bar",
+      "description": null,
+      "category": "side",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per regular order",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/brown-butter-marshmallow-bar: field 'calories' has wrong type NoneType",
+      "the-melt/brown-butter-marshmallow-bar: field 'protein_g' has wrong type NoneType",
+      "the-melt/brown-butter-marshmallow-bar: field 'carbs_g' has wrong type NoneType",
+      "the-melt/brown-butter-marshmallow-bar: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "garlic-parmesan-fries",
+      "name": "Garlic Parmesan Fries",
+      "description": null,
+      "category": "side",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per regular order",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/garlic-parmesan-fries: field 'calories' has wrong type NoneType",
+      "the-melt/garlic-parmesan-fries: field 'protein_g' has wrong type NoneType",
+      "the-melt/garlic-parmesan-fries: field 'carbs_g' has wrong type NoneType",
+      "the-melt/garlic-parmesan-fries: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "cheese",
+      "name": "CHEESE",
+      "description": null,
+      "category": "component",
+      "calories": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per add-on portion",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/cheese: field 'calories' has wrong type NoneType",
+      "the-melt/cheese: field 'protein_g' has wrong type NoneType",
+      "the-melt/cheese: field 'carbs_g' has wrong type NoneType",
+      "the-melt/cheese: field 'fat_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "lowfat-milk",
+      "name": "Lowfat Milk",
+      "description": null,
+      "category": "drink",
+      "calories": 150.0,
+      "protein_g": 14.0,
+      "carbs_g": null,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per beverage as served",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/lowfat-milk: field 'carbs_g' has wrong type NoneType"
+    ]
+  },
+  {
+    "item": {
+      "id": "add-malt",
+      "name": "Add Malt",
+      "description": null,
+      "category": "component",
+      "calories": 30.0,
+      "protein_g": 13.0,
+      "carbs_g": 5.0,
+      "fat_g": 0.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per add-on portion",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/add-malt: macro check failed — stated 30.0 kcal vs computed 76 (delta +46)"
+    ]
+  },
+  {
+    "item": {
+      "id": "tomato-soup",
+      "name": "Tomato Soup",
+      "description": null,
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 0.0,
+      "carbs_g": 6.0,
+      "fat_g": 5.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 240.0,
+      "serving_note": "per regular order",
+      "is_estimate": false
+    },
+    "reasons": [
+      "the-melt/tomato-soup: macro check failed — stated 100.0 kcal vs computed 69 (delta -31)"
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "orens-hummus",
+  "name": "Oren's Hummus",
+  "website": "https://orenshummus.com",
+  "nutrition_source": {
+    "type": "crowd",
+    "url": "https://orenshummus.com/locations/restaurants/san-francisco/",
+    "vendor": "mynetdiary",
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "71 3rd St, San Francisco, CA 94103",
+      "lat": 37.7866,
+      "lng": -122.4024,
+      "neighborhood": "SoMa"
+    }
+  ],
+  "items": [
+    {
+      "id": "plain-israeli-hummus",
+      "name": "Plain Israeli Hummus",
+      "description": null,
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 2.0,
+      "carbs_g": 4.0,
+      "fat_g": 2.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-plain-israeli-hummus-by-oren-s-hummus-shop-serving-14264333-0.html"
+      }
+    },
+    {
+      "id": "eggplant-babaganoush",
+      "name": "Eggplant Babaganoush",
+      "description": null,
+      "category": "condiment",
+      "calories": 40.0,
+      "protein_g": 1.0,
+      "carbs_g": 2.0,
+      "fat_g": 3.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-eggplant-babaganoush-by-oren-s-hummus-shop-serving-14264337-0.html"
+      }
+    },
+    {
+      "id": "marinated-beets",
+      "name": "Marinated Beets",
+      "description": null,
+      "category": "side",
+      "calories": 20.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 0.5,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-marinated-beets-by-orens-hummus-serving-22540501-0.html"
+      }
+    },
+    {
+      "id": "chicken-pita-sandwich",
+      "name": "Chicken Pita Sandwich",
+      "description": null,
+      "category": "meal",
+      "calories": 484.0,
+      "protein_g": 35.0,
+      "carbs_g": 32.0,
+      "fat_g": 24.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-chicken-pita-sandwich-by-oren-s-hummus-meal-43743146-0.html"
+      }
+    },
+    {
+      "id": "labane",
+      "name": "Labane",
+      "description": null,
+      "category": "condiment",
+      "calories": 25.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 2.0,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "serving_note": "per serving (as listed by MyNetDiary)",
+      "is_estimate": true,
+      "source": {
+        "type": "crowd",
+        "url": "https://www.mynetdiary.com/food/calories-in-labane-by-oren-s-hummus-serving-30469702-0.html"
+      }
+    }
+  ]
+}

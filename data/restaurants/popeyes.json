@@ -1,0 +1,1455 @@
+{
+  "id": "popeyes",
+  "name": "Popeyes",
+  "website": "https://www.popeyes.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "1426 Fillmore St, San Francisco, CA 94115",
+      "lat": 37.783128,
+      "lng": -122.432375,
+      "neighborhood": null
+    },
+    {
+      "address": "890 Geneva Ave, San Francisco, CA 94112",
+      "lat": 37.716609,
+      "lng": -122.441342,
+      "neighborhood": null
+    },
+    {
+      "address": "90 Charter Oak Ave, San Francisco, CA 94124",
+      "lat": 37.73684,
+      "lng": -122.405358,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "wing-each-1",
+      "name": "Wing (Each)",
+      "description": "Popeyes nutrition guide section: SIGNATURE CHICKEN - CLASSIC OR SPICY.",
+      "category": "component",
+      "calories": 220.0,
+      "protein_g": 14.0,
+      "carbs_g": 11.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 630.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "leg-each-1",
+      "name": "Leg (Each)",
+      "description": "Popeyes nutrition guide section: SIGNATURE CHICKEN - CLASSIC OR SPICY.",
+      "category": "component",
+      "calories": 200.0,
+      "protein_g": 15.0,
+      "carbs_g": 9.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 540.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "thigh-each-1",
+      "name": "Thigh (Each)",
+      "description": "Popeyes nutrition guide section: SIGNATURE CHICKEN - CLASSIC OR SPICY.",
+      "category": "component",
+      "calories": 490.0,
+      "protein_g": 25.0,
+      "carbs_g": 18.0,
+      "fat_g": 34.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1120.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "breast-each-1",
+      "name": "Breast (Each)",
+      "description": "Popeyes nutrition guide section: SIGNATURE CHICKEN - CLASSIC OR SPICY.",
+      "category": "component",
+      "calories": 620.0,
+      "protein_g": 52.0,
+      "carbs_g": 17.0,
+      "fat_g": 30.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1780.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "tenders-classic-or-spicy-3-pieces",
+      "name": "Tenders - Classic Or Spicy",
+      "description": "Popeyes nutrition guide section: TENDERS.",
+      "category": "meal",
+      "calories": 390.0,
+      "protein_g": 35.0,
+      "carbs_g": 25.0,
+      "fat_g": 19.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1700.0,
+      "serving_note": "per 3 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "tenders-classic-or-spicy-5-pieces",
+      "name": "Tenders - Classic Or Spicy",
+      "description": "Popeyes nutrition guide section: TENDERS.",
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 58.0,
+      "carbs_g": 41.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2840.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "tenders-blackened-3-pieces",
+      "name": "Tenders - Blackened",
+      "description": "Popeyes nutrition guide section: TENDERS.",
+      "category": "meal",
+      "calories": 170.0,
+      "protein_g": 28.0,
+      "carbs_g": 2.0,
+      "fat_g": 6.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 860.0,
+      "serving_note": "per 3 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "tenders-blackened-5-pieces",
+      "name": "Tenders - Blackened",
+      "description": "Popeyes nutrition guide section: TENDERS.",
+      "category": "meal",
+      "calories": 280.0,
+      "protein_g": 47.0,
+      "carbs_g": 4.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1430.0,
+      "serving_note": "per 5 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "classic-boneless-wings-6-pieces",
+      "name": "Classic Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 27.0,
+      "carbs_g": 23.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 990.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "buffalo-rub-boneless-wings-6-pieces",
+      "name": "Buffalo Rub Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 26.0,
+      "carbs_g": 27.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1730.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "garlic-parmesan-rub-boneless-wings-6-pieces",
+      "name": "Garlic Parmesan Rub Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 27.0,
+      "carbs_g": 25.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1230.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "ghost-pepper-rub-boneless-wings-6-pieces",
+      "name": "Ghost Pepper Rub Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 27.0,
+      "carbs_g": 25.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1490.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "honey-bbq-boneless-wings-6-pieces",
+      "name": "Honey BBQ Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 660.0,
+      "protein_g": 27.0,
+      "carbs_g": 72.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1800.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "lemon-pepper-rub-boneless-wings-6-pieces",
+      "name": "Lemon Pepper Rub Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 520.0,
+      "protein_g": 26.0,
+      "carbs_g": 26.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1510.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "signature-hot-boneless-wings-6-pieces",
+      "name": "Signature Hot Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 1020.0,
+      "protein_g": 28.0,
+      "carbs_g": 46.0,
+      "fat_g": 82.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1910.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sweet-spicy-boneless-wings-6-pieces",
+      "name": "Sweet & Spicy Boneless Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 720.0,
+      "protein_g": 27.0,
+      "carbs_g": 79.0,
+      "fat_g": 34.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2360.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "classic-bone-in-wings-6-pieces",
+      "name": "Classic Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 38.0,
+      "carbs_g": 27.0,
+      "fat_g": 44.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1780.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "buffalo-rub-bone-in-wings-6-pieces",
+      "name": "Buffalo Rub Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 38.0,
+      "carbs_g": 31.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2520.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "garlic-parmesan-rub-bone-in-wings-6-pieces",
+      "name": "Garlic Parmesan Rub Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 38.0,
+      "carbs_g": 29.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2020.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "ghost-pepper-bone-in-wings-6-pieces",
+      "name": "Ghost Pepper Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 38.0,
+      "carbs_g": 29.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2280.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "honey-bbq-bone-in-wings-6-pieces",
+      "name": "Honey BBQ Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 860.0,
+      "protein_g": 38.0,
+      "carbs_g": 77.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 2850.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "lemon-pepper-rub-bone-in-wings-6-pieces",
+      "name": "Lemon Pepper Rub Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 670.0,
+      "protein_g": 38.0,
+      "carbs_g": 30.0,
+      "fat_g": 44.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 2300.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "signature-hot-bone-in-wings-6-pieces",
+      "name": "Signature Hot Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 1150.0,
+      "protein_g": 39.0,
+      "carbs_g": 48.0,
+      "fat_g": 89.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2610.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sweet-spicy-bone-in-wings-6-pieces",
+      "name": "Sweet & Spicy Bone-In Wings",
+      "description": "Popeyes nutrition guide section: WINGS - BONELESS & BONE-IN.",
+      "category": "meal",
+      "calories": 880.0,
+      "protein_g": 38.0,
+      "carbs_g": 83.0,
+      "fat_g": 44.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 3140.0,
+      "serving_note": "per 6 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "butterfly-shrimp-8-pieces",
+      "name": "Butterfly Shrimp",
+      "description": "Popeyes nutrition guide section: SEAFOOD.",
+      "category": "meal",
+      "calories": 360.0,
+      "protein_g": 14.0,
+      "carbs_g": 30.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1140.0,
+      "serving_note": "per 8 pieces",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-classic-1",
+      "name": "Chicken Sandwich-Classic",
+      "description": "Popeyes nutrition guide section: SANDWICHES.",
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 28.0,
+      "carbs_g": 50.0,
+      "fat_g": 42.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1440.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "chicken-sandwich-spicy-1",
+      "name": "Chicken Sandwich-Spicy",
+      "description": "Popeyes nutrition guide section: SANDWICHES.",
+      "category": "meal",
+      "calories": 700.0,
+      "protein_g": 28.0,
+      "carbs_g": 50.0,
+      "fat_g": 42.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1470.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "classic-tender-wrap-1",
+      "name": "Classic Tender Wrap",
+      "description": "Popeyes nutrition guide section: WRAPS.",
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 19.0,
+      "carbs_g": 31.0,
+      "fat_g": 32.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1260.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "spicy-tender-wrap-1",
+      "name": "Spicy Tender Wrap",
+      "description": "Popeyes nutrition guide section: WRAPS.",
+      "category": "meal",
+      "calories": 480.0,
+      "protein_g": 19.0,
+      "carbs_g": 32.0,
+      "fat_g": 31.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "classic-tenderblackened-ranch-wrap-1",
+      "name": "Classic Tender Blackened Ranch Wrap",
+      "description": "Popeyes nutrition guide section: WRAPS.",
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 19.0,
+      "carbs_g": 32.0,
+      "fat_g": 25.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1340.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "biscuit-1",
+      "name": "Biscuit",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 24.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 520.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cajun-fries-reg",
+      "name": "Cajun Fries",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 270.0,
+      "protein_g": 3.0,
+      "carbs_g": 31.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cajun-fries-lg",
+      "name": "Cajun Fries",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 740.0,
+      "protein_g": 9.0,
+      "carbs_g": 86.0,
+      "fat_g": 41.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1720.0,
+      "serving_note": "per large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "homestyle-mac-cheese-reg",
+      "name": "Homestyle Mac & Cheese",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 11.0,
+      "carbs_g": 16.0,
+      "fat_g": 20.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 510.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "homestyle-mac-cheese-lg",
+      "name": "Homestyle Mac & Cheese",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 850.0,
+      "protein_g": 33.0,
+      "carbs_g": 48.0,
+      "fat_g": 63.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1540.0,
+      "serving_note": "per large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "mashed-potatoes-with-cajun-gravy-reg",
+      "name": "Mashed Potatoes With Cajun Gravy",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 3.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 750.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "mashed-potatoes-with-cajun-gravy-lg",
+      "name": "Mashed Potatoes With Cajun Gravy",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 7.0,
+      "carbs_g": 39.0,
+      "fat_g": 14.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 2190.0,
+      "serving_note": "per large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "red-beans-rice-reg",
+      "name": "Red Beans & Rice",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 7.0,
+      "carbs_g": 29.0,
+      "fat_g": 16.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "red-beans-rice-lg",
+      "name": "Red Beans & Rice",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 640.0,
+      "protein_g": 18.0,
+      "carbs_g": 73.0,
+      "fat_g": 40.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 1420.0,
+      "serving_note": "per large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "coleslaw-reg",
+      "name": "Coleslaw",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 1.0,
+      "carbs_g": 12.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "coleslaw-lg",
+      "name": "Coleslaw",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 480.0,
+      "protein_g": 3.0,
+      "carbs_g": 37.0,
+      "fat_g": 37.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cajun-rice-reg",
+      "name": "Cajun Rice",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 9.0,
+      "carbs_g": 27.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cajun-rice-lg",
+      "name": "Cajun Rice",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 780.0,
+      "protein_g": 31.0,
+      "carbs_g": 107.0,
+      "fat_g": 26.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1650.0,
+      "serving_note": "per large serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cajun-gravy-reg",
+      "name": "Cajun Gravy",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 10.0,
+      "carbs_g": 2.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 820.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "jalape-o-1",
+      "name": "Jalapeño",
+      "description": "Popeyes nutrition guide section: SIGNATURE SIDES.",
+      "category": "side",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "bayou-buffalo-1",
+      "name": "Bayou Buffalo",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 50.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 5.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "boldbq-1",
+      "name": "BoldBQ",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 60.0,
+      "protein_g": 0.0,
+      "carbs_g": 14.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 400.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "blackened-ranch-1",
+      "name": "Blackened Ranch",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 230.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "buttermilk-ranch-1",
+      "name": "Buttermilk Ranch",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 130.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 14.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "mardi-gras-mustard-1",
+      "name": "Mardi Gras Mustard",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 90.0,
+      "protein_g": 1.0,
+      "carbs_g": 4.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sweet-heat-1",
+      "name": "Sweet Heat",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 70.0,
+      "protein_g": 0.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "signature-sauce-1",
+      "name": "Signature Sauce",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 3.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 330.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "wild-honey-mustard-1",
+      "name": "Wild Honey Mustard",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 110.0,
+      "protein_g": 0.0,
+      "carbs_g": 5.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cocktail-sauce-1",
+      "name": "Cocktail Sauce",
+      "description": "Popeyes nutrition guide section: SIGNATURE DIPPING SAUCES.",
+      "category": "condiment",
+      "calories": 35.0,
+      "protein_g": 1.0,
+      "carbs_g": 9.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 370.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "chicken-biscuit-1",
+      "name": "Chicken Biscuit",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "meal",
+      "calories": 490.0,
+      "protein_g": 17.0,
+      "carbs_g": 47.0,
+      "fat_g": 26.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1280.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sausage-biscuit-1",
+      "name": "Sausage Biscuit",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 13.0,
+      "carbs_g": 41.0,
+      "fat_g": 36.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1100.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "egg-biscuit-1",
+      "name": "Egg Biscuit",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 13.0,
+      "carbs_g": 41.0,
+      "fat_g": 29.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1160.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "egg-sausage-biscuit-1",
+      "name": "Egg & Sausage Biscuit",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "meal",
+      "calories": 690.0,
+      "protein_g": 20.0,
+      "carbs_g": 43.0,
+      "fat_g": 45.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1520.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "bacon-biscuit-1",
+      "name": "Bacon Biscuit",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "meal",
+      "calories": 400.0,
+      "protein_g": 8.0,
+      "carbs_g": 37.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 780.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sausage-gravy-biscuit-1",
+      "name": "Sausage & Gravy Biscuit",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 10.0,
+      "carbs_g": 42.0,
+      "fat_g": 33.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1090.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "hash-rounds-1",
+      "name": "Hash Rounds",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "side",
+      "calories": 360.0,
+      "protein_g": 3.0,
+      "carbs_g": 41.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "coffee-1",
+      "name": "Coffee",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "orange-juice-1",
+      "name": "Orange Juice",
+      "description": "Popeyes nutrition guide section: BREAKFAST*.",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "coke-reg",
+      "name": "Coke",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "diet-coke-reg",
+      "name": "Diet Coke",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sprite-reg",
+      "name": "Sprite",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 230.0,
+      "protein_g": 0.0,
+      "carbs_g": 61.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 115.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "fanta-strawberry-reg",
+      "name": "Fanta Strawberry",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 260.0,
+      "protein_g": 0.0,
+      "carbs_g": 72.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "fanta-orange-reg",
+      "name": "Fanta Orange",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 66.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "mountain-dew-reg",
+      "name": "Mountain Dew",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 0.0,
+      "carbs_g": 73.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "pepsi-reg",
+      "name": "Pepsi",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 0.0,
+      "carbs_g": 69.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "diet-pepsi-reg",
+      "name": "Diet Pepsi",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 95.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "dr-pepper-reg",
+      "name": "Dr Pepper",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 0.0,
+      "carbs_g": 65.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 75.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "unsweetened-tea-reg",
+      "name": "Unsweetened Tea",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "sweet-tea-reg",
+      "name": "Sweet Tea",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 0.0,
+      "carbs_g": 45.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "minute-maid-lemonade-reg",
+      "name": "Minute Maid Lemonade",
+      "description": "Popeyes nutrition guide section: BEVERAGES.",
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 0.0,
+      "carbs_g": 71.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per regular serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "cinnamon-apple-pie-1",
+      "name": "Cinnamon Apple Pie",
+      "description": "Popeyes nutrition guide section: DESSERTS.",
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 3.0,
+      "carbs_g": 35.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 260.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "strawberry-cream-cheese-pie-1",
+      "name": "Strawberry & Cream Cheese Pie",
+      "description": "Popeyes nutrition guide section: DESSERTS.",
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 4.0,
+      "carbs_g": 34.0,
+      "fat_g": 17.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "tender-classic-1",
+      "name": "Tender - Classic",
+      "description": "Popeyes nutrition guide section: (SEE REG SIDES, KIDS BEVERAGES AND SAUCES AS LISTED).",
+      "category": "component",
+      "calories": 130.0,
+      "protein_g": 12.0,
+      "carbs_g": 8.0,
+      "fat_g": 6.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    },
+    {
+      "id": "leg-classic-1",
+      "name": "Leg - Classic",
+      "description": "Popeyes nutrition guide section: (SEE REG SIDES, KIDS BEVERAGES AND SAUCES AS LISTED).",
+      "category": "component",
+      "calories": 190.0,
+      "protein_g": 12.0,
+      "carbs_g": 9.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 350.0,
+      "serving_note": "per piece",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://plk-use1-prod.sites.rbictg.com/nutrition/PLK_Nutrition.pdf"
+      }
+    }
+  ]
+}

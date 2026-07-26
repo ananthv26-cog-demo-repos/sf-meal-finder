@@ -1,0 +1,273 @@
+{
+  "id": "insomnia-cookies",
+  "name": "Insomnia Cookies",
+  "website": "https://insomniacookies.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "362 Kearny St, San Francisco, CA 94108",
+      "lat": 37.7916227,
+      "lng": -122.404108,
+      "neighborhood": "Union Square"
+    }
+  ],
+  "items": [
+    {
+      "id": "chocolate-chunk-p4",
+      "name": "Chocolate Chunk",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "m-m-p5",
+      "name": "M&M",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 34.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "double-chocolate-chunk-p7",
+      "name": "Double Chocolate Chunk",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 150.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "mint-chocolate-chunk-p8",
+      "name": "Mint Chocolate Chunk",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 3.0,
+      "carbs_g": 31.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "oatmeal-raisin-p9",
+      "name": "Oatmeal Raisin",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 135.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chip-p14",
+      "name": "Chocolate Chip",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 2.0,
+      "carbs_g": 33.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "brookie-p27",
+      "name": "Brookie",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 490.0,
+      "protein_g": 6.0,
+      "carbs_g": 67.0,
+      "fat_g": 24.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 280.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "salted-caramel-ice-cream-p31",
+      "name": "Salted Caramel Ice Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 1.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 110.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "chocolate-ice-cream-p32",
+      "name": "Chocolate Ice Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 12.0,
+      "fat_g": 7.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 2 oz ice cream serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "chocolate-chunk-ice-cream-p33",
+      "name": "Chocolate Chunk Ice Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "double-chocolate-chunk-ice-cream-p34",
+      "name": "Double Chocolate Chunk Ice Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "chocolate-mint-ice-cream-p36",
+      "name": "Chocolate Mint Ice Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 130.0,
+      "protein_g": 2.0,
+      "carbs_g": 14.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-cup-ice-cream-p37",
+      "name": "Peanut Butter Cup Ice Cream",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 2.0,
+      "carbs_g": 16.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per labeled Nutrition Facts serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    },
+    {
+      "id": "vanilla-ice-cream-large-panel-p38",
+      "name": "Vanilla Ice Cream (large panel)",
+      "description": "Product name is image-only in the published PDF; labeled Nutrition Facts values parsed from the panel.",
+      "category": "side",
+      "calories": 120.0,
+      "protein_g": 2.0,
+      "carbs_g": 12.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per large labeled ice cream serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://api.insomniacookies.com/uploads/Insomnia%20Cookies%20Overall%20Nutritional%20Facts%20Guide.pdf"
+      }
+    }
+  ]
+}

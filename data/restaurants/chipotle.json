@@ -1,0 +1,801 @@
+{
+  "id": "chipotle",
+  "name": "Chipotle Mexican Grill",
+  "website": "https://www.chipotle.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US",
+    "vendor": null,
+    "retrieved": "2026-07-25"
+  },
+  "locations": [
+    {
+      "address": "121 4th St # 135, San Francisco, CA 94103-3003",
+      "lat": 37.784232,
+      "lng": -122.403689,
+      "neighborhood": null
+    },
+    {
+      "address": "211 Sutter St, San Francisco, CA 94104",
+      "lat": 37.78968,
+      "lng": -122.404021,
+      "neighborhood": null
+    },
+    {
+      "address": "2675 Geary Boulevard, San Francisco, CA 94118",
+      "lat": 37.78183,
+      "lng": -122.445633,
+      "neighborhood": null
+    },
+    {
+      "address": "525 Market Street, San Francisco, CA 94105",
+      "lat": 37.7904,
+      "lng": -122.399472,
+      "neighborhood": null
+    },
+    {
+      "address": "400 Howard St Ste 110, San Francisco, CA 94105-9876",
+      "lat": 37.788882,
+      "lng": -122.396157,
+      "neighborhood": null
+    },
+    {
+      "address": "50 California St, San Francisco, CA 94111",
+      "lat": 37.794388,
+      "lng": -122.397535,
+      "neighborhood": null
+    },
+    {
+      "address": "3251 20th Ave, San Francisco, CA 94132",
+      "lat": 37.727635,
+      "lng": -122.476593,
+      "neighborhood": null
+    },
+    {
+      "address": "1523 Sloat Blvd, San Francisco, CA 94132-1222",
+      "lat": 37.732506,
+      "lng": -122.489986,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "component-cmg-1",
+      "name": "Chicken (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 180,
+      "protein_g": 32,
+      "carbs_g": 0,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 310
+    },
+    {
+      "id": "component-cmg-2",
+      "name": "Steak (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 150,
+      "protein_g": 21,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 1,
+      "sodium_mg": 330
+    },
+    {
+      "id": "component-cmg-3",
+      "name": "Carnitas (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 210,
+      "protein_g": 23,
+      "carbs_g": 0,
+      "fat_g": 12,
+      "fiber_g": 0,
+      "sodium_mg": 450
+    },
+    {
+      "id": "component-cmg-4",
+      "name": "Barbacoa (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 170,
+      "protein_g": 24,
+      "carbs_g": 2,
+      "fat_g": 7,
+      "fiber_g": 1,
+      "sodium_mg": 530
+    },
+    {
+      "id": "component-cmg-5",
+      "name": "Sofritas (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 150,
+      "protein_g": 8,
+      "carbs_g": 9,
+      "fat_g": 10,
+      "fiber_g": 3,
+      "sodium_mg": 560
+    },
+    {
+      "id": "component-cmg-16",
+      "name": "Chicken Tinga (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 200,
+      "protein_g": 23,
+      "carbs_g": 5,
+      "fat_g": 10,
+      "fiber_g": 1,
+      "sodium_mg": 680
+    },
+    {
+      "id": "component-cmg-17",
+      "name": "Crispy Chicken (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 220,
+      "protein_g": 33,
+      "carbs_g": 7,
+      "fat_g": 7,
+      "fiber_g": 3,
+      "sodium_mg": 700
+    },
+    {
+      "id": "component-cmg-11",
+      "name": "Pollo Asado (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 180,
+      "protein_g": 29,
+      "carbs_g": 3,
+      "fat_g": 7,
+      "fiber_g": 0,
+      "sodium_mg": 350
+    },
+    {
+      "id": "component-cmg-5001",
+      "name": "White Rice (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 210,
+      "protein_g": 4,
+      "carbs_g": 40,
+      "fat_g": 4,
+      "fiber_g": 1,
+      "sodium_mg": 350
+    },
+    {
+      "id": "component-cmg-5002",
+      "name": "Brown Rice (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 210,
+      "protein_g": 4,
+      "carbs_g": 36,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 190
+    },
+    {
+      "id": "component-cmg-5051",
+      "name": "Black Beans (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 130,
+      "protein_g": 8,
+      "carbs_g": 22,
+      "fat_g": 1.5,
+      "fiber_g": 7,
+      "sodium_mg": 210
+    },
+    {
+      "id": "component-cmg-5052",
+      "name": "Pinto Beans (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 130,
+      "protein_g": 8,
+      "carbs_g": 21,
+      "fat_g": 1.5,
+      "fiber_g": 8,
+      "sodium_mg": 210
+    },
+    {
+      "id": "component-cmg-5101",
+      "name": "Fajita Veggies",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2.5 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 20,
+      "protein_g": 1,
+      "carbs_g": 5,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 150
+    },
+    {
+      "id": "component-cmg-5201",
+      "name": "Fresh Tomato Salsa",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3.5 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 25,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 550
+    },
+    {
+      "id": "component-cmg-5204",
+      "name": "Tomatillo-Red Chili Salsa",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 30,
+      "protein_g": 0,
+      "carbs_g": 4,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 500
+    },
+    {
+      "id": "component-cmg-5251",
+      "name": "Sour Cream",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 110,
+      "protein_g": 2,
+      "carbs_g": 2,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sodium_mg": 30
+    },
+    {
+      "id": "component-cmg-5252",
+      "name": "Cheese",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 110,
+      "protein_g": 6,
+      "carbs_g": 1,
+      "fat_g": 8,
+      "fiber_g": 0,
+      "sodium_mg": 190
+    },
+    {
+      "id": "component-cmg-5301",
+      "name": "Guacamole (4 oz)",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 4 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 230,
+      "protein_g": 2,
+      "carbs_g": 8,
+      "fat_g": 22,
+      "fiber_g": 6,
+      "sodium_mg": 370
+    },
+    {
+      "id": "component-cmg-5351",
+      "name": "Romaine Lettuce",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 5,
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "fiber_g": 1,
+      "sodium_mg": 0
+    },
+    {
+      "id": "component-cmg-5501",
+      "name": "Burrito Flour Tortilla",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 3 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 250,
+      "protein_g": 7,
+      "carbs_g": 40,
+      "fat_g": 8,
+      "fiber_g": 2,
+      "sodium_mg": 480
+    },
+    {
+      "id": "component-cmg-5403",
+      "name": "2 Crispy Corn Tortillas",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 1 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 140,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fat_g": 6,
+      "fiber_g": 2,
+      "sodium_mg": 0
+    },
+    {
+      "id": "component-cmg-5404",
+      "name": "2 Soft Flour Tortillas",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 170,
+      "protein_g": 5,
+      "carbs_g": 27,
+      "fat_g": 5,
+      "fiber_g": 1,
+      "sodium_mg": 320
+    },
+    {
+      "id": "component-cmg-5353",
+      "name": "Chipotle-Honey Vinaigrette",
+      "description": null,
+      "category": "component",
+      "is_estimate": false,
+      "serving_note": "per 2 oz",
+      "source": {
+        "type": "published",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 220,
+      "protein_g": 1,
+      "carbs_g": 18,
+      "fat_g": 16,
+      "fiber_g": 1,
+      "sodium_mg": 850
+    },
+    {
+      "id": "chicken-bowl",
+      "name": "Chicken Burrito Bowl",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 660,
+      "protein_g": 50,
+      "carbs_g": 68,
+      "fat_g": 20.5,
+      "fiber_g": 10,
+      "sodium_mg": 1610
+    },
+    {
+      "id": "chicken-burrito",
+      "name": "Chicken Burrito",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 910,
+      "protein_g": 57,
+      "carbs_g": 108,
+      "fat_g": 28.5,
+      "fiber_g": 12,
+      "sodium_mg": 2090
+    },
+    {
+      "id": "chicken-salad",
+      "name": "Chicken Salad",
+      "description": "Standard build with black beans, fresh tomato salsa, cheese and honey vinaigrette. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 670,
+      "protein_g": 47,
+      "carbs_g": 46,
+      "fat_g": 32.5,
+      "fiber_g": 10,
+      "sodium_mg": 2110
+    },
+    {
+      "id": "steak-bowl",
+      "name": "Steak Burrito Bowl",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 630,
+      "protein_g": 39,
+      "carbs_g": 69,
+      "fat_g": 19.5,
+      "fiber_g": 11,
+      "sodium_mg": 1630
+    },
+    {
+      "id": "steak-burrito",
+      "name": "Steak Burrito",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 880,
+      "protein_g": 46,
+      "carbs_g": 109,
+      "fat_g": 27.5,
+      "fiber_g": 13,
+      "sodium_mg": 2110
+    },
+    {
+      "id": "steak-salad",
+      "name": "Steak Salad",
+      "description": "Standard build with black beans, fresh tomato salsa, cheese and honey vinaigrette. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 640,
+      "protein_g": 36,
+      "carbs_g": 47,
+      "fat_g": 31.5,
+      "fiber_g": 11,
+      "sodium_mg": 2130
+    },
+    {
+      "id": "carnitas-bowl",
+      "name": "Carnitas Burrito Bowl",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 690,
+      "protein_g": 41,
+      "carbs_g": 68,
+      "fat_g": 25.5,
+      "fiber_g": 10,
+      "sodium_mg": 1750
+    },
+    {
+      "id": "carnitas-burrito",
+      "name": "Carnitas Burrito",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 940,
+      "protein_g": 48,
+      "carbs_g": 108,
+      "fat_g": 33.5,
+      "fiber_g": 12,
+      "sodium_mg": 2230
+    },
+    {
+      "id": "carnitas-salad",
+      "name": "Carnitas Salad",
+      "description": "Standard build with black beans, fresh tomato salsa, cheese and honey vinaigrette. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 700,
+      "protein_g": 38,
+      "carbs_g": 46,
+      "fat_g": 37.5,
+      "fiber_g": 10,
+      "sodium_mg": 2250
+    },
+    {
+      "id": "barbacoa-bowl",
+      "name": "Barbacoa Burrito Bowl",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 650,
+      "protein_g": 42,
+      "carbs_g": 70,
+      "fat_g": 20.5,
+      "fiber_g": 11,
+      "sodium_mg": 1830
+    },
+    {
+      "id": "barbacoa-burrito",
+      "name": "Barbacoa Burrito",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 900,
+      "protein_g": 49,
+      "carbs_g": 110,
+      "fat_g": 28.5,
+      "fiber_g": 13,
+      "sodium_mg": 2310
+    },
+    {
+      "id": "barbacoa-salad",
+      "name": "Barbacoa Salad",
+      "description": "Standard build with black beans, fresh tomato salsa, cheese and honey vinaigrette. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 660,
+      "protein_g": 39,
+      "carbs_g": 48,
+      "fat_g": 32.5,
+      "fiber_g": 11,
+      "sodium_mg": 2330
+    },
+    {
+      "id": "sofritas-bowl",
+      "name": "Sofritas Burrito Bowl",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 630,
+      "protein_g": 26,
+      "carbs_g": 77,
+      "fat_g": 23.5,
+      "fiber_g": 13,
+      "sodium_mg": 1860
+    },
+    {
+      "id": "sofritas-burrito",
+      "name": "Sofritas Burrito",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 880,
+      "protein_g": 33,
+      "carbs_g": 117,
+      "fat_g": 31.5,
+      "fiber_g": 15,
+      "sodium_mg": 2340
+    },
+    {
+      "id": "sofritas-salad",
+      "name": "Sofritas Salad",
+      "description": "Standard build with black beans, fresh tomato salsa, cheese and honey vinaigrette. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 640,
+      "protein_g": 23,
+      "carbs_g": 55,
+      "fat_g": 35.5,
+      "fiber_g": 13,
+      "sodium_mg": 2360
+    },
+    {
+      "id": "pollo-asado-bowl",
+      "name": "Pollo Asado Burrito Bowl",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 660,
+      "protein_g": 47,
+      "carbs_g": 71,
+      "fat_g": 20.5,
+      "fiber_g": 10,
+      "sodium_mg": 1650
+    },
+    {
+      "id": "pollo-asado-burrito",
+      "name": "Pollo Asado Burrito",
+      "description": "Standard build with white rice, black beans, fresh tomato salsa, cheese and lettuce. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 910,
+      "protein_g": 54,
+      "carbs_g": 111,
+      "fat_g": 28.5,
+      "fiber_g": 12,
+      "sodium_mg": 2130
+    },
+    {
+      "id": "pollo-asado-salad",
+      "name": "Pollo Asado Salad",
+      "description": "Standard build with black beans, fresh tomato salsa, cheese and honey vinaigrette. Sum of Chipotle's published per-ingredient nutrition.",
+      "category": "meal",
+      "is_estimate": true,
+      "serving_note": "per standard entree build",
+      "source": {
+        "type": "derived",
+        "url": "https://services.chipotle.com/menu-metadata/v1/menu-metadata/nutrition?channel=web&region=US"
+      },
+      "calories": 670,
+      "protein_g": 44,
+      "carbs_g": 49,
+      "fat_g": 32.5,
+      "fiber_g": 10,
+      "sodium_mg": 2150
+    }
+  ]
+}
