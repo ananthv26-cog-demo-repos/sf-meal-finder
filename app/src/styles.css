@@ -125,19 +125,19 @@ input[type="number"]:focus,
   transform: translateY(-50%);
 }
 .result-summary {
-  align-items: end;
+  align-items: baseline;
   display: flex;
-  flex-direction: column;
-  gap: var(--sp-1);
+  gap: var(--sp-2);
+  padding-bottom: var(--sp-3);
   white-space: nowrap;
 }
 .result-summary strong {
   color: var(--ink);
-  font-size: var(--fs-display);
+  font-size: var(--fs-xl);
   font-variant-numeric: tabular-nums;
   font-weight: var(--fw-semibold);
-  letter-spacing: -.04em;
-  line-height: .9;
+  letter-spacing: -.02em;
+  line-height: 1;
 }
 .result-summary span {
   color: var(--text-faint);
@@ -515,9 +515,7 @@ input:focus-visible {
     grid-template-columns: 1fr auto;
     padding: var(--sp-4) 0;
   }
-  .result-summary {
-    align-items: end;
-  }
+
   .filter-bottom {
     gap: var(--sp-4);
     grid-template-columns: 1fr auto;
