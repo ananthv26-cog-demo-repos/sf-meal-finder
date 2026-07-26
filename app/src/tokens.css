@@ -16,12 +16,13 @@
   --sp-5: 24px;
   --sp-6: 32px;
   --control-h: 30px;
-  --slider-track-h: 5px;
-  --slider-thumb: 18px;
+  --slider-track-h: 2px;
+  --slider-thumb: 13px;
   --r-round: 999px;
   --map-bg: #ecebea;
   --bg: #f7f6f5;
   --line: rgba(0, 0, 0, .08);
+  --line-strong: rgba(0, 0, 0, .14);
   --ink: #000;
   --text: #191919;
   --text-secondary: rgba(25, 25, 25, .56);
