@@ -21,6 +21,9 @@ export type SortKey = 'name' | 'calories' | 'protein_g' | 'protein_pct' | 'carbs
 export type SortDirection = 'asc' | 'desc'
 export type Filters = { minCalories: string; maxCalories: string; minProtein: string; unofficial: boolean; search: string }
 export const DRINK_PROTEIN_MIN = 20
+export function isHighProteinDrink(meal: Meal) {
+  return meal.category === 'drink' && meal.protein_g >= DRINK_PROTEIN_MIN
+}
 export function isEligibleResult(meal: Meal) {
-  return meal.category === 'meal' || (meal.category === 'drink' && meal.protein_g >= DRINK_PROTEIN_MIN)
+  return meal.category === 'meal' || isHighProteinDrink(meal)
 }

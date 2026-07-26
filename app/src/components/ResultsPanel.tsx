@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react'
-import { DRINK_PROTEIN_MIN } from '../types'
+import { isHighProteinDrink } from '../types'
 import type { Meal, Restaurant, SortDirection, SortKey } from '../types'
 import { formatNumber, isHttpUrl, proteinPercent } from '../format'
 
@@ -17,6 +17,6 @@ function MealRow({ meal, restaurant, selected, onSelect }: { meal: Meal; restaur
   const restaurantName = restaurant?.name ?? meal.restaurant_id
   const sourceChip: ReactNode = isHttpUrl(meal.source_url) ? <a className="source-chip" href={meal.source_url} target="_blank" rel="noopener noreferrer" onClick={(event) => event.stopPropagation()}>{meal.source_type}</a> : <span className="source-chip">{meal.source_type}</span>
   return <div aria-label={`${meal.name}, ${restaurantName}, ${formatNumber(meal.calories, false, 0)} calories, ${formatNumber(meal.protein_g, false, 1)} grams protein${meal.is_estimate ? ' estimated' : ''} — focus on map`} className={`meal-row ${selected ? 'selected' : ''}`} role="button" tabIndex={0} onClick={() => onSelect(meal.restaurant_id)} onKeyDown={(event) => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); onSelect(meal.restaurant_id) } }}>
-    <div className="meal-info"><strong>{meal.name}</strong><span>{restaurantName}{meal.serving_note ? ` · ${meal.serving_note}` : ''}</span><div className="badges">{meal.category === 'drink' && meal.protein_g >= DRINK_PROTEIN_MIN && <em className="drink-badge">DRINK</em>}{meal.is_estimate && <em>~est</em>}{sourceChip}</div></div><span className="number">{formatNumber(meal.calories, meal.is_estimate, 0)}</span><span className="number protein">{formatNumber(meal.protein_g, meal.is_estimate, 1)}g</span><span className="number">{formatNumber(proteinPercent(meal), meal.is_estimate, 0)}%</span><span className="number">{formatNumber(meal.carbs_g, meal.is_estimate, 1)}g</span><span className="number">{formatNumber(meal.fat_g, meal.is_estimate, 1)}g</span>
+    <div className="meal-info"><strong>{meal.name}</strong><span>{restaurantName}{meal.serving_note ? ` · ${meal.serving_note}` : ''}</span><div className="badges">{isHighProteinDrink(meal) && <em className="drink-badge">DRINK</em>}{meal.is_estimate && <em>~est</em>}{sourceChip}</div></div><span className="number">{formatNumber(meal.calories, meal.is_estimate, 0)}</span><span className="number protein">{formatNumber(meal.protein_g, meal.is_estimate, 1)}g</span><span className="number">{formatNumber(proteinPercent(meal), meal.is_estimate, 0)}%</span><span className="number">{formatNumber(meal.carbs_g, meal.is_estimate, 1)}g</span><span className="number">{formatNumber(meal.fat_g, meal.is_estimate, 1)}g</span>
   </div>
 }
