@@ -325,3 +325,15 @@ input[type="number"]:focus, .search-input:focus {
   .column-head, .meal-row { grid-template-columns: minmax(116px, 1fr) 48px 56px 44px 50px 44px; }
   .column-head, .meal-row { padding-left: var(--sp-4); padding-right: var(--sp-4); }
 }
+@media (max-width: 480px) {
+  .column-head, .meal-row {
+    column-gap: 8px;
+    grid-template-columns: minmax(0, 1fr) 50px 64px 48px;
+  }
+  .column-head > :nth-child(5),
+  .column-head > :nth-child(6),
+  .meal-row > :nth-child(5),
+  .meal-row > :nth-child(6) {
+    display: none;
+  }
+}
