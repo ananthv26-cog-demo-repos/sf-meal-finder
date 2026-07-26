@@ -118,7 +118,7 @@ NUM_FIELDS = ("calories", "fat_g", "carbs_g", "protein_g", "sodium_mg")
 
 
 def slug(value):
-    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")[:80]
+    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
 
 
 def fetch(url):
@@ -173,11 +173,24 @@ def parse_pdf(data):
 
 
 def build_items(rows):
-    items, by_key = [], {}
+    items, by_key, ids = [], {}, {}
     for section, name, values in rows:
         category, serving = SECTIONS[section]
+        if section == "Gourmet Salad ( Dressing not included )" and name.casefold().startswith("macaroni salad"):
+            category = "side"
+            serving = "per side portion, dressing not included"
+        full_key = (section, name)
+        item_id = f"{slug(section)}-{slug(name)}"
+        short_id = item_id[:90]
+        if full_key in by_key:
+            continue
+        if short_id in ids and ids[short_id] != full_key:
+            raise SystemExit(
+                f"ono: item id collision after truncation: {short_id!r} "
+                f"for {ids[short_id]!r} and {full_key!r}"
+            )
         item = {
-            "id": f"{slug(section)}-{slug(name)}"[:90],
+            "id": short_id,
             "name": name,
             "description": None,
             "category": category,
@@ -187,9 +200,8 @@ def build_items(rows):
             "source": {"type": "published", "url": PDF_URL},
             **values,
         }
-        if item["id"] in by_key:
-            continue  # the PDF repeats a few rows verbatim across sections
-        by_key[item["id"]] = item
+        by_key[full_key] = item
+        ids[short_id] = full_key
         items.append(item)
     return items, {(s, n): v for s, n, v in rows}
 

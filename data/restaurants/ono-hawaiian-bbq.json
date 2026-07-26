@@ -1263,9 +1263,9 @@
       "id": "gourmet-salad-dressing-not-included-macaroni-salad-2-scoops",
       "name": "Macaroni Salad (2 scoops)",
       "description": null,
-      "category": "meal",
+      "category": "side",
       "fiber_g": null,
-      "serving_note": "per salad, dressing not included",
+      "serving_note": "per side portion, dressing not included",
       "is_estimate": false,
       "source": {
         "type": "published",
@@ -1281,9 +1281,9 @@
       "id": "gourmet-salad-dressing-not-included-macaroni-salad-4-scoops",
       "name": "Macaroni Salad (4 scoops)",
       "description": null,
-      "category": "meal",
+      "category": "side",
       "fiber_g": null,
-      "serving_note": "per salad, dressing not included",
+      "serving_note": "per side portion, dressing not included",
       "is_estimate": false,
       "source": {
         "type": "published",

@@ -4,7 +4,7 @@
   --fs-sm: 12px;
   --fs-md: 14px;
   --fs-lg: 16px;
-  --fs-xl: 22px;
+  --fs-xl: 20px;
   --fw-regular: 400;
   --fw-medium: 500;
   --fw-semibold: 600;
@@ -29,7 +29,6 @@
   --estimate-bg: #f3eadb;
   --chip-bg: #eceae5;
   --control-bg: #f8f6f2;
-  --map-overlay: rgba(251, 250, 248, .86);
   --results-grid: minmax(220px, 1fr) 64px 76px 64px 52px;
   --input-width: 74px;
 }
