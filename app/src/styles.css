@@ -136,6 +136,7 @@ input[type="number"]:focus, .search-input:focus {
 .results-panel { min-width: 0; overflow: auto; }
 .column-head, .meal-row { display: grid; grid-template-columns: var(--results-grid); }
 .column-head {
+  background: var(--bg);
   border-bottom: 1px solid var(--line);
   color: var(--text-faint);
   font-family: var(--font-mono);
@@ -148,7 +149,7 @@ input[type="number"]:focus, .search-input:focus {
   top: 0;
   z-index: 1;
 }
-.column-head span:not(:first-child), .number { text-align: right; }
+.column-head > [role="columnheader"]:not(:first-child), .number { text-align: right; }
 .sort-button {
   background: transparent;
   border: 0;

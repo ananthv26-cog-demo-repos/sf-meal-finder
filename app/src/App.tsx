@@ -85,7 +85,6 @@ function SortHeader({
   return (
     <button
       aria-label={`Sort by ${label.toLowerCase()}`}
-      aria-sort={active ? direction === 'asc' ? 'ascending' : 'descending' : 'none'}
       className={`sort-button ${active ? 'active' : ''}`}
       type="button"
       onClick={() => onSort(sortKey)}
@@ -173,12 +172,20 @@ function App() {
       </header>
       <section className="workspace">
         <div className="results-panel">
-          <div className="column-head">
-            <span>MEAL</span>
-            <SortHeader activeKey={sortKey} direction={sortDirection} label="Cal" sortKey="calories" onSort={updateSort} />
-            <SortHeader activeKey={sortKey} direction={sortDirection} label="Protein" sortKey="protein_g" onSort={updateSort} />
-            <SortHeader activeKey={sortKey} direction={sortDirection} label="Carbs" sortKey="carbs_g" onSort={updateSort} />
-            <SortHeader activeKey={sortKey} direction={sortDirection} label="Fat" sortKey="fat_g" onSort={updateSort} />
+          <div className="column-head" role="row">
+            <div role="columnheader">MEAL</div>
+            <div aria-sort={sortKey === 'calories' ? sortDirection === 'asc' ? 'ascending' : 'descending' : 'none'} role="columnheader">
+              <SortHeader activeKey={sortKey} direction={sortDirection} label="Cal" sortKey="calories" onSort={updateSort} />
+            </div>
+            <div aria-sort={sortKey === 'protein_g' ? sortDirection === 'asc' ? 'ascending' : 'descending' : 'none'} role="columnheader">
+              <SortHeader activeKey={sortKey} direction={sortDirection} label="Protein" sortKey="protein_g" onSort={updateSort} />
+            </div>
+            <div aria-sort={sortKey === 'carbs_g' ? sortDirection === 'asc' ? 'ascending' : 'descending' : 'none'} role="columnheader">
+              <SortHeader activeKey={sortKey} direction={sortDirection} label="Carbs" sortKey="carbs_g" onSort={updateSort} />
+            </div>
+            <div aria-sort={sortKey === 'fat_g' ? sortDirection === 'asc' ? 'ascending' : 'descending' : 'none'} role="columnheader">
+              <SortHeader activeKey={sortKey} direction={sortDirection} label="Fat" sortKey="fat_g" onSort={updateSort} />
+            </div>
           </div>
           <div className="result-list">
             {filteredMeals.map((meal) => {
