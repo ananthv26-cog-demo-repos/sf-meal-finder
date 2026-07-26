@@ -132,10 +132,23 @@ function App() {
                 ? <a className="source-chip" href={meal.source_url} target="_blank" rel="noopener noreferrer" onClick={(event) => event.stopPropagation()}>{meal.source_type}</a>
                 : <span className="source-chip">{meal.source_type}</span>
               return (
-                <button className={`meal-row ${selectedRestaurant === meal.restaurant_id ? 'selected' : ''}`} key={`${meal.restaurant_id}-${meal.id}`} onClick={() => setSelectedRestaurant(meal.restaurant_id)}>
+                <div
+                  aria-label={`Focus ${restaurant?.name ?? meal.restaurant_id} on map`}
+                  className={`meal-row ${selectedRestaurant === meal.restaurant_id ? 'selected' : ''}`}
+                  key={`${meal.restaurant_id}-${meal.id}`}
+                  role="button"
+                  tabIndex={0}
+                  onClick={() => setSelectedRestaurant(meal.restaurant_id)}
+                  onKeyDown={(event) => {
+                    if (event.key === 'Enter' || event.key === ' ') {
+                      event.preventDefault()
+                      setSelectedRestaurant(meal.restaurant_id)
+                    }
+                  }}
+                >
                   <div className="meal-info"><strong>{meal.name}</strong><span>{restaurant?.name ?? meal.restaurant_id}{meal.serving_note ? ` · ${meal.serving_note}` : ''}</span><div className="badges">{meal.is_estimate && <em>estimate</em>}{sourceChip}</div></div>
                   <span className="number">{formatNumber(meal.calories, meal.is_estimate)}</span><span className="number protein">{formatNumber(meal.protein_g, meal.is_estimate)}g</span><span className="number">{formatNumber(meal.carbs_g, meal.is_estimate)}g</span><span className="number">{formatNumber(meal.fat_g, meal.is_estimate)}g</span>
-                </button>
+                </div>
               )
             })}
             {filteredMeals.length === 0 && <p className="empty">No meals match these filters.</p>}

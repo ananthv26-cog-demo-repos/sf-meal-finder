@@ -24,6 +24,7 @@ input[type="number"], .search-input { border: 1px solid var(--border); border-ra
 .column-head span:not(:first-child), .number { text-align: right; }
 .meal-row { background: var(--surface); border: 0; border-bottom: 1px solid var(--border); cursor: pointer; padding: var(--sp-3) var(--sp-4); text-align: left; width: 100%; }
 .meal-row:hover, .meal-row.selected { background: var(--selection); }
+.meal-row:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
 .meal-info { min-width: 0; padding-right: var(--sp-3); }
 .meal-info strong, .meal-info span { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .meal-info strong { font-size: var(--fs-md); font-weight: var(--fw-medium); }
