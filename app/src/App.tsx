@@ -50,8 +50,9 @@ function App() {
   const visibleRestaurantIds = useMemo(() => new Set(filteredMeals.map((meal) => meal.restaurant_id)), [filteredMeals])
   const totalMeals = useMemo(() => meals.filter((meal) => meal.category === 'meal').length, [meals])
   const estimateRestaurantIds = useMemo(() => {
-    const estimated = new Set(meals.filter((meal) => meal.is_estimate).map((meal) => meal.restaurant_id))
-    const published = new Set(meals.filter((meal) => !meal.is_estimate).map((meal) => meal.restaurant_id))
+    const mealEntries = meals.filter((meal) => meal.category === 'meal')
+    const estimated = new Set(mealEntries.filter((meal) => meal.is_estimate).map((meal) => meal.restaurant_id))
+    const published = new Set(mealEntries.filter((meal) => !meal.is_estimate).map((meal) => meal.restaurant_id))
     return new Set([...estimated].filter((restaurantId) => !published.has(restaurantId)))
   }, [meals])
 
