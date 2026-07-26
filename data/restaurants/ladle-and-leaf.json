@@ -1,0 +1,4035 @@
+{
+  "id": "ladle-and-leaf",
+  "name": "Ladle & Leaf",
+  "website": "https://ladleandleaf.com/",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://ladleandleaf.com/products/",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "500 Parnassus Avenue, San Francisco, CA",
+      "lat": 37.7633263,
+      "lng": -122.4587785,
+      "neighborhood": null
+    },
+    {
+      "address": "221 Montgomery Street, San Francisco, CA",
+      "lat": 37.7913014,
+      "lng": -122.4026093,
+      "neighborhood": null
+    },
+    {
+      "address": "580 California Street, San Francisco, CA",
+      "lat": 37.7929844,
+      "lng": -122.404152,
+      "neighborhood": null
+    },
+    {
+      "address": "1 California Street, San Francisco, CA",
+      "lat": 37.7931799,
+      "lng": -122.3971689,
+      "neighborhood": null
+    }
+  ],
+  "items": [
+    {
+      "id": "potato-cheddar-bacon-2",
+      "name": "Potato Cheddar & Bacon",
+      "description": "A rich and chunky potato soup with Tillamook sharp cheddar and smoky Bacon. Contains: Milk, Soy. Suggested Garnish: Green Onions.",
+      "category": "side",
+      "calories": 401.0,
+      "protein_g": 13.0,
+      "carbs_g": 32.0,
+      "fat_g": 25.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 661.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2/"
+      }
+    },
+    {
+      "id": "bbq-pork-black-eyed-pea-soup-16",
+      "name": "BBQ Pork & Black Eyed Pea Soup",
+      "description": "Tender Chunks of Pork, Black-eyed Peas and Collard Greens in a rich, spicy Tomato broth seasoned with classic BBQ flavors. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 197.0,
+      "protein_g": 17.0,
+      "carbs_g": 17.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 765.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/16/"
+      }
+    },
+    {
+      "id": "jamaican-jerk-chicken-soup-18",
+      "name": "Jamaican Jerk Chicken Soup",
+      "description": "A rich Coconut Milk infused Chicken Stock simmered with chunks of Jerk marinated, grilled Chicken Breast, Pineapple tidbits, Red Bell Peppers and Black Beans. Contains: Soy. Coconut. Suggested Garnish: Rice.",
+      "category": "side",
+      "calories": 175.0,
+      "protein_g": 4.0,
+      "carbs_g": 15.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 617.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/18/"
+      }
+    },
+    {
+      "id": "caribbean-sweet-potato-19",
+      "name": "Caribbean Sweet Potato",
+      "description": "A silky, bisque-like pureed soup of Sweet Potatoes and Coconut Milk, lightly seasoned with Ginger, Lime, and Caribbean spices. Contains: Coconut. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 432.0,
+      "protein_g": 6.0,
+      "carbs_g": 54.0,
+      "fat_g": 20.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 831.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/19/"
+      }
+    },
+    {
+      "id": "grilled-chicken-roast-corn-chowder-20",
+      "name": "Grilled Chicken & Roast Corn Chowder",
+      "description": "A thick chowder with Grilled Chicken Breast, roasted Sweet Corn, Red Bell Peppers and Red Skinned Potatoes with a hint of Chipotle and Garlic. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 201.0,
+      "protein_g": 15.0,
+      "carbs_g": 33.0,
+      "fat_g": 2.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 635.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/20/"
+      }
+    },
+    {
+      "id": "roasted-garlic-beef-stew-21",
+      "name": "Roasted Garlic Beef Stew",
+      "description": "A satisfying, hearty stew with chunks of beef, potatoes, mushrooms and carrots in a thick beef stock infused with roasted garlic, red wine & rosemary. Contains: milk, soy. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 455.0,
+      "protein_g": 23.0,
+      "carbs_g": 34.0,
+      "fat_g": 25.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 458.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/21/"
+      }
+    },
+    {
+      "id": "bone-broth-beef-barley-w-portobellos-23",
+      "name": "Bone Broth Beef Barley w/ Portobellos",
+      "description": "Chunks of tender beef and portobello mushrooms with barley and roasted garlic in a rich beef bone broth. Contains: Wheat/Gluten. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 208.0,
+      "protein_g": 12.0,
+      "carbs_g": 31.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 889.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/23/"
+      }
+    },
+    {
+      "id": "hearty-beef-vegetable-24",
+      "name": "Hearty Beef Vegetable",
+      "description": "A hearty, robust soup with chunks of Beef, Red Skinned Potatoes, Tomatoes, Beans and Swiss Chard. Contains: Soy. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 223.0,
+      "protein_g": 16.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 847.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/24/"
+      }
+    },
+    {
+      "id": "black-bean-chili-25",
+      "name": "Black Bean Chili",
+      "description": "A thick and zesty vegetarian chili with Black Beans, Green Bell Peppers, Pasilla and Ancho Chiles, Tomatoes and Roasted Corn. Suggested Garnish: Jack Cheese & Cilantro.",
+      "category": "side",
+      "calories": 182.0,
+      "protein_g": 9.0,
+      "carbs_g": 31.0,
+      "fat_g": 4.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 801.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/25/"
+      }
+    },
+    {
+      "id": "zucchini-blue-cheese-26",
+      "name": "Zucchini & Blue Cheese",
+      "description": "A luscious, simmered puree of Zucchini and Blue Cheese finished with chunks of roasted Zucchini and a splash of Cream. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 256.0,
+      "protein_g": 10.0,
+      "carbs_g": 15.0,
+      "fat_g": 18.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 553.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/26/"
+      }
+    },
+    {
+      "id": "broccoli-cheddar-27",
+      "name": "Broccoli Cheddar",
+      "description": "A creamy puree of broccoli simmered with Rumiano cheddar and finished with broccoli florettes. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 404.0,
+      "protein_g": 20.0,
+      "carbs_g": 18.0,
+      "fat_g": 29.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 896.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/27/"
+      }
+    },
+    {
+      "id": "cheddar-cheese-beer-soup-28",
+      "name": "Cheddar Cheese & Beer Soup",
+      "description": "A luscious puree of Tillamook Sharp Cheddar Cheese, Russet Potatoes and aromatic vegetables accented with a rich, malty Dark Beer and a touch of Garlic. Contains: Milk, Wheat/Gluten. Suggested Garnish: Pretzle.",
+      "category": "side",
+      "calories": 475.0,
+      "protein_g": 18.0,
+      "carbs_g": 18.0,
+      "fat_g": 37.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 796.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/28/"
+      }
+    },
+    {
+      "id": "chicken-pot-pie-soup-29",
+      "name": "Chicken Pot Pie Soup",
+      "description": "Thick and creamy with chunks of Chicken and Red Skinned Potatoes, Mushrooms, Red Bell Peppers and Peas. Contains: Milk. Suggested Garnish: Puff Pastry.",
+      "category": "side",
+      "calories": 373.0,
+      "protein_g": 20.0,
+      "carbs_g": 30.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 771.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/29/"
+      }
+    },
+    {
+      "id": "chicken-pozole-30",
+      "name": "Chicken Pozole",
+      "description": "A classic from the Jalisco region of Mexico. Chunks of hand pulled Chicken in a spicy Tomato broth with Hominy-Corn and Potatoes and finished with fresh Cilantro. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 187.0,
+      "protein_g": 18.0,
+      "carbs_g": 21.0,
+      "fat_g": 5.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 790.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/30/"
+      }
+    },
+    {
+      "id": "creole-crab-corn-32",
+      "name": "Creole Crab & Corn",
+      "description": "A luscious zesty Crab soup with diced Red and Green Bell Peppers and Roasted Corn finished with Creole spices and a hint of Cream. Contains: Milk, Shellfish. Suggested Garnish: Rice.",
+      "category": "side",
+      "calories": 236.0,
+      "protein_g": 9.0,
+      "carbs_g": 22.0,
+      "fat_g": 13.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 868.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/32/"
+      }
+    },
+    {
+      "id": "cream-of-asparagus-w-chevre-33",
+      "name": "Cream of Asparagus w/ Chevre",
+      "description": "A light and creamy puree of Asparagus and fresh Goat Cheese, garnished with Asparagus tips and subtly seasoned with Tarragon and White Pepper. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 312.0,
+      "protein_g": 16.0,
+      "carbs_g": 20.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 718.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/33/"
+      }
+    },
+    {
+      "id": "chili-verde-w-pork-34",
+      "name": "Chili Verde w/ Pork",
+      "description": "A hearty, spicy stew of Pork, Green Chiles and Tomatillos with Potatoes and Pinto Beans in a Lime juice and Cilantro flavored Chicken Stock. Suggested Garnish: Cilantro.",
+      "category": "side",
+      "calories": 251.0,
+      "protein_g": 14.0,
+      "carbs_g": 32.0,
+      "fat_g": 7.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 834.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/34/"
+      }
+    },
+    {
+      "id": "corned-beef-cabbage-soup-36",
+      "name": "Corned Beef & Cabbage Soup",
+      "description": "A chicken stock based soup loaded with chunks of Corned Beef, Sweet Green Cabbage & Potatoes, lightly seasoned with Thyme and fresh Dill. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 222.0,
+      "protein_g": 13.0,
+      "carbs_g": 22.0,
+      "fat_g": 10.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 640.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/36/"
+      }
+    },
+    {
+      "id": "creole-vegetable-37",
+      "name": "Creole Vegetable",
+      "description": "A hearty vegetable soup loaded with Corn, Tomatoes, Okra, Beans, Red Bell Peppers in a Vegetable Stock laced with a Creole kick. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 143.0,
+      "protein_g": 7.0,
+      "carbs_g": 29.0,
+      "fat_g": 2.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 519.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/37/"
+      }
+    },
+    {
+      "id": "cream-of-exotic-mushrooms-38",
+      "name": "Cream of Exotic Mushrooms",
+      "description": "A rich, thick, pureed mushroom soup with crimini, oyster, porcini, and white mushrooms finished with a splash of cream.. Contains: Milk, Soy. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 197.0,
+      "protein_g": 5.0,
+      "carbs_g": 18.0,
+      "fat_g": 13.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 797.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/38/"
+      }
+    },
+    {
+      "id": "cioppino-seafood-stew-39",
+      "name": "Cioppino Seafood Stew",
+      "description": "San Francisco's classic seafood stew loaded with scallops, shrimp & cod in a rich broth of tomatoes, green bell peppers & red wine. Contains: Fish, Shellfish. Suggested Garnish: Croutons.",
+      "category": "side",
+      "calories": 153.0,
+      "protein_g": 15.0,
+      "carbs_g": 15.0,
+      "fat_g": 3.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 746.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/39/"
+      }
+    },
+    {
+      "id": "salmon-chowder-w-asparagus-41",
+      "name": "Salmon Chowder w/ Asparagus",
+      "description": "A chunky creamy chowder with fresh Pacific Salmon, Asparagus, Red Skinned Potatoes and Peas finished with fresh dill. Contains: milk, fish, shellfish. Suggested Garnish: puff pastry.",
+      "category": "side",
+      "calories": 331.0,
+      "protein_g": 15.0,
+      "carbs_g": 26.0,
+      "fat_g": 19.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 811.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/41/"
+      }
+    },
+    {
+      "id": "chicken-asparagus-w-white-beans-ham-oyster-mushrooms-43",
+      "name": "Chicken Asparagus w/ White Beans, Ham & Oyster Mushrooms",
+      "description": "A blonde roux enriched chicken stock with hand pulled chunks of Chicken, fresh Asparagus, White Beans, Ham & Oyster Mushrooms. Contains: Milk, Suggested Garnish: None.",
+      "category": "side",
+      "calories": 187.0,
+      "protein_g": 18.0,
+      "carbs_g": 16.0,
+      "fat_g": 7.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 712.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/43/"
+      }
+    },
+    {
+      "id": "grilled-chicken-artichoke-w-sun-dried-tomatoes-44",
+      "name": "Grilled Chicken & Artichoke w/ Sun-Dried Tomatoes",
+      "description": "A broth based soup with chunks of Grilled Chicken, Artichoke Hearts and Sun-Dried Tomatoes lightly seasoned with Garlic and Lemon. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 16.0,
+      "carbs_g": 15.0,
+      "fat_g": 5.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 905.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/44/"
+      }
+    },
+    {
+      "id": "french-onion-soup-45",
+      "name": "French Onion Soup",
+      "description": "Another classic from France. Caramelized Onions in a rich Wine infused Beef Stock. Garnished with house made croutons & melted cheese. Contains: Milk. Suggested Garnish: Croutons.",
+      "category": "side",
+      "calories": 158.0,
+      "protein_g": 7.0,
+      "carbs_g": 25.0,
+      "fat_g": 3.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 731.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/45/"
+      }
+    },
+    {
+      "id": "chicken-shiitake-bok-choy-46",
+      "name": "Chicken Shiitake Bok Choy",
+      "description": "An Asian style soup with Chicken, Bok Choy and Shiitake Mushrooms in a Chicken Broth flavored with Ginger, Toasted Sesame and Soy Sauce. Contains: Fish, Soy, Sesame. Suggested Garnish: Green Onions.",
+      "category": "side",
+      "calories": 129.0,
+      "protein_g": 15.0,
+      "carbs_g": 9.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 515.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/46/"
+      }
+    },
+    {
+      "id": "indian-mulligatawny-47",
+      "name": "Indian Mulligatawny",
+      "description": "A lightly seasoned curried Chicken and Lentil soup with Apples, Carrots, Celery and Coconut Milk. Contains: Coconut. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 319.0,
+      "protein_g": 25.0,
+      "carbs_g": 33.0,
+      "fat_g": 10.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 610.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/47/"
+      }
+    },
+    {
+      "id": "italian-wedding-soup-48",
+      "name": "Italian Wedding Soup",
+      "description": "A classic Italian meatball soup with Swiss Chard, Tomatoes and Orzo pasta. Contains: Milk, Egg, Soy, Wheat/Gluten. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 223.0,
+      "protein_g": 11.0,
+      "carbs_g": 22.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 887.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/48/"
+      }
+    },
+    {
+      "id": "kick-a-s-s-chili-49",
+      "name": "Kick A*S*S* Chili",
+      "description": "A bold, thick Chili, made with ground Beef, Pork, Kidney Beans, Tomatoes and Ancho Chili Peppers kettle simmered for hours with Garlic and spices. Suggested Garnish: Rice and Jack Cheese.",
+      "category": "side",
+      "calories": 552.0,
+      "protein_g": 35.0,
+      "carbs_g": 31.0,
+      "fat_g": 31.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 828.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/49/"
+      }
+    },
+    {
+      "id": "green-chile-chicken-chowder-50",
+      "name": "Green Chile Chicken Chowder",
+      "description": "A hearty, spicy chicken and potato chowder with lots of diced green chiles. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 257.0,
+      "protein_g": 4.0,
+      "carbs_g": 27.0,
+      "fat_g": 15.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 860.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/50/"
+      }
+    },
+    {
+      "id": "indian-lentil-51",
+      "name": "Indian Lentil",
+      "description": "A thick and hearty Lentil and Vegetable soup with Potatoes, Carrots and a blend of Indian Curries. Suggested Garnish: Cilantro.",
+      "category": "side",
+      "calories": 267.0,
+      "protein_g": 16.0,
+      "carbs_g": 48.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 623.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/51/"
+      }
+    },
+    {
+      "id": "savory-lentil-52",
+      "name": "Savory Lentil",
+      "description": "An Lentil soup slow simmered with Tomatoes, Carrots and Celery and lightly seasoned with fresh Parsley and Lemon. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 212.0,
+      "protein_g": 14.0,
+      "carbs_g": 38.0,
+      "fat_g": 1.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 624.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/52/"
+      }
+    },
+    {
+      "id": "market-vegetable-soup-53",
+      "name": "Market Vegetable Soup",
+      "description": "A hearty vegetarian Tomato broth soup chock full of Potatoes, Beans, Zucchini, Carrots & Swiss Chard. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 98.0,
+      "protein_g": 5.0,
+      "carbs_g": 19.0,
+      "fat_g": 1.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 505.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/53/"
+      }
+    },
+    {
+      "id": "mediterranean-lentil-stew-w-spinach-54",
+      "name": "Mediterranean Lentil Stew w/ Spinach",
+      "description": "A healthy & flavorful Lentil stew with Spinach and Red Skinned Potatoes subtly seasoned with Lemon and Fresh Mint. Suggested Garnish: Feta Cheese.",
+      "category": "side",
+      "calories": 299.0,
+      "protein_g": 19.0,
+      "carbs_g": 54.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 686.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/54/"
+      }
+    },
+    {
+      "id": "louisiana-gumbo-55",
+      "name": "Louisiana Gumbo",
+      "description": "This Bayou classic starts with a rich, dark Roux. We add 'the trinity' of Onions, Celery, and Bell Peppers and let it all come together with Andouille Sausage, Chicken, Chicken Stock, Okra and plenty of spice. Contains: Milk. Suggested Garnish: Rice.",
+      "category": "side",
+      "calories": 358.0,
+      "protein_g": 18.0,
+      "carbs_g": 21.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 764.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/55/"
+      }
+    },
+    {
+      "id": "lobster-bisque-56",
+      "name": "Lobster Bisque",
+      "description": "A velvety puree of lobster stock and lobster, finished with a touch of cream & brandy. Contains: Milk, Shellfish. Suggested Garnish: Puff Pastry.",
+      "category": "side",
+      "calories": 341.0,
+      "protein_g": 8.0,
+      "carbs_g": 31.0,
+      "fat_g": 19.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 779.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/56/"
+      }
+    },
+    {
+      "id": "mexican-beef-bean-chili-57",
+      "name": "Mexican Beef & Bean Chili",
+      "description": "A flavorful, spicy chili with chunks of Beef, Black Beans, Tomatoes, Red & Green Bell Peppers kettle simmered and finished with fresh Cilantro. Suggested Garnish: Cilantro.",
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 23.0,
+      "carbs_g": 19.0,
+      "fat_g": 13.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 810.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/57/"
+      }
+    },
+    {
+      "id": "minestrone-58",
+      "name": "Minestrone",
+      "description": "A bright, fresh, red minestrone made with lightly simmered zucchini, carrots, tomatoes, peas, potatoes, elbow macaroni and delicately seasoned with thyme and oregano. (Vegetarian, Dairy-Free) Contains: Wheat/Gluten. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 136.0,
+      "protein_g": 7.0,
+      "carbs_g": 27.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 747.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/58/"
+      }
+    },
+    {
+      "id": "moroccan-vegetable-stew-59",
+      "name": "Moroccan Vegetable Stew",
+      "description": "A zesty melange of Tomatoes, Eggplant, Red Bell Peppers, Zucchini & Carrots with Chick Peas & Raisins and seasoned with a fiery blend of North African spices. Suggested Garnish: Couscous.",
+      "category": "side",
+      "calories": 107.0,
+      "protein_g": 4.0,
+      "carbs_g": 21.0,
+      "fat_g": 2.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 407.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/59/"
+      }
+    },
+    {
+      "id": "pizza-soup-w-pepperoni-sausage-60",
+      "name": "Pizza Soup w/ Pepperoni & Sausage",
+      "description": "A chunky tomato based soup loaded with traditional pizza toppings like pepperoni, sausage, green bell peppers and mushrooms. Contains: milk. Suggested Garnish: croutons and jack cheese.",
+      "category": "side",
+      "calories": 302.0,
+      "protein_g": 14.0,
+      "carbs_g": 16.0,
+      "fat_g": 21.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 858.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/60/"
+      }
+    },
+    {
+      "id": "portabello-mushroom-chili-61",
+      "name": "Portabello Mushroom Chili",
+      "description": "Substantial chunks of Portabello Mushrooms with Eggplant, Swiss Chard, Yukon Gold Potatoes, White Beans, tomatoes and Red Bell Peppers in a spicy, Garlic and Ancho Chile infused Vegetable Stock. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 122.0,
+      "protein_g": 6.0,
+      "carbs_g": 24.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 609.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/61/"
+      }
+    },
+    {
+      "id": "potato-leek-62",
+      "name": "Potato Leek",
+      "description": "A luscious puree of Russet Potatoes and Leeks, finished with a touch of Cream. Simply delicious. Contains: Milk. Suggested Garnish: Green Onions.",
+      "category": "side",
+      "calories": 340.0,
+      "protein_g": 6.0,
+      "carbs_g": 41.0,
+      "fat_g": 18.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 865.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/62/"
+      }
+    },
+    {
+      "id": "roasted-pumpkin-soup-63",
+      "name": "Roasted Pumpkin Soup",
+      "description": "The taste of Autumn in a bowl: Roasted Pumpkin and aromatic vegetables blended to a silky puree, finished with a touch of Cream and a dash of Cinnamon, Nutmeg and Allspice. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 245.0,
+      "protein_g": 4.0,
+      "carbs_g": 38.0,
+      "fat_g": 10.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 626.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/63/"
+      }
+    },
+    {
+      "id": "roasted-tomato-eggplant-65",
+      "name": "Roasted Tomato Eggplant",
+      "description": "A lively, spicy pureed soup of oven roasted tomatoes and eggplant kettle simmered with garlic and thyme. Suggested Garnish: croutons, parmesan cheese.",
+      "category": "side",
+      "calories": 79.0,
+      "protein_g": 3.0,
+      "carbs_g": 16.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 572.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/65/"
+      }
+    },
+    {
+      "id": "hearty-garden-miso-w-tofu-66",
+      "name": "Hearty Garden Miso w/ Tofu",
+      "description": "A robust, substantial miso soup with chunks of tofu, carrots, bok choy and shitake mushrooms in a sesame and soy sauce infused broth. Contains : soy, sesame. Suggested Garnish: green onions.",
+      "category": "side",
+      "calories": 161.0,
+      "protein_g": 10.0,
+      "carbs_g": 20.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 807.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/66/"
+      }
+    },
+    {
+      "id": "west-african-peanut-w-chicken-67",
+      "name": "West African Peanut w/ Chicken",
+      "description": "Chunks of Grilled Chicken Breast simmered in a lightly spiced puree of Chicken Stock, Peanuts, Tomatoes and Chiles. Contains: Peanuts. Suggested Garnish: Rice.",
+      "category": "side",
+      "calories": 212.0,
+      "protein_g": 8.0,
+      "carbs_g": 24.0,
+      "fat_g": 11.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 394.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/67/"
+      }
+    },
+    {
+      "id": "vegetarian-thai-red-curry-68",
+      "name": "Vegetarian Thai Red Curry",
+      "description": "A rich and spicy vegetarian Thai style soup with chunks of Tofu, Potatoes, Red Bell Peppers and Mushrooms in a Ginger, Lemon Grass and Curry infused Vegetable Stock enriched with Coconut Milk. Contains: Soy, Coconut. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 232.0,
+      "protein_g": 8.0,
+      "carbs_g": 20.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 638.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/68/"
+      }
+    },
+    {
+      "id": "vegetarian-tortilla-69",
+      "name": "Vegetarian Tortilla",
+      "description": "A zesty blend of Grilled Corn Tortillas, Tomatoes, Onions, Garlic & Smoky Chipotle Chiles kettle simmered and pureed. Suggested Garnish: Blue Corn Chips, Jack Cheese and Cilantro.",
+      "category": "side",
+      "calories": 138.0,
+      "protein_g": 4.0,
+      "carbs_g": 29.0,
+      "fat_g": 1.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 386.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/69/"
+      }
+    },
+    {
+      "id": "shrimp-bisque-70",
+      "name": "Shrimp Bisque",
+      "description": "A silken puree of Shrimp and aromatic vegetables finished with Roasted Corn & Zucchini and a touch of Cream. Contains: Milk, Shellfish. Suggested Garnish: Rice and Shrimp.",
+      "category": "side",
+      "calories": 250.0,
+      "protein_g": 12.0,
+      "carbs_g": 25.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 621.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/70/"
+      }
+    },
+    {
+      "id": "split-pea-w-ham-71",
+      "name": "Split Pea w/ Ham",
+      "description": "The classic thick and hearty Green Split Pea soup with chunks of Ham and Carrots. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 334.0,
+      "protein_g": 27.0,
+      "carbs_g": 50.0,
+      "fat_g": 4.0,
+      "fiber_g": 20.0,
+      "sodium_mg": 768.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/71/"
+      }
+    },
+    {
+      "id": "sweet-corn-sausage-72",
+      "name": "Sweet Corn & Sausage",
+      "description": "Loaded with fresh California Sweet Corn niblets, chunks of spicy roasted Andouille Sausage and Red Bell Peppers in a Thyme infused Chicken Stock. Contains: Soy. Suggested Garnish: Wild Rice Blend.",
+      "category": "side",
+      "calories": 152.0,
+      "protein_g": 11.0,
+      "carbs_g": 12.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 778.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/72/"
+      }
+    },
+    {
+      "id": "sweet-corn-chowder-w-bacon-73",
+      "name": "Sweet Corn Chowder w/ Bacon",
+      "description": "Fresh California Sweet Corn Niblets with Smoky Bacon, Red Skinned Potatoes & Red Bell Peppers in a roux thickened velvety vegetable stock finished with Thyme & a splash of Cream. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 252.0,
+      "protein_g": 6.0,
+      "carbs_g": 31.0,
+      "fat_g": 13.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 590.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/73/"
+      }
+    },
+    {
+      "id": "manhattan-clam-chowder-74",
+      "name": "Manhattan Clam Chowder",
+      "description": "A brothy, Tomato-based Clam Chowder with chunks of Red Skinned Potatoes, Celery, Carrots, and lots of tender Clams. Contains: Shellfish. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 144.0,
+      "protein_g": 13.0,
+      "carbs_g": 20.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 779.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/74/"
+      }
+    },
+    {
+      "id": "roasted-chicken-w-summer-squash-lime-75",
+      "name": "Roasted Chicken w/ Summer Squash & Lime",
+      "description": "Hunks of hand pulled Roasted Chicken with Summer Squash, Zucchini & Tomatoes in a rich chicken stock infused with Garlic, Cilantro & Lime. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 119.0,
+      "protein_g": 15.0,
+      "carbs_g": 8.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 703.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/75/"
+      }
+    },
+    {
+      "id": "albondigas-76",
+      "name": "Albondigas",
+      "description": "A rich and zesty Mexican style soup loaded with Beef Meatballs, chunks of Potatoes and Carrots in an Ancho Chile, Tomato and Garlic infused broth. Contains: Milk, Eggs, Soy. Suggested Garnish: Salsa Fresca.",
+      "category": "side",
+      "calories": 246.0,
+      "protein_g": 12.0,
+      "carbs_g": 25.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 887.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/76/"
+      }
+    },
+    {
+      "id": "savory-lentil-w-chicken-andouille-sausage-77",
+      "name": "Savory Lentil w/ Chicken Andouille Sausage",
+      "description": "An Lentil soup with chunks of Roasted Chicken Andouille Sausage, Tomatoes, Celery and Carrot, lightly seasoned with Lemon and Garlic. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 271.0,
+      "protein_g": 19.0,
+      "carbs_g": 36.0,
+      "fat_g": 6.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 711.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/77/"
+      }
+    },
+    {
+      "id": "curried-butternut-squash-79",
+      "name": "Curried Butternut Squash",
+      "description": "A rich puree of roasted Butternut Squash and aromatic vegetables finished with a splash of Cream and a dash of Curry. Contains: Milk. Suggested Garnish: Roasted Pepitas.",
+      "category": "side",
+      "calories": 213.0,
+      "protein_g": 5.0,
+      "carbs_g": 35.0,
+      "fat_g": 8.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 564.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/79/"
+      }
+    },
+    {
+      "id": "chicken-w-wild-rice-mushrooms-80",
+      "name": "Chicken w/ Wild Rice & Mushrooms",
+      "description": "Chunks of Chicken with a Wild Rice Blend and a Mushroom Medley (including Shitake, Portobello, Porcini and Chanterelle) in a Marsala Wine and Garlic infused Chicken Stock. Contains: Soy. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 169.0,
+      "protein_g": 18.0,
+      "carbs_g": 21.0,
+      "fat_g": 2.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 809.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/80/"
+      }
+    },
+    {
+      "id": "thai-red-curry-chicken-81",
+      "name": "Thai Red Curry Chicken",
+      "description": "Chunks of Chicken with Mushrooms, Potatoes and Red Bell Peppers in a Lemon Grass and Curry infused chicken stock enriched with Coconut Milk. Contains: Fish, Shellfish, Coconut. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 252.0,
+      "protein_g": 17.0,
+      "carbs_g": 18.0,
+      "fat_g": 13.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 482.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/81/"
+      }
+    },
+    {
+      "id": "chilled-avocado-cucumber-84",
+      "name": "Chilled Avocado & Cucumber",
+      "description": "A chilled, creamy puree of avocado & cucumber subtlety seasoned with lemon and cilantro. Very refreshing. Contains: Milk. Suggested Garnish: Cilantro.",
+      "category": "side",
+      "calories": 188.0,
+      "protein_g": 4.0,
+      "carbs_g": 19.0,
+      "fat_g": 13.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 826.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/84/"
+      }
+    },
+    {
+      "id": "chilled-gazpacho-85",
+      "name": "Chilled Gazpacho",
+      "description": "A refreshing chilled puree of fresh garden vegetables, including tomatoes, cucumbers, Green onions, and sweet red and green bell peppers seasoned with extra virgin olive oil and red wine vinegar. Suggested Garnish: green onions.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 3.0,
+      "carbs_g": 18.0,
+      "fat_g": 4.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 857.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/85/"
+      }
+    },
+    {
+      "id": "burgundy-chicken-108",
+      "name": "Burgundy Chicken",
+      "description": "Inspired by the famed 'Coq au Vin' recipe of France. Tender chunks of Grilled Chicken Breast, Carrots and Button Mushrooms in a rich Red Wine and Tomato reduction with Caramelized Onions and Garlic. Contains: Soy. Suggested Garnish: Noodles.",
+      "category": "side",
+      "calories": 182.0,
+      "protein_g": 18.0,
+      "carbs_g": 22.0,
+      "fat_g": 1.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 710.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/108/"
+      }
+    },
+    {
+      "id": "chicken-tikka-masala-soup-109",
+      "name": "Chicken Tikka Masala Soup",
+      "description": "A classic entree from India in soup form. Grilled Chicken Breast with Cauliflower, Zucchini and Peas in zesty Curry with Tomatoes, Coconut Milk and a dash of Cream. Contains : Milk, Coconut. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 317.0,
+      "protein_g": 16.0,
+      "carbs_g": 23.0,
+      "fat_g": 18.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 748.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/109/"
+      }
+    },
+    {
+      "id": "gingered-beef-w-vegetables-110",
+      "name": "Gingered Beef w/ Vegetables",
+      "description": "A sweet and spicy Asian style soup with tender chunks of Beef, Red and Green Bell Peppers, Celery and Bok Choy in a Toasted Sesame and Soy Sauce infused Chicken Stock. Contains: Soy, Sesame. Suggested Garnish: Rice, Green Onions and Cilantro.",
+      "category": "side",
+      "calories": 274.0,
+      "protein_g": 15.0,
+      "carbs_g": 32.0,
+      "fat_g": 10.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 688.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/110/"
+      }
+    },
+    {
+      "id": "chilled-melon-soup-111",
+      "name": "Chilled Melon Soup",
+      "description": "A Thai inspired chilled soup with honeydew melon, cucumbers, coconut milk, with a splash of lime, Sri Racha and fresh mint. Garnished with fresh watermelon. Contains: Milk, Coconut. Suggested Garnish: Watermelon.",
+      "category": "side",
+      "calories": 177.0,
+      "protein_g": 3.0,
+      "carbs_g": 21.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 42.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/111/"
+      }
+    },
+    {
+      "id": "greek-lemon-chicken-artichoke-116",
+      "name": "Greek Lemon Chicken & Artichoke",
+      "description": "A light, fresh soup with chunks of Chicken, Artichoke Hearts, Garbanzo Beans, Orzo Pasta and Spinach in a Lemon, White Wine and Garlic infused Chicken Stock. Contains: Wheat/Gluten. Suggested Garnish: Spinach.",
+      "category": "side",
+      "calories": 265.0,
+      "protein_g": 23.0,
+      "carbs_g": 33.0,
+      "fat_g": 5.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 717.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/116/"
+      }
+    },
+    {
+      "id": "organic-macaroni-cheese-146",
+      "name": "Organic Macaroni & Cheese",
+      "description": "Organic Rumiano cheddar cheese from Northen California with white shell pasta. Rich, creamy, and comforting. Contains: Milk, Wheat/Gluten. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 669.0,
+      "protein_g": 32.0,
+      "carbs_g": 56.0,
+      "fat_g": 35.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 724.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/146/"
+      }
+    },
+    {
+      "id": "tomato-basil-151",
+      "name": "Tomato Basil",
+      "description": "A luscious puree of California Vine Ripened Tomatoes, Garlic & Vegetable stock finished with a Touch of Butter & lots of Fresh Basil. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 138.0,
+      "protein_g": 5.0,
+      "carbs_g": 25.0,
+      "fat_g": 2.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 706.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/151/"
+      }
+    },
+    {
+      "id": "santa-fe-smoked-chicken-chowder-153",
+      "name": "Santa Fe Smoked Chicken Chowder",
+      "description": "A luscious, creamy chowder with all-natural Smoked Chicken breast, Poblano chiles and Yukon Gold Potatoes thickened with toasty ground Masa Corn and seasoned with fresh Cilantro, Cumin and a pinch of Cayenne. Contains: Milk. Suggested Garnish: Cilantro, Green Onions.",
+      "category": "side",
+      "calories": 291.0,
+      "protein_g": 15.0,
+      "carbs_g": 24.0,
+      "fat_g": 16.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 693.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/153/"
+      }
+    },
+    {
+      "id": "white-bean-chicken-chili-154",
+      "name": "White Bean Chicken Chili",
+      "description": "Chunks of Grilled Chicken Breast simmered with White Beans and three kinds of Chiles in a spice-infused Chicken Stock. Suggested Garnish: Jack Cheese, Green Onions and Cilantro.",
+      "category": "side",
+      "calories": 293.0,
+      "protein_g": 20.0,
+      "carbs_g": 52.0,
+      "fat_g": 2.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 602.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/154/"
+      }
+    },
+    {
+      "id": "curried-vegetable-stew-with-saffron-161",
+      "name": "Curried Vegetable Stew with Saffron",
+      "description": "A rich and creamy Vegan vegetable stew chock full of Sweet Potatoes, Green Beans, Mushrooms, Peas, Yukon Gold Potatoes, Red Bell Peppers and Carrots. Seasoned with Marsala wine and Saffron. Contains: Soy, Coconut. Suggested Garnish: Cilantro.",
+      "category": "side",
+      "calories": 202.0,
+      "protein_g": 6.0,
+      "carbs_g": 30.0,
+      "fat_g": 7.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 736.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/161/"
+      }
+    },
+    {
+      "id": "steakhouse-chili-162",
+      "name": "Steakhouse Chili",
+      "description": "A hearty spicy chili with chunks of Beef, ground Turkey, Bacon, Kidney beans, Tomatoes, Red and Green Bell peppers and three kinds of Chiles. Suggested Garnish: Rice and Jack Cheese.",
+      "category": "side",
+      "calories": 613.0,
+      "protein_g": 40.0,
+      "carbs_g": 63.0,
+      "fat_g": 23.0,
+      "fiber_g": 23.0,
+      "sodium_mg": 789.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/162/"
+      }
+    },
+    {
+      "id": "grilled-chicken-arrabiatta-164",
+      "name": "Grilled Chicken Arrabiatta",
+      "description": "Inspired by a fiery pasta dish from Rome. Grilled Chicken Breast in a Chile-laced, Red wine infused Chicken Stock with Ditalini Pasta, Tomatoes, Roasted Red and Green Bell Peppers and smoky Bacon. Contains: Wheat/Gluten. Suggested Garnish: Ditalini Pasta, Parmesan Cheese.",
+      "category": "side",
+      "calories": 255.0,
+      "protein_g": 20.0,
+      "carbs_g": 31.0,
+      "fat_g": 5.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 498.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/164/"
+      }
+    },
+    {
+      "id": "shrimp-etouffee-165",
+      "name": "Shrimp Etouffee",
+      "description": "A classic dish from New Orleans in soup form. 'The Trinity' - (onions, celery and green bell peppers) sauteed in a slow cooked dark roux with a rich Seafood Stock and plenty of Shrimp. Contains: Fish, Shellfish, Milk. Suggested Garnish: Rice and Green Onions.",
+      "category": "side",
+      "calories": 250.0,
+      "protein_g": 11.0,
+      "carbs_g": 19.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 583.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/165/"
+      }
+    },
+    {
+      "id": "beef-vegetable-stew-167",
+      "name": "Beef Vegetable Stew",
+      "description": "A Classic Tender Slow Cooked Beef and Vegetable Stew with Carrots, Red Potatoes and Cabbage. Contains: Soy, Wheat/Gluten. Suggested Garnish:",
+      "category": "side",
+      "calories": 198.0,
+      "protein_g": 10.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 832.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/167/"
+      }
+    },
+    {
+      "id": "roasted-carrot-bisque-169",
+      "name": "Roasted Carrot Bisque",
+      "description": "A rich, creamy Carrot Bisque studded with Chunks of Roasted Carrot and Subtly seasoned with Coriander and Ginger. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 264.0,
+      "protein_g": 3.0,
+      "carbs_g": 29.0,
+      "fat_g": 16.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 674.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/169/"
+      }
+    },
+    {
+      "id": "roasted-root-vegetable-stew-172",
+      "name": "Roasted Root Vegetable Stew",
+      "description": "A thick, rich vegetarian stew with generous chunks of Golden Beets, Parsnips, Turnips, Rutabaga, Sweet Potatoes and Yukon Gold Potatoes seasoned with fresh Sage and Thyme. Contains : Soy, Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 229.0,
+      "protein_g": 4.0,
+      "carbs_g": 33.0,
+      "fat_g": 10.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 430.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/172/"
+      }
+    },
+    {
+      "id": "spanish-lentil-mushroom-soup-176",
+      "name": "Spanish Lentil Mushroom Soup",
+      "description": "A rustic, Spanish inspired Lentil soup with lots of Mushrooms and Cabbage. Seasoned with a splash of Sherry, Sherry vinegar, & extra virgin Olive Oil. Contains: Soy. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 266.0,
+      "protein_g": 18.0,
+      "carbs_g": 48.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 711.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/176/"
+      }
+    },
+    {
+      "id": "black-bean-chicken-chorizo-180",
+      "name": "Black Bean Chicken Chorizo",
+      "description": "Inspired by a classic from Cuba - black beans are simmered in a rich white wine infused chicken stock with chunks of spicy chicken chorizo sausage. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 211.0,
+      "protein_g": 17.0,
+      "carbs_g": 22.0,
+      "fat_g": 6.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 707.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/180/"
+      }
+    },
+    {
+      "id": "tuscan-white-bean-kale-181",
+      "name": "Tuscan White Bean & Kale",
+      "description": "A simple, satisfying classic from the Tuscan region of Italy. White beans and Kale simmered in a wine infused vegetable stock with sun dried tomatoes, rosemary, and oregano. Contains: Soy. Suggested Garnish: Parmesan Cheese.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 11.0,
+      "carbs_g": 33.0,
+      "fat_g": 2.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 860.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/181/"
+      }
+    },
+    {
+      "id": "chicken-mole-poblano-184",
+      "name": "Chicken Mole Poblano",
+      "description": "Inspired by a zesty Oaxacan classic, we use a complex blend of spices, chiles, seeds and nuts for our mole base and then simmer with grilled chicken and black beans. Contains: Tree nuts, Sesame. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 371.0,
+      "protein_g": 23.0,
+      "carbs_g": 43.0,
+      "fat_g": 17.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 780.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/184/"
+      }
+    },
+    {
+      "id": "peruvian-chicken-and-rice-190",
+      "name": "Peruvian Chicken and Rice",
+      "description": "Known as Aguadito de Pollo in Spanish this is serious Peruvian comfort food made in almost every home kitchen. Pulled chicken, Yukon Gold potatoes, red bell peppers, corn and peas in a spicy lime and cilantro infused chicken stock. Suggested garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 234.0,
+      "protein_g": 14.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 750.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/190/"
+      }
+    },
+    {
+      "id": "chicken-chorizo-with-kale-191",
+      "name": "Chicken Chorizo with Kale",
+      "description": "Our version of the Portuguese classic 'Caldo Verde' (green soup). Aidell's Chicken Chorizo, julienned Kale and Yukon Gold Potatoes in a potato thickened chicken stock seasoned simply with garlic, extra virgin olive oil, fresh lemon and parsley. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 226.0,
+      "protein_g": 13.0,
+      "carbs_g": 21.0,
+      "fat_g": 11.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 714.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/191/"
+      }
+    },
+    {
+      "id": "chicken-ranchero-192",
+      "name": "Chicken Ranchero",
+      "description": "A fiesta of Mexican inspired flavors in a hearty, spicy soup. Pulled chicken in a zesty Ancho chile and Jalapeño laced chicken stock with sweet corn, black beans and tomato finished with cilantro and lime. Suggested garnish: Jack Cheese and Cilantro.",
+      "category": "side",
+      "calories": 235.0,
+      "protein_g": 19.0,
+      "carbs_g": 20.0,
+      "fat_g": 10.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 813.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/192/"
+      }
+    },
+    {
+      "id": "garden-vegetable-193",
+      "name": "Garden Vegetable",
+      "description": "A thick, hearty vegan soup brimming with lots of vegetables & black eye peas in a white bean puree thickened veggie stock. Suggested Garnish: Croutons & Parmesan Cheese.",
+      "category": "side",
+      "calories": 191.0,
+      "protein_g": 9.0,
+      "carbs_g": 32.0,
+      "fat_g": 4.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 712.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/193/"
+      }
+    },
+    {
+      "id": "beef-and-brussels-sprouts-194",
+      "name": "Beef and Brussels Sprouts",
+      "description": "A hearty, rich meal in a bowl. Chunks of Beef with bacon-roasted Brussels Sprouts, Mushrooms, Yukon Gold Potatoes, Carrots, Caramelized Onions and Roasted Garlic simmered in chicken stock and Sherry wine. Contains: Soy. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 327.0,
+      "protein_g": 20.0,
+      "carbs_g": 26.0,
+      "fat_g": 17.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 578.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/194/"
+      }
+    },
+    {
+      "id": "kimchi-chicken-immunity-197",
+      "name": "Kimchi Chicken Immunity",
+      "description": "Korean flavor-infused brothy chicken soup with Daikon, Bell Pepper, Napa Cabbage, Bok Choi, Garlic, Ginger, and Kimchi. Contains: Fish, Shellfish, Sesame. Suggested garnish: Green Onions.",
+      "category": "side",
+      "calories": 155.0,
+      "protein_g": 10.0,
+      "carbs_g": 11.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 622.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/197/"
+      }
+    },
+    {
+      "id": "roasted-butternut-apple-sage-200",
+      "name": "Roasted Butternut, Apple & Sage",
+      "description": "A rustic purée of butternut squash and tart Granny smith apple, lightly sweetened with Vermont maple syrup and finished with hearty chunks of roasted butternut, roasted apple and fresh sage. Suggested garnish: Pepitas (Roasted Pumpkin Seeds).",
+      "category": "side",
+      "calories": 136.0,
+      "protein_g": 3.0,
+      "carbs_g": 33.0,
+      "fat_g": 1.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 688.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/200/"
+      }
+    },
+    {
+      "id": "coconut-dal-with-roasted-butternut-201",
+      "name": "Coconut Dal with Roasted Butternut",
+      "description": "An India inspired red lentil soup with roasted butternut squash, subtly spiced and enriched with coconut milk and finished with squeeze of lime. Contains: Coconut. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 368.0,
+      "protein_g": 17.0,
+      "carbs_g": 47.0,
+      "fat_g": 13.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 597.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/201/"
+      }
+    },
+    {
+      "id": "spicy-chicken-chorizo-butternut-kale-stew-202",
+      "name": "Spicy Chicken Chorizo, Butternut & Kale Stew",
+      "description": "Aidell’s spicy chicken Chorizo sausage in a puree of roasted butternut and caramelized onions finished with chunks of roasted butternut, green kale and a hint of chipotle chile for smoky heat. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 183.0,
+      "protein_g": 12.0,
+      "carbs_g": 20.0,
+      "fat_g": 7.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 610.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/202/"
+      }
+    },
+    {
+      "id": "green-curry-tofu-205",
+      "name": "Green Curry Tofu",
+      "description": "A Thai inspired vegan soup with tofu and vegetables including bamboo shoots, baby corn, and potatoes in a green curry and lemongrass infused coconut milk broth. Contains: Soy, Coconut. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 264.0,
+      "protein_g": 13.0,
+      "carbs_g": 26.0,
+      "fat_g": 13.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 550.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/205/"
+      }
+    },
+    {
+      "id": "brazilian-chicken-stew-with-yucca-206",
+      "name": "Brazilian Chicken Stew with Yucca",
+      "description": "A rich and satisfying chicken stew from Brazil with yucca root and sweet potatoes slow simmered in coconut milk, chicken stock and seasoned with bright red Dende oil, lime juice, garlic and spices. Contains: Coconut. Suggested Garnish: Rice, Green Onions.",
+      "category": "side",
+      "calories": 304.0,
+      "protein_g": 13.0,
+      "carbs_g": 21.0,
+      "fat_g": 19.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 645.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/206/"
+      }
+    },
+    {
+      "id": "bangers-and-beans-207",
+      "name": "Bangers and Beans",
+      "description": "Our nod to the simple hearty pub food of Britain. Banger style pork sausages simmered with beans and Yukon Gold potatoes seasoned with dark beer, mustard, garlic, sage and thyme. Contains: Soy, Wheat/Gluten. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 294.0,
+      "protein_g": 15.0,
+      "carbs_g": 32.0,
+      "fat_g": 11.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 769.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/207/"
+      }
+    },
+    {
+      "id": "cauliflower-super-c-208",
+      "name": "Cauliflower Super C",
+      "description": "A creamy cauliflower and potato bisque with a hint of Meyer lemon and thyme. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 175.0,
+      "protein_g": 7.0,
+      "carbs_g": 24.0,
+      "fat_g": 8.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 453.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/208/"
+      }
+    },
+    {
+      "id": "kale-farro-energy-209",
+      "name": "Kale & Farro Energy",
+      "description": "With kale, the king of greens, and protein-rich farro, this hearty blend is packed with nutrition. Contains: Wheat/Gluten. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 6.0,
+      "carbs_g": 34.0,
+      "fat_g": 3.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 656.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/209/"
+      }
+    },
+    {
+      "id": "golden-beet-kale-detox-210",
+      "name": "Golden Beet & Kale Detox",
+      "description": "Beets, cabbage and caraway give this antioxidant rich combo an earthy, old-world flavor. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 138.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 2.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 630.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/210/"
+      }
+    },
+    {
+      "id": "manila-chicken-adobo-216",
+      "name": "Manila Chicken Adobo",
+      "description": "Our authentic Adobo brings classic Filipino flavor to a chicken soup with broccoli, green beans and sweet yam. Contains: Soy. Suggested Garnish: Rice, Egg, Green Onion.",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 12.0,
+      "carbs_g": 20.0,
+      "fat_g": 9.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 650.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/216/"
+      }
+    },
+    {
+      "id": "coconut-chili-crab-217",
+      "name": "Coconut Chili Crab",
+      "description": "Taste of Malaysia with an island blend of crab meat, creamy coconut, butternut squash and a hint of chili spice. Contains: Peanuts, Shellfish, Fish, and Sesame. Suggested Garnish: Glass Noodles, Cilantro.",
+      "category": "side",
+      "calories": 210.0,
+      "protein_g": 12.0,
+      "carbs_g": 16.0,
+      "fat_g": 11.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 440.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/217/"
+      }
+    },
+    {
+      "id": "brazilian-black-bean-and-chorizo-219",
+      "name": "Brazilian Black Bean and Chorizo",
+      "description": "Inspired by Brazilian national dish “Feijoada”, We simmer chorizo, pork shoulder, and bacon with black beans and potatoes for a hearty meal. Suggested Garnish: Rice, Green Onions.",
+      "category": "side",
+      "calories": 410.0,
+      "protein_g": 23.0,
+      "carbs_g": 40.0,
+      "fat_g": 17.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 539.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/219/"
+      }
+    },
+    {
+      "id": "rio-coconut-fish-stew-220",
+      "name": "Rio Coconut Fish Stew",
+      "description": "This Brazilian stew “Moqueca” is an authentic blend of cod, coconut milk, bell peppers, tomato and lime. Contains: Coconut, Fish. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 250.0,
+      "protein_g": 18.0,
+      "carbs_g": 13.0,
+      "fat_g": 13.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 480.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/220/"
+      }
+    },
+    {
+      "id": "ancho-carnitas-stew-221",
+      "name": "Ancho Carnitas Stew",
+      "description": "This Mexican inspired stew imparts the deep roasted flavor of pork carnitas with spicy chile, and sweet orange. Suggested Garnish: Rice, Jack Cheese, Cilantro.",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 14.0,
+      "carbs_g": 30.0,
+      "fat_g": 4.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 600.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/221/"
+      }
+    },
+    {
+      "id": "sweet-pea-asparagus-and-bacon-222",
+      "name": "Sweet Pea, Asparagus, and Bacon",
+      "description": "Fresh delta asparagus and sweet peas form an elegant bisque with red-skinned potatoes and bacon. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 420.0,
+      "protein_g": 16.0,
+      "carbs_g": 24.0,
+      "fat_g": 29.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 854.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/222/"
+      }
+    },
+    {
+      "id": "spring-minestrone-with-basil-pesto-224",
+      "name": "Spring Minestrone with Basil Pesto",
+      "description": "A medley of garden greens freshens up this Italian classic: kale, chard, peas, cabbage, and a beautiful bouquet of herbs. Contains: Milk, Tree Nuts, Soy. Suggested Garnish: Focaccia Croutons, Basil Pesto.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 5.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 660.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/224/"
+      }
+    },
+    {
+      "id": "carrot-w-curried-cashew-cream-232",
+      "name": "Carrot w/ Curried Cashew Cream",
+      "description": "A velvety vegan soup with a carrot, roasted sweet potato and cashew puree garnished with Yukon gold potatoes and sweet peas and seasoned with curry and lemon. Contains: Tree Nuts.",
+      "category": "side",
+      "calories": 230.0,
+      "protein_g": 6.0,
+      "carbs_g": 40.0,
+      "fat_g": 6.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 580.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/232/"
+      }
+    },
+    {
+      "id": "moroccan-chicken-tagine-233",
+      "name": "Moroccan Chicken Tagine",
+      "description": "An exotic North African classic. Pulled chicken, Yukon gold potatoes, tomatoes and green olives in a rich chicken stock infused with preserved lemon, honey and saffron. Suggested Garnish: Cous cous (Wheat/Gluten), Cilantro.",
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 14.0,
+      "carbs_g": 29.0,
+      "fat_g": 10.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 280.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/233/"
+      }
+    },
+    {
+      "id": "turkey-tomatillo-stew-234",
+      "name": "Turkey Tomatillo Stew",
+      "description": "A Latin influenced stew with blackened fresh tomatillo, pinto beans & pozole seasoned with lime juice, cumin and cilantro. Suggested Garnish: Rice and Cilantro.",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 16.0,
+      "carbs_g": 21.0,
+      "fat_g": 3.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 750.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/234/"
+      }
+    },
+    {
+      "id": "hungarian-pork-paprikash-237",
+      "name": "Hungarian Pork Paprikash",
+      "description": "Our take on the Hungarian classic. A hearty stew with pork, kielbasa, tomatoes, bell peppers and mushrooms enriched with sour cream and seasoned with lots of paprika. Contains: Milk Suggested Garnish: Egg noodles (Contains: Egg, Wheat/Gluten).",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 11.0,
+      "carbs_g": 13.0,
+      "fat_g": 12.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 574.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/237/"
+      }
+    },
+    {
+      "id": "california-chicken-ratatouille-239",
+      "name": "California Chicken Ratatouille",
+      "description": "A hearty stew with chunks of hand pulled chicken. simmered with eggplant, tomatoes, zucchini & bell peppers. Suggested Garnish: Croutons (contains: Wheat/Gluten, Cheese/Dairy).",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 13.0,
+      "carbs_g": 8.0,
+      "fat_g": 8.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 610.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/239/"
+      }
+    },
+    {
+      "id": "vadouvan-curry-dal-255",
+      "name": "Vadouvan Curry Dal",
+      "description": "A complex curry blend with yellow split peas, red lentils & spinach.",
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 17.0,
+      "carbs_g": 43.0,
+      "fat_g": 1.0,
+      "fiber_g": 14.0,
+      "sodium_mg": 580.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/255/"
+      }
+    },
+    {
+      "id": "ethiopian-chicken-stew-256",
+      "name": "Ethiopian Chicken Stew",
+      "description": "A Harrissa spiced chicken stew with collard greens, Yukon gold potatoes & red lentils. Contains: Butter/Dairy.",
+      "category": "side",
+      "calories": 410.0,
+      "protein_g": 29.0,
+      "carbs_g": 43.0,
+      "fat_g": 15.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 679.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/256/"
+      }
+    },
+    {
+      "id": "baharat-persian-chicken-257",
+      "name": "Baharat Persian Chicken",
+      "description": "A Baharat spiced chicken with freekeh & garbanzo beans finished with a touch of mint. Contains: Wheat/Gluten.",
+      "category": "side",
+      "calories": 160.0,
+      "protein_g": 14.0,
+      "carbs_g": 10.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 240.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/257/"
+      }
+    },
+    {
+      "id": "creamless-corn-chowder-280",
+      "name": "Creamless Corn Chowder",
+      "description": "Sweet corn, Yukon gold potatoes and red bell peppers in a luscious vegan cashew cream, with a hint of chipotle smoke.. ,br>Contains: Tree Nut.",
+      "category": "side",
+      "calories": 290.0,
+      "protein_g": 7.0,
+      "carbs_g": 36.0,
+      "fat_g": 15.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 620.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/280/"
+      }
+    },
+    {
+      "id": "white-bean-italian-sausage-285",
+      "name": "White Bean Italian Sausage",
+      "description": "White beans simmered with sweet peppers, Swiss chard, fresh herbs & spicy Italian sausage.",
+      "category": "side",
+      "calories": 360.0,
+      "protein_g": 16.0,
+      "carbs_g": 33.0,
+      "fat_g": 19.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 680.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/285/"
+      }
+    },
+    {
+      "id": "grandma-mary-s-chicken-soup-1988",
+      "name": "Grandma Mary’s Chicken Soup",
+      "description": "A flavorful, soothing broth full of chunks of hand pulled Chicken, Parsnips, Carrots, Celery and Egg Noodles finished with fresh Dill. Just like Grandma Mary used to make it. Contains: Wheat/Gluten, Eggs. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 133.0,
+      "protein_g": 14.0,
+      "carbs_g": 8.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 701.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/1988/"
+      }
+    },
+    {
+      "id": "mexican-chicken-tortilla-2016",
+      "name": "Mexican Chicken Tortilla",
+      "description": "A savory blend of Grilled Corn Tortillas, oven-roasted Tomatoes, Red Bell Peppers, Jalapenos, Garlic, Cilantro and Basil with Grilled Chicken Breast. Suggested Garnish: Blue Corn Chips, Jack Cheese & Cilantro.",
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 16.0,
+      "carbs_g": 29.0,
+      "fat_g": 5.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 588.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2016/"
+      }
+    },
+    {
+      "id": "minestrone-raviolini-2018",
+      "name": "Minestrone Raviolini",
+      "description": "A Hearty Minestrone Style Soup with Mini Cheese Stuffed Raviolis. Contains: Wheat/Gluten, Eggs, Milk.",
+      "category": "side",
+      "calories": 151.0,
+      "protein_g": 7.0,
+      "carbs_g": 25.0,
+      "fat_g": 3.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 705.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2018/"
+      }
+    },
+    {
+      "id": "miso-chicken-ramen-24-oz-2019",
+      "name": "Miso Chicken Ramen (24 OZ)",
+      "description": "Fewer things are more comforting and flavorful than a rich bowl of ramen. Ours features handmade broth, roasted miso chicken, tea eggs, baby spinach, enoki mushrooms, green onions and ramen noodles. Contains: Egg, Wheat/Gluten, Soy.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2019/"
+      }
+    },
+    {
+      "id": "new-england-clam-chowder-2022",
+      "name": "New England Clam Chowder",
+      "description": "A thick, rich and creamy traditional recipe loaded with Clams from the North Atlantic and Red Skinned Potatoes. Contains: Milk, Shellfish. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 439.0,
+      "protein_g": 14.0,
+      "carbs_g": 33.0,
+      "fat_g": 28.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 767.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2022/"
+      }
+    },
+    {
+      "id": "organic-smoky-split-pea-2025",
+      "name": "Organic Smoky Split Pea",
+      "description": "A hearty vegetarian Organic Green Split Pea soup with chunks of Carrots and Tomatoes and a hint of smoke from Chipotle Chiles. Suggested Garnish: Cilantro.",
+      "category": "side",
+      "calories": 257.0,
+      "protein_g": 16.0,
+      "carbs_g": 46.0,
+      "fat_g": 2.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 657.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2025/"
+      }
+    },
+    {
+      "id": "organic-southwestern-corn-chowder-2026",
+      "name": "Organic Southwestern Corn Chowder",
+      "description": "A delectable blend of Roasted Corn, Red Bell Peppers and Red Skinned Potatoes simmered with Ancho, New Mexico and Chipotle Chiles. Suggested Garnish: Green Onions and Cilantro.",
+      "category": "side",
+      "calories": 269.0,
+      "protein_g": 5.0,
+      "carbs_g": 45.0,
+      "fat_g": 9.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 679.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2026/"
+      }
+    },
+    {
+      "id": "organic-steel-cut-oatmeal-2027",
+      "name": "Organic Steel Cut Oatmeal",
+      "description": "Organic Steel Cut Oats simmered and stirred with just a dash of Brown Sugar and hint of Cinnamon and Vanilla. Contains: Butter",
+      "category": "meal",
+      "calories": 214.0,
+      "protein_g": 7.0,
+      "carbs_g": 36.0,
+      "fat_g": 5.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 79.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2027/"
+      }
+    },
+    {
+      "id": "organic-tomato-bisque-2028",
+      "name": "Organic Tomato Bisque",
+      "description": "A luscious, silky, Organic Tomato and Sweet Cream soup. Contains: Milk. Suggested Garnish: None.",
+      "category": "side",
+      "calories": 251.0,
+      "protein_g": 4.0,
+      "carbs_g": 29.0,
+      "fat_g": 14.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 580.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2028/"
+      }
+    },
+    {
+      "id": "turkey-chili-2057",
+      "name": "Turkey Chili",
+      "description": "A thick chili made with ground Turkey, Tomatoes, Red Bell Peppers and Kidney Beans simmered with Ancho Chiles and Garlic. Suggested Garnish: Jack Cheese.",
+      "category": "side",
+      "calories": 355.0,
+      "protein_g": 29.0,
+      "carbs_g": 35.0,
+      "fat_g": 11.0,
+      "fiber_g": 11.0,
+      "sodium_mg": 801.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2057/"
+      }
+    },
+    {
+      "id": "balsamic-vinaigrette-2073",
+      "name": "Balsamic Vinaigrette",
+      "description": "Made with Non-GMO Canola Oil, Extra Virgin Olive Oil, Balsamic Vinegar, Mustard, Garlic.",
+      "category": "condiment",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 15.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2073/"
+      }
+    },
+    {
+      "id": "cilantro-lime-vinaigrette-2078",
+      "name": "Cilantro Lime Vinaigrette",
+      "description": "Made with Fresh Lemon Juice, Avocado, Fresh Lime Juice, Canola Oil, Fresh Cilantro, Oregano Garlic , Cayenne and Black Pepper.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2078/"
+      }
+    },
+    {
+      "id": "creamy-chipotle-2079",
+      "name": "Creamy Chipotle",
+      "description": "Made with Buttermilk, Mayonnaise, Tomato, Lemon Juice, Chipotle Chile. Contains: Milk, Eggs, Soy.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2079/"
+      }
+    },
+    {
+      "id": "ranch-2083",
+      "name": "Ranch",
+      "description": "Made with: Buttermilk, Low Fat Mayonnaise, Ranch Spice. No MSG. Contains: Milk, Eggs, Soy.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2083/"
+      }
+    },
+    {
+      "id": "meyer-lemon-vinaigrette-2085",
+      "name": "Meyer Lemon Vinaigrette",
+      "description": "Canola Olive Oil Blend, Lemon Juice, Rice wine Vinegar, Meyer Lemon Juice, Roasted Meyer Lemons, Roasted Garlic, Sea Salt, Black Pepper.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2085/"
+      }
+    },
+    {
+      "id": "miso-sesame-2086",
+      "name": "Miso Sesame",
+      "description": "Made with Sesame Oil, Vinegar, Miso, Soy Sauce (Wheat/Gluten Free), Dijon Mustard. Contains: Soy, Sesame.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2086/"
+      }
+    },
+    {
+      "id": "poppy-seed-vinaigrette-2087",
+      "name": "Poppy Seed Vinaigrette",
+      "description": "Mayonnaise, Honey, Lemon Juice, Apple Cider Vinegar, Poppy Seeds, Fresh Tarragon, and Dry Mustard. Contains: Soy, Eggs, Tree Nuts.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2087/"
+      }
+    },
+    {
+      "id": "thai-peanut-2092",
+      "name": "Thai Peanut",
+      "description": "Peanut Butter, Peanuts, Canola Oil, Sesame Oil, Rice Wine Vinegar, Lime Juice, Soy Sauce (Wheat/Gluten Free), Fish Sauce, Ginger, Chile Paste, Kaffir Lime Leaf. Contains: Peanuts, Fish, Soy, Sesame.",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2092/"
+      }
+    },
+    {
+      "id": "cabo-grilled-chicken-2100",
+      "name": "Cabo Grilled Chicken",
+      "description": "Crisp romaine, grilled chicken, avocado, red bell peppers, roasted corn, tortilla chips, shredded cabbage, cilantro, spiced pumpkin seeds, cilantro lime vinaigrette.",
+      "category": "meal",
+      "calories": 650.0,
+      "protein_g": 36.0,
+      "carbs_g": 71.0,
+      "fat_g": 19.0,
+      "fiber_g": 20.0,
+      "sodium_mg": 580.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2100/"
+      }
+    },
+    {
+      "id": "chicken-bacon-cobb-2101",
+      "name": "Chicken Bacon Cobb",
+      "description": "Crisp romaine, free-range chicken, Hobbs’ bacon, hard-boiled cage free egg, avocado, tomatoes & blue cheese with balsamic vinaigrette. Contains: Milk, Egg.",
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 43.0,
+      "carbs_g": 19.0,
+      "fat_g": 30.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 1520.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2101/"
+      }
+    },
+    {
+      "id": "chicken-chipotle-2103",
+      "name": "Chicken Chipotle",
+      "description": "Organic mixed greens, grilled chicken, roasted corn, jicama, black beans, tomatoes, avocado, cheddar cheese, tortilla chips, creamy chipotle dressing. Contains: Milk.",
+      "category": "meal",
+      "calories": 680.0,
+      "protein_g": 39.0,
+      "carbs_g": 70.0,
+      "fat_g": 25.0,
+      "fiber_g": 17.0,
+      "sodium_mg": 880.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2103/"
+      }
+    },
+    {
+      "id": "thai-peanut-chicken-2107",
+      "name": "Thai Peanut Chicken",
+      "description": "Crisp romaine, free-range chicken, carrots, English cucumbers, tomatoes, cabbage, red bell peppers, cilantro, mint, green onions & peanuts with spicy Thai peanut dressing. Contains: Peanuts.",
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 33.0,
+      "carbs_g": 36.0,
+      "fat_g": 20.0,
+      "fiber_g": 16.0,
+      "sodium_mg": 560.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2107/"
+      }
+    },
+    {
+      "id": "turkey-pesto-2127",
+      "name": "Turkey Pesto",
+      "description": "Roasted turkey, basil pesto, Cheddar cheese, romaine, tomato & mayo on ciabatta. Contains: Milk, Wheat/Gluten, Eggs, Soy, Tree Nuts",
+      "category": "meal",
+      "calories": 315.0,
+      "protein_g": 27.0,
+      "carbs_g": 20.0,
+      "fat_g": 10.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 390.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2127/"
+      }
+    },
+    {
+      "id": "avocado-pepper-jack-2133",
+      "name": "Avocado Pepper Jack",
+      "description": "Avocado, pepper jack, green leaf lettuce, sprouts, English cucumbers & tomatoes on ciabatta brushed with Meyer lemon vinaigrette. Contains: Cheese/Dairy, Wheat/Gluten.",
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 16.0,
+      "carbs_g": 34.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 200.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2133/"
+      }
+    },
+    {
+      "id": "chipotle-chicken-avocado-2137",
+      "name": "Chipotle Chicken Avocado",
+      "description": "Grilled chicken, avocado, creamy chipotle aioli, romaine & pepper jack cheese on ciabatta. Contains: Eggs, Soy, Cheese/Dairy, Wheat/Gluten.",
+      "category": "meal",
+      "calories": 415.0,
+      "protein_g": 26.0,
+      "carbs_g": 34.0,
+      "fat_g": 16.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 415.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2137/"
+      }
+    },
+    {
+      "id": "hummus-lavash-2144",
+      "name": "Hummus Lavash",
+      "description": "Hummus, whole garbanzos, romaine, English cucumbers, carrots & tomato on lavash with Meyer lemon vinaigrette. Contains:Wheat/Gluten, Sesame.",
+      "category": "meal",
+      "calories": 255.0,
+      "protein_g": 8.0,
+      "carbs_g": 32.0,
+      "fat_g": 9.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2144/"
+      }
+    },
+    {
+      "id": "grilled-chicken-caesar-2153",
+      "name": "Grilled Chicken Caesar",
+      "description": "Crisp romaine, free-range chicken, house-made focaccia croutons & parmesan with classic Caesar dressing. Contains: Cheese/Dairy, Wheat/Gluten.",
+      "category": "meal",
+      "calories": 280.0,
+      "protein_g": 25.0,
+      "carbs_g": 24.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 620.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2153/"
+      }
+    },
+    {
+      "id": "green-chile-smoked-cheddar-frittatas-egg-potato-gluten-free-2168",
+      "name": "Green Chile Smoked Cheddar Frittatas - Egg & Potato (gluten-free)",
+      "description": "",
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 12.0,
+      "carbs_g": 8.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2168/"
+      }
+    },
+    {
+      "id": "ciabatta-egg-sharp-cheddar-2169",
+      "name": "Ciabatta Egg & Sharp Cheddar",
+      "description": "add Hobbs' Bacon or Aidells Chicken Chorizo ($1.50)",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2169/"
+      }
+    },
+    {
+      "id": "bagel-egg-pepper-jack-2170",
+      "name": "Bagel Egg & Pepper Jack",
+      "description": "add Hobbs' Bacon or Aidells Chicken Chorizo ($1.5)",
+      "category": "meal",
+      "calories": 530.0,
+      "protein_g": 28.0,
+      "carbs_g": 54.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 930.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2170/"
+      }
+    },
+    {
+      "id": "burrito-starter-2171",
+      "name": "Burrito - Starter",
+      "description": "Scrambled eggs, sharp cheddar, ancho roasted potatoes, black beans, spinach tortilla.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2171/"
+      }
+    },
+    {
+      "id": "burrito-veggie-pico-2172",
+      "name": "Burrito - Veggie Pico",
+      "description": "Scrambled eggs, jack cheese, avocado, kale, ancho roasted potatoes, black beans, charred chile peppers, house-made pico de gallo, sour cream, spinach tortilla.",
+      "category": "meal",
+      "calories": 750.0,
+      "protein_g": 31.0,
+      "carbs_g": 68.0,
+      "fat_g": 41.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 1320.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2172/"
+      }
+    },
+    {
+      "id": "burrito-chicken-chorizo-2173",
+      "name": "Burrito - Chicken Chorizo",
+      "description": "Scrambled eggs, Aidells chicken chorizo, ancho roasted potatoes, black beans, charred chile peppers, hourse-made pico de gallo, source cream, spinach tortilla.",
+      "category": "meal",
+      "calories": 830.0,
+      "protein_g": 43.0,
+      "carbs_g": 68.0,
+      "fat_g": 44.0,
+      "fiber_g": 15.0,
+      "sodium_mg": 1810.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2173/"
+      }
+    },
+    {
+      "id": "toasted-bagel-cream-cheese-2174",
+      "name": "Toasted Bagel & Cream Cheese",
+      "description": "",
+      "category": "side",
+      "calories": 350.0,
+      "protein_g": 12.0,
+      "carbs_g": 54.0,
+      "fat_g": 9.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 600.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2174/"
+      }
+    },
+    {
+      "id": "egg-bowl-quinoa-avocado-2175",
+      "name": "Egg Bowl - Quinoa Avocado",
+      "description": "Quinoa, two fried eggs, avocado, carrots, English cucumber, red bell peppers, & Meyer lemon vinaigrette served over organic mixed greens.",
+      "category": "meal",
+      "calories": 250.0,
+      "protein_g": 15.0,
+      "carbs_g": 14.0,
+      "fat_g": 15.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2175/"
+      }
+    },
+    {
+      "id": "egg-bowl-kimchi-egg-forbidden-rice-2176",
+      "name": "Egg Bowl - Kimchi Egg & Forbidden Rice",
+      "description": "Forbidden rice, two fried eggs, avocado, carrots, red bell peppers, cucumber & Kimchi vinaigrette served over organic mixed greens. Contains: Peanuts, Fish, Shellfish.",
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 21.0,
+      "carbs_g": 43.0,
+      "fat_g": 15.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 170.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2176/"
+      }
+    },
+    {
+      "id": "egg-bowl-chorizo-black-bean-2177",
+      "name": "Egg Bowl - Chorizo Black Bean",
+      "description": "Aidell's chicken chorizo, two scrambled eggs, avocado, pepper Jack, & black beans served over organic mixed greens.",
+      "category": "meal",
+      "calories": 440.0,
+      "protein_g": 32.0,
+      "carbs_g": 12.0,
+      "fat_g": 29.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 760.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2177/"
+      }
+    },
+    {
+      "id": "organic-steel-cut-oatmeal-traditional-2178",
+      "name": "Organic Steel Cut Oatmeal - Traditional",
+      "description": "with Raisins, Brown Sugar, or Granola.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2178/"
+      }
+    },
+    {
+      "id": "organic-steel-cut-oatmeal-banana-candied-walnuts-2179",
+      "name": "Organic Steel Cut Oatmeal - Banana & Candied Walnuts",
+      "description": "",
+      "category": "meal",
+      "calories": 380.0,
+      "protein_g": 6.0,
+      "carbs_g": 49.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2179/"
+      }
+    },
+    {
+      "id": "savory-avocado-toast-basic-2181",
+      "name": "Savory Avocado Toast - Basic",
+      "description": "toasted pain levain, mashed avocado & cilantro.",
+      "category": "meal",
+      "calories": 90.0,
+      "protein_g": 2.0,
+      "carbs_g": 15.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 140.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2181/"
+      }
+    },
+    {
+      "id": "savory-avocado-toast-sunny-side-2182",
+      "name": "Savory Avocado Toast - Sunny Side",
+      "description": "fried free-range egg, toasted pain levain, avocado & cilantro.",
+      "category": "meal",
+      "calories": 170.0,
+      "protein_g": 9.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 210.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2182/"
+      }
+    },
+    {
+      "id": "broccoli-chedddar-frittatas-egg-potato-gluten-free-2183",
+      "name": "Broccoli Chedddar Frittatas - Egg & Potato (gluten-free)",
+      "description": "",
+      "category": "meal",
+      "calories": 260.0,
+      "protein_g": 13.0,
+      "carbs_g": 7.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 460.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2183/"
+      }
+    },
+    {
+      "id": "ham-swiss-frittatas-egg-potato-gluten-free-2184",
+      "name": "Ham & Swiss Frittatas - Egg & Potato (gluten-free)",
+      "description": "",
+      "category": "meal",
+      "calories": 270.0,
+      "protein_g": 15.0,
+      "carbs_g": 6.0,
+      "fat_g": 20.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 570.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2184/"
+      }
+    },
+    {
+      "id": "castellana-soup-2185",
+      "name": "Castellana Soup",
+      "description": "From the high central plains Castilla, Spain this soup features smoked ham, smoked paprika, cauliflower and roasted garlic. Garnished with croutons, free range egg and fresh parsley.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2185/"
+      }
+    },
+    {
+      "id": "italian-tomato-and-meatball-2191",
+      "name": "Italian Tomato and Meatball",
+      "description": "A hearty tomato broth soup full of meatballs, swiss chard, and orzo pasta.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2191/"
+      }
+    },
+    {
+      "id": "pico-kale-2197",
+      "name": "Pico Kale",
+      "description": "Tri-color quinoa, massaged kale, avocado, black beans, red bell peppers, cabbage, pickled red onions & tortilla chips with pico de gallo vinaigrette. Contains: Soy",
+      "category": "meal",
+      "calories": 510.0,
+      "protein_g": 16.0,
+      "carbs_g": 77.0,
+      "fat_g": 15.0,
+      "fiber_g": 19.0,
+      "sodium_mg": 270.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2197/"
+      }
+    },
+    {
+      "id": "quinoa-feta-avocado-2201",
+      "name": "Quinoa Feta Avocado",
+      "description": "Tri-color quinoa, organic mixed greens, avocado, English cucumbers, red bell peppers & feta with green goddess dressing.",
+      "category": "meal",
+      "calories": 430.0,
+      "protein_g": 18.0,
+      "carbs_g": 47.0,
+      "fat_g": 20.0,
+      "fiber_g": 18.0,
+      "sodium_mg": 490.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2201/"
+      }
+    },
+    {
+      "id": "vegan-tomato-bisque-with-cashew-cream-2207",
+      "name": "Vegan Tomato Bisque with Cashew Cream",
+      "description": "A velvety, organic, vegan tomato bisque, made with cashew cream.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2207/"
+      }
+    },
+    {
+      "id": "big-easy-gumbo-2212",
+      "name": "Big Easy Gumbo",
+      "description": "By Chef Lawrence Dark roux with andouille sausage, chicken breast, okra, tomatoes, red bell peppers & cajun spices. Contains: Butter/Diary, Fish, Wheat/Gluten.",
+      "category": "side",
+      "calories": 360.0,
+      "protein_g": 17.0,
+      "carbs_g": 17.0,
+      "fat_g": 24.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1050.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2212/"
+      }
+    },
+    {
+      "id": "sweet-corn-bisque-2213",
+      "name": "Sweet Corn Bisque",
+      "description": "By Chef Lawrence Fresh picked corn, corn cob stock & sweet cream with a bacon crumble garnish. Contains: Milk, Butter/Dairy.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2213/"
+      }
+    },
+    {
+      "id": "turkey-pot-pie-2216",
+      "name": "Turkey Pot Pie",
+      "description": "Thick and creamy with chunks of turkey and red skinned potatoes, mushrooms, red bell peppers and peas. Contains: milk.",
+      "category": "side",
+      "calories": 373.0,
+      "protein_g": 20.0,
+      "carbs_g": 30.0,
+      "fat_g": 20.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 771.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2216/"
+      }
+    },
+    {
+      "id": "grilled-chicken-rainbow-chard-2227",
+      "name": "Grilled Chicken & Rainbow Chard",
+      "description": "Grilled chicken, flageolet beans, rainbow chard, carrots & white wine with aged Parmigiano Reggiano & house-made foccacia croutons. Contains: Cheese/Dairy, Butter/Dairy, Wheat/Gluten.",
+      "category": "side",
+      "calories": 250.0,
+      "protein_g": 26.0,
+      "carbs_g": 30.0,
+      "fat_g": 3.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 830.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2227/"
+      }
+    },
+    {
+      "id": "creamy-cauliflower-root-vegetable-2228",
+      "name": "Creamy Cauliflower & Root Vegetable",
+      "description": "A decadent puree of cauliflower, celery root, parsnips & cream, served with a dollop of apple parsley salad & white truffle oil. Contains: milk/dairy.",
+      "category": "side",
+      "calories": 140.0,
+      "protein_g": 4.0,
+      "carbs_g": 16.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 480.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2228/"
+      }
+    },
+    {
+      "id": "chicken-bacon-kale-2229",
+      "name": "Chicken Bacon Kale",
+      "description": "Tuscan kale, grilled chicken, uncured bacon, toasted almonds, breadcrumbs, Parmesan cheese, honey Dijon vinaigrette. Contains: nuts, cheese/Dairy, butter/dairy & wheat/gluten.",
+      "category": "meal",
+      "calories": 540.0,
+      "protein_g": 35.0,
+      "carbs_g": 33.0,
+      "fat_g": 27.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1290.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2229/"
+      }
+    },
+    {
+      "id": "roast-beef-cheddar-2231",
+      "name": "Roast Beef & Cheddar",
+      "description": "All-natural roast beef, cheddar cheese, romaine, tomato, mayo & Dijon on ciabatta. Contains: Cheese/Dairy, Wheat/Gluten, Egg, Soy.",
+      "category": "meal",
+      "calories": 367.0,
+      "protein_g": 22.0,
+      "carbs_g": 24.0,
+      "fat_g": 19.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 816.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2231/"
+      }
+    },
+    {
+      "id": "duck-confit-french-lentil-2232",
+      "name": "Duck Confit & French Lentil",
+      "description": "From Roland Passot: La Folie Restaurant Classic duck confit in a savory French lentil soup.",
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 28.0,
+      "carbs_g": 41.0,
+      "fat_g": 4.0,
+      "fiber_g": 8.0,
+      "sodium_mg": 210.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2232/"
+      }
+    },
+    {
+      "id": "curried-carrot-2234",
+      "name": "Curried Carrot",
+      "description": "From Arun Gupta: Dosa Restaurant A vegan, Indian, roasted carrot bisque seasoned with turmeric, ginger and Anaheim chilis. Garnished with candied walnuts.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 2.0,
+      "carbs_g": 20.0,
+      "fat_g": 3.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 680.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2234/"
+      }
+    },
+    {
+      "id": "kabocha-squash-kombu-2236",
+      "name": "Kabocha Squash & Kombu",
+      "description": "From Tim Archuleta: Ichi Sushi Roasted kabocha squash pureed in a nourishing kombu broth. Garnished with furikake, togarashi and shiso oil.",
+      "category": "side",
+      "calories": 100.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 3.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 220.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2236/"
+      }
+    },
+    {
+      "id": "white-bean-chicken-kale-2237",
+      "name": "White Bean Chicken & Kale",
+      "description": "Chunks of grilled chicken breast simmered with white beans, kale and three kinds of chiles in a spice-infused chicken stock. Suggested Garnish: Jack cheese, green onions and cilantro.",
+      "category": "side",
+      "calories": 380.0,
+      "protein_g": 29.0,
+      "carbs_g": 50.0,
+      "fat_g": 8.0,
+      "fiber_g": 13.0,
+      "sodium_mg": 860.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2237/"
+      }
+    },
+    {
+      "id": "sonoma-chicken-2243",
+      "name": "Sonoma Chicken",
+      "description": "Crisp romaine, grilled chicken, apples, red grapes, celery & candied walnuts served with poppy seed dressing.",
+      "category": "meal",
+      "calories": 370.0,
+      "protein_g": 25.0,
+      "carbs_g": 29.0,
+      "fat_g": 16.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 450.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2243/"
+      }
+    },
+    {
+      "id": "chilled-corn-bisque-2245",
+      "name": "Chilled Corn Bisque",
+      "description": "Fresh picked corn, corn cob stock and sweet cream, garnished with nitrate-free bacon and scallions. Contains: Milk, Butter/Dairy.",
+      "category": "side",
+      "calories": 310.0,
+      "protein_g": 5.0,
+      "carbs_g": 34.0,
+      "fat_g": 19.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 350.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2245/"
+      }
+    },
+    {
+      "id": "brussels-sprouts-caesar-2251",
+      "name": "Brussels Sprouts Caesar",
+      "description": "Massaged Kale, avocado, roasted Brussels sprouts, house-made focaccia croutons & parmesan with classic ceasar dressing.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2251/"
+      }
+    },
+    {
+      "id": "bone-broth-minestrone-verde-2253",
+      "name": "Bone Broth Minestrone Verde",
+      "description": "A rich bone broth with pulled chicken, white beans, snap peas, and Tuscan kale. Finished with an herbaceous basil pesto.",
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 17.0,
+      "carbs_g": 18.0,
+      "fat_g": 7.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 720.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2253/"
+      }
+    },
+    {
+      "id": "hot-sour-chicken-2258",
+      "name": "Hot & Sour Chicken",
+      "description": "From Tony Wu: MY China A nourishing hot & sour soup loaded with chicken, egg, wood ear and enoki mushrooms. Contains: Eggs. Garnish: Egg, Green Onion",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 14.0,
+      "carbs_g": 11.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1216.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2258/"
+      }
+    },
+    {
+      "id": "oaxacan-chicken-soup-with-salsa-nopal-2265",
+      "name": "Oaxacan Chicken Soup with Salsa Nopal",
+      "description": "A hearty soup with Mexican spices, peppers, pulled chicken and roasted corn, topped with salsa verde and roasted nopal cactus.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 16.0,
+      "carbs_g": 21.0,
+      "fat_g": 6.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 970.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2265/"
+      }
+    },
+    {
+      "id": "balinese-chicken-curry-stew-2267",
+      "name": "Balinese Chicken Curry Stew",
+      "description": "A rich and spicy yellow curry stew, with coconut milk, cashew cream, chicken and seasoned with lemon grass, sweet fennel, turmeric and tamarind, served over rice & cilantro. Contains: Tree Nuts (cashews), Fish (fish sauce).",
+      "category": "side",
+      "calories": 300.0,
+      "protein_g": 16.0,
+      "carbs_g": 13.0,
+      "fat_g": 20.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1000.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2267/"
+      }
+    },
+    {
+      "id": "kabocha-pumpkin-lemongrass-2268",
+      "name": "Kabocha Pumpkin Lemongrass",
+      "description": "Roasted Kabocha pumpkin and coconut milk lightly seasoned with lemongrass, Thai green curry and ginger. Contains: Coconut. Suggested Garnish: Roasted Pepitas.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 5.0,
+      "carbs_g": 30.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 470.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2268/"
+      }
+    },
+    {
+      "id": "truffled-chicken-artichoke-mushroom-2272",
+      "name": "Truffled Chicken, Artichoke & Mushroom",
+      "description": "A blend of artichoke hearts, pulled chicken, cremini, porcini and beech mushrooms, seasoned with rosemary and thyme and finished with truffle oil",
+      "category": "side",
+      "calories": 170.0,
+      "protein_g": 17.0,
+      "carbs_g": 17.0,
+      "fat_g": 4.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 940.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2272/"
+      }
+    },
+    {
+      "id": "thai-pumpkin-chicken-curry-w-noodles-2273",
+      "name": "Thai Pumpkin Chicken Curry w/Noodles",
+      "description": "A rich coconut milk red curry with pulled chicken, chunks of roasted pumpkin and spinach. Garnished with peanuts, scallions, and cilantro and served over egg noodles",
+      "category": "side",
+      "calories": 280.0,
+      "protein_g": 16.0,
+      "carbs_g": 13.0,
+      "fat_g": 17.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1620.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2273/"
+      }
+    },
+    {
+      "id": "indian-red-lentil-stew-2275",
+      "name": "Indian Red Lentil Stew",
+      "description": "A healthy & flavorful red lentil stew with red chard, carrots, celery, and tomatoes, seasoned with Indian spices and garnished with Greek yogurt",
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 13.0,
+      "carbs_g": 41.0,
+      "fat_g": 2.0,
+      "fiber_g": 9.0,
+      "sodium_mg": 490.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2275/"
+      }
+    },
+    {
+      "id": "stracciatella-roman-egg-drop-soup-2276",
+      "name": "Stracciatella (Roman Egg Drop) Soup",
+      "description": "Parmesan infused chicken broth, with kale, pulled chicken and egg. Contains: Dairy, Eggs.",
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 24.0,
+      "carbs_g": 4.0,
+      "fat_g": 8.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 470.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2276/"
+      }
+    },
+    {
+      "id": "moroccan-carrot-and-lentil-2277",
+      "name": "Moroccan Carrot and Lentil",
+      "description": "Tri-Color carrots, onion, celery root, red lentils, tomatoes, and ginger are simmered with our own ras el hanout seasoning blend and then finished with fresh chard.",
+      "category": "side",
+      "calories": 260.0,
+      "protein_g": 13.0,
+      "carbs_g": 39.0,
+      "fat_g": 7.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1300.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2277/"
+      }
+    },
+    {
+      "id": "winter-vegetable-detox-with-kelp-noodles-2278",
+      "name": "Winter Vegetable Detox with Kelp Noodles",
+      "description": "Carrots, fennel, cauliflower, tomatoes and bok choy are simmered with ginger, turmeric, coriander and preserved lemons and served with noodles from the sea.",
+      "category": "side",
+      "calories": 110.0,
+      "protein_g": 3.0,
+      "carbs_g": 13.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 960.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2278/"
+      }
+    },
+    {
+      "id": "japanese-curried-sweet-potato-soup-2279",
+      "name": "Japanese Curried Sweet Potato Soup",
+      "description": "A traditional coconut yellow curry enriched with cauliflower and sweet potatoes blended into the broth. Tasty bites of chickpeas, sweet potatoes, and pea tendrils finish the soup. Contains: Tree Nuts",
+      "category": "side",
+      "calories": 430.0,
+      "protein_g": 7.0,
+      "carbs_g": 40.0,
+      "fat_g": 25.0,
+      "fiber_g": 10.0,
+      "sodium_mg": 1050.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2279/"
+      }
+    },
+    {
+      "id": "charred-kale-and-cauliflower-with-chorizo-2280",
+      "name": "Charred Kale and Cauliflower with Chorizo",
+      "description": "Kale, cauliflower and mushrooms oven charred and simmered with peppers, chipotle, Mexican spices and browned chorizo.",
+      "category": "side",
+      "calories": 240.0,
+      "protein_g": 13.0,
+      "carbs_g": 14.0,
+      "fat_g": 15.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 1290.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2280/"
+      }
+    },
+    {
+      "id": "burmese-chicken-curry-with-kelp-noodles-2281",
+      "name": "Burmese Chicken Curry with Kelp Noodles",
+      "description": "A rich coconut curry with pulled chicken, red peppers, and roasted and chopped cashews; served with noodles from the sea.",
+      "category": "side",
+      "calories": 460.0,
+      "protein_g": 23.0,
+      "carbs_g": 12.0,
+      "fat_g": 34.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 890.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2281/"
+      }
+    },
+    {
+      "id": "matzoh-ball-soup-2282",
+      "name": "Matzoh Ball Soup",
+      "description": "A rich chicken broth with hand rolled matzoh balls, big chunks of chicken, carrots, celery, parsnip and fresh dill. Contains: eggs, wheat/gluten.",
+      "category": "side",
+      "calories": 164.0,
+      "protein_g": 5.0,
+      "carbs_g": 14.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 425.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2282/"
+      }
+    },
+    {
+      "id": "spicy-curried-lentil-soup-2284",
+      "name": "Spicy Curried Lentil Soup",
+      "description": "A spicy coconut lentil soup with chunks of potatoes, tomatoes and aromatic spices.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2284/"
+      }
+    },
+    {
+      "id": "vegan-new-england-fish-chowder-2285",
+      "name": "Vegan New England Fish Chowder",
+      "description": "A rich traditional chowder recipe made vegan with Good Catch Plant-Based Tune, vegan butter, luscious oat cream, hearty potatoes, onion, celery, herbs and sherry, with a hint of smoke from plant-based bacon. (Vegan, Dairy-Free)",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2285/"
+      }
+    },
+    {
+      "id": "vegan-manhattan-fish-chowder-2286",
+      "name": "Vegan Manhattan Fish Chowder",
+      "description": "A bright and brothy tomato-based chowder full of Good Catch Plant-Base Tuna, tender cubes of potato, onion, white wine and celery, seasoned with thyme, bay celery seed, and red bell pepper. (Vegan, Gluten-Free, Dairy-Free)",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2286/"
+      }
+    },
+    {
+      "id": "vegan-crab-corn-bisque-2287",
+      "name": "Vegan Crab & Corn Bisque",
+      "description": "",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2287/"
+      }
+    },
+    {
+      "id": "rainbow-salad-with-salmon-2288",
+      "name": "Rainbow Salad with Salmon",
+      "description": "Crisp romaine, oak roasted Norwegian salmon, beets, candied walnuts, Pt. Reyes blue cheese, corn, shredded cabbage & carrots with Champagne vinaigrette.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2288/"
+      }
+    },
+    {
+      "id": "loaded-baked-potato-soup-2289",
+      "name": "Loaded Baked Potato Soup",
+      "description": "Loaded with potatoes, cheddar cheese, bacon and chives",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2289/"
+      }
+    },
+    {
+      "id": "vegan-chick-n-tortilla-2291",
+      "name": "Vegan Chick’n Tortilla",
+      "description": "A blend of tomatoes, onions, celery, bell peppers and vegetable stock with carrots, corn and Mindful Chick’n.",
+      "category": "side",
+      "calories": 182.0,
+      "protein_g": 11.0,
+      "carbs_g": 27.0,
+      "fat_g": 4.0,
+      "fiber_g": 7.0,
+      "sodium_mg": 1288.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2291/"
+      }
+    },
+    {
+      "id": "bone-broth-portabella-mushroom-barley-2294",
+      "name": "Bone Broth Portabella Mushroom Barley",
+      "description": "A Comforting classic made with rich beef bone broth, braised portabella mushrooms and nourishing barley.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2294/"
+      }
+    },
+    {
+      "id": "bone-broth-portabella-mushroom-barley-2295",
+      "name": "Bone Broth Portabella Mushroom Barley",
+      "description": "A Comforting classic made with rich beef bone broth, braised portabella mushrooms and nourshing barley.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2295/"
+      }
+    },
+    {
+      "id": "green-goddess-2296",
+      "name": "Green Goddess",
+      "description": "Organic mixed greens, grilled chicken, avocado, cauliflower rice, red bell peppers, toasted almonds & English cucumber with Green Goddess dressing.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2296/"
+      }
+    },
+    {
+      "id": "creamy-chicken-and-rice-2297",
+      "name": "Creamy Chicken and Rice",
+      "description": "A comforting soup with chicken, carrots, celery and rice.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2297/"
+      }
+    },
+    {
+      "id": "jambalaya-with-shrimp-andouille-2298",
+      "name": "Jambalaya with Shrimp & Andouille",
+      "description": "A Creole favorite, our Shrimp and Andouille sausage stew is just a little bit spicy and will bring you back to the bayou.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2298/"
+      }
+    },
+    {
+      "id": "bbq-chicken-2299",
+      "name": "BBQ Chicken",
+      "description": "Crisp romaine, BBQ chicken, corn, black beans, red bell pepper, and fried shallots with ranch dressing Contains: Milk/Dairy",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2299/"
+      }
+    },
+    {
+      "id": "chicken-pasilla-stew-2300",
+      "name": "Chicken Pasilla Stew",
+      "description": "Braised chicken in a tomatillo and pasilla pepper sauce, served over quinoa.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2300/"
+      }
+    },
+    {
+      "id": "coconut-pork-stew-2301",
+      "name": "Coconut Pork Stew",
+      "description": "Braised pork shoulder in a rich Asian style coconut sauce, served over quinoa.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2301/"
+      }
+    },
+    {
+      "id": "vegan-vegetable-soup-2303",
+      "name": "Vegan Vegetable Soup",
+      "description": "A zesty tomato broth loaded with vegetables including spinach, zucchini, mushrooms, carrots, peas and corn.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2303/"
+      }
+    },
+    {
+      "id": "jambalaya-with-andouille-2305",
+      "name": "Jambalaya with Andouille",
+      "description": "A Creole favorite and Andouille sausage stew is just a little bit spicy and will bring you back to the bayou.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2305/"
+      }
+    },
+    {
+      "id": "mushroom-potage-soup-2306",
+      "name": "Mushroom Potage Soup",
+      "description": "A rich mushroom soup with a touch of sour cream.",
+      "category": "side",
+      "calories": 315.0,
+      "protein_g": 8.0,
+      "carbs_g": 26.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1350.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2306/"
+      }
+    },
+    {
+      "id": "cumin-chicken-soup-2307",
+      "name": "Cumin Chicken Soup",
+      "description": "Pulled chicken, yukon gold potatoes, red bell peppers, corn, peas and cumin in a spicy lime & cilantro infused chicken stock.",
+      "category": "side",
+      "calories": 234.0,
+      "protein_g": 14.0,
+      "carbs_g": 24.0,
+      "fat_g": 9.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 750.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2307/"
+      }
+    },
+    {
+      "id": "salmon-chowder-2308",
+      "name": "Salmon Chowder",
+      "description": "Salmon poached in a dill and thyme infused rich broth with celery, corn and potatoes.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2308/"
+      }
+    },
+    {
+      "id": "grilled-chicken-cobb-2310",
+      "name": "Grilled Chicken Cobb",
+      "description": "Crisp romaine, grilled chicken, uncured bacon, hard-boiled egg, avocado, tomatoes, Point Reyes blue cheese, balsamic vinaigrette. Contains: Milk/Dairy, Egg.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2310/"
+      }
+    },
+    {
+      "id": "turkey-avocado-salsa-2311",
+      "name": "Turkey Avocado Salsa",
+      "description": "Roasted turkey, avocado, salsa verde, red onion, shredded cabbage, cilantro & pepper jack cheese on ciabatta. Contains: Milk, Wheat/Gluten",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2311/"
+      }
+    },
+    {
+      "id": "mediterranean-veggie-2312",
+      "name": "Mediterranean Veggie",
+      "description": "Romaine, artichoke, pickled onion, roasted red peppers, avocado, feta cheese, balsamic & sun-dried tomato pesto on ciabatta. Contains: Milk, Wheat/Gluten",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2312/"
+      }
+    },
+    {
+      "id": "lemon-basil-chicken-2314",
+      "name": "Lemon Basil Chicken",
+      "description": "Grilled chicken, basil leaves, tomato, pepper jack cheese, romaine, mayo & Meyer lemon spread on ciabatta. Contains: Eggs, Soy, Cheese/Dairy, Wheat/Gluten.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2314/"
+      }
+    },
+    {
+      "id": "chimichurri-chicken-2315",
+      "name": "Chimichurri Chicken",
+      "description": "Grilled chicken, romaine, roasted red peppers, pepper jack cheese, mayo & chimichurri spread on ciabatta. Contains: Cheese/Dairy, Wheat/Gluten.",
+      "category": "meal",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2315/"
+      }
+    },
+    {
+      "id": "turkey-lasagna-soup-2317",
+      "name": "Turkey Lasagna Soup",
+      "description": "Traditional lasagna deconstructed into a savory, tomato-based broth filled with ground turkey, broken lasagna noodles, and Italian herbs.",
+      "category": "side",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "12 oz (Regular: 12 oz, Large: 16 oz)",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2317/"
+      }
+    },
+    {
+      "id": "champagne-vinaigrette-2318",
+      "name": "Champagne Vinaigrette",
+      "description": "A bright, elegant vinaigrette made with champagne vinegar, Dijon mustard, olive oil, honey, and a delicate blend of spices",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2318/"
+      }
+    },
+    {
+      "id": "pico-de-gallo-vinaigrette-2319",
+      "name": "Pico De Gallo Vinaigrette",
+      "description": "A bright, zesty vinaigrette made with red wine vinegar, lime juice, jalapeño, red onion, oregano, and a lively blend of spices",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2319/"
+      }
+    },
+    {
+      "id": "classic-caesar-2320",
+      "name": "Classic Caesar",
+      "description": "",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2320/"
+      }
+    },
+    {
+      "id": "green-goddess-2321",
+      "name": "Green Goddess",
+      "description": "",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2321/"
+      }
+    },
+    {
+      "id": "honey-dijon-vinaigrette-2322",
+      "name": "Honey Dijon Vinaigrette",
+      "description": "",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2322/"
+      }
+    },
+    {
+      "id": "pomegranate-vinaigrette-2324",
+      "name": "Pomegranate Vinaigrette",
+      "description": "",
+      "category": "condiment",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "serving_note": "per item, as served",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://ladleandleaf.com/products/2324/"
+      }
+    }
+  ]
+}

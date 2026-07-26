@@ -1,0 +1,82 @@
+"""Mrs. Fields official nutrition pages scraper."""
+import datetime
+import re
+import sys
+from pathlib import Path
+
+import requests
+from bs4 import BeautifulSoup
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
+from save import save_restaurant
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _geo import geocode  # noqa: E402
+
+URL = "https://www.mrsfields.com/pages/nutrition-information"
+TODAY = datetime.date.today().isoformat()
+EXPECTED_HEADER = (
+    "caloriescaloriesfromfattotalfatsaturatedfatcholesterolsodium"
+    "totalcarbohydratedietaryfibersugarsprotein"
+)
+
+
+def main():
+    # The linked cookie pages publish ingredients but no nutrition values. The
+    # "other" page is the only page with labeled numeric nutrition facts.
+    url = "https://www.mrsfields.com/pages/nutrition-details-other"
+    soup = BeautifulSoup(requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=60).text, "lxml")
+    # The official cookie and Nibbler pages publish ingredients and label
+    # images, but no recoverable numeric cookie nutrition check is available.
+    description = soup.find("meta", attrs={"name": "description"}).get("content", "")
+    expected_names = [
+        "Chocolate Covered Almonds 2oz Bag",
+        "Chocolate Covered Pretzels 4oz Bag",
+        "Kettle Corn 2oz Bag",
+        "Yogurt Covered Almonds 2oz Bag",
+        "Yogurt Pretzels 4oz Bags",
+    ]
+    names = []
+    cursor = 0
+    for name in expected_names:
+        idx = description.find(name, cursor)
+        if idx < 0:
+            raise SystemExit(f"mrs-fields: nutrition page missing expected item name {name!r}")
+        names.append(name)
+        cursor = idx + len(name)
+    fact_rows = [r for r in soup.select("tr") if "Calories Calories from Fat" in r.get_text(" ", strip=True)]
+    if len(fact_rows) != len(names):
+        raise SystemExit(f"mrs-fields: expected {len(names)} rows, found {len(fact_rows)}")
+    items = []
+    for name, row in zip(names, fact_rows):
+        header = re.sub(
+            r"[^a-z]",
+            "",
+            row.select("td")[0].get_text(" ", strip=True).casefold(),
+        )
+        if not header.startswith(EXPECTED_HEADER):
+            raise SystemExit(f"mrs-fields: unexpected nutrition header {header!r}")
+        values = list(map(float, re.findall(r"\d+(?:\.\d+)?", row.select("td")[1].get_text(" ", strip=True))))
+        if len(values) < 10:
+            raise SystemExit(f"mrs-fields: expected at least 10 nutrition values, found {len(values)}")
+        cal, fat, sodium, carbs, fiber, protein = values[0], values[2], values[5], values[6], values[7], values[9]
+        items.append({
+            "id": re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-"), "name": name,
+            "description": None, "category": "side", "calories": cal,
+            "protein_g": protein, "carbs_g": carbs, "fat_g": fat,
+            "fiber_g": fiber, "sodium_mg": sodium,
+            "serving_note": "per package serving", "is_estimate": False,
+            "source": {"type": "published", "url": url},
+        })
+    address = "Pier 39 Bldg B-06, San Francisco, CA 94133"
+    lat, lng = geocode(address)
+    save_restaurant({
+        "id": "mrs-fields", "name": "Mrs. Fields", "website": "https://www.mrsfields.com",
+        "nutrition_source": {"type": "published", "url": URL, "vendor": None, "retrieved": TODAY},
+        "locations": [{"address": address, "lat": lat, "lng": lng, "neighborhood": "Fisherman's Wharf"}],
+        "items": items,
+    })
+    print(f"Mrs. Fields items: {len(items)}")
+
+
+if __name__ == "__main__":
+    main()

@@ -402,6 +402,25 @@
     ]
   },
   {
+    "id": "cold-stone-creamery",
+    "name": "Cold Stone Creamery",
+    "website": "https://www.coldstonecreamery.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.coldstonecreamery.com/assets/pdf/nutrition/nutrition_info_icecream.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "2737 Taylor St, San Francisco, CA 94133",
+        "lat": 37.8076399,
+        "lng": -122.4157933,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
     "id": "curry-up-now",
     "name": "Curry Up Now",
     "website": "https://www.curryupnow.com",
@@ -796,6 +815,79 @@
     ]
   },
   {
+    "id": "krispy-krunchy-chicken",
+    "name": "Krispy Krunchy Chicken",
+    "website": "https://www.krispykrunchy.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.krispykrunchy.com/wp-content/uploads/2023/11/Nutrition-and-Allergen-Guide-Effective-11-2023.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "2130 Irving Street, San Francisco, CA 94122",
+        "lat": 37.7636668,
+        "lng": -122.4809539,
+        "neighborhood": null
+      },
+      {
+        "address": "2660 Mason Street, San Francisco, CA 94133",
+        "lat": 37.8082251,
+        "lng": -122.4139806,
+        "neighborhood": null
+      },
+      {
+        "address": "4517 3rd Street, San Francisco, CA 94124",
+        "lat": 37.73676004859481,
+        "lng": -122.38969830976343,
+        "neighborhood": null
+      },
+      {
+        "address": "177 Eddy St, San Francisco, CA 94102",
+        "lat": 37.7839543,
+        "lng": -122.4104017,
+        "neighborhood": null
+      },
+      {
+        "address": "3325 24th St, San Francisco, CA 94110",
+        "lat": 37.752058407973045,
+        "lng": -122.4190908926424,
+        "neighborhood": null
+      },
+      {
+        "address": "3550 Mission St, San Francisco, CA 94110",
+        "lat": 37.740485715207136,
+        "lng": -122.42362376654071,
+        "neighborhood": null
+      },
+      {
+        "address": "599 S. Van Ness Ave, San Francisco, CA 94110",
+        "lat": 37.76387692992579,
+        "lng": -122.4169235947866,
+        "neighborhood": null
+      },
+      {
+        "address": "330 5Th Street, San Francisco, CA 94107",
+        "lat": 37.779752499025186,
+        "lng": -122.40312731779099,
+        "neighborhood": null
+      },
+      {
+        "address": "110 6th Street, San Francisco, CA 94103",
+        "lat": 37.78068468051125,
+        "lng": -122.40862222638931,
+        "neighborhood": null
+      },
+      {
+        "address": "496 Eddy St, San Francisco, CA 94109",
+        "lat": 37.783711000000004,
+        "lng": -122.4158259588955,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
     "id": "kura-revolving-sushi",
     "name": "Kura Revolving Sushi Bar",
     "website": "https://kurasushi.com",
@@ -848,6 +940,62 @@
         "lat": 37.777,
         "lng": -122.4246,
         "neighborhood": "Hayes Valley"
+      }
+    ]
+  },
+  {
+    "id": "ladle-and-leaf",
+    "name": "Ladle & Leaf",
+    "website": "https://ladleandleaf.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://ladleandleaf.com/products/",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "500 Parnassus Avenue, San Francisco, CA",
+        "lat": 37.7633263,
+        "lng": -122.4587785,
+        "neighborhood": null
+      },
+      {
+        "address": "221 Montgomery Street, San Francisco, CA",
+        "lat": 37.7913014,
+        "lng": -122.4026093,
+        "neighborhood": null
+      },
+      {
+        "address": "580 California Street, San Francisco, CA",
+        "lat": 37.7929844,
+        "lng": -122.404152,
+        "neighborhood": null
+      },
+      {
+        "address": "1 California Street, San Francisco, CA",
+        "lat": 37.7931799,
+        "lng": -122.3971689,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "lees-sandwiches",
+    "name": "Lee's Sandwiches",
+    "website": "https://leesandwiches.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://leesandwiches.com/wp-sitemap-posts-menu-1.xml",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "625 Larkin St, San Francisco, CA 94109",
+        "lat": 37.7836349,
+        "lng": -122.4178775,
+        "neighborhood": null
       }
     ]
   },
@@ -1099,6 +1247,25 @@
     ]
   },
   {
+    "id": "mrs-fields",
+    "name": "Mrs. Fields",
+    "website": "https://www.mrsfields.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://www.mrsfields.com/pages/nutrition-information",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "Pier 39 Bldg B-06, San Francisco, CA 94133",
+        "lat": 37.808673,
+        "lng": -122.409821,
+        "neighborhood": "Fisherman's Wharf"
+      }
+    ]
+  },
+  {
     "id": "next-level-burger",
     "name": "Next Level Burger",
     "website": "https://www.nextlevelburger.com",
@@ -1175,6 +1342,25 @@
         "address": "2300 16th St, San Francisco, CA 94103",
         "lat": 37.76596988162717,
         "lng": -122.40790806706721,
+        "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "ono-hawaiian-bbq",
+    "name": "Ono Hawaiian BBQ",
+    "website": "https://onohawaiianbbq.com/",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://onohawaiianbbq.com/wp-content/uploads/2025/02/Nutrition-Facts-To-Print_2025.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "1501 Sloat Blvd. Ste #A, San Francisco, CA 94132",
+        "lat": 37.733871,
+        "lng": -122.489204,
         "neighborhood": null
       }
     ]
@@ -1397,6 +1583,91 @@
         "lat": 37.740363,
         "lng": -122.466749,
         "neighborhood": null
+      }
+    ]
+  },
+  {
+    "id": "philz-coffee",
+    "name": "Philz Coffee",
+    "website": "https://philzcoffee.com",
+    "nutrition_source": {
+      "type": "published",
+      "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf",
+      "vendor": null,
+      "retrieved": "2026-07-26"
+    },
+    "locations": [
+      {
+        "address": "5 Embarcadero Center, San Francisco, CA 94111",
+        "lat": 37.7942169,
+        "lng": -122.3956663,
+        "neighborhood": "Embarcadero"
+      },
+      {
+        "address": "2234 Polk St, San Francisco, CA 94109",
+        "lat": 37.7974313,
+        "lng": -122.4218249,
+        "neighborhood": "Russian Hill"
+      },
+      {
+        "address": "1 Front St Suite 100, San Francisco, CA 94111",
+        "lat": 37.7918198,
+        "lng": -122.3989854,
+        "neighborhood": "Front St"
+      },
+      {
+        "address": "300 Folsom St, San Francisco, CA 94105",
+        "lat": 37.7887502,
+        "lng": -122.3932158,
+        "neighborhood": "Folsom & Beale"
+      },
+      {
+        "address": "425 Mission Street Suite 100, San Francisco CA 94105",
+        "lat": 37.78801,
+        "lng": -122.39871,
+        "neighborhood": "Second Street"
+      },
+      {
+        "address": "399 Golden Gate Ave, San Francisco, CA 94102",
+        "lat": 37.7813147,
+        "lng": -122.4165902,
+        "neighborhood": "Civic Center"
+      },
+      {
+        "address": "201 Berry St, San Francisco, CA 94158",
+        "lat": 37.775535,
+        "lng": -122.3934211,
+        "neighborhood": "Berry"
+      },
+      {
+        "address": "1775 17th St, San Francisco, CA 94103",
+        "lat": 37.7648653,
+        "lng": -122.4014036,
+        "neighborhood": "Potrero"
+      },
+      {
+        "address": "1 Warriors Way 16th Street Office Tower #9, San Francisco, CA 94158",
+        "lat": 37.7681201,
+        "lng": -122.3878772,
+        "neighborhood": "Chase Center"
+      },
+      {
+        "address": "4298 24th St, San Francisco, CA 94114",
+        "lat": 37.7512643,
+        "lng": -122.4383005,
+        "neighborhood": "Noe Valley"
+      },
+      {
+        "address": "1110 Ocean Ave, San Francisco, CA 94112",
+        "lat": 37.7235232,
+        "lng": -122.4536143,
+        "neighborhood": "Ocean Ave"
+      },
+      {
+        "address": "549 Castro St, San Francisco, CA 94114",
+        "lat": 37.7601095,
+        "lng": -122.4346984,
+        "neighborhood": "Castro"
       }
     ]
   },

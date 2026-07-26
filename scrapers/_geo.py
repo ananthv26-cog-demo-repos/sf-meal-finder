@@ -40,6 +40,7 @@ KNOWN_COORDS = {
     "450 hayes st, san francisco, ca 94117": (37.7770310, -122.4238821),
     "3870 24th st, san francisco, ca 94114": (37.7517632, -122.4290685),
     "1 ferry bldg. (across from sur la table), san francisco, ca 94111": (37.7955487, -122.3934746),
+    "pier 39 bldg b-06, san francisco, ca 94133": (37.808673, -122.409821),
 }
 
 

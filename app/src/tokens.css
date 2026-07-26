@@ -1,7 +1,7 @@
 :root {
   --font-sans: Inter, system-ui, sans-serif;
   --fs-xs: 11px;
-  --fs-sm: 12.5px;
+  --fs-sm: 12px;
   --fs-md: 14px;
   --fs-lg: 16px;
   --fs-xl: 20px;
@@ -13,18 +13,20 @@
   --sp-3: 12px;
   --sp-4: 16px;
   --sp-5: 24px;
+  --sp-6: 32px;
   --r-1: 4px;
   --r-2: 8px;
-  --bg: #fafafa;
-  --surface: #fff;
-  --border: #e4e4e7;
-  --text: #18181b;
-  --text-secondary: #71717a;
-  --accent: #2563eb;
-  --protein: #047857;
-  --estimate: #b45309;
-  --danger: #b91c1c;
-  --selection: #eff6ff;
-  --estimate-bg: #fffbeb;
-  --chip-bg: #f4f4f5;
+  --bg: #f5f3ef;
+  --surface: #fbfaf8;
+  --border: #dedbd4;
+  --text: #252522;
+  --text-secondary: #77746d;
+  --accent: #5f6b62;
+  --protein: #3f6655;
+  --estimate: #9a6a2a;
+  --danger: #9a5147;
+  --selection: #e9ece7;
+  --control-bg: #f8f6f2;
+  --results-grid: minmax(220px, 1fr) 64px 76px 64px 52px;
+  --input-width: 74px;
 }

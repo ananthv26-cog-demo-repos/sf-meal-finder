@@ -1,0 +1,25 @@
+[
+  {
+    "item": {
+      "id": "36-salami-cheese-croissant",
+      "name": "36 Salami & Cheese Croissant",
+      "description": null,
+      "category": "meal",
+      "calories": 1100.0,
+      "protein_g": 25.0,
+      "carbs_g": 50.0,
+      "fat_g": 62.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1660.0,
+      "serving_note": "per menu item",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://leesandwiches.com/menu/36-salami-cheese-croissant"
+      }
+    },
+    "reasons": [
+      "lees-sandwiches/36-salami-cheese-croissant: macro check failed — stated 1100.0 kcal vs computed 858 (delta -242)"
+    ]
+  }
+]

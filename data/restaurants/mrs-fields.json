@@ -1,0 +1,93 @@
+{
+  "id": "mrs-fields",
+  "name": "Mrs. Fields",
+  "website": "https://www.mrsfields.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://www.mrsfields.com/pages/nutrition-information",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "Pier 39 Bldg B-06, San Francisco, CA 94133",
+      "lat": 37.808673,
+      "lng": -122.409821,
+      "neighborhood": "Fisherman's Wharf"
+    }
+  ],
+  "items": [
+    {
+      "id": "chocolate-covered-pretzels-4oz-bag",
+      "name": "Chocolate Covered Pretzels 4oz Bag",
+      "description": null,
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 55.0,
+      "serving_note": "per package serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mrsfields.com/pages/nutrition-details-other"
+      }
+    },
+    {
+      "id": "kettle-corn-2oz-bag",
+      "name": "Kettle Corn 2oz Bag",
+      "description": null,
+      "category": "side",
+      "calories": 190.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 8.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 80.0,
+      "serving_note": "per package serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mrsfields.com/pages/nutrition-details-other"
+      }
+    },
+    {
+      "id": "yogurt-covered-almonds-2oz-bag",
+      "name": "Yogurt Covered Almonds 2oz Bag",
+      "description": null,
+      "category": "side",
+      "calories": 220.0,
+      "protein_g": 4.0,
+      "carbs_g": 21.0,
+      "fat_g": 14.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per package serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mrsfields.com/pages/nutrition-details-other"
+      }
+    },
+    {
+      "id": "yogurt-pretzels-4oz-bags",
+      "name": "Yogurt Pretzels 4oz Bags",
+      "description": null,
+      "category": "side",
+      "calories": 200.0,
+      "protein_g": 3.0,
+      "carbs_g": 28.0,
+      "fat_g": 7.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 190.0,
+      "serving_note": "per package serving",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://www.mrsfields.com/pages/nutrition-details-other"
+      }
+    }
+  ]
+}

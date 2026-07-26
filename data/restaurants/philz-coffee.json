@@ -1,0 +1,1293 @@
+{
+  "id": "philz-coffee",
+  "name": "Philz Coffee",
+  "website": "https://philzcoffee.com",
+  "nutrition_source": {
+    "type": "published",
+    "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf",
+    "vendor": null,
+    "retrieved": "2026-07-26"
+  },
+  "locations": [
+    {
+      "address": "5 Embarcadero Center, San Francisco, CA 94111",
+      "lat": 37.7942169,
+      "lng": -122.3956663,
+      "neighborhood": "Embarcadero"
+    },
+    {
+      "address": "2234 Polk St, San Francisco, CA 94109",
+      "lat": 37.7974313,
+      "lng": -122.4218249,
+      "neighborhood": "Russian Hill"
+    },
+    {
+      "address": "1 Front St Suite 100, San Francisco, CA 94111",
+      "lat": 37.7918198,
+      "lng": -122.3989854,
+      "neighborhood": "Front St"
+    },
+    {
+      "address": "300 Folsom St, San Francisco, CA 94105",
+      "lat": 37.7887502,
+      "lng": -122.3932158,
+      "neighborhood": "Folsom & Beale"
+    },
+    {
+      "address": "425 Mission Street Suite 100, San Francisco CA 94105",
+      "lat": 37.78801,
+      "lng": -122.39871,
+      "neighborhood": "Second Street"
+    },
+    {
+      "address": "399 Golden Gate Ave, San Francisco, CA 94102",
+      "lat": 37.7813147,
+      "lng": -122.4165902,
+      "neighborhood": "Civic Center"
+    },
+    {
+      "address": "201 Berry St, San Francisco, CA 94158",
+      "lat": 37.775535,
+      "lng": -122.3934211,
+      "neighborhood": "Berry"
+    },
+    {
+      "address": "1775 17th St, San Francisco, CA 94103",
+      "lat": 37.7648653,
+      "lng": -122.4014036,
+      "neighborhood": "Potrero"
+    },
+    {
+      "address": "1 Warriors Way 16th Street Office Tower #9, San Francisco, CA 94158",
+      "lat": 37.7681201,
+      "lng": -122.3878772,
+      "neighborhood": "Chase Center"
+    },
+    {
+      "address": "4298 24th St, San Francisco, CA 94114",
+      "lat": 37.7512643,
+      "lng": -122.4383005,
+      "neighborhood": "Noe Valley"
+    },
+    {
+      "address": "1110 Ocean Ave, San Francisco, CA 94112",
+      "lat": 37.7235232,
+      "lng": -122.4536143,
+      "neighborhood": "Ocean Ave"
+    },
+    {
+      "address": "549 Castro St, San Francisco, CA 94114",
+      "lat": 37.7601095,
+      "lng": -122.4346984,
+      "neighborhood": "Castro"
+    }
+  ],
+  "items": [
+    {
+      "id": "hot-or-iced-coffee-incl-cold-brew-black-12oz",
+      "name": "Hot or Iced Coffee (incl. Cold Brew) (black) (12 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 5.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-sweet-creamy-12oz",
+      "name": "Hot or Iced Coffee (sweet & creamy) (12 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 21.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-with-oat-milk-sweet-creamy-oat-milk-12oz",
+      "name": "Hot or Iced Coffee with oat milk (sweet & creamy oat milk) (12 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 28.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 55.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-with-almond-milk-sweet-creamy-almond-milk-12oz",
+      "name": "Hot or Iced Coffee with almond milk (sweet & creamy almond milk) (12 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 110.0,
+      "protein_g": 0.5,
+      "carbs_g": 24.0,
+      "fat_g": 2.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "mint-mojito-sweet-creamy-12oz",
+      "name": "Mint Mojito (sweet & creamy) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 22.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-coffee-rose-sweet-creamy-12oz",
+      "name": "Iced Coffee Rose (sweet & creamy) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 0.5,
+      "carbs_g": 27.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-coffee-rose-with-oat-milk-sweet-creamy-oat-milk-12oz",
+      "name": "Iced Coffee Rose with oat milk (sweet & creamy oat milk) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.5,
+      "carbs_g": 27.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "gingersnap-sweet-creamy-12oz",
+      "name": "Gingersnap (sweet & creamy) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 22.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "honey-haze-sweet-honey-creamy-oat-milk-12oz",
+      "name": "Honey Haze (sweet honey & creamy oat milk) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.5,
+      "carbs_g": 37.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 50.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "mocha-tesora-no-added-sugar-standard-cream-12oz",
+      "name": "Mocha Tesora (no added sugar & standard cream) (12 oz)",
+      "description": "Specialty Drinks — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 270.0,
+      "protein_g": 3.0,
+      "carbs_g": 19.0,
+      "fat_g": 21.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 27.5,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "mocha-tesora-sweet-standard-cream-12oz",
+      "name": "Mocha Tesora (sweet & standard cream) (12 oz)",
+      "description": "Specialty Drinks — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 325.0,
+      "protein_g": 3.0,
+      "carbs_g": 34.0,
+      "fat_g": 21.5,
+      "fiber_g": 2.0,
+      "sodium_mg": 32.5,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-hot-chocolate-no-added-sugar-standard-cream-12oz",
+      "name": "Philz Hot Chocolate (no added sugar & standard cream) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 3.0,
+      "carbs_g": 25.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-hot-chocolate-sweet-standard-cream-12oz",
+      "name": "Philz Hot Chocolate (sweet & standard cream) (12 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 3.0,
+      "carbs_g": 40.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 30.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-tea-incl-philz-iced-tea-12oz",
+      "name": "Hot or Iced Tea (incl. Philz Iced Tea) (12 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.0,
+      "carbs_g": 1.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "tea-sweet-creamy-12oz",
+      "name": "Tea (sweet & creamy) (12 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 2.0,
+      "carbs_g": 25.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-iced-tea-sweet-creamy-12oz",
+      "name": "Philz Iced Tea (sweet & creamy) (12 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 2.0,
+      "carbs_g": 25.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "fresh-chai-sweet-standard-cream-12oz",
+      "name": "Fresh Chai (sweet & standard cream) (12 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 1.0,
+      "carbs_g": 26.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 40.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/12-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-incl-cold-brew-black-16oz",
+      "name": "Hot or Iced Coffee (incl. Cold Brew) (black) (16 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 0.0,
+      "protein_g": 0.5,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-sweet-creamy-16oz",
+      "name": "Hot or Iced Coffee (sweet & creamy) (16 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 21.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-with-oat-milk-sweet-creamy-oat-milk-16oz",
+      "name": "Hot or Iced Coffee with oat milk (sweet & creamy oat milk) (16 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 28.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 55.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-with-almond-milk-sweet-creamy-almond-milk-16oz",
+      "name": "Hot or Iced Coffee with almond milk (sweet & creamy almond milk) (16 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 117.0,
+      "protein_g": 1.0,
+      "carbs_g": 25.0,
+      "fat_g": 2.4,
+      "fiber_g": 1.6,
+      "sodium_mg": 73.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "mint-mojito-sweet-creamy-16oz",
+      "name": "Mint Mojito (sweet & creamy) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 22.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-coffee-rose-sweet-creamy-16oz",
+      "name": "Iced Coffee Rose (sweet & creamy) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 320.0,
+      "protein_g": 2.0,
+      "carbs_g": 28.0,
+      "fat_g": 23.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-coffee-rose-with-oat-milk-sweet-creamy-oat-milk-16oz",
+      "name": "Iced Coffee Rose with oat milk (sweet & creamy oat milk) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 130.0,
+      "protein_g": 0.5,
+      "carbs_g": 27.0,
+      "fat_g": 2.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "gingersnap-sweet-creamy-16oz",
+      "name": "Gingersnap (sweet & creamy) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 2.0,
+      "carbs_g": 22.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "honey-haze-sweet-honey-creamy-oat-milk-16oz",
+      "name": "Honey Haze (sweet honey & creamy oat milk) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.5,
+      "carbs_g": 37.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 50.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "mocha-tesora-no-added-sugar-standard-cream-16oz",
+      "name": "Mocha Tesora (no added sugar & standard cream) (16 oz)",
+      "description": "Specialty Drinks — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 3.5,
+      "carbs_g": 25.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 32.5,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "mocha-tesora-sweet-standard-cream-16oz",
+      "name": "Mocha Tesora (sweet & standard cream) (16 oz)",
+      "description": "Specialty Drinks — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 350.0,
+      "protein_g": 3.5,
+      "carbs_g": 40.0,
+      "fat_g": 22.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 32.5,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-hot-chocolate-no-added-sugar-standard-cream-16oz",
+      "name": "Philz Hot Chocolate (no added sugar & standard cream) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 330.0,
+      "protein_g": 4.0,
+      "carbs_g": 31.0,
+      "fat_g": 24.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 25.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-hot-chocolate-sweet-standard-cream-16oz",
+      "name": "Philz Hot Chocolate (sweet & standard cream) (16 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 450.0,
+      "protein_g": 4.0,
+      "carbs_g": 46.0,
+      "fat_g": 31.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-tea-incl-philz-iced-tea-16oz",
+      "name": "Hot or Iced Tea (incl. Philz Iced Tea) (16 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "tea-sweet-creamy-16oz",
+      "name": "Tea (sweet & creamy) (16 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-iced-tea-sweet-creamy-16oz",
+      "name": "Philz Iced Tea (sweet & creamy) (16 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 2.0,
+      "carbs_g": 25.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "fresh-chai-sweet-standard-cream-16oz",
+      "name": "Fresh Chai (sweet & standard cream) (16 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 1.0,
+      "carbs_g": 26.0,
+      "fat_g": 21.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 45.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-matcha-medium-sweet-16oz",
+      "name": "Iced Matcha Medium Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 2.0,
+      "carbs_g": 45.0,
+      "fat_g": 10.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "strawberry-matcha-sweet-16oz",
+      "name": "Strawberry Matcha Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 450.0,
+      "protein_g": 1.0,
+      "carbs_g": 95.0,
+      "fat_g": 8.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "strawberry-mint-matcha-sweet-16oz",
+      "name": "Strawberry Mint Matcha Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 440.0,
+      "protein_g": 2.0,
+      "carbs_g": 94.0,
+      "fat_g": 8.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 130.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "salted-caramel-matcha-sweet-16oz",
+      "name": "Salted Caramel Matcha Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 460.0,
+      "protein_g": 4.0,
+      "carbs_g": 95.0,
+      "fat_g": 10.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 500.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/16-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-incl-cold-brew-black-20oz",
+      "name": "Hot or Iced Coffee (incl. Cold Brew) (black) (20 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 5.0,
+      "protein_g": 0.5,
+      "carbs_g": 0.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-sweet-creamy-20oz",
+      "name": "Hot or Iced Coffee (sweet & creamy) (20 oz)",
+      "description": "Blends — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 365.0,
+      "protein_g": 2.5,
+      "carbs_g": 21.5,
+      "fat_g": 31.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-with-oat-milk-sweet-creamy-oat-milk-20oz",
+      "name": "Hot or Iced Coffee with oat milk (sweet & creamy oat milk) (20 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 1.0,
+      "carbs_g": 28.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-coffee-with-almond-milk-sweet-creamy-almond-milk-20oz",
+      "name": "Hot or Iced Coffee with almond milk (sweet & creamy almond milk) (20 oz)",
+      "description": "Blends",
+      "category": "drink",
+      "calories": 121.0,
+      "protein_g": 1.0,
+      "carbs_g": 25.0,
+      "fat_g": 3.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 81.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "mint-mojito-sweet-creamy-20oz",
+      "name": "Mint Mojito (sweet & creamy) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 2.0,
+      "carbs_g": 31.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 45.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-coffee-rose-sweet-creamy-20oz",
+      "name": "Iced Coffee Rose (sweet & creamy) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 2.0,
+      "carbs_g": 40.0,
+      "fat_g": 28.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "iced-coffee-rose-with-oat-milk-sweet-creamy-oat-milk-20oz",
+      "name": "Iced Coffee Rose with oat milk (sweet & creamy oat milk) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 180.0,
+      "protein_g": 0.5,
+      "carbs_g": 39.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 60.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "gingersnap-sweet-creamy-20oz",
+      "name": "Gingersnap (sweet & creamy) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 370.0,
+      "protein_g": 2.0,
+      "carbs_g": 32.0,
+      "fat_g": 27.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 45.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "honey-haze-sweet-honey-creamy-oat-milk-20oz",
+      "name": "Honey Haze (sweet honey & creamy oat milk) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 170.0,
+      "protein_g": 0.5,
+      "carbs_g": 37.0,
+      "fat_g": 3.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 50.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "mocha-tesora-no-added-sugar-standard-cream-20oz",
+      "name": "Mocha Tesora (no added sugar & standard cream) (20 oz)",
+      "description": "Specialty Drinks — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 4.5,
+      "carbs_g": 31.5,
+      "fat_g": 26.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 37.5,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "mocha-tesora-sweet-standard-cream-20oz",
+      "name": "Mocha Tesora (sweet & standard cream) (20 oz)",
+      "description": "Specialty Drinks — Philz publishes a per-store range for this drink; midpoint of the published range used",
+      "category": "drink",
+      "calories": 415.0,
+      "protein_g": 4.5,
+      "carbs_g": 45.5,
+      "fat_g": 26.5,
+      "fiber_g": 4.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": true,
+      "source": {
+        "type": "derived",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-hot-chocolate-no-added-sugar-standard-cream-20oz",
+      "name": "Philz Hot Chocolate (no added sugar & standard cream) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 420.0,
+      "protein_g": 5.0,
+      "carbs_g": 38.0,
+      "fat_g": 31.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-hot-chocolate-sweet-standard-cream-20oz",
+      "name": "Philz Hot Chocolate (sweet & standard cream) (20 oz)",
+      "description": "Specialty Drinks",
+      "category": "drink",
+      "calories": 480.0,
+      "protein_g": 5.0,
+      "carbs_g": 52.0,
+      "fat_g": 31.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 40.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "hot-or-iced-tea-incl-philz-iced-tea-20oz",
+      "name": "Hot or Iced Tea (incl. Philz Iced Tea) (20 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 10.0,
+      "protein_g": 0.0,
+      "carbs_g": 2.0,
+      "fat_g": 0.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "tea-sweet-creamy-20oz",
+      "name": "Tea (sweet & creamy) (20 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 2.0,
+      "carbs_g": 27.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 50.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "philz-iced-tea-sweet-creamy-20oz",
+      "name": "Philz Iced Tea (sweet & creamy) (20 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 410.0,
+      "protein_g": 2.0,
+      "carbs_g": 26.0,
+      "fat_g": 35.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 45.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "fresh-chai-sweet-standard-cream-20oz",
+      "name": "Fresh Chai (sweet & standard cream) (20 oz)",
+      "description": "Teas",
+      "category": "drink",
+      "calories": 360.0,
+      "protein_g": 2.0,
+      "carbs_g": 27.0,
+      "fat_g": 28.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 55.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/20-oz.pdf"
+      }
+    },
+    {
+      "id": "campfire-s-mores-light-cream-and-light-sweet-12oz",
+      "name": "Campfire S'mores Light Cream and Light Sweet (12 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 290.0,
+      "protein_g": 0.0,
+      "carbs_g": 34.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 20.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "campfire-s-mores-medium-cream-and-medium-sweet-16oz",
+      "name": "Campfire S'mores Medium Cream and Medium Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 340.0,
+      "protein_g": 0.0,
+      "carbs_g": 47.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 25.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "campfire-s-mores-creamy-and-sweet-20oz",
+      "name": "Campfire S'mores Creamy and Sweet (20 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 390.0,
+      "protein_g": 0.0,
+      "carbs_g": 60.0,
+      "fat_g": 18.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 25.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-cup-light-cream-and-light-sweet-12oz",
+      "name": "Peanut Butter Cup Light Cream and Light Sweet (12 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 250.0,
+      "protein_g": 1.0,
+      "carbs_g": 42.0,
+      "fat_g": 10.0,
+      "fiber_g": 0.0,
+      "sodium_mg": 160.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-cup-medium-cream-and-medium-sweet-16oz",
+      "name": "Peanut Butter Cup Medium Cream and Medium Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 510.0,
+      "protein_g": 1.0,
+      "carbs_g": 70.0,
+      "fat_g": 28.0,
+      "fiber_g": 0.5,
+      "sodium_mg": 230.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "peanut-butter-cup-creamy-and-sweet-20oz",
+      "name": "Peanut Butter Cup Creamy and Sweet (20 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 600.0,
+      "protein_g": 1.0,
+      "carbs_g": 94.0,
+      "fat_g": 28.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 290.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "sweet-harmony-light-cream-and-light-sweet-12oz",
+      "name": "Sweet Harmony Light Cream and Light Sweet (12 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 100.0,
+      "protein_g": 2.0,
+      "carbs_g": 25.0,
+      "fat_g": 1.5,
+      "fiber_g": 10.0,
+      "sodium_mg": 35.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "sweet-harmony-medium-cream-and-medium-sweet-16oz",
+      "name": "Sweet Harmony Medium Cream and Medium Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 240.0,
+      "protein_g": 2.0,
+      "carbs_g": 53.0,
+      "fat_g": 4.5,
+      "fiber_g": 12.0,
+      "sodium_mg": 85.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "sweet-harmony-creamy-and-sweet-20oz",
+      "name": "Sweet Harmony Creamy and Sweet (20 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 280.0,
+      "protein_g": 2.0,
+      "carbs_g": 62.0,
+      "fat_g": 4.5,
+      "fiber_g": 12.0,
+      "sodium_mg": 90.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "raspberry-mint-iced-tea-light-sweet-12oz",
+      "name": "Raspberry Mint Iced Tea Light Sweet (12 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 140.0,
+      "protein_g": 0.0,
+      "carbs_g": 33.0,
+      "fat_g": 0.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 10.0,
+      "serving_note": "per 12 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "raspberry-mint-iced-tea-medium-sweet-16oz",
+      "name": "Raspberry Mint Iced Tea Medium Sweet (16 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 220.0,
+      "protein_g": 0.0,
+      "carbs_g": 53.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 15.0,
+      "serving_note": "per 16 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    },
+    {
+      "id": "raspberry-mint-iced-tea-sweet-20oz",
+      "name": "Raspberry Mint Iced Tea Sweet (20 oz)",
+      "description": "Lto Specialty Drink",
+      "category": "drink",
+      "calories": 300.0,
+      "protein_g": 0.0,
+      "carbs_g": 74.0,
+      "fat_g": 0.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 20.0,
+      "serving_note": "per 20 oz cup, standard build",
+      "is_estimate": false,
+      "source": {
+        "type": "published",
+        "url": "https://cdn.philz.us/nutritional-info/drinks/Limited-Time-Offerings.pdf"
+      }
+    }
+  ]
+}
