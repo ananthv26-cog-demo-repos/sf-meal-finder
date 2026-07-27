@@ -1,4 +1,4 @@
-# SF Meal Finder
+# Devin Eats
 
 Find meals in San Francisco by calorie range and protein minimum, with a map of
 every place that serves them. The point is trustworthy numbers and real local
