@@ -2,6 +2,7 @@ import type { Filters, SortDirection, SortKey } from './types'
 
 export const CALORIE_MAX = 2000
 export const CALORIE_STEP = 10
+export const PROTEIN_MAX = 500
 export const defaultFilters: Filters = { minCalories: '0', maxCalories: String(CALORIE_MAX), minProtein: '0', unofficial: false, search: '' }
 export const sortKeys: SortKey[] = ['name', 'calories', 'protein_g', 'protein_pct', 'carbs_g', 'fat_g']
 export function isSortKey(value: string | null): value is SortKey { return value !== null && sortKeys.some((key) => key === value) }
@@ -15,11 +16,11 @@ export function readUrlState() {
   }
   const sortParam = params.get('sort')
   const sortKey: SortKey = isSortKey(sortParam) ? sortParam : 'protein_g'
-  const sortDirection: SortDirection = params.get('dir') === 'asc' ? 'asc' : 'desc'
+  const sortDirection: SortDirection = (sortParam === null || isSortKey(sortParam)) && params.get('dir') === 'asc' ? 'asc' : 'desc'
   const filters: Filters = {
     minCalories: readNumber('min', defaultFilters.minCalories, CALORIE_MAX),
     maxCalories: readNumber('max', defaultFilters.maxCalories, CALORIE_MAX),
-    minProtein: readNumber('protein', defaultFilters.minProtein),
+    minProtein: readNumber('protein', defaultFilters.minProtein, PROTEIN_MAX),
     unofficial: params.get('est') === '1',
     search: params.get('q') ?? defaultFilters.search,
   }

@@ -90,6 +90,8 @@ def validate_item(item, restaurant_id):
     for f in ("calories", "protein_g", "carbs_g", "fat_g"):
         if float(item[f]) < 0:
             errors.append(f"{ctx}: negative {f}")
+    if all(float(item[f]) == 0 for f in ("calories", "protein_g", "carbs_g", "fat_g")):
+        errors.append(f"{ctx}: all-zero nutrition — missing data, not a real panel")
     for f in ("fiber_g", "sodium_mg"):
         if item.get(f) is not None and float(item[f]) < 0:
             errors.append(f"{ctx}: negative {f}")

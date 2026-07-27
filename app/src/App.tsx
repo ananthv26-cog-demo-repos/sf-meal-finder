@@ -8,7 +8,7 @@ import { ResultsPanel } from './components/ResultsPanel'
 import { parseFilterValue, sortValue } from './format'
 import { isEligibleResult } from './types'
 import type { Meal, Restaurant, SortDirection, SortKey } from './types'
-import { readUrlState, replaceUrlState } from './urlState'
+import { CALORIE_MAX, defaultFilters, readUrlState, replaceUrlState } from './urlState'
 
 function App() {
   const [restaurants, setRestaurants] = useState<Restaurant[]>([])
@@ -18,6 +18,7 @@ function App() {
   const [initialState] = useState(readUrlState)
   const [filters, setFilters] = useState(initialState.filters)
   const [selectedRestaurant, setSelectedRestaurant] = useState<string | null>(null)
+  const [selectedMealKey, setSelectedMealKey] = useState<string | null>(null)
   const [sortKey, setSortKey] = useState<SortKey>(initialState.sortKey)
   const [sortDirection, setSortDirection] = useState<SortDirection>(initialState.sortDirection)
 
@@ -35,7 +36,8 @@ function App() {
   const filteredMeals = useMemo(() => {
     const query = filters.search.trim().toLowerCase()
     const minCalories = parseFilterValue(filters.minCalories, 0, 0)
-    const maxCalories = parseFilterValue(filters.maxCalories, Number.POSITIVE_INFINITY, Number.POSITIVE_INFINITY)
+    const maxCaloriesRaw = parseFilterValue(filters.maxCalories, Number.POSITIVE_INFINITY, Number.POSITIVE_INFINITY)
+    const maxCalories = maxCaloriesRaw >= CALORIE_MAX ? Number.POSITIVE_INFINITY : maxCaloriesRaw
     const minProtein = parseFilterValue(filters.minProtein, 0, 0)
     return meals.filter((meal) => {
       if (!isEligibleResult(meal) || meal.calories < minCalories || meal.calories > maxCalories || meal.protein_g < minProtein || (!filters.unofficial && meal.is_estimate)) return false
@@ -58,6 +60,11 @@ function App() {
     return new Set([...estimated].filter((restaurantId) => !published.has(restaurantId)))
   }, [meals])
 
+  const selectMeal = (meal: Meal) => {
+    setSelectedMealKey(`${meal.restaurant_id}-${meal.id}`)
+    setSelectedRestaurant(meal.restaurant_id)
+  }
+  const resetFilters = () => setFilters(defaultFilters)
   const updateSort = (key: SortKey) => {
     if (key === sortKey) {
       setSortDirection((current) => current === 'asc' ? 'desc' : 'asc')
@@ -73,7 +80,7 @@ function App() {
   return <main className="app-shell">
     <FilterBar filters={filters} setFilters={setFilters} visibleRestaurantCount={visibleRestaurantIds.size} filteredMealCount={filteredMeals.length} loading={loading} />
     <section className="workspace">
-      <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalEligibleMeals={totalEligibleMeals} selectedRestaurant={selectedRestaurant} onSelectRestaurant={setSelectedRestaurant} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} loading={loading} error={error} />
+      <ResultsPanel filteredMeals={filteredMeals} restaurantById={restaurantById} restaurantsCount={restaurants.length} totalEligibleMeals={totalEligibleMeals} selectedMealKey={selectedMealKey} onSelectMeal={selectMeal} onResetFilters={resetFilters} sortKey={sortKey} sortDirection={sortDirection} onSort={updateSort} loading={loading} error={error} />
       <MapPanel restaurants={restaurants} restaurantById={restaurantById} selectedRestaurant={selectedRestaurant} visibleRestaurantIds={visibleRestaurantIds} estimateRestaurantIds={estimateRestaurantIds} />
     </section>
   </main>
