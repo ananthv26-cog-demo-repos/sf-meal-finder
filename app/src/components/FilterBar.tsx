@@ -42,7 +42,7 @@ export function FilterBar({ filters, setFilters, visibleRestaurantCount, filtere
       </>}
     </div>
     <div className="range-field strip-cell">
-      <div className="range-heading"><span className="field-label">Calories</span><output className="range-value">{filters.minCalories}–{filters.maxCalories} kcal</output></div>
+      <div className="range-heading"><span className="field-label">Calories</span><output className="range-value">{filters.minCalories}–{filters.maxCalories}{Number(filters.maxCalories) >= CALORIE_MAX ? '+' : ''} kcal</output></div>
       <div className="range-slider"><div className="range-track" /><div className="range-fill" style={{ left: `calc(${Number(filters.minCalories) / CALORIE_MAX} * (100% - var(--slider-thumb)) + var(--slider-thumb) / 2)`, right: `calc(${1 - Number(filters.maxCalories) / CALORIE_MAX} * (100% - var(--slider-thumb)) + var(--slider-thumb) / 2)` }} />
         <input aria-label="Minimum calories" className={`range-input range-min ${Number(filters.maxCalories) - Number(filters.minCalories) <= CALORIE_STEP && Number(filters.maxCalories) > CALORIE_MAX / 2 ? 'range-min-front' : ''}`} type="range" min="0" max={CALORIE_MAX} step={CALORIE_STEP} value={filters.minCalories} onChange={(event) => updateCaloriesRange('minCalories', event.target.value)} />
         <input aria-label="Maximum calories" className="range-input range-max" type="range" min="0" max={CALORIE_MAX} step={CALORIE_STEP} value={filters.maxCalories} onChange={(event) => updateCaloriesRange('maxCalories', event.target.value)} />

@@ -440,6 +440,27 @@ input[type="number"]:focus,
   color: var(--text-secondary);
   font-size: var(--fs-lg);
   padding: var(--sp-6) var(--sp-5);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--sp-3);
+}
+.empty p {
+  margin: 0;
+}
+.reset-filters {
+  background: none;
+  border: 1px solid var(--line-strong, var(--line));
+  border-radius: 2px;
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-size: var(--fs-sm);
+  padding: var(--sp-2) var(--sp-3);
+}
+.reset-filters:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 .results-footer {
   border-top: 1px solid var(--line);
